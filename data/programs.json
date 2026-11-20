@@ -3365,7 +3365,7 @@
     "programmeAliases": [
       "Harvard University"
     ],
-    "rosterUrl": "https://psychology.fas.harvard.edu/sites/g/files/omnuum9601/files/2025-09/CLINICAL%20PSYCHOLOGY%20HANDBOOK%20September%2025%202025.pdf#page=4",
+    "rosterUrl": "https://psychology.fas.harvard.edu/clinical-psychology",
     "rosterReview": "pending",
     "directoryHistory": [
       {
@@ -3384,14 +3384,27 @@
       }
     ],
     "currentRosterReview": {
-      "status": "complete",
+      "status": "partial",
       "asOf": "2026-11-19",
-      "scope": "Core faculty in the clinical training handbook, restricted to ladder and research-track appointments.",
+      "scope": "Harvard’s Clinical Science faculty page and the clinical training handbook were reconciled. Buckner’s core clinical appointment remains unconfirmed.",
       "roleDecisions": [
         {
+          "name": "Randy L. Buckner",
+          "label": "Core appointment under review",
+          "reason": "Harvard’s Clinical Science page lists Buckner. The clinical training handbook lists him as department chair and leaves him off its core faculty roster. Publication credit is pending confirmation of a core clinical appointment.",
+          "source": "https://psychology.fas.harvard.edu/people/randy-l-buckner"
+        },
+        {
           "name": "Rebecca Shingleton",
-          "reason": "Associate senior lecturer, non-ladder faculty.",
+          "label": "Associate senior lecturer",
+          "reason": "Harvard’s handbook lists Shingleton as core faculty. The department classifies her appointment as non-ladder. The index limits publication credit to tenure-track and research-track faculty.",
           "source": "https://psychology.fas.harvard.edu/people/rebecca-shingleton-0"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Clinical Psychology Handbook, p. 4",
+          "url": "https://psychology.fas.harvard.edu/sites/g/files/omnuum9601/files/2025-09/CLINICAL%20PSYCHOLOGY%20HANDBOOK%20September%2025%202025.pdf#page=4"
         }
       ]
     }

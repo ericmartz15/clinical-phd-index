@@ -217,6 +217,7 @@ function initializeProgram() {
   $("program-badges").innerHTML = statusBadges(program);
   $("report-link").href = "report.html?id=" + encodeURIComponent(program.id);
   const links = [["Program source", program.programUrl], ["Faculty roster source", program.rosterUrl],
+    ...(program.currentRosterReview?.sources || []).map(({label, url}) => [label, url]),
     ["PhD track evidence", program.degreeSource],
     ...(program.directoryHistory || []).map(row => [row.directory + " historical listing (" + row.data.asOf.slice(0, 4) + ")", row.data.source]),
     ...Object.entries(program.statuses).map(([name, detail]) => [name + " · " + detail.label, detail.source])];
@@ -235,6 +236,17 @@ function initializeProgram() {
       <ol class="publication-list">${works.map(work => `<li><a href="${escapeHtml(publicationUrl(work))}">${escapeHtml(work.title)}</a>
         <span>${escapeHtml(work.date)} · ${escapeHtml(work.venue)}${work.kind === "preprint" ? " · Preprint" : ""}</span>
         <span>${work.credit.some(c => c.person === person.id && c.program === key) ? "Eligible appointment matched" : "Program attribution pending or ineligible"} · ${work.provenance.map(p => `<a href="${escapeHtml(p.url)}">${escapeHtml(p.source)}</a>`).join(", ")}</span></li>`).join("")}</ol>`;
+    people.append(section);
+  }
+  const otherFaculty = (program.currentRosterReview?.roleDecisions || []).filter(person => person.label);
+  if (otherFaculty.length) {
+    const section = document.createElement("section");
+    section.innerHTML = `<h3>Also listed by the program</h3>` + otherFaculty.map(person => `
+      <details>
+        <summary>${escapeHtml(person.name)} <span class="location">${escapeHtml(person.label)}</span></summary>
+        <p>${escapeHtml(person.reason)}</p>
+        <p><a href="${escapeHtml(person.source)}">Official faculty profile ↗</a></p>
+      </details>`).join("");
     people.append(section);
   }
 }
