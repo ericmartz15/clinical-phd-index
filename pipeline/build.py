@@ -208,6 +208,7 @@ def diagnostic_check(works, reference):
         rows.append(dict(paper, matched=found, matchedDoi=work["doi"] if found else None,
                          diagnosis=None if found else "Review database indexing, title variants, and author profile splits"))
     return dict(person=reference["person"], scope=reference["scope"], source=reference["source"],
+                window=reference.get("window"), excluded=reference.get("excluded", []),
                 iterations=reference.get("iterations", []),
                 matches=sum(row["matched"] for row in rows), denominator=len(rows), rows=rows)
 

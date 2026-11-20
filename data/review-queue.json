@@ -13,6 +13,69 @@
       "splitReview": true
     },
     {
+      "pid": "mark-chen",
+      "ids": [
+        "A5071692667"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree",
+        "Eleven bylines in the official lab bibliography were linked to five other OpenAlex author IDs. DOI-specific corrections verified using publisher bylines."
+      ],
+      "candidates": [
+        {
+          "id": "A5071692667",
+          "name": "Shuquan Chen",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5018263077",
+          "name": "Mark A. Chen",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5072105403",
+          "name": "Mark S. Chen",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5102820149",
+          "name": "Mark A. Chen",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5125394512",
+          "name": "Mark Shuquan Chen",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ],
+      "splitReview": true
+    },
+    {
       "pid": "arielle-baskin-sommers",
       "ids": [],
       "confidence": 0.8,
@@ -1224,6 +1287,51 @@
     }
   ],
   "attribution": [
+    {
+      "person": "mark-chen",
+      "doi": "10.1038/s41598-026-47441-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1037/abn0001108",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.jad.2026.121501",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1007/s10964-026-02366-1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.chiabu.2023.106543",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1037/sgd0000834",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.3389/fpsyt.2025.1678555",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1159/000549173",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1037/abn0000883",
+      "issue": "Eligible appointment at publication unverified"
+    },
     {
       "person": "shirley-wang",
       "doi": "10.1037/pas0000819",

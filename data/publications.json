@@ -77,6 +77,774 @@
     ]
   },
   {
+    "title": "A prompt-based tutorial for large language model–assisted screening in systematic reviews and meta-analyses",
+    "doi": "10.1017/s0266462326104073",
+    "date": "2026-08-03",
+    "kind": "journal",
+    "venue": "International Journal of Technology Assessment in Health Care",
+    "authorCount": 4,
+    "pmcid": "",
+    "people": {
+      "mark-chen": {
+        "position": 3,
+        "affiliations": [
+          "Harvard University"
+        ],
+        "identityNote": "The lab bibliography and publisher byline corroborate Mark S. Chen for this DOI. OpenAlex indexed the byline under A5072105403.",
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "0266-4623",
+      "1471-6348"
+    ],
+    "topics": [
+      "Meta-analysis and systematic reviews",
+      "Artificial Intelligence in Healthcare and Education",
+      "Information Retrieval and Search Behavior"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-08-03",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2026-08-03",
+        "type": "published-online",
+        "source": "Crossref"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7172325417",
+        "url": "https://openalex.org/W7172325417"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1017/s0266462326104073",
+        "url": "https://doi.org/10.1017/s0266462326104073"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1017/s0266462326104073",
+        "url": "https://epiclab.fas.harvard.edu/all-publications"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Computational and digital mental health"
+    ],
+    "venueTier": "other",
+    "credit": [
+      {
+        "person": "mark-chen",
+        "program": "harvard",
+        "current": true,
+        "fractional": 0.25,
+        "weighted": 0.16666666666666666,
+        "appointmentSource": "https://psychology.fas.harvard.edu/sites/g/files/omnuum9601/files/2025-09/CLINICAL%20PSYCHOLOGY%20HANDBOOK%20September%2025%202025.pdf#page=4"
+      }
+    ]
+  },
+  {
+    "title": "From Stress to Strength: Temporal Links Between Emotion Regulation, Perceived Control, and Positive Affect",
+    "doi": "10.1007/s42761-026-00401-9",
+    "date": "2026-09-05",
+    "kind": "journal",
+    "venue": "Affective Science",
+    "authorCount": 6,
+    "pmcid": "13582672",
+    "people": {
+      "mark-chen": {
+        "position": 4,
+        "affiliations": [
+          "Yale University"
+        ],
+        "identityNote": "The lab bibliography and publisher byline corroborate Mark S. Chen for this DOI. OpenAlex indexed the byline under A5128701148.",
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "2662-2041",
+      "2662-205X"
+    ],
+    "topics": [
+      "Psychological Well-being and Life Satisfaction",
+      "Mental Health Research Topics",
+      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-09-01",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2026-09-05",
+        "type": "published-online",
+        "source": "Crossref"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7134969108",
+        "url": "https://openalex.org/W7134969108"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1007/s42761-026-00401-9",
+        "url": "https://doi.org/10.1007/s42761-026-00401-9"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1007/s42761-026-00401-9",
+        "url": "https://epiclab.fas.harvard.edu/all-publications"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Anxiety and CBT",
+      "Assessment",
+      "Mood and suicide"
+    ],
+    "venueTier": "other",
+    "credit": [
+      {
+        "person": "mark-chen",
+        "program": "harvard",
+        "current": true,
+        "fractional": 0.16666666666666666,
+        "weighted": 0.125,
+        "appointmentSource": "https://psychology.fas.harvard.edu/sites/g/files/omnuum9601/files/2025-09/CLINICAL%20PSYCHOLOGY%20HANDBOOK%20September%2025%202025.pdf#page=4"
+      }
+    ]
+  },
+  {
+    "title": "Task-based interpretation flexibility predicts real-world emotion regulation variability",
+    "doi": "10.1038/s41598-026-47441-6",
+    "date": "2026-04-07",
+    "kind": "journal",
+    "venue": "Scientific Reports",
+    "authorCount": 6,
+    "pmcid": "13061998",
+    "people": {
+      "mark-chen": {
+        "position": 3,
+        "affiliations": [
+          "Yale University"
+        ],
+        "identityNote": "The lab bibliography and publisher byline corroborate Mark S. Chen for this DOI. OpenAlex indexed the byline under A5125394512.",
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "2045-2322"
+    ],
+    "topics": [
+      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+      "Neural and Behavioral Psychology Studies",
+      "Child and Adolescent Psychosocial and Emotional Development"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-04-07",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2026-04-07",
+        "type": "published-online",
+        "source": "Crossref"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7151584456",
+        "url": "https://openalex.org/W7151584456"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1038/s41598-026-47441-6",
+        "url": "https://doi.org/10.1038/s41598-026-47441-6"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1038/s41598-026-47441-6",
+        "url": "https://epiclab.fas.harvard.edu/all-publications"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Child and adolescent",
+      "Anxiety and CBT",
+      "Assessment",
+      "Mood and suicide"
+    ],
+    "venueTier": "other",
+    "credit": []
+  },
+  {
+    "title": "Variability is not flexibility: Emotion regulation switching predicts increased momentary distress when context is stable.",
+    "doi": "10.1037/abn0001108",
+    "date": "2026-03-30",
+    "kind": "journal",
+    "venue": "Journal of Psychopathology and Clinical Science",
+    "authorCount": 5,
+    "pmcid": "",
+    "people": {
+      "mark-chen": {
+        "position": 1,
+        "affiliations": [
+          "Yale University"
+        ],
+        "identityNote": "The lab bibliography and publisher byline corroborate Mark S. Chen for this DOI. OpenAlex indexed the byline under A5125394512.",
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "2769-7541",
+      "2769-755X"
+    ],
+    "topics": [
+      "Mental Health Research Topics",
+      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+      "Child and Adolescent Psychosocial and Emotional Development"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-10-01",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2026-03-30",
+        "source": "PubMed",
+        "type": "online-first"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7143490709",
+        "url": "https://openalex.org/W7143490709"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1037/abn0001108",
+        "url": "https://doi.org/10.1037/abn0001108"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1037/abn0001108",
+        "url": "https://epiclab.fas.harvard.edu/all-publications"
+      },
+      {
+        "source": "PubMed",
+        "id": "41910550",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41910550/"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Child and adolescent",
+      "Anxiety and CBT",
+      "Assessment",
+      "Mood and suicide"
+    ],
+    "venueTier": "top",
+    "credit": []
+  },
+  {
+    "title": "Situational controllability moderates the link between cognitive reappraisal, but not problem solving, and momentary distress",
+    "doi": "10.1016/j.jad.2026.121501",
+    "date": "2026-02-23",
+    "kind": "journal",
+    "venue": "Journal of Affective Disorders",
+    "authorCount": 2,
+    "pmcid": "",
+    "people": {
+      "mark-chen": {
+        "position": 2,
+        "affiliations": [
+          "Yale University"
+        ],
+        "identityNote": "The lab bibliography and publisher byline corroborate Mark S. Chen for this DOI. OpenAlex indexed the byline under A5125394512.",
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "0165-0327",
+      "1573-2517"
+    ],
+    "topics": [
+      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+      "Mental Health Research Topics",
+      "Child and Adolescent Psychosocial and Emotional Development"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-02-23",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2026-02-23",
+        "source": "PubMed",
+        "type": "online-first"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7131125550",
+        "url": "https://openalex.org/W7131125550"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1016/j.jad.2026.121501",
+        "url": "https://doi.org/10.1016/j.jad.2026.121501"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1016/j.jad.2026.121501",
+        "url": "https://epiclab.fas.harvard.edu/all-publications"
+      },
+      {
+        "source": "PubMed",
+        "id": "41740758",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41740758/"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Child and adolescent",
+      "Anxiety and CBT",
+      "Assessment",
+      "Mood and suicide"
+    ],
+    "venueTier": "other",
+    "credit": []
+  },
+  {
+    "title": "When Negative Emotions Stick Together: Interconnectedness Explains How Emotion Regulation Strategies Shape Distress",
+    "doi": "10.1007/s10964-026-02366-1",
+    "date": "2026-05-30",
+    "kind": "journal",
+    "venue": "Journal of Youth and Adolescence",
+    "authorCount": 6,
+    "pmcid": "",
+    "people": {
+      "mark-chen": {
+        "position": 6,
+        "affiliations": [
+          "Yale University"
+        ],
+        "identityNote": "The lab bibliography and publisher byline corroborate Mark S. Chen for this DOI. OpenAlex indexed the byline under A5125394512.",
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "0047-2891",
+      "1573-6601"
+    ],
+    "topics": [
+      "Mental Health Research Topics",
+      "Child and Adolescent Psychosocial and Emotional Development",
+      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-05-30",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2026-05-30",
+        "type": "published-online",
+        "source": "Crossref"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7162875792",
+        "url": "https://openalex.org/W7162875792"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1007/s10964-026-02366-1",
+        "url": "https://doi.org/10.1007/s10964-026-02366-1"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1007/s10964-026-02366-1",
+        "url": "https://epiclab.fas.harvard.edu/all-publications"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Child and adolescent",
+      "Anxiety and CBT",
+      "Assessment",
+      "Mood and suicide"
+    ],
+    "venueTier": "other",
+    "credit": []
+  },
+  {
+    "title": "Longitudinal impacts of adverse childhood experiences on multidimensional health outcomes: Predicting trajectories in mental, physical, and behavioral health",
+    "doi": "10.1016/j.chiabu.2023.106543",
+    "date": "2023-11-18",
+    "kind": "journal",
+    "venue": "Child Abuse & Neglect",
+    "authorCount": 4,
+    "pmcid": "",
+    "people": {
+      "mark-chen": {
+        "position": 4,
+        "affiliations": [
+          "Columbia University"
+        ],
+        "identityNote": "The lab bibliography and publisher byline corroborate Mark S. Chen for this DOI. OpenAlex indexed the byline under A5104199686.",
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "0145-2134",
+      "1873-7757"
+    ],
+    "topics": [
+      "Child Abuse and Trauma",
+      "Child Welfare and Adoption",
+      "Child and Adolescent Psychosocial and Emotional Development"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2023-11-17",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2023-11-18",
+        "source": "PubMed",
+        "type": "online-first"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W4388784076",
+        "url": "https://openalex.org/W4388784076"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1016/j.chiabu.2023.106543",
+        "url": "https://doi.org/10.1016/j.chiabu.2023.106543"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1016/j.chiabu.2023.106543",
+        "url": "https://epiclab.fas.harvard.edu/all-publications"
+      },
+      {
+        "source": "PubMed",
+        "id": "37980177",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37980177/"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Trauma",
+      "Child and adolescent"
+    ],
+    "venueTier": "other",
+    "credit": []
+  },
+  {
+    "title": "An initial exploration of mechanisms contributing to higher suicidal ideation in bisexual+ compared to lesbian/gay individuals.",
+    "doi": "10.1037/sgd0000834",
+    "date": "2025-04-07",
+    "kind": "journal",
+    "venue": "Psychology of Sexual Orientation and Gender Diversity",
+    "authorCount": 4,
+    "pmcid": "",
+    "people": {
+      "mark-chen": {
+        "position": 4,
+        "affiliations": [],
+        "identityNote": "The lab bibliography and publisher byline corroborate Mark S. Chen for this DOI. OpenAlex indexed the byline under A5104199686.",
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "2329-0382",
+      "2329-0390"
+    ],
+    "topics": [
+      "LGBTQ Health, Identity, and Policy",
+      "Suicide and Self-Harm Studies",
+      "Gender and Feminist Studies"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2025-04-07",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2025-04-07",
+        "type": "published-online",
+        "source": "Crossref"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W4409215735",
+        "url": "https://openalex.org/W4409215735"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1037/sgd0000834",
+        "url": "https://doi.org/10.1037/sgd0000834"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1037/sgd0000834",
+        "url": "https://epiclab.fas.harvard.edu/all-publications"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Mood and suicide"
+    ],
+    "venueTier": "other",
+    "credit": []
+  },
+  {
+    "title": "Circuitry correlates of negative urgency and suicidality in schizophrenia spectrum disorders: a LASSO regression study",
+    "doi": "10.3389/fpsyt.2025.1678555",
+    "date": "2025-12-09",
+    "kind": "journal",
+    "venue": "Frontiers in Psychiatry",
+    "authorCount": 6,
+    "pmcid": "12722959",
+    "people": {
+      "mark-chen": {
+        "position": 3,
+        "affiliations": [
+          "Yale University"
+        ],
+        "identityNote": "The lab bibliography and publisher byline corroborate Mark S. Chen for this DOI. OpenAlex indexed the byline under A5104199686.",
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "1664-0640"
+    ],
+    "topics": [
+      "Suicide and Self-Harm Studies",
+      "Schizophrenia research and treatment",
+      "Psychopathy, Forensic Psychiatry, Sexual Offending"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2025-12-09",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2025-12-09",
+        "type": "published-online",
+        "source": "Crossref"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W4417146406",
+        "url": "https://openalex.org/W4417146406"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.3389/fpsyt.2025.1678555",
+        "url": "https://doi.org/10.3389/fpsyt.2025.1678555"
+      },
+      {
+        "source": "Lab",
+        "id": "10.3389/fpsyt.2025.1678555",
+        "url": "https://epiclab.fas.harvard.edu/all-publications"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Mood and suicide",
+      "Psychosis"
+    ],
+    "venueTier": "other",
+    "credit": []
+  },
+  {
+    "title": "Psychometric Properties and Factor Structure of the Arabic Translation of the Brief Negative Symptom Scale",
+    "doi": "10.1159/000549173",
+    "date": "2025-10-23",
+    "kind": "journal",
+    "venue": "Complex Psychiatry",
+    "authorCount": 8,
+    "pmcid": "12659672",
+    "people": {
+      "mark-chen": {
+        "position": 3,
+        "affiliations": [
+          "Columbia University"
+        ],
+        "identityNote": "The lab bibliography and publisher byline corroborate Mark S. Chen for this DOI. OpenAlex indexed the byline under A5056921029.",
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "2673-298X",
+      "2673-3005"
+    ],
+    "topics": [
+      "Schizophrenia research and treatment",
+      "Psychometric Methodologies and Testing",
+      "Mental Health and Psychiatry"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2025-10-23",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2025-10-23",
+        "type": "published-online",
+        "source": "Crossref"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W4415592656",
+        "url": "https://openalex.org/W4415592656"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1159/000549173",
+        "url": "https://doi.org/10.1159/000549173"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1159/000549173",
+        "url": "https://epiclab.fas.harvard.edu/all-publications"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Assessment",
+      "Psychosis"
+    ],
+    "venueTier": "other",
+    "credit": []
+  },
+  {
+    "title": "Are there reciprocal interplays among Chinese adolescents’, fathers’, and mothers’ depression at the within-family level? A family systems perspective.",
+    "doi": "10.1037/abn0000883",
+    "date": "2024-02-01",
+    "kind": "journal",
+    "venue": "Journal of Psychopathology and Clinical Science",
+    "authorCount": 7,
+    "pmcid": "",
+    "people": {
+      "mark-chen": {
+        "position": 7,
+        "affiliations": [
+          "Weill Cornell Medicine"
+        ],
+        "identityNote": "The lab bibliography and publisher byline corroborate Mark S. Chen for this DOI. OpenAlex indexed the byline under A5104199686.",
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "2769-7541",
+      "2769-755X"
+    ],
+    "topics": [
+      "Child and Adolescent Psychosocial and Emotional Development",
+      "Mental Health Research Topics",
+      "Family Dynamics and Relationships"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2024-02-01",
+        "source": "OpenAlex",
+        "type": "publication"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W4391242201",
+        "url": "https://openalex.org/W4391242201"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1037/abn0000883",
+        "url": "https://doi.org/10.1037/abn0000883"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1037/abn0000883",
+        "url": "https://epiclab.fas.harvard.edu/all-publications"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Child and adolescent",
+      "Mood and suicide"
+    ],
+    "venueTier": "top",
+    "credit": []
+  },
+  {
     "title": "Risk factors for suicidal thoughts and behaviors: A meta-analysis of 50 years of research.",
     "doi": "10.1037/bul0000084",
     "date": "2017-02-01",

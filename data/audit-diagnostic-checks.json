@@ -128,5 +128,315 @@
         "year": 2022
       }
     ]
+  },
+  {
+    "person": "mark-chen",
+    "source": "https://epiclab.fas.harvard.edu/all-publications",
+    "scope": "Mark Chen’s five-year lab bibliography",
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "excluded": [
+      {
+        "reason": "No published journal article confirmed by the audit cutoff",
+        "title": "Comparing indices of mixed emotions"
+      },
+      {
+        "reason": "Published before the audit window",
+        "count": 3
+      }
+    ],
+    "iterations": [
+      {
+        "matches": 33,
+        "denominator": 44,
+        "change": "Compared the lab bibliography with the keyed OpenAlex snapshot.",
+        "missing": [
+          {
+            "doi": "10.1017/s0266462326104073",
+            "title": "A prompt-based tutorial for large language model–assisted screening in systematic reviews and meta-analyses",
+            "reason": "OpenAlex linked this byline to A5072105403, outside the indexed profile."
+          },
+          {
+            "doi": "10.1007/s42761-026-00401-9",
+            "title": "From stress to strength: Temporal links between emotion regulation, perceived control, and positive affect",
+            "reason": "OpenAlex linked this byline to A5128701148, outside the indexed profile."
+          },
+          {
+            "doi": "10.1038/s41598-026-47441-6",
+            "title": "Task-based interpretation flexibility predicts real-world emotion regulation variability",
+            "reason": "OpenAlex linked this byline to A5125394512, outside the indexed profile."
+          },
+          {
+            "doi": "10.1037/abn0001108",
+            "title": "Variability is not flexibility: Emotion regulation switching predicts increased momentary distress when context is stable",
+            "reason": "OpenAlex linked this byline to A5125394512, outside the indexed profile."
+          },
+          {
+            "doi": "10.1016/j.jad.2026.121501",
+            "title": "Situational controllability moderates the link between cognitive reappraisal, but not problem solving, and momentary distress",
+            "reason": "OpenAlex linked this byline to A5125394512, outside the indexed profile."
+          },
+          {
+            "doi": "10.1007/s10964-026-02366-1",
+            "title": "When negative emotions stick together: Interconnectedness explains how emotion regulation strategies shape distress",
+            "reason": "OpenAlex linked this byline to A5125394512, outside the indexed profile."
+          },
+          {
+            "doi": "10.1016/j.chiabu.2023.106543",
+            "title": "Longitudinal impacts of adverse childhood experiences on multidimensional health outcomes: Predicting trajectories in mental, physical, and behavioral health",
+            "reason": "OpenAlex linked this byline to A5104199686, outside the indexed profile."
+          },
+          {
+            "doi": "10.1037/sgd0000834",
+            "title": "An initial exploration of mechanisms contributing to higher suicidal ideation in bisexual+ compared to lesbian/gay individuals",
+            "reason": "OpenAlex linked this byline to A5104199686, outside the indexed profile."
+          },
+          {
+            "doi": "10.3389/fpsyt.2025.1678555",
+            "title": "Circuitry correlates of negative urgency and suicidality in schizophrenia spectrum disorders: A LASSO regression study",
+            "reason": "OpenAlex linked this byline to A5104199686, outside the indexed profile."
+          },
+          {
+            "doi": "10.1159/000549173",
+            "title": "Psychometric properties and factor structure of the arabic translation of the brief negative symptom scale",
+            "reason": "OpenAlex linked this byline to A5056921029, outside the indexed profile."
+          },
+          {
+            "doi": "10.1037/abn0000883",
+            "title": "Are there reciprocal interplays among Chinese adolescents’, fathers’, and mothers’ depression at the within-family level? A family systems perspective",
+            "reason": "OpenAlex linked this byline to A5104199686, outside the indexed profile."
+          }
+        ]
+      },
+      {
+        "matches": 44,
+        "denominator": 44,
+        "change": "Recovered eleven exact DOI records using the lab bibliography, publisher bylines, and the OpenAlex work records."
+      }
+    ],
+    "papers": [
+      {
+        "title": "Depression Symptom Network Reorganization Under Internet-Based Emotion Regulation Intervention: Evidence From a Large Real-World Cohort",
+        "doi": "10.1037/amp0001798",
+        "year": 2026
+      },
+      {
+        "title": "The role of adverse childhood experiences in the prospective link between sleep–affect spillover and anxiety symptoms: A daily diary study combined with panel data",
+        "doi": "10.1177/21677026261476613",
+        "year": 2026
+      },
+      {
+        "title": "Is the more the merrier? Affective outcomes of emotion polyregulation depend on the idiographic effective strategy ratio across cultures",
+        "doi": "10.1007/s42761-026-00398-1",
+        "year": 2026
+      },
+      {
+        "title": "A prompt-based tutorial for large language model–assisted screening in systematic reviews and meta-analyses",
+        "doi": "10.1017/s0266462326104073",
+        "year": 2026
+      },
+      {
+        "title": "When good news falls short: Prospective role of positive belief updating in predicting post-trauma distress",
+        "doi": "10.1016/j.brat.2026.105137",
+        "year": 2026
+      },
+      {
+        "title": "From stress to strength: Temporal links between emotion regulation, perceived control, and positive affect",
+        "doi": "10.1007/s42761-026-00401-9",
+        "year": 2026
+      },
+      {
+        "title": "Better together? Polyregulation across interpersonal and intrapersonal strategies in civilian and veteran daily life",
+        "doi": "10.1080/02699931.2026.2713105",
+        "year": 2026
+      },
+      {
+        "title": "Emotion regulation flexibility in resilience and psychopathology: Status, challenges, and future directions",
+        "doi": "10.1037/cps0000326",
+        "year": 2026
+      },
+      {
+        "title": "Emotion regulation flexibility and momentary psychopathology symptoms among trauma‐exposed veterans with and without posttraumatic stress disorder",
+        "doi": "10.1002/jts.70078",
+        "year": 2026
+      },
+      {
+        "title": "Task-based interpretation flexibility predicts real-world emotion regulation variability",
+        "doi": "10.1038/s41598-026-47441-6",
+        "year": 2026
+      },
+      {
+        "title": "Variability is not flexibility: Emotion regulation switching predicts increased momentary distress when context is stable",
+        "doi": "10.1037/abn0001108",
+        "year": 2026
+      },
+      {
+        "title": "Situational controllability moderates the link between cognitive reappraisal, but not problem solving, and momentary distress",
+        "doi": "10.1016/j.jad.2026.121501",
+        "year": 2026
+      },
+      {
+        "title": "When negative emotions stick together: Interconnectedness explains how emotion regulation strategies shape distress",
+        "doi": "10.1007/s10964-026-02366-1",
+        "year": 2026
+      },
+      {
+        "title": "Depressive symptom trajectories in suicide-bereaved individuals: A 24-year study from adolescence to adulthood",
+        "doi": "10.1017/s0954579425000355",
+        "year": 2026
+      },
+      {
+        "title": "Comparing indices of emotion regulation variability across culturally diverse samples: Associations with negative affect",
+        "doi": "10.1007/s10608-025-10627-9",
+        "year": 2026
+      },
+      {
+        "title": "Emotion regulation repertoire moderates the association between sleep and depression: A daily diary study",
+        "doi": "10.1007/s10608-025-10638-6",
+        "year": 2025
+      },
+      {
+        "title": "Day-to-day dynamic coupling of affective symptoms in chinese mother–adolescent and father–adolescent dyads",
+        "doi": "10.1177/21677026251369840",
+        "year": 2025
+      },
+      {
+        "title": "Longitudinal impacts of adverse childhood experiences on multidimensional health outcomes: Predicting trajectories in mental, physical, and behavioral health",
+        "doi": "10.1016/j.chiabu.2023.106543",
+        "year": 2025
+      },
+      {
+        "title": "Emotion regulation and mental health across cultures: A systematic review and meta-analysis",
+        "doi": "10.1038/s41562-025-02168-8",
+        "year": 2025
+      },
+      {
+        "title": "An initial exploration of mechanisms contributing to higher suicidal ideation in bisexual+ compared to lesbian/gay individuals",
+        "doi": "10.1037/sgd0000834",
+        "year": 2025
+      },
+      {
+        "title": "The associations between cognitive flexibility and suicidal thoughts and behaviors: A systematic review and meta-analysis",
+        "doi": "10.1007/s10608-025-10591-4",
+        "year": 2025
+      },
+      {
+        "title": "Navigating unmeasured confounding in nonexperimental psychological research: A practical guide to computing and interpreting e-value",
+        "doi": "10.1177/25152459251326571",
+        "year": 2025
+      },
+      {
+        "title": "Investigating risk profiles of smartphone activities and psychosocial factors in adolescents during the COVID ‐19 pandemic",
+        "doi": "10.1111/jora.13045",
+        "year": 2025
+      },
+      {
+        "title": "Circuitry correlates of negative urgency and suicidality in schizophrenia spectrum disorders: A LASSO regression study",
+        "doi": "10.3389/fpsyt.2025.1678555",
+        "year": 2025
+      },
+      {
+        "title": "Psychometric properties and factor structure of the arabic translation of the brief negative symptom scale",
+        "doi": "10.1159/000549173",
+        "year": 2025
+      },
+      {
+        "title": "Motivation and regulatory flexibility: Testing the moderating role of optimism and coping self-efficacy",
+        "doi": "10.1016/j.paid.2025.113232",
+        "year": 2025
+      },
+      {
+        "title": "Trajectories of psychopathology and sleep quality during a collective stressful event: The role of sexual minority identity, personality, and emotion regulation",
+        "doi": "10.1016/j.jpsychires.2025.04.044",
+        "year": 2025
+      },
+      {
+        "title": "Trajectories of poststroke depression among older adults",
+        "doi": "10.1002/pmrj.13365",
+        "year": 2025
+      },
+      {
+        "title": "Sleep bad, feel bad: Unpacking the role of exercise and socializing",
+        "doi": "10.1016/j.brat.2024.104652",
+        "year": 2024
+      },
+      {
+        "title": "Expanding the scope of diverse contexts in affective science",
+        "doi": "10.1007/s42761-024-00261-1",
+        "year": 2024
+      },
+      {
+        "title": "Prospective trajectories of depression predict mortality in cancer patients",
+        "doi": "10.1007/s10865-024-00485-3",
+        "year": 2024
+      },
+      {
+        "title": "Emotion regulation flexibility and psychosis: A longitudinal study disentangling components of flexibility in psychosis‐proneness",
+        "doi": "10.1111/bjc.12443",
+        "year": 2024
+      },
+      {
+        "title": "Are there reciprocal interplays among Chinese adolescents’, fathers’, and mothers’ depression at the within-family level? A family systems perspective",
+        "doi": "10.1037/abn0000883",
+        "year": 2024
+      },
+      {
+        "title": "Emotion regulation flexibility and momentary affect in two cultures",
+        "doi": "10.1038/s44220-024-00215-3",
+        "year": 2024
+      },
+      {
+        "title": "Resilience and disaster: Flexible adaptation in the face of uncertain threat",
+        "doi": "10.1146/annurev-psych-011123-024224",
+        "year": 2023
+      },
+      {
+        "title": "Psychological distress and everyday discrimination among Chinese international students one year into COVID-19: A preregistered comparative study",
+        "doi": "10.1080/10615806.2022.2130268",
+        "year": 2023
+      },
+      {
+        "title": "Resilience to potential trauma and adversity through regulatory flexibility",
+        "doi": "10.1038/s44159-023-00233-5",
+        "year": 2023
+      },
+      {
+        "title": "Impact and centrality of attention dysregulation on cognition, anxiety, and low mood in adolescents",
+        "doi": "10.1038/s41598-023-34399-y",
+        "year": 2023
+      },
+      {
+        "title": "Components of emotion regulation flexibility and psychosis: The association between psychosis‐proneness and context sensitivity",
+        "doi": "10.1111/bjc.12395",
+        "year": 2023
+      },
+      {
+        "title": "Understanding posttraumatic stress trajectories in adolescent females: A strength-based machine learning approach examining risk and protective factors including online behaviors",
+        "doi": "10.1017/s0954579422000475",
+        "year": 2023
+      },
+      {
+        "title": "Depression and PTSD in the aftermath of strict COVID-19 lockdowns: A cross-sectional and longitudinal network analysis",
+        "doi": "10.1080/20008066.2022.2115635",
+        "year": 2022
+      },
+      {
+        "title": "Domains of life satisfaction and perceived health and incidence of chronic illnesses and hospitalization: Evidence from a large population-based Chinese cohort",
+        "doi": "10.1186/s12889-022-14119-3",
+        "year": 2022
+      },
+      {
+        "title": "Psychopathology and resilience following strict COVID-19 lockdowns in Hubei, China: Examining person- and context-level predictors for longitudinal trajectories",
+        "doi": "10.1037/amp0000958",
+        "year": 2022
+      },
+      {
+        "title": "Sleep profiles as a longitudinal predictor for depression magnitude and variability following the onset of COVID-19",
+        "doi": "10.1016/j.jpsychires.2022.01.024",
+        "year": 2022
+      }
+    ]
   }
 ]

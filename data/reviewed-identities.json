@@ -19,5 +19,67 @@
     "evidence": [
       "ORCID in the Yale Wu Tsai Institute profile agrees with the OpenAlex author record."
     ]
+  },
+  "mark-chen": {
+    "ids": [
+      "A5071692667"
+    ],
+    "confidence": 0.98,
+    "status": "resolved",
+    "evidence": [
+      "Full name or documented name variant",
+      "Institution in OpenAlex affiliation history",
+      "Multiple research topic terms agree",
+      "Eleven bylines in the official lab bibliography were linked to five other OpenAlex author IDs. DOI-specific corrections verified using publisher bylines."
+    ],
+    "candidates": [
+      {
+        "id": "A5071692667",
+        "name": "Shuquan Chen",
+        "confidence": 0.98,
+        "evidence": [
+          "Full name or documented name variant",
+          "Institution in OpenAlex affiliation history",
+          "Multiple research topic terms agree"
+        ]
+      },
+      {
+        "id": "A5018263077",
+        "name": "Mark A. Chen",
+        "confidence": 0.8,
+        "evidence": [
+          "Full name or documented name variant",
+          "Institution in OpenAlex affiliation history"
+        ]
+      },
+      {
+        "id": "A5072105403",
+        "name": "Mark S. Chen",
+        "confidence": 0.8,
+        "evidence": [
+          "Full name or documented name variant",
+          "Institution in OpenAlex affiliation history"
+        ]
+      },
+      {
+        "id": "A5102820149",
+        "name": "Mark A. Chen",
+        "confidence": 0.8,
+        "evidence": [
+          "Full name or documented name variant",
+          "Institution in OpenAlex affiliation history"
+        ]
+      },
+      {
+        "id": "A5125394512",
+        "name": "Mark Shuquan Chen",
+        "confidence": 0.63,
+        "evidence": [
+          "Full name or documented name variant",
+          "Multiple research topic terms agree"
+        ]
+      }
+    ],
+    "splitReview": true
   }
 }

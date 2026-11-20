@@ -92,7 +92,7 @@ def merge(sources):
         for person, evidence in work.get("people", {}).items():
             primary = exact["people"].setdefault(person, dict(evidence))
             for key in ("affiliations", "coFirst", "coLast"):
-                primary[key] = list(set(primary.get(key, [])) | set(evidence.get(key, [])))
+                primary[key] = list(dict.fromkeys([*primary.get(key, []), *evidence.get(key, [])]))
             if not primary.get("position"):
                 primary["position"] = evidence.get("position")
         official = [entry["date"] for entry in exact["evidenceDates"]

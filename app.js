@@ -231,7 +231,7 @@ function initializeProgram() {
     const section = document.createElement("details");
     section.innerHTML = `<summary>${escapeHtml(person.name)} <span class="location">${works.length} works retrieved · ${escapeHtml(person.retrieval.openAlex)}</span></summary>
       <p>${escapeHtml(person.areas.join(", "))}</p>
-      <p>${[person.lab && ["Lab",person.lab],person.cv && ["CV",person.cv],person.orcid && ["ORCID","https://orcid.org/"+person.orcid]]
+      <p>${[person.lab && ["Lab",person.lab],person.cv && ["CV",person.cv],person.publicationList && ["Lab bibliography",person.publicationList],person.orcid && ["ORCID","https://orcid.org/"+person.orcid]]
         .filter(Boolean).map(([label,url])=>`<a href="${escapeHtml(url)}">${label} ↗</a>`).join(" · ")}</p>
       <ol class="publication-list">${works.map(work => `<li><a href="${escapeHtml(publicationUrl(work))}">${escapeHtml(work.title)}</a>
         <span>${escapeHtml(work.date)} · ${escapeHtml(work.venue)}${work.kind === "preprint" ? " · Preprint" : ""}</span>

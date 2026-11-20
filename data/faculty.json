@@ -352,7 +352,8 @@
       "evidence": [
         "Full name or documented name variant",
         "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
+        "Multiple research topic terms agree",
+        "Eleven bylines in the official lab bibliography were linked to five other OpenAlex author IDs. DOI-specific corrections verified using publisher bylines."
       ],
       "candidates": [
         {
@@ -401,10 +402,11 @@
             "Multiple research topic terms agree"
           ]
         }
-      ]
+      ],
+      "splitReview": true
     },
     "retrieval": {
-      "openAlex": "complete",
+      "openAlex": "partial",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
@@ -412,7 +414,8 @@
         "PsyArXiv": "not run"
       },
       "errors": {}
-    }
+    },
+    "publicationList": "https://epiclab.fas.harvard.edu/all-publications"
   },
   {
     "id": "mark-hatzenbuehler",

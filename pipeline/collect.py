@@ -86,7 +86,7 @@ def audit_leads(sample, faculty, profiles):
         programs = {a["program"] for a in person["appointments"]}
         relevant = [profile for profile in profiles if programs.intersection(profile["programs"]) and
                     normalize(profile["name"]) in names and profile["profileStatus"] == "name confirmed on profile"]
-        urls = [url for url in (person.get("cv"), person.get("lab")) if url]
+        urls = [url for url in (person.get("cv"), person.get("publicationList"), person.get("lab")) if url]
         urls.extend(url for profile in relevant for url in [*profile["cvLinks"], *profile["labLinks"]])
         references.append(dict(person=pid, name=person["name"], sourceLeads=list(dict.fromkeys(urls)),
                                status="verify public bibliography" if urls else "independent reference source needed"))
