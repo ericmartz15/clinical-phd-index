@@ -77,7 +77,7 @@ def stage_publications(client, candidate, affiliations, start, end):
         return dict(result, status="retrieval incomplete", error=str(error))
 
 
-def audit_leads(sample, faculty, profiles):
+def audit_leads(sample, faculty, profiles, curated=None):
     people = {person["id"]: person for person in faculty}
     references = []
     for pid in sample:
@@ -88,6 +88,7 @@ def audit_leads(sample, faculty, profiles):
                     normalize(profile["name"]) in names and profile["profileStatus"] == "name confirmed on profile"]
         urls = [url for url in (person.get("cv"), person.get("publicationList"), person.get("lab")) if url]
         urls.extend(url for profile in relevant for url in [*profile["cvLinks"], *profile["labLinks"]])
+        urls.extend((curated or {}).get(pid, []))
         references.append(dict(person=pid, name=person["name"], sourceLeads=list(dict.fromkeys(urls)),
                                status="verify public bibliography" if urls else "independent reference source needed"))
     return references
@@ -123,7 +124,7 @@ def main():
 
     faculty = read(DATA / "faculty-input.json")
     report = read(DATA / "recall-report.json")
-    references = audit_leads(report["sample"], faculty, profiles)
+    references = audit_leads(report["sample"], faculty, profiles, read(DATA / "audit-source-leads.json", {}))
     summary = dict(
         programs=len(rosters),
         sourcesReached=sum(bool(roster.get("sources")) for roster in rosters),
