@@ -2829,7 +2829,20 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://psychology.uiowa.edu/graduate/clinical-science",
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-20",
+      "scope": "Primary faculty in the training handbook were reconciled against the current program listing. Clinic and teaching appointments remain under review.",
+      "sources": [
+        {
+          "label": "Graduate program handbook",
+          "url": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf"
+        }
+      ],
+      "roleDecisions": []
+    }
   },
   {
     "id": "program-061",
@@ -2859,7 +2872,15 @@
     },
     "programmeAliases": [
       "University of Kansas (Clinical Psychology PhD)"
-    ]
+    ],
+    "rosterUrl": "https://psychology.ku.edu/clinical-psychology-faculty",
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-20",
+      "scope": "The Clinical Psychology PhD program’s core faculty directory was used. Clinic and practice-track roles were reviewed separately.",
+      "sources": [],
+      "roleDecisions": []
+    }
   },
   {
     "id": "program-062",
@@ -2889,7 +2910,22 @@
     },
     "programmeAliases": [
       "University of Kansas Clinical Child Psychology Program (CCPP)"
-    ]
+    ],
+    "rosterUrl": "https://ccpp.ku.edu/core-faculty",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-20",
+      "scope": "The Clinical Child Psychology PhD program’s separately listed core research faculty were verified.",
+      "sources": [],
+      "roleDecisions": [
+        {
+          "name": "Katrina Ostmeyer",
+          "label": "Professor of the practice",
+          "reason": "The department lists this faculty position as professor of the practice. The index credits tenure-track and research-track appointments.",
+          "source": "https://ccpp.ku.edu/core-faculty"
+        }
+      ]
+    }
   },
   {
     "id": "program-063",
