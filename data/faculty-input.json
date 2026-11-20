@@ -1454,5 +1454,522 @@
         "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
       }
     ]
+  },
+  {
+    "id": "gene-alexander",
+    "name": "Gene Alexander",
+    "aliases": [
+      "Gene E. Alexander"
+    ],
+    "areas": [
+      "brain aging",
+      "neuroimaging",
+      "dementia"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "john-allen",
+    "name": "John Allen",
+    "aliases": [
+      "John J. B. Allen"
+    ],
+    "areas": [
+      "psychophysiology",
+      "depression",
+      "neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "zachary-cohen",
+    "name": "Zachary Cohen",
+    "aliases": [
+      "Zachary D. Cohen"
+    ],
+    "areas": [
+      "personalized treatment",
+      "depression",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "melissa-flores",
+    "name": "Melissa Flores",
+    "aliases": [],
+    "areas": [
+      "health equity",
+      "health disparities",
+      "aging"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "rina-fox",
+    "name": "Rina Fox",
+    "aliases": [
+      "Rina S. Fox"
+    ],
+    "areas": [
+      "cancer survivorship",
+      "health psychology",
+      "behavioral medicine"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "matthew-grilli",
+    "name": "Matthew Grilli",
+    "aliases": [
+      "Matthew D. Grilli"
+    ],
+    "areas": [
+      "autobiographical memory",
+      "aging",
+      "neuropsychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "heidi-hamann",
+    "name": "Heidi Hamann",
+    "aliases": [
+      "Heidi A. Hamann"
+    ],
+    "areas": [
+      "psychosocial oncology",
+      "cancer survivorship",
+      "tobacco"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "ashley-huggins",
+    "name": "Ashley Huggins",
+    "aliases": [
+      "Ashley A. Huggins"
+    ],
+    "areas": [
+      "posttraumatic stress",
+      "neuroimaging",
+      "affective neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "mary-frances-o-connor",
+    "name": "Mary-Frances O’Connor",
+    "aliases": [
+      "Mary Frances O'Connor"
+    ],
+    "areas": [
+      "grief",
+      "bereavement",
+      "psychoneuroimmunology"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "john-ruiz",
+    "name": "John Ruiz",
+    "aliases": [
+      "John M. Ruiz"
+    ],
+    "areas": [
+      "health disparities",
+      "health psychology",
+      "cardiovascular health"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "lee-ryan",
+    "name": "Lee Ryan",
+    "aliases": [],
+    "areas": [
+      "memory",
+      "aging",
+      "neuroimaging"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "david-sbarra",
+    "name": "David Sbarra",
+    "aliases": [
+      "David A. Sbarra"
+    ],
+    "areas": [
+      "relationships",
+      "social connection",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "daniel-taylor",
+    "name": "Daniel Taylor",
+    "aliases": [
+      "Daniel J. Taylor"
+    ],
+    "areas": [
+      "insomnia",
+      "sleep",
+      "behavioral sleep medicine"
+    ],
+    "appointments": [
+      {
+        "program": "program-005",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Arizona",
+          "university of arizona"
+        ],
+        "source": "https://psychology.arizona.edu/faculty/clinical"
+      }
+    ]
+  },
+  {
+    "id": "tiffany-brown",
+    "name": "Tiffany Brown",
+    "aliases": [
+      "Tiffany A. Brown"
+    ],
+    "areas": [
+      "eating disorders",
+      "body image",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Auburn University",
+          "auburn university"
+        ],
+        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+      }
+    ]
+  },
+  {
+    "id": "travis-evans",
+    "name": "Travis Evans",
+    "aliases": [
+      "Travis C. Evans"
+    ],
+    "areas": [
+      "social anxiety",
+      "affective neuroscience",
+      "social behavior"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Auburn University",
+          "auburn university"
+        ],
+        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+      }
+    ]
+  },
+  {
+    "id": "emma-lathan-powell",
+    "name": "Emma Lathan-Powell",
+    "aliases": [
+      "Emma C. Lathan",
+      "Emma Lathan"
+    ],
+    "areas": [
+      "interpersonal violence",
+      "trauma",
+      "posttraumatic stress"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Auburn University",
+          "auburn university"
+        ],
+        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+      }
+    ]
+  },
+  {
+    "id": "daniel-w-oesterle",
+    "name": "Daniel W. Oesterle",
+    "aliases": [
+      "Daniel Oesterle"
+    ],
+    "areas": [
+      "alcohol use",
+      "substance use",
+      "behavioral interventions"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Auburn University",
+          "auburn university"
+        ],
+        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+      }
+    ]
+  },
+  {
+    "id": "april-smith",
+    "name": "April Smith",
+    "aliases": [
+      "April R. Smith"
+    ],
+    "areas": [
+      "eating disorders",
+      "suicide",
+      "interoception"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Auburn University",
+          "auburn university"
+        ],
+        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+      }
+    ]
+  },
+  {
+    "id": "jennifer-somers",
+    "name": "Jennifer Somers",
+    "aliases": [
+      "Jennifer A. Somers"
+    ],
+    "areas": [
+      "child development",
+      "family relationships",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Auburn University",
+          "auburn university"
+        ],
+        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+      }
+    ]
+  },
+  {
+    "id": "tracy-witte",
+    "name": "Tracy Witte",
+    "aliases": [
+      "Tracy K. Witte"
+    ],
+    "areas": [
+      "suicide",
+      "assessment",
+      "clinical training"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Auburn University",
+          "auburn university"
+        ],
+        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+      }
+    ]
   }
 ]

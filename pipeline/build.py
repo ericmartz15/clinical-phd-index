@@ -230,6 +230,8 @@ def main():
     parser.add_argument("--skip-crosschecks", action="store_true")
     parser.add_argument("--previous-snapshot", type=Path,
                         help="Retain prior evidence for unchanged faculty inputs during a primary-only refresh")
+    parser.add_argument("--refresh-program", action="append", default=[],
+                        help="Refresh a program ID while carrying forward evidence for other unchanged faculty")
     parser.add_argument("--crosscheck-limit", type=int, help="Limit DOI lookups per author for diagnostics")
     parser.add_argument("--audit-seed", type=int, default=291756)
     parser.add_argument("--audit-stage", choices=("calibration", "holdout"), default="calibration")
@@ -243,6 +245,9 @@ def main():
     client = Client(args.cache, args.network)
     venues = read(DATA / "venues.json")
     programs = read(DATA / "programs.json")
+    selected = set(args.refresh_program)
+    if selected and (not args.previous_snapshot or selected - {program["id"] for program in programs}):
+        parser.error("--refresh-program requires an existing snapshot and valid program IDs")
     faculty_input = read(DATA / "faculty-input.json")
     reviewed = read(DATA / "reviewed-identities.json", {})
     independent = read(DATA / "reviewed-works.json", [])
@@ -257,7 +262,9 @@ def main():
         unchanged = {person["id"] for person in faculty_input if person["id"] in prior_people and
                      all(prior_people[person["id"]].get(key) == value for key, value in person.items()) and
                      (person["id"] not in reviewed or prior_people[person["id"]]["identity"] == reviewed[person["id"]]) and
-                     (not args.network or person["id"] in reviewed)}
+                     (not args.network or
+                      (not selected and person["id"] in reviewed) or
+                      (selected and not any(a["program"] in selected for a in person["appointments"])))}
         prior_people = {pid: prior_people[pid] for pid in unchanged}
         for work in read(previous / "publications.json"):
             retained = {pid: evidence for pid, evidence in work["people"].items() if pid in unchanged}

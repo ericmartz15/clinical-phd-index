@@ -137,7 +137,14 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://cla.auburn.edu/psychological-sciences/clinical/people/",
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-20",
+      "scope": "The program’s 2027 recruiting faculty and current director of clinical training were verified. Additional associated faculty require role review.",
+      "roleDecisions": []
+    }
   },
   {
     "id": "program-004",
@@ -235,7 +242,33 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://psychology.arizona.edu/faculty/clinical",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-20",
+      "scope": "The department’s Clinical Psychology Area faculty listing was checked for research and tenure-track roles. Career-track professors of practice are listed separately.",
+      "roleDecisions": [
+        {
+          "name": "Julie Feldman",
+          "label": "Career-track professor of practice",
+          "reason": "The department lists this position as career-track. Scoring covers tenure-track and research-track appointments.",
+          "source": "https://psychology.arizona.edu/person/julie-feldman"
+        },
+        {
+          "name": "Feea Leifker",
+          "label": "Career-track professor of practice",
+          "reason": "The department lists this position as career-track. Scoring covers tenure-track and research-track appointments.",
+          "source": "https://psychology.arizona.edu/person/feea-leifker"
+        },
+        {
+          "name": "Andrew Perkins",
+          "label": "Career-track professor of practice",
+          "reason": "The department lists this position as career-track. Scoring covers tenure-track and research-track appointments.",
+          "source": "https://psychology.arizona.edu/person/andrew-perkins"
+        }
+      ]
+    }
   },
   {
     "id": "program-006",

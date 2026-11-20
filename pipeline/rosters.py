@@ -19,7 +19,7 @@ def person_link(label, url):
         return False
     if label != label.title() and not all(word[0].isupper() for word in label.split() if word.isalpha()):
         return False
-    return bool(re.search(r"/(?:people|faculty|faculty-page|profiles?|staff)/[^/]+", path))
+    return bool(re.search(r"/(?:person|people|faculty|faculty-page|profiles?|staff|directory)/[^/]+", path))
 
 
 class Page(HTMLParser):

@@ -6,6 +6,10 @@ on:
         type: choice
         options: [full, primary]
         default: full
+      programs:
+        description: Space-separated program IDs for a targeted primary refresh
+        type: string
+        default: ''
       audit_stage:
         type: choice
         options: [calibration, holdout]
@@ -32,6 +36,7 @@ jobs:
           AUDIT_STAGE: ${{ inputs.audit_stage }}
           AUDIT_SEED: ${{ inputs.audit_seed }}
           RETRIEVAL: ${{ inputs.retrieval }}
+          PROGRAMS: ${{ inputs.programs }}
         run: |
           test -n "$OPENALEX_API_KEY" || { echo 'Add the OPENALEX_API_KEY repository secret to use cursor pagination.'; exit 1; }
           args=()
@@ -44,6 +49,13 @@ jobs:
             mkdir -p "$prior"
             cp data/{faculty,publications,review-queue}.json "$prior/"
             args+=(--skip-crosschecks --previous-snapshot "$prior")
+            read -r -a selected <<< "$PROGRAMS"
+            for program in "${selected[@]}"; do
+              args+=("--refresh-program=$program")
+            done
+          elif [[ -n "$PROGRAMS" ]]; then
+            echo 'Targeted program refreshes require primary retrieval.'
+            exit 1
           fi
           python pipeline/build.py --cache "${{ runner.temp }}/publication-cache" --network --audit-stage "$AUDIT_STAGE" --audit-seed "$AUDIT_SEED" --report-target "${{ github.server_url }}/${{ github.repository }}/issues/new" "${args[@]}"
       - uses: actions/upload-artifact@v4
