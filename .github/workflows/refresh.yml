@@ -1,0 +1,48 @@
+name: Refresh publication evidence
+on:
+  workflow_dispatch:
+    inputs:
+      audit_stage:
+        type: choice
+        options: [calibration, holdout]
+        default: calibration
+      audit_seed:
+        type: string
+        default: '291756'
+permissions:
+  contents: read
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+      SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build dataset and coverage evidence
+        env:
+          AUDIT_STAGE: ${{ inputs.audit_stage }}
+          AUDIT_SEED: ${{ inputs.audit_seed }}
+        run: |
+          test -n "$OPENALEX_API_KEY" || { echo 'Add the OPENALEX_API_KEY repository secret to use cursor pagination.'; exit 1; }
+          args=()
+          if [[ "$AUDIT_STAGE" == holdout ]]; then
+            test -f data/calibration-report.json
+            args+=(--calibration-report data/calibration-report.json)
+          fi
+          python pipeline/build.py --cache "${{ runner.temp }}/publication-cache" --network --audit-stage "$AUDIT_STAGE" --audit-seed "$AUDIT_SEED" "${args[@]}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: publication-refresh
+          path: |
+            publication-data.js
+            data/faculty.csv
+            data/faculty.json
+            data/publications.csv
+            data/publications.json
+            data/review-queue.json
+            data/recall-report.json

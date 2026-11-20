@@ -1,0 +1,268 @@
+"use strict";
+
+const $ = id => document.getElementById(id);
+const data = publicationData;
+const escapeHtml = value => String(value ?? "").replace(/[&<>"']/g, character => ({
+  "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+})[character]);
+const normalized = value => String(value).toLowerCase().normalize("NFKD")
+  .replace(/\p{M}/gu, "").replace(/[^a-z0-9]+/g, " ").trim();
+const displayScore = value => value.toLocaleString("en-US", {minimumFractionDigits: 2, maximumFractionDigits: 2});
+
+function statusBadges(program) {
+  return Object.entries(program.statuses).map(([name, detail]) =>
+    `<span class="status-badge" title="${escapeHtml(detail.label)}">${escapeHtml(name)}</span>`).join("");
+}
+
+function publicationUrl(work) {
+  if (work.doi) return "https://doi.org/" + encodeURI(work.doi);
+  return work.provenance[0]?.url || "";
+}
+
+function initializeRankings() {
+  const filter = $("filters");
+  const start = $("start-year");
+  const end = $("end-year");
+  const minimum = Number(data.start.slice(0, 4));
+  const maximum = Number(data.asOf.slice(0, 4));
+  const pageSize = 25;
+  let page = 1;
+  let rows = [];
+  $("program-stat").textContent = data.programs.length;
+  $("journal-stat").textContent = data.counts.faculty;
+  $("paper-stat").textContent = data.counts.works.toLocaleString("en-US");
+  $("year-stat").textContent = `${minimum}–${maximum}`;
+  for (const field of [start, end]) {
+    field.min = minimum;
+    field.max = maximum;
+    field.defaultValue = field === start ? minimum : maximum;
+    field.value = field.defaultValue;
+  }
+  for (const name of [...new Set(data.programs.map(p => p.region))].sort()) {
+    $("region").add(new Option(name, name));
+  }
+  const fields = ["Computational and digital mental health", "Trauma", "Child and adolescent",
+    "Anxiety and CBT", "Assessment", "Mood and suicide", "Psychosis", "Health psychology"];
+  for (const name of fields) $("subfield").add(new Option(name, name));
+  $("coverage-message").textContent = data.report.targetMet
+    ? "See the published recall audit and program coverage."
+    : "Coverage build in progress. Program rankings will appear after the recall audit meets the target.";
+
+  function calculate() {
+    const q = normalized($("search").value).split(" ").filter(Boolean);
+    const mode = $("credit").value;
+    const venue = $("venue").value;
+    const selectedField = $("subfield").value;
+    const perProgram = new Map();
+    for (const work of data.works) {
+      const year = Number(work.date.slice(0, 4));
+      if (!year || year < Number(start.value) || year > Number(end.value)) continue;
+      if (venue === "preprint" ? work.kind !== "preprint" : work.kind !== "journal") continue;
+      if (venue === "top" || venue === "digital") if (venue !== work.venueTier) continue;
+      if (selectedField && !work.subfields.includes(selectedField)) continue;
+      for (const credit of work.credit) {
+        if ($("current-only").checked && !credit.current) continue;
+        if (!(credit[mode] > 0)) continue;
+        if (!perProgram.has(credit.program)) perProgram.set(credit.program, {score: 0, papers: new Set(), contributors: new Set()});
+        const stats = perProgram.get(credit.program);
+        stats.score += credit[mode];
+        stats.papers.add(work);
+        stats.contributors.add(credit.person);
+      }
+    }
+    const results = data.programs.filter(program => {
+      const fields = normalized([program.name, program.location, ...program.programmeAliases].join(" "));
+      if (!q.every(term => fields.includes(term))) return false;
+      if ($("region").value && $("region").value !== program.region) return false;
+      if ($("accreditation").value && !program.statuses[$("accreditation").value]) return false;
+      const international = !["US", "CA"].includes(program.country);
+      if (international && !$("international").checked && !q.length) return false;
+      if ($("ranked-only").checked && (!program.rankable || (international && !$("international").checked))) return false;
+      if (selectedField && program.rankable && !perProgram.get(program.id)?.papers.size) return false;
+      return true;
+    }).map(program => {
+      const sum = perProgram.get(program.id);
+      const rankable = program.rankable && (["US", "CA"].includes(program.country) || $("international").checked);
+      return {program, rankable, score: rankable && venue !== "preprint" ? (sum?.score || 0) : null,
+        papers: rankable ? (sum?.papers.size || 0) : null, faculty: program.facultyCount, rank: null};
+    });
+    const metric = $("sort").value;
+    const names = (a, b) => a.program.name.localeCompare(b.program.name);
+    let previous, rank;
+    results.sort((a, b) => (b.score ?? -1) - (a.score ?? -1) || names(a, b));
+    for (const [index, row] of results.entries()) {
+      if (!(row.score > 0)) continue;
+      const rounded = Math.round(row.score * 100) / 100;
+      if (rounded !== previous) rank = index + 1;
+      row.rank = rank;
+      previous = rounded;
+    }
+    if (metric !== "score") results.sort((a, b) =>
+      (metric === "name" ? 0 : (b[metric] ?? -1) - (a[metric] ?? -1)) || names(a, b));
+    return results;
+  }
+
+  function render() {
+    rows = calculate();
+    $("start-label").textContent = start.value;
+    $("end-label").textContent = end.value;
+    const maxPage = Math.max(1, Math.ceil(rows.length / pageSize));
+    page = Math.min(page, maxPage);
+    const offset = (page - 1) * pageSize;
+    const visible = rows.slice(offset, offset + pageSize);
+    $("pagination").hidden = maxPage === 1;
+    $("prev-page").disabled = page === 1;
+    $("next-page").disabled = page === maxPage;
+    $("page-summary").textContent = `Page ${page} of ${maxPage}`;
+    $("result-summary").textContent = visible.length
+      ? `${offset + 1}–${offset + visible.length} of ${rows.length} programs · ${rows.filter(row => row.rank).length} ranked`
+      : "0 programs";
+    $("empty").hidden = rows.length > 0;
+    $("export").disabled = !rows.length;
+    $("results-body").innerHTML = visible.map(({program, rank, score, faculty, papers}) => {
+      const id = encodeURIComponent(program.id);
+      return `<tr>
+        <td class="rank">${rank ?? "—"}</td>
+        <th scope="row" class="program-cell">
+          <a class="program-button" href="program.html?id=${id}">${escapeHtml(program.name)}</a>
+          <span class="location">${escapeHtml(program.location)} · ${escapeHtml(program.eligibility === "historical" ? "Historical entry" : program.rankable ? "Coverage verified" : "Coverage pending")}</span>
+          <span class="status-badges">${statusBadges(program)}</span>
+        </th>
+        <td class="number score">${score == null ? "—" : displayScore(score)}</td>
+        <td class="number">${papers ?? "—"}</td><td class="number">${faculty || "—"}</td>
+        <td class="open-cell"><a class="chevron-button" aria-label="View ${escapeHtml(program.name)}" href="program.html?id=${id}">›</a></td>
+      </tr>`;
+    }).join("");
+  }
+
+  function resetPage() {
+    page = 1;
+    render();
+  }
+  filter.addEventListener("input", event => {
+    if (Number(start.value) > Number(end.value)) {
+      if (event.target === start) end.value = start.value;
+      else start.value = end.value;
+    }
+    resetPage();
+  });
+  filter.addEventListener("reset", () => {
+    $("search").value = "";
+    $("sort").value = "score";
+    setTimeout(resetPage, 0);
+  });
+  $("clear").addEventListener("click", () => filter.reset());
+  $("search").addEventListener("input", resetPage);
+  $("sort").addEventListener("change", resetPage);
+  $("prev-page").addEventListener("click", () => { page--; render(); $("result-summary").scrollIntoView(); });
+  $("next-page").addEventListener("click", () => { page++; render(); $("result-summary").scrollIntoView(); });
+  $("export").addEventListener("click", () => {
+    saveCsv("clinical-phd-rankings.csv", [
+      ["Rank", "Program", "Location", "Score", "Papers", "Faculty records", "Accreditation and membership", "Rank eligible"],
+      ...rows.map(row => [row.rank, row.program.name, row.program.location, row.score, row.papers, row.faculty,
+        Object.keys(row.program.statuses).join(" + "), row.rankable ? "Yes" : "Coverage pending"])
+    ]);
+  });
+  render();
+}
+
+function saveCsv(filename, rows) {
+  const content = rows.map(row => row.map(item => '"' + String(item ?? "").replaceAll('"', '""') + '"').join(",")).join("\r\n");
+  saveBlob(filename, content, "text/csv;charset=utf-8");
+}
+
+function saveBlob(filename, content, type) {
+  const url = URL.createObjectURL(new Blob([content], {type}));
+  const link = document.createElement("a");
+  link.download = filename;
+  link.href = url;
+  document.body.append(link);
+  link.click();
+  link.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+function initializeProgram() {
+  const key = new URLSearchParams(location.search).get("id");
+  const program = data.programs.find(p => p.id === key);
+  if (!program) {
+    $("program-title").textContent = "Program unavailable";
+    return;
+  }
+  document.title = program.name + " · Clinical PhD Index";
+  $("program-title").textContent = program.name;
+  $("program-location").textContent = program.location + " · " +
+    (program.rankable ? "Coverage verified" : "Coverage pending");
+  $("program-badges").innerHTML = statusBadges(program);
+  $("report-link").href = "report.html?id=" + encodeURIComponent(program.id);
+  const links = [["Program source", program.programUrl], ["Faculty roster source", program.rosterUrl],
+    ["PhD track evidence", program.degreeSource],
+    ...(program.directoryHistory || []).map(row => [row.directory + " historical listing (" + row.data.asOf.slice(0, 4) + ")", row.data.source]),
+    ...Object.entries(program.statuses).map(([name, detail]) => [name + " · " + detail.label, detail.source])];
+  $("program-sources").innerHTML = links.filter(([, url]) => url).map(([label, url]) =>
+    `<a href="${escapeHtml(url)}">${escapeHtml(label)} ↗</a>`).join("");
+  const faculty = data.faculty.filter(person => person.appointments.some(a => a.program === key));
+  const people = $("faculty-list");
+  if (!faculty.length) people.innerHTML = "<p>Faculty verification is pending for this program.</p>";
+  for (const person of faculty) {
+    const works = data.works.filter(work => work.people[person.id]);
+    const section = document.createElement("details");
+    section.innerHTML = `<summary>${escapeHtml(person.name)} <span class="location">${works.length} works retrieved · ${escapeHtml(person.retrieval.openAlex)}</span></summary>
+      <p>${escapeHtml(person.areas.join(", "))}</p>
+      <p>${[person.lab && ["Lab",person.lab],person.cv && ["CV",person.cv],person.orcid && ["ORCID","https://orcid.org/"+person.orcid]]
+        .filter(Boolean).map(([label,url])=>`<a href="${escapeHtml(url)}">${label} ↗</a>`).join(" · ")}</p>
+      <ol class="publication-list">${works.map(work => `<li><a href="${escapeHtml(publicationUrl(work))}">${escapeHtml(work.title)}</a>
+        <span>${escapeHtml(work.date)} · ${escapeHtml(work.venue)}${work.kind === "preprint" ? " · Preprint" : ""}</span>
+        <span>${work.credit.some(c => c.person === person.id && c.program === key) ? "Eligible appointment matched" : "Program attribution pending or ineligible"} · ${work.provenance.map(p => `<a href="${escapeHtml(p.url)}">${escapeHtml(p.source)}</a>`).join(", ")}</span></li>`).join("")}</ol>`;
+    people.append(section);
+  }
+}
+
+function initializeQuality() {
+  const report = data.report;
+  $("recall-value").textContent = report.recall == null ? "Pending" : `${(100 * report.recall).toFixed(1)}%`;
+  $("recall-detail").textContent = `${report.audited} of 50 planned faculty audits completed. ${report.matches} matched reference papers out of ${report.denominator} assessed.`;
+  if (report.diagnostic) {
+    const d = report.diagnostic;
+    $("diagnostic-detail").hidden = false;
+    $("diagnostic-detail").textContent = `Preliminary check of one lab list found ${d.matches} of ${d.denominator} selected papers. This is outside the 50-faculty audit.`;
+  }
+  $("coverage-counts").innerHTML = [
+    ["Program entries", data.programs.length], ["Complete faculty rosters", data.counts.rosterVerified],
+    ["Verified faculty records", data.counts.faculty], ["Resolved identities", data.counts.resolved],
+    ["Completed primary retrievals", data.counts.complete], ["Programs released to rankings", data.counts.ranked]
+  ].map(([label, count]) => `<li><strong>${count}</strong> ${label}</li>`).join("");
+  $("directory-status").innerHTML = Object.entries(data.directories.directories).map(([name, info]) =>
+    `<li><strong>${name}</strong> · ${escapeHtml(info.status)} <a href="${escapeHtml(info.source)}">Official source ↗</a></li>`).join("");
+}
+
+function initializeReport() {
+  const select = $("report-program");
+  const key = new URLSearchParams(location.search).get("id");
+  for (const p of [...data.programs].sort((a, b) => a.name.localeCompare(b.name))) {
+    select.add(new Option(p.name, p.id, key === p.id, key === p.id));
+  }
+  if (data.reportTarget) {
+    $("report-label").textContent = "Open public GitHub draft";
+    $("report-explain").textContent = "Review your draft on GitHub before posting. Keep private information out of the report.";
+  }
+  $("report-form").addEventListener("submit", event => {
+    event.preventDefault();
+    const program = data.programs.find(p => p.id === select.value);
+    const values = new FormData(event.currentTarget);
+    const title = `Publication correction · ${program?.name ?? "Program to confirm"}`;
+    const draft = ["Program: " + (program?.name ?? ""), "Issue: " + values.get("type"),
+      "Paper or DOI: " + values.get("paper"), "Source: " + values.get("evidence"),
+      "", String(values.get("details"))].join("\n");
+    if (data.reportTarget) {
+      window.location.href = data.reportTarget + "?" + new URLSearchParams({title, body: draft});
+      return;
+    }
+    saveBlob("clinical-phd-correction.txt", title + "\n\n" + draft, "text/plain;charset=utf-8");
+  });
+}
+
+if ($("rankings")) initializeRankings();
+if ($("faculty-list")) initializeProgram();
+if ($("recall-value")) initializeQuality();
+if ($("report-form")) initializeReport();

@@ -1,0 +1,1185 @@
+{
+  "authorIdentities": [
+    {
+      "pid": "matthew-nock",
+      "ids": [
+        "A5082317510"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "OpenAlex name, Harvard affiliation and suicide research agree with the official CV. A possible secondary author ID remains under review."
+      ],
+      "splitReview": true
+    }
+  ],
+  "publicationCandidates": [
+    {
+      "source": "PubMed",
+      "person": "matthew-nock",
+      "id": "40909806",
+      "doi": "10.21203/rs.3.rs-7236847/v1",
+      "title": "A Crowdsourced Megastudy of 12 Digital Single-Session Interventions for Depression in American Adults."
+    },
+    {
+      "source": "PubMed",
+      "person": "matthew-nock",
+      "id": "35224567",
+      "doi": "10.18653/v1/2021.cinlp-1.8",
+      "title": "It's quality and quantity: the effect of the amount of comments on online suicidal posts."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42886898",
+      "doi": "10.1103/vrxp-zkbs",
+      "title": "Observation of a B_{c}^{*+} Meson with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42854147",
+      "doi": "10.1103/27s7-2frt",
+      "title": "Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at sqrt[s]=13  TeV."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42826970",
+      "doi": "10.1103/f3nk-5lt9",
+      "title": "Measurement of Charged-Particle Production in sqrt[s_{NN}]=9.62  TeV Proton-Oxygen Collisions as a Probe of Cosmic-Ray Air Showers with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42789880",
+      "doi": "10.1103/y1nh-1b82",
+      "title": "Measurements of Z-Boson Pair Entanglement in Decays of Higgs Bosons at the ATLAS Experiment."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42726943",
+      "doi": "10.1103/jngg-1nf3",
+      "title": "Evidence of ZZγ Production with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42705891",
+      "doi": "10.3934/mbe.2026081",
+      "title": "Quantification of various types of uncertainty in biological computational models using fuzzy mass functions."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42675441",
+      "doi": "10.1103/vbxg-71c2",
+      "title": "Evidence of Higgs Boson Inclusive Production at High Transverse Momentum Decaying to a Pair of b-Quarks with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42503122",
+      "doi": "10.1103/54vv-lgc7",
+      "title": "Combination of Measurements of CP Properties of Higgs Boson Interactions with Vector Bosons Using Proton-Proton Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42412634",
+      "doi": "10.1021/acs.est.6c01200",
+      "title": "Nighttime Organic Nitrates Drive New Particle Formation and Aerosol Growth in Urban Beijing."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42245092",
+      "doi": "10.1037/vio0000683",
+      "title": "Characterizing sexual violence perpetrated by adolescents in South Africa and associations with HIV and STI risk behaviors."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41801983",
+      "doi": "10.1371/journal.pdig.0001273",
+      "title": "The adaptive large language models for vaccine prediction: A novel approach to vaccine demand prediction with engineered deviation prompts."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41791380",
+      "doi": "10.1016/j.ccell.2026.02.008",
+      "title": "Vascular STING activation facilitates NK cell anti-tumor immunity in small cell lung cancer."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41651474",
+      "doi": "10.1103/ldcn-r2lq",
+      "title": "Evidence for the Collective Nature of Radial Flow in Pb+Pb Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41418209",
+      "doi": "10.1103/gzdh-p159",
+      "title": "Evidence for the Dimuon Decay of the Higgs Boson in pp Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41308123",
+      "doi": "10.1126/science.adv7111",
+      "title": "Structural basis for the recruitment and selective phosphorylation of Akt by mTORC2."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41004732",
+      "doi": "10.1103/bpln-ccql",
+      "title": "Evidence for Longitudinally Polarized W Bosons in the Electroweak Production of Same-Sign W Boson Pairs in Association with Two Jets in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40890138",
+      "doi": "10.1038/s41467-025-63535-7",
+      "title": "Probing stress and magnetism at high pressures with two-dimensional quantum sensors."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40849219",
+      "doi": "10.1016/j.dsx.2025.103278",
+      "title": "Association of eating duration less than 8 h with all-cause, cardiovascular, and cancer mortality."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40782806",
+      "doi": "10.1016/j.chembiol.2025.07.002",
+      "title": "A method for the detection and enrichment of endogenous cereblon substrates."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40512621",
+      "doi": "10.1016/j.celrep.2025.115860",
+      "title": "Airway basal stem cells are necessary for the maintenance of functional intraepithelial airway macrophages."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40279599",
+      "doi": "10.1103/physrevlett.134.142301",
+      "title": "Observation of tt[over ¯] Production in Pb+Pb Collisions at sqrt[s_{NN}]=5.02  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40215501",
+      "doi": "10.1103/physrevlett.134.121801",
+      "title": "Search for Dark Matter Produced in Association with a Dark Higgs Boson in the bb[over ¯] Final State Using pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40196695",
+      "doi": "10.1101/2025.03.24.645063",
+      "title": "A method for the detection and enrichment of endogenous cereblon substrates."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40021189",
+      "doi": "10.1103/physrevlett.134.061803",
+      "title": "Search for Magnetic Monopole Pair Production in Ultraperipheral Pb+Pb Collisions at sqrt[s_{NN}]=5.36  TeV with the ATLAS Detector at the LHC."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39878999",
+      "doi": "10.1103/physrevlett.133.261803",
+      "title": "Simultaneous Unbinned Differential Cross-Section Measurement of Twenty-Four Z+jets Kinematic Observables with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39752696",
+      "doi": "10.1103/physrevlett.133.252301",
+      "title": "Disentangling Sources of Momentum Fluctuations in Xe+Xe and Pb+Pb Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39485985",
+      "doi": "10.1103/physrevlett.133.161804",
+      "title": "Search for the Exclusive W Boson Hadronic Decays W^{±}→π^{±}γ, W^{±}→K^{±}γ and W^{±}→ρ^{±}γ with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39485965",
+      "doi": "10.1103/physrevlett.133.161803",
+      "title": "Search for Light Long-Lived Particles in pp Collisions at sqrt[s]=13  TeV Using Displaced Vertices in the ATLAS Inner Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39423379",
+      "doi": "10.1103/physrevlett.133.141801",
+      "title": "Determination of the Relative Sign of the Higgs Boson Couplings to W and Z Bosons Using WH Production via Vector-Boson Fusion with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39303265",
+      "doi": "10.1103/physrevlett.133.101801",
+      "title": "Combination of Searches for Higgs Boson Pair Production in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39303233",
+      "doi": "10.1103/physrevlett.133.101802",
+      "title": "Studies of the Energy Dependence of Diboson Polarization Fractions and the Radiation-Amplitude-Zero Effect in WZ Production with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39094132",
+      "doi": "10.1103/physrevlett.133.031802",
+      "title": "Statistical Combination of ATLAS Run 2 Searches for Charginos and Neutralinos at the LHC."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38996325",
+      "doi": "10.1103/physrevlett.132.261902",
+      "title": "Combination of Measurements of the Top Quark Mass from Data Collected by the ATLAS and CMS Experiments at sqrt[s]=7 and 8 TeV."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38992374",
+      "doi": "10.1016/j.scitotenv.2024.174462",
+      "title": "Assessing global carbon sequestration and bioenergy potential from microalgae cultivation on marginal lands leveraging machine learning."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38905640",
+      "doi": "10.1103/physrevlett.132.231801",
+      "title": "Combination of Searches for Resonant Higgs Boson Pair Production Using pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38877905",
+      "doi": "10.1103/physrevlett.132.221801",
+      "title": "Search for Nearly Mass-Degenerate Higgsinos Using Low-Momentum Mildly Displaced Tracks in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38829073",
+      "doi": "10.1103/physrevlett.132.202301",
+      "title": "Azimuthal Angle Correlations of Muons Produced via Heavy-Flavor Decays in 5.02 TeV Pb+Pb and pp Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38613283",
+      "doi": "10.1103/physrevlett.132.131802",
+      "title": "Study of High-Transverse-Momentum Higgs Boson Production in Association with a Vector Boson in the qqbb Final State with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38530158",
+      "doi": "10.1126/sciimmunol.adn1452",
+      "title": "The palmitoylation of gasdermin D directs its membrane translocation and pore formation during pyroptosis."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38518341",
+      "doi": "10.1103/physrevlett.132.102301",
+      "title": "Measurement of the Centrality Dependence of the Dijet Yield in p+Pb Collisions at sqrt[s_{NN}]=8.16  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38457710",
+      "doi": "10.1103/physrevlett.132.081801",
+      "title": "Search for New Phenomena in Two-Body Invariant Mass Distributions Using Unsupervised Machine Learning for Anomaly Detection at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38277610",
+      "doi": "10.1103/physrevlett.132.021802",
+      "title": "Observation of WZγ Production in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38277607",
+      "doi": "10.1103/physrevlett.132.021803",
+      "title": "Evidence for the Higgs Boson Decay to a Z Boson and a Photon at the LHC."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38181367",
+      "doi": "10.1103/physrevlett.131.251801",
+      "title": "Search for Dark Photons in Rare Z Boson Decays with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38181336",
+      "doi": "10.1103/physrevlett.131.251802",
+      "title": "Combined Measurement of the Higgs Boson Mass from the H→γγ and H→ZZ^{*}→4ℓ Decay Channels with the ATLAS Detector Using sqrt[s]=7, 8, and 13 TeV pp Collision Data."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38092916",
+      "doi": "10.1038/s41586-023-06812-z",
+      "title": "A high-resolution transcriptomic and spatial atlas of cell types in the whole mouse brain."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "37925689",
+      "doi": "10.1103/physrevlett.131.162301",
+      "title": "Measurement of the Sensitivity of Two-Particle Correlations in pp Collisions to the Presence of Hard Scatterings."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "37897770",
+      "doi": "10.1103/physrevlett.131.151902",
+      "title": "Observation of an Excess of Dicharmonium Events in the Four-Muon Final State with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "37774379",
+      "doi": "10.1021/acs.jpclett.3c01790",
+      "title": "Molecular van der Waals Fluids in Cavity Quantum Electrodynamics."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "37034735",
+      "doi": "10.1101/2023.03.06.531121",
+      "title": "A high-resolution transcriptomic and spatial atlas of cell types in the whole mouse brain."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "36599989",
+      "doi": "10.1038/s41586-022-05561-9",
+      "title": "Pathogenic bacteria modulate pheromone response to promote mating."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "36263097",
+      "doi": "10.1016/j.bioactmat.2022.09.019",
+      "title": "A shear-thinning, ROS-scavenging hydrogel combined with dental pulp stem cells promotes spinal cord repair by inhibiting ferroptosis."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "35859696",
+      "doi": "10.1140/epjc/s10052-022-10549-w",
+      "title": "Scintillation light detection in the 6-m drift-length ProtoDUNE Dual Phase liquid argon TPC."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "35789740",
+      "doi": "10.1038/s41612-022-00276-0",
+      "title": "Disentangling drivers of air pollutant and health risk changes during the COVID-19 lockdown in China."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "35415296",
+      "doi": "10.1016/j.bioactmat.2022.03.033",
+      "title": "A facile and general method for synthesis of antibiotic-free protein-based hydrogel: Wound dressing for the eradication of drug-resistant bacteria and biofilms."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34941261",
+      "doi": "10.1021/acschembio.1c00632",
+      "title": "Multifaceted Regulation of Akt by Diverse C-Terminal Post-translational Modifications."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34720713",
+      "doi": "10.1140/epjc/s10052-021-09007-w",
+      "title": "Prospects for beyond the Standard Model physics searches at the Deep Underground Neutrino Experiment: DUNE Collaboration."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34682150",
+      "doi": "10.3390/children8100885",
+      "title": "Effects of an Internet-Based and Teacher-Facilitated Sexuality Education Package: A Cluster-Randomized Trial."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34627891",
+      "doi": "10.1016/j.scitotenv.2021.150869",
+      "title": "Influence of regional emission controls on the chemical composition, sources, and size distributions of submicron aerosols: Insights from the 2014 Nanjing Youth Olympic Games."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34422781",
+      "doi": "10.3389/fbioe.2021.704048",
+      "title": "Regenerative Medicine Technologies to Treat Dental, Oral, and Craniofacial Defects."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34337570",
+      "doi": "10.1016/j.cpnec.2020.100021",
+      "title": "Linking discrimination and sleep with biomarker profiles: An investigation in the MIDUS study."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34290438",
+      "doi": "10.1038/s41587-021-01000-8",
+      "title": "Publisher Correction: Voices of biotech leaders."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34113035",
+      "doi": "10.1038/s41587-021-00941-4",
+      "title": "Voices of biotech leaders."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34083488",
+      "doi": "10.1126/science.abf1008",
+      "title": "Extensive pleiotropism and allelic heterogeneity mediate metabolic effects of IRX3 and IRX5."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33732807",
+      "doi": "10.21769/bioprotoc.3920",
+      "title": "Generation of the Compression-induced Dedifferentiated Adipocytes (CiDAs) Using Hypertonic Medium."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33711659",
+      "doi": "10.1016/j.jenvman.2021.112296",
+      "title": "Comparison of air pollutants and their health effects in two developed regions in China during the COVID-19 pandemic."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33593919",
+      "doi": "10.1073/pnas.2022179118",
+      "title": "Aqueous production of secondary organic aerosol from fossil-fuel emissions in winter Beijing haze."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33553827",
+      "doi": "10.1016/j.bioactmat.2021.01.024",
+      "title": "Hypoxia response element-directed expression of bFGF in dental pulp stem cells improve the hypoxic environment by targeting pericytes in SCI rats."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33100451",
+      "doi": "10.1016/j.atmosres.2020.105328",
+      "title": "Changes of air quality and its associated health and economic burden in 31 provincial capital cities in China during COVID-19 pandemic."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33013082",
+      "doi": "10.1007/s41027-020-00254-1",
+      "title": "COVID-19, Cities and Urban Informal Workers: India in Comparative Perspective."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32957275",
+      "doi": "10.1016/j.chemosphere.2020.126851",
+      "title": "Chemical characteristics, sources and evolution processes of fine particles in Lin'an, Yangtze River Delta, China."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32869031",
+      "doi": "10.1101/2020.08.27.270819",
+      "title": "Elucidation of remdesivir cytotoxicity pathways through genome-wide CRISPR-Cas9 screening and transcriptomics."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32732423",
+      "doi": "10.1126/science.aay3983",
+      "title": "Allele-specific open chromatin in human iPSC neurons elucidates functional disease variants."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32503967",
+      "doi": "10.1038/s41467-020-16683-x",
+      "title": "Fast sulfate formation from oxidation of SO2 by NO2 and HONO observed in Beijing haze."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32436083",
+      "doi": "10.1007/s11095-020-02800-4",
+      "title": "Correlations Between Skin Barrier Integrity and Delivery of Hydrophilic Molecules in the Presence of Penetration Enhancers."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32380414",
+      "doi": "10.1016/j.omtn.2020.04.003",
+      "title": "Skin Delivery of siRNA Using Sponge Spicules in Combination with Cationic Flexible Liposomes."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32368058",
+      "doi": "10.2147/ijn.s249751",
+      "title": "Topical Application of Exosomes Derived from Human Umbilical Cord Mesenchymal Stem Cells in Combination with Sponge Spicules for Treatment of Photoaging."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32010780",
+      "doi": "10.1126/sciadv.aax5611",
+      "title": "Compression-induced dedifferentiation of adipocytes promotes tumor progression."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "31722174",
+      "doi": "10.1021/acs.est.9b05546",
+      "title": "Characterization of Size-Resolved Hygroscopicity of Black Carbon-Containing Particle in Urban Environment."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "30996125",
+      "doi": "10.1073/pnas.1903048116",
+      "title": "Modular, stereocontrolled Cβ-H/Cα-C activation of alkyl carboxylic acids."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "30873298",
+      "doi": "10.1038/s41551-018-0275-1",
+      "title": "Alginate encapsulation as long-term immune protection of allogeneic pancreatic islet cells transplanted into the omental bursa of macaques."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "30384167",
+      "doi": "10.1016/j.ecoenv.2018.10.006",
+      "title": "Real time analysis of lead-containing atmospheric particles in Guangzhou during wintertime using single particle aerosol mass spectrometry."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "30122294",
+      "doi": "10.1016/j.bpj.2018.07.024",
+      "title": "Protein Motion and Configurations in a Form-Fitting Nanopore: Avidin in ClyA."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "29855126",
+      "doi": "10.1111/gcb.14339",
+      "title": "Field evidences for the positive effects of aerosols on tree growth."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "29533393",
+      "doi": "10.1038/sdata.2018.28",
+      "title": "Tracking vegetation phenology across diverse North American biomes using PhenoCam imagery."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "29333970",
+      "doi": "10.1177/1524838017744768",
+      "title": "Parental Migration, Children's Safety and Psychological Adjustment in Rural China: A Meta-Analysis."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "27474045",
+      "doi": "10.1016/j.bios.2016.06.067",
+      "title": "Macroporous mesh of nanoporous gold in electrochemical monitoring of superoxide release from skeletal muscle cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "27285057",
+      "doi": "10.1016/j.sbi.2016.05.010",
+      "title": "Multi-domain terpenoid cyclase architecture and prospects for proximity in bifunctional catalysis."
+    }
+  ],
+  "attribution": [
+    {
+      "person": "allison-harvey",
+      "doi": "10.1192/bjo.2019.4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.1037/ccp0000650",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.1037/ccp0000423",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.1080/15374416.2017.1416620",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.1016/j.jcm.2017.02.001",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.1037/pro0000246",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.1016/j.jcm.2017.10.002",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.1093/jsxmed/qdad060.440",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.15453/2168-6408.2322",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.31234/osf.io/57jyg",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.31234/osf.io/qma4f",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1056/nejmoa1914510",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1037/tra0000685",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1146/annurev-psych-011123-024224",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.janxdis.2020.102297",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1038/s44159-023-00233-5",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1177/2167702620956972",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1111/aphw.12276",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1038/s41562-025-02168-8",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1037/amp0000958",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1038/s44220-024-00215-3",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1200/jco.23.02172",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1080/10615806.2022.2130268",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.paid.2018.01.010",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.jad.2020.05.126",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1080/20008066.2022.2115635",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.3389/fpls.2022.1028987",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.3389/fpsyt.2021.596872",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.jpsychires.2022.01.024",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.3390/ijms23063075",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1038/s41598-023-34399-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1017/s0954579422000475",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1177/25152459251326571",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1111/jora.13045",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.lungcan.2016.12.018",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.3389/fpsyg.2017.02274",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1186/s12889-022-14119-3",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1111/ppl.14242",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1007/s10608-025-10591-4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1007/s10608-025-10627-9",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1158/1078-0432.ccr-18-1539",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1111/bjc.12395",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.3389/fimmu.2018.02916",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1111/bjc.12443",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1097/md.0000000000040158",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1007/s42761-024-00261-1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1017/s0954579425000355",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1007/s10608-025-10638-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.jtho.2016.11.1712",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1007/s10865-024-00485-3",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.paid.2025.113232",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1002/pmrj.13365",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.jpsychires.2025.04.044",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1177/21677026251369840",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1037/cps0000326",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.brat.2024.104652",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1200/jco.2025.43.16_suppl.tps9596",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.jtho.2023.01.069",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1002/jts.70078",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.25251/skin.7.supp.179",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.31234/osf.io/pnwvj",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.31234/osf.io/y9svn",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.31234/osf.io/egrvb_v2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.annonc.2021.05.640",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.1016/j.jaad.2023.07.829",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.31234/osf.io/egrvb",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.31234/osf.io/egrvb_v1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.31234/osf.io/f6wr4_v1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-chen",
+      "doi": "10.31234/osf.io/akyhq_v1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1186/s12916-018-1244-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.socscimed.2017.04.007",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.jadohealth.2017.06.024",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.socscimed.2016.11.040",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.jaac.2017.06.010",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1177/0146167217741313",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1080/15374416.2016.1247360",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.socscimed.2017.04.019",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1037/ccp0000724",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1001/jamapsychiatry.2018.0757",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1542/peds.2017-0432",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1186/s12889-019-7346-4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1097/qai.0000000000001519",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.2105/ajph.2021.306710",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1111/josi.12229",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1073/pnas.1712897115",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.drugalcdep.2017.05.040",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.socscimed.2019.112463",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1542/peds.2018-2116",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.adolescence.2019.06.008",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.socscimed.2017.04.020",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1080/10253890.2019.1579793",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1542/peds.2022-058316",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1097/qai.0000000000002395",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1097/qai.0000000000001961",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.amepre.2017.02.004",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1007/s10654-018-0411-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1111/1468-0009.12391",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1097/qai.0000000000002151",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1001/jamapediatrics.2016.4732",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.annepidem.2017.07.002",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.3389/fpubh.2017.00357",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1016/j.ssmph.2018.100327",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1007/s10865-018-9913-z",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1093/eurpub/cky212.790",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1093/eurpub/cky213.790",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.31234/osf.io/ujgp2_v3",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1097/01.ede.0001281924.27925.7f",
+      "issue": "Eligible appointment at publication unverified"
+    }
+  ]
+}

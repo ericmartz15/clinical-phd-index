@@ -1,0 +1,24 @@
+{
+  "asOf": "2026-11-19",
+  "directories": {
+    "PCSAS": {
+      "status": "Current directory parsed",
+      "records": 51,
+      "source": "https://pcsas.org/pcsas-accredited-programs/"
+    },
+    "CPA": {
+      "status": "Doctoral directory parsed. Degree and active-track review in progress.",
+      "records": 36,
+      "source": "https://cpa.ca/accreditation/CPAaccreditedprograms/"
+    },
+    "APA": {
+      "status": "Current public clinical and combined PhD search returned 192 entries. 192 linked to distinct program records. Directory data dated May 18, 2026.",
+      "source": "https://accreditation.apa.org/public-notice-programs-database",
+      "historicalSource": "https://digital.apa.org/accred-mirr/irp.cdn-website.com/a14f9462/files/uploaded/2024_APA_Accredited_Doctoral_Programs-f64c182f.pdf"
+    },
+    "CUDCP": {
+      "status": "201 public member-directory entries captured. 166 linked to distinct program entries; other entries require track and degree review.",
+      "source": "https://cudcp.org/CUDCP-member-programs"
+    }
+  }
+}

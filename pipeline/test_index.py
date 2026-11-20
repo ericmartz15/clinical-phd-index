@@ -1,0 +1,71 @@
+import unittest
+
+from build import audit
+from common import creditable_appointments, doi_key, merge, normalize, weight
+from directories import cpa_rows
+from sources import published_byline
+
+
+class ScoringTest(unittest.TestCase):
+    def test_weight_rules(self):
+        self.assertEqual(weight(1, 1), 1)
+        self.assertEqual([weight(2, i) for i in range(1, 3)], [.5, .5])
+        self.assertEqual([weight(4, i) for i in range(1, 5)], [2/6, 1/6, 1/6, 2/6])
+        self.assertEqual([weight(4, i, (2,)) for i in range(1, 5)], [2/7, 2/7, 1/7, 2/7])
+        self.assertEqual(weight(51, 5), 0)
+        self.assertAlmostEqual(sum(weight(51, i, (2,), (50,)) for i in range(1, 52)), 1)
+
+    def test_publication_time_and_year_boundaries(self):
+        person = {"appointments": [
+            {"program": "A", "role": "tenure-track", "start":"2019-03-01", "end":"2023",
+             "source":"CV", "affiliations":["Old University"]},
+            {"program": "B", "role": "tenure-track", "start":"2023", "end":None,
+             "source":"CV", "affiliations":["New University"]},
+            {"program": "C", "role": "postdoc", "start":"2015", "end":"2019", "source":"CV"}
+        ]}
+        self.assertEqual(creditable_appointments(person, "2019-01-01", []), [])
+        self.assertEqual([a["program"] for a in creditable_appointments(person, "2023-03-01", ["Old University"])], ["A"])
+        self.assertEqual([a["program"] for a in creditable_appointments(person, "2024-03-01", ["Old University"])], ["B"])
+
+
+class DataTest(unittest.TestCase):
+    def test_title_dash_is_normalized_consistently(self):
+        self.assertEqual(normalize("Decision‐making"), normalize("decision-making"))
+
+    def test_merge_retains_source_and_preprint(self):
+        original = {"title":"A paper", "doi":"10.1234/x", "date":"2022-06-01", "kind":"journal",
+                    "provenance":[{"source":"OpenAlex"}], "evidenceDates":[{"date":"2022-06-01","type":"publication"}]}
+        publisher = dict(original, doi="https://doi.org/10.1234/X", provenance=[{"source":"Crossref"}],
+                         evidenceDates=[{"date":"2022-04-01","type":"published-online"}])
+        preprint = dict(original, kind="preprint", doi="10.31234/other")
+        records = merge([original, publisher, preprint])
+        self.assertEqual(len(records), 2)
+        article = next(work for work in records if work["kind"] == "journal")
+        self.assertEqual(article["date"], "2022-04-01")
+        self.assertEqual(doi_key(publisher["doi"]), article["doi"])
+        self.assertEqual(len(article["provenance"]), 2)
+
+    def test_no_small_sample_promotion(self):
+        faculty = [{"id":"a","appointments":[{"role":"tenure-track","current":True}]}]
+        refs = {"a":{"complete":True,"papers":[{"kind":"journal","date":"2025-01-01","title":"Paper"}]}}
+        works = [{"kind":"journal","date":"2025-01-01","title":"Paper","doi":"",
+                  "people":{"a":{}}, "databaseMissing":False}]
+        result = audit(faculty, works, refs, 13, "holdout", "2021-01-01", "2026-01-01")
+        self.assertEqual(result["diagnosticRecall"], 1)
+        self.assertIsNone(result["recall"])
+        self.assertFalse(result["targetMet"])
+
+    def test_explicit_jats_first_author_group(self):
+        xml = b"""<article><front><article-meta>
+        <article-id pub-id-type="doi">10.1234/a</article-id><contrib-group>
+        <contrib contrib-type="author"><xref rid="eq"/></contrib>
+        <contrib contrib-type="author"><xref rid="eq"/></contrib>
+        <contrib contrib-type="author"/>
+        </contrib-group><author-notes><fn id="eq"><p>These authors contributed equally.</p></fn></author-notes>
+        </article-meta></front></article>"""
+        self.assertEqual(published_byline(xml,"10.1234/a",3)["firstPositions"], [1,2])
+        self.assertIsNone(published_byline(xml,"10.1234/z",3))
+
+    def test_cpa_program_scope(self):
+        html = '<a id="clinical"></a><table><h4><a href="https://example.org/phd">PhD University</a></h4>Accredited<h4><a href="https://example.org/psyd">PsyD School</a></h4>Accredited</table>'
+        self.assertEqual([row["name"] for row in cpa_rows(html)], ["PhD University"])

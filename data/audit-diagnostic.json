@@ -1,0 +1,74 @@
+{
+  "person": "matthew-nock",
+  "source": "https://nocklab.fas.harvard.edu/journal-articles",
+  "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",
+  "papers": [
+    {
+      "year": 2025,
+      "title": "Predicting firearm suicide among US Army veterans transitioning from active service"
+    },
+    {
+      "year": 2025,
+      "title": "Pilot microrandomized trial of a brief digital intervention for suicidal thoughts"
+    },
+    {
+      "year": 2025,
+      "title": "Emotion processing and electrodermal activity in young people who self-harm"
+    },
+    {
+      "year": 2025,
+      "title": "Engagement in ecological momentary assessment of suicidal thoughts and behaviors: A mixed methods study"
+    },
+    {
+      "year": 2025,
+      "title": "Interoceptive accuracy, sensitivity, and attention are associated with suicidal thoughts and behaviors"
+    },
+    {
+      "year": 2025,
+      "title": "Identifying therapeutic characteristics of digital social media narratives about suicide: A mixed methods investigation"
+    },
+    {
+      "year": 2024,
+      "title": "Enhancing Suicide Risk Prediction With Polygenic Scores in Psychiatric Emergency Settings: Prospective Study"
+    },
+    {
+      "year": 2024,
+      "title": "The Lancet Commission on self-harm"
+    },
+    {
+      "year": 2024,
+      "title": "Smartphone Screen Time Characteristics in People With Suicidal Thoughts: Retrospective Observational Data Analysis Study"
+    },
+    {
+      "year": 2024,
+      "title": "The short-term course of nonsuicidal self-injury among individuals seeking psychiatric treatment"
+    },
+    {
+      "year": 2024,
+      "title": "Suicide decision-making: Differences in proximal considerations between individuals who aborted and attempted suicide"
+    },
+    {
+      "year": 2024,
+      "title": "Detecting suicide risk among U.S. servicemembers and veterans: a deep learning approach using social media data"
+    }
+  ],
+  "iterations": [
+    {
+      "matched": 7,
+      "denominator": 12,
+      "finding": "The unkeyed ten-year OpenAlex query hit the first-page limit."
+    },
+    {
+      "matched": 11,
+      "denominator": 12,
+      "finding": "Year-bounded public queries recovered four records. One remaining apparent miss came from different hyphen characters.",
+      "evidence": "https://pubmed.ncbi.nlm.nih.gov/39221628/"
+    },
+    {
+      "matched": 12,
+      "denominator": 12,
+      "finding": "Unicode dash normalization aligned the last article with the existing OpenAlex record.",
+      "evidence": "https://openalex.org/W4402135442"
+    }
+  ]
+}

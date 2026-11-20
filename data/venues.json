@@ -1,0 +1,33 @@
+{
+  "top": [
+    ["Journal of Consulting and Clinical Psychology", "0022-006X", "1939-2117"],
+    ["Journal of Psychopathology and Clinical Science / Journal of Abnormal Psychology", "2769-7541", "2769-755X", "0021-843X", "1939-1846"],
+    ["Clinical Psychological Science", "2167-7026", "2167-7034"],
+    ["Behaviour Research and Therapy", "0005-7967", "1873-622X"],
+    ["Behavior Therapy", "0005-7894", "1878-1888"],
+    ["Clinical Psychology Review", "0272-7358", "1873-7811"],
+    ["Journal of Clinical Child & Adolescent Psychology", "1537-4416", "1537-4424"],
+    ["Development and Psychopathology", "0954-5794", "1469-2198"],
+    ["Psychological Assessment", "1040-3590", "1939-134X"],
+    ["Assessment", "1073-1911", "1552-3489"],
+    ["Psychological Bulletin", "0033-2909", "1939-1455"],
+    ["Annual Review of Clinical Psychology", "1548-5943", "1548-5951"],
+    ["Journal of Anxiety Disorders", "0887-6185", "1873-7897"],
+    ["Depression and Anxiety", "1091-4269", "1520-6394"],
+    ["Cognitive Therapy and Research", "0147-5916", "1573-2819"],
+    ["Cognitive and Behavioral Practice", "1077-7229", "1878-187X"],
+    ["Journal of Traumatic Stress", "0894-9867", "1573-6598"],
+    ["Journal of Child Psychology and Psychiatry", "0021-9630", "1469-7610"],
+    ["Journal of the American Academy of Child & Adolescent Psychiatry", "0890-8567", "1527-5418"],
+    ["JAMA Psychiatry", "2168-622X", "2168-6238"],
+    ["American Journal of Psychiatry", "0002-953X", "1535-7228"],
+    ["The Lancet Psychiatry", "2215-0366", "2215-0374"],
+    ["Biological Psychiatry", "0006-3223", "1873-2402"],
+    ["Psychological Medicine", "0033-2917", "1469-8978"]
+  ],
+  "digital": [
+    ["npj Digital Medicine", "2398-6352"],
+    ["JMIR Mental Health", "2368-7959"],
+    ["Nature Human Behaviour", "2397-3374"]
+  ]
+}

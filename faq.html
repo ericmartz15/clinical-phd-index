@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore publication-based rankings of clinical psychology PhD programs and see the faculty and papers behind each score.">
+  <title>Methodology and FAQ · Clinical PhD Index</title>
+  <link rel="icon" href="assets/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="publication-data.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">ψ</span> Clinical PhD Index</a>
+      <nav aria-label="Main navigation">
+        <a href="index.html">Rankings</a>
+        <a href="faq.html">Methodology <span aria-hidden="true">&amp;</span><span class="sr-only">and</span> FAQ</a>
+        <a class="data-nav" href="data-quality.html">Data quality <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+
+<main class="wrap secondary-page">
+
+  <p class="eyebrow">METHODOLOGY</p>
+  <h1>How we rank.</h1>
+  <p class="page-description">Publication attribution, program eligibility, scoring, and recall.</p>
+  <div class="faq-grid">
+    <aside class="toc" aria-label="On this page"><strong>On this page</strong><a href="#programs">Program eligibility</a><a href="#scoring">Scoring</a><a href="#journals">Venue lists</a><a href="#recall">Recall</a><a href="#sources">Data sources</a></aside>
+    <article class="faq-content">
+      <section id="programs"><h2>Program eligibility</h2>
+        <p>Eligible programs offer an active clinical psychology PhD track and appear in the APA, PCSAS, CPA, or CUDCP directories. CUDCP membership and each accreditation status have separate labels. Combined PhD tracks include faculty listed under the clinical track. CUDCP affiliates outside the United States and Canada can be included using the international toggle. The directory retains historical program entries for lookup.</p>
+        <p>Core tenure-track and research-track faculty are eligible. Postdocs, graduate students, adjuncts, and emeriti are excluded. A program needs a complete reviewed roster and resolved author records before it can be ranked.</p>
+      </section>
+      <section id="scoring"><h2>Publication credit</h2>
+        <p>In fractional mode, each author receives 1/n of a paper with n authors. In weighted mode, first and last receive 2/(n+2) each and middle authors receive 1/(n+2). A solo author gets the whole point and two authors split it evenly.</p>
+        <p>If publisher metadata explicitly marks co-first or co-senior authors, all marked positions receive the outer-author weight, with weights normalized to sum to one. For papers with more than 50 authors, weighted credit is divided equally among the first and last positions and their documented co-first or co-senior positions. Other authors receive zero in weighted mode.</p>
+        <p>Credit goes to the eligible program at the earliest documented official publication date. Publication affiliations corroborate dated appointment records and can resolve uncertain appointment boundaries. Papers from before an eligible appointment earn no program credit. Work that appears right after a move may reflect research done at the previous lab. The current-faculty toggle keeps publication-time attribution and restricts each program’s count to faculty still on its roster.</p>
+      </section>
+      <section id="journals"><h2>Venue lists</h2>
+        <p>The default view targets journal articles and reviews, including meta-analyses. Source publication types serve as a peer-review proxy where item-level evidence is unavailable. PsyArXiv preprints appear in a separate view and contribute zero to journal rankings. Research subfields use work titles and available topic metadata independent of venue.</p>
+        <h3>Top clinical journals</h3><ol><li>Journal of Consulting and Clinical Psychology</li><li>Journal of Psychopathology and Clinical Science / Journal of Abnormal Psychology</li><li>Clinical Psychological Science</li><li>Behaviour Research and Therapy</li><li>Behavior Therapy</li><li>Clinical Psychology Review</li><li>Journal of Clinical Child &amp; Adolescent Psychology</li><li>Development and Psychopathology</li><li>Psychological Assessment</li><li>Assessment</li><li>Psychological Bulletin</li><li>Annual Review of Clinical Psychology</li><li>Journal of Anxiety Disorders</li><li>Depression and Anxiety</li><li>Cognitive Therapy and Research</li><li>Cognitive and Behavioral Practice</li><li>Journal of Traumatic Stress</li><li>Journal of Child Psychology and Psychiatry</li><li>Journal of the American Academy of Child &amp; Adolescent Psychiatry</li><li>JAMA Psychiatry</li><li>American Journal of Psychiatry</li><li>The Lancet Psychiatry</li><li>Biological Psychiatry</li><li>Psychological Medicine</li></ol>
+        <h3>Computational and digital venues</h3><ol><li>npj Digital Medicine</li><li>JMIR Mental Health</li><li>Nature Human Behaviour</li></ol>
+        <p>Journal of Affective Disorders is eligible in the all-journals view.</p>
+      </section>
+      <section id="recall"><h2>How recall is measured</h2>
+        <p>A seeded sample of 50 faculty is selected before their five-year CV or lab lists are compared with retrieved publications. The report records the denominator, matched papers, unavailable references, and misses. Fixes are checked against a fresh sample. A sample estimates recall and leaves uncertainty about individual faculty coverage.</p>
+        <p><a href="data-quality.html">See the current data-quality report</a></p>
+      </section>
+      <section id="sources"><h2>Data sources</h2>
+        <p>OpenAlex provides author identities and primary works. PubMed, Crossref, Semantic Scholar, and public CV and lab lists supply cross-checks. The datasets store source links, publication dates, and attribution evidence. The review queue contains unresolved matches and coverage gaps.</p>
+        <p><a href="data-quality.html">Download coverage and publication datasets</a> · <a href="report.html">Report a missing paper or wrong match</a></p>
+      </section>
+    </article>
+  </div>
+
+</main>
+  <footer class="site-footer">
+    <div class="wrap footer-inner"><a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">ψ</span> Clinical PhD Index</a><p>Publication data from <a href="https://openalex.org/">OpenAlex</a> and official faculty records.</p><a href="faq.html">Methodology &amp; FAQ <span aria-hidden="true">↗</span></a></div>
+  </footer>
+</body>
+</html>

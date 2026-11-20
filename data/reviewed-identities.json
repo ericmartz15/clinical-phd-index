@@ -1,0 +1,7 @@
+{
+  "matthew-nock": {
+    "ids": ["A5082317510"], "confidence": 1, "status": "resolved",
+    "evidence": ["OpenAlex name, Harvard affiliation and suicide research agree with the official CV. A possible secondary author ID remains under review."],
+    "splitReview": true
+  }
+}

@@ -1,0 +1,1330 @@
+[
+  {
+    "name": "University of South Alabama",
+    "programId": "program-183",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611195/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Florida State University",
+    "programId": "program-037",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610526/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Mississippi State University",
+    "programId": "program-087",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25619778/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "John Jay College of Criminal Justice - The City University of New York",
+    "programId": "program-111",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/28041532/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "The New School",
+    "programId": "program-113",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611157/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Central Michigan University",
+    "programId": "program-077",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610521/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Rowan University",
+    "programId": "program-099",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/37822764/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Central Florida",
+    "programId": "program-034",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610553/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of California Los Angeles",
+    "programId": "ucla",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610552/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Maryland at College Park",
+    "programId": "program-069",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610565/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Texas - Southwestern Medical Center",
+    "programId": "program-161",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610579/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Washington",
+    "programId": "program-174",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610582/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Denver",
+    "programId": "program-025",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610557/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Cincinnati",
+    "programId": "program-129",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610554/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Hawaii",
+    "programId": "program-044",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610560/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Texas Tech University",
+    "programId": "program-164",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610545/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Syracuse University",
+    "programId": "program-117",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611153/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Kansas-Clinical Child Program",
+    "programId": "program-062",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611175/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Toledo",
+    "programId": "program-134",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611202/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of California Berkley",
+    "programId": "berkeley",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611166/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Yale University",
+    "programId": "yale",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611209/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Wichita State University",
+    "programId": "program-063",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25612723/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Colorado Denver",
+    "programId": "program-024",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611169/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Missouri - Kansas City",
+    "programId": "program-089",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611184/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Brigham Young University",
+    "programId": "program-165",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611113/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Univ of Texas - Dallas",
+    "programId": "program-189",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/67891357/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Oregon Health & Science University",
+    "programId": "program-138",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/47919286/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Bowling Green State University",
+    "programId": "program-127",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611112/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Nova Southeastern University",
+    "programId": "program-039",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611145/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Saskatchewan",
+    "programId": "university-of-saskatchewan",
+    "status": "International Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610576/6514332",
+    "degree": "Doctorate to verify",
+    "clinical": true
+  },
+  {
+    "name": "University of Mississippi",
+    "programId": "program-086",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611148/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Indiana University Indianapolis",
+    "programId": "program-057",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611137/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Ohio State University",
+    "programId": "program-132",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611146/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Georgia State University",
+    "programId": "program-043",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611129/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Montclair State University",
+    "programId": "program-098",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/57623980/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Purdue University",
+    "programId": "program-059",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610537/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Stony Brook University",
+    "programId": "program-116",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25282993/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Kansas Clinical Psychological Science Program",
+    "programId": "program-061",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611139/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Southern Mississippi",
+    "programId": "program-088",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611199/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "DePaul University",
+    "programId": "program-046",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610523/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Wisconsin - Milwaukee",
+    "programId": "program-179",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610584/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "American University",
+    "programId": "program-029",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610514/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "George Washington University",
+    "programId": "program-032",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610527/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Ottawa",
+    "programId": "university-of-ottawa",
+    "status": "International Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610574/6514332",
+    "degree": "Doctorate to verify",
+    "clinical": true
+  },
+  {
+    "name": "Northern Illinois University",
+    "programId": "program-051",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610535/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Northwestern University Feinberg School of Medicine",
+    "programId": "program-053",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610536/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Maine",
+    "programId": "program-067",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610564/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Alabama",
+    "programId": "program-002",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610548/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Illinois at Urbana-Champaign",
+    "programId": "program-048",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610561/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Suffolk University",
+    "programId": "program-076",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610544/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Virginia School of Education and Human Development",
+    "programId": "program-186",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/26631100/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Vanderbilt University",
+    "programId": "program-155",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611206/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Massachusetts - Amherst",
+    "programId": "program-074",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611180/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Arizona",
+    "programId": "program-005",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611163/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Texas at Austin",
+    "programId": "program-188",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611200/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Georgia",
+    "programId": "georgia",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611171/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Montana",
+    "programId": "program-093",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611185/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Southern California Dornife",
+    "programId": "usc",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611196/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Pennsylvania State university",
+    "programId": "program-143",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611149/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "George Mason University",
+    "programId": "program-168",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611128/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Utah State University",
+    "programId": "program-185",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610586/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Marquette University",
+    "programId": "program-177",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611142/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Illinois Institute of Technology",
+    "programId": "program-049",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611133/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Virginia Polytechnic Institute and State University",
+    "programId": "program-172",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610587/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Alaska Anchorage",
+    "programId": "program-004",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611162/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of North Carolina Greensboro",
+    "programId": "program-124",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610572/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Eastern Michigan University",
+    "programId": "program-079",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610525/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Nevada - Las Vegas",
+    "programId": "program-095",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610569/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Massachusets - Boston",
+    "programId": "program-075",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611179/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Virginia Commonwealth University",
+    "programId": "program-170",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611207/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Arizona State University",
+    "programId": "program-006",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611110/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Texas Rio Grande Valley",
+    "programId": "program-160",
+    "status": "Provisional Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/47879651/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Miami",
+    "programId": "program-038",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25282994/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Duke University",
+    "programId": "duke",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611119/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Emory University",
+    "programId": "emory",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25282988/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Auburn University",
+    "programId": "program-003",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610516/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Iowa",
+    "programId": "program-060",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610562/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Saint Louis University",
+    "programId": "program-091",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610543/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of North Texas",
+    "programId": "program-157",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610573/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Alabama Birmingham",
+    "programId": "program-001",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610549/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Detroit Mercy",
+    "programId": "program-078",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610558/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Tulsa",
+    "programId": "program-136",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610546/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University at Albany",
+    "programId": "program-103",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610547/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Calgary",
+    "programId": "university-of-calgary",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610551/6514332",
+    "degree": "Doctorate to verify",
+    "clinical": true
+  },
+  {
+    "name": "University of Vermont",
+    "programId": "program-167",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610581/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Rutgers University Clinical Psychology Ph.D.",
+    "programId": "program-100",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/29129252/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of New Mexico",
+    "programId": "program-101",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610570/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of North Carolina - Charlotte",
+    "programId": "program-123",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610571/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Houston",
+    "programId": "program-156",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611173/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Loyola University Chicago",
+    "programId": "program-050",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611167/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Notre Dame",
+    "programId": "program-058",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611190/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Southern Illinois University Carbondale",
+    "programId": "program-055",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611152/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Pittsburgh",
+    "programId": "program-144",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611194/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Pennsylvania",
+    "programId": "penn",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611192/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Virginia",
+    "programId": "program-169",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611203/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Texas A&M University",
+    "programId": "program-163",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611155/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of South Carolina",
+    "programId": "program-150",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611197/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Connecticut",
+    "programId": "program-026",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611170/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Oregon",
+    "programId": "program-137",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611191/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Florida International University",
+    "programId": "program-036",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611123/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "East Carolina University Clinical Health Psychology  Program",
+    "programId": "program-121",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611120/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Yeshiva University",
+    "programId": "program-119",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610590/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "St. John's University",
+    "programId": "program-115",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/41775724/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Louisiana State University",
+    "programId": "program-066",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611141/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Virginia State University",
+    "programId": "program-181",
+    "status": "Provisional Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/37223467/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Kentucky",
+    "programId": "program-064",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611177/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of North Carolina Chapel Hill",
+    "programId": "program-122",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25282991/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Pacific University",
+    "programId": "program-139",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/37822771/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Wayne State University",
+    "programId": "program-082",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610589/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "East Tenneessee State Univerity",
+    "programId": "program-152",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610524/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Case Western Reserve University",
+    "programId": "program-128",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610519/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Kent State University",
+    "programId": "program-130",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610530/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of North Carolina - Wilmington",
+    "programId": "program-125",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/31309144/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Catholic University of America",
+    "programId": "program-030",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610520/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "City College of New York - CUNY",
+    "programId": "program-106",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610522/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Washington State University",
+    "programId": "program-175",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25282995/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Oklahoma State University",
+    "programId": "program-135",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25457238/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Delaware",
+    "programId": "program-028",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610556/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Wyoming",
+    "programId": "program-180",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610585/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Utah",
+    "programId": "program-166",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610580/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Colorado at Colorado Springs",
+    "programId": "program-022",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610555/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Michigan",
+    "programId": "program-081",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610567/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Maryland, Baltimore County (UMBC)",
+    "programId": "program-068",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610566/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Rochester",
+    "programId": "program-114",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/26119799/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Tennessee",
+    "programId": "program-154",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610578/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of California Santa Barbara",
+    "programId": "program-184",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611156/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Nevada - Reno",
+    "programId": "program-096",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611187/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Clark University",
+    "programId": "program-072",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611115/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Drexel University",
+    "programId": "program-140",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611118/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Indiana University",
+    "programId": "program-056",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611135/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Fordham University",
+    "programId": "program-108",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/48626890/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Hofstra University",
+    "programId": "program-109",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611130/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "UC Irvine",
+    "programId": "program-014",
+    "status": "Provisional Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/62105079/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Boston University",
+    "programId": "program-071",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611111/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "New York University",
+    "programId": "program-187",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/77776230/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Idaho State University",
+    "programId": "program-045",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610528/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Florida",
+    "programId": "program-035",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610559/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "San Diego State University",
+    "programId": "program-020",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25320630/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Loma Linda University",
+    "programId": "program-018",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610531/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Arkansas",
+    "programId": "program-007",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25282990/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Missouri",
+    "programId": "program-190",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25283000/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of South Dakota",
+    "programId": "program-151",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610577/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Louisville",
+    "programId": "program-065",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610563/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "West Virginia University",
+    "programId": "program-176",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610583/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Rosalind Franklin University",
+    "programId": "program-054",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610538/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Southern Methodist University",
+    "programId": "program-159",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610541/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Carlos Albizu University",
+    "programId": "program-146",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/28005381/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Uniformed Services University, Department of Medical and Clinical Psychology",
+    "programId": "program-070",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/26965120/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Sam Houston State University",
+    "programId": "program-158",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611150/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Illinois at Chicago",
+    "programId": "program-047",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611174/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Nebraska-Lincoln",
+    "programId": "program-094",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611186/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Temple University",
+    "programId": "program-145",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611154/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of North Dakota",
+    "programId": "program-126",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611188/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Virginia Consortium Program in Clinical Psychology",
+    "programId": "program-171",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611159/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of South Florida",
+    "programId": "program-040",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611198/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Minnesota",
+    "programId": "program-084",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611183/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Memphis",
+    "programId": "program-153",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611181/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Simon Fraser University",
+    "programId": "simon-fraser-university",
+    "status": "International Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611151/6514332",
+    "degree": "Doctorate to verify",
+    "clinical": true
+  },
+  {
+    "name": "McGill University",
+    "programId": "program-193",
+    "status": "International Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610532/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "programId": "program-092",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25610588/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Ohio University",
+    "programId": "program-133",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611147/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Michigan State University",
+    "programId": "program-080",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611143/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Gallaudet University",
+    "programId": "program-031",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611127/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "Oregon State University",
+    "programId": "program-192",
+    "status": "Provisional Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/82299231/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Texas at Tyler",
+    "programId": "program-162",
+    "status": "Provisional Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/48850646/6514332",
+    "degree": "PhD",
+    "clinical": true
+  },
+  {
+    "name": "University of Rhode Island",
+    "programId": "program-149",
+    "status": "CUDCP Full Member",
+    "source": "https://cudcp.org/Sys/PublicProfile/25611160/6514332",
+    "degree": "PhD",
+    "clinical": true
+  }
+]

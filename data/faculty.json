@@ -1,0 +1,484 @@
+[
+  {
+    "id": "matthew-nock",
+    "name": "Matthew K. Nock",
+    "aliases": [
+      "Matthew Nock"
+    ],
+    "areas": [
+      "suicide",
+      "self harm",
+      "ecological momentary assessment",
+      "clinical psychology"
+    ],
+    "lab": "https://nocklab.fas.harvard.edu/",
+    "cv": "https://nocklab.fas.harvard.edu/sites/g/files/omnuum9586/files/2026-01/Nock%20CV%20Jan%202026_0.pdf",
+    "orcid": "0000-0001-6508-1145",
+    "orcidSource": "https://openalex.org/A5082317510",
+    "appointments": [
+      {
+        "program": "harvard",
+        "role": "tenure-track",
+        "start": "2003",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Harvard University"
+        ],
+        "source": "https://nocklab.fas.harvard.edu/sites/g/files/omnuum9586/files/2026-01/Nock%20CV%20Jan%202026_0.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5082317510"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "OpenAlex name, Harvard affiliation and suicide research agree with the official CV. A possible secondary author ID remains under review."
+      ],
+      "splitReview": true
+    },
+    "retrieval": {
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "sampled",
+        "Semantic Scholar": "sampled",
+        "PsyArXiv": "queried"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "richard-mcnally",
+    "name": "Richard J. McNally",
+    "aliases": [
+      "Richard McNally"
+    ],
+    "areas": [
+      "trauma",
+      "anxiety disorders",
+      "posttraumatic stress disorder",
+      "clinical psychology"
+    ],
+    "appointments": [
+      {
+        "program": "harvard",
+        "role": "tenure-track",
+        "start": "1991",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Harvard University"
+        ],
+        "source": "https://psychology.fas.harvard.edu/people/richard-j-mcnally"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5035867363"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5035867363",
+          "name": "Richard J. McNally",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5006345281",
+          "name": "Richard McNally",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5017322582",
+          "name": "Rory D McNally",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5021511462",
+          "name": "Richard McNally",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5049991634",
+          "name": "Richard McNally",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "sampled",
+        "Semantic Scholar": "sampled",
+        "PsyArXiv": "queried"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "jill-hooley",
+    "name": "Jill M. Hooley",
+    "aliases": [
+      "Jill Hooley",
+      "Jill Miranda Hooley"
+    ],
+    "areas": [
+      "psychopathology",
+      "self injury",
+      "borderline personality disorder",
+      "clinical psychology"
+    ],
+    "lab": "https://hooleylab.psych.fas.harvard.edu/",
+    "cv": "https://hooleylab.psych.fas.harvard.edu/sites/g/files/omnuum9511/files/2025-08/CV_0.pdf",
+    "appointments": [
+      {
+        "program": "harvard",
+        "role": "tenure-track",
+        "start": "1991",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Harvard University"
+        ],
+        "source": "https://hooleylab.psych.fas.harvard.edu/sites/g/files/omnuum9511/files/2025-08/CV_0.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5012541905"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5012541905",
+          "name": "Jill M. Hooley",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5074588064",
+          "name": "D.Phil. Jill Miranda Hooley",
+          "confidence": 0.18,
+          "evidence": [
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "sampled",
+        "Semantic Scholar": "sampled",
+        "PsyArXiv": "queried"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "allison-harvey",
+    "name": "Allison G. Harvey",
+    "aliases": [
+      "Allison Harvey"
+    ],
+    "areas": [
+      "sleep",
+      "mood disorders",
+      "cognitive behavioral therapy",
+      "clinical psychology"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "UC Berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/people/allison-harvey"
+      }
+    ],
+    "orcid": "0000-0002-8609-0005",
+    "orcidSource": "https://vcresearch.berkeley.edu/faculty/allison-harvey",
+    "lab": "https://harveysleeplab.berkeley.edu/",
+    "identity": {
+      "ids": [
+        "A5075976451"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "ORCID match"
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "sampled",
+        "Semantic Scholar": "sampled",
+        "PsyArXiv": "queried"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "michelle-craske",
+    "name": "Michelle G. Craske",
+    "aliases": [
+      "Michelle Craske",
+      "Michelle Genevieve Craske"
+    ],
+    "areas": [
+      "anxiety",
+      "fear learning",
+      "exposure therapy",
+      "clinical psychology"
+    ],
+    "lab": "https://anxiety.psych.ucla.edu/",
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": "1990",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "UCLA"
+        ],
+        "source": "https://anxiety.psych.ucla.edu/wp-content/uploads/sites/174/2018/06/Publications-Craske.pdf"
+      }
+    ],
+    "orcid": "0000-0002-3704-5240",
+    "orcidSource": "https://bri.ucla.edu/people/michelle-craske/",
+    "identity": {
+      "ids": [
+        "A5009316140"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "ORCID match"
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "sampled",
+        "Semantic Scholar": "sampled",
+        "PsyArXiv": "queried"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "mark-chen",
+    "name": "Mark S. Chen",
+    "aliases": [
+      "Mark Chen",
+      "Mark Shuquan Chen",
+      "Shuquan Chen"
+    ],
+    "areas": [
+      "emotion regulation",
+      "psychopathology",
+      "ecological momentary assessment",
+      "depression",
+      "anxiety"
+    ],
+    "lab": "https://epiclab.fas.harvard.edu/",
+    "appointments": [
+      {
+        "program": "harvard",
+        "role": "tenure-track",
+        "start": "2026-07-01",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Harvard University"
+        ],
+        "source": "https://psychology.fas.harvard.edu/sites/g/files/omnuum9601/files/2025-09/CLINICAL%20PSYCHOLOGY%20HANDBOOK%20September%2025%202025.pdf#page=4"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5071692667"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5071692667",
+          "name": "Shuquan Chen",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5018263077",
+          "name": "Mark A. Chen",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5072105403",
+          "name": "Mark S. Chen",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5102820149",
+          "name": "Mark A. Chen",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5125394512",
+          "name": "Mark Shuquan Chen",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "sampled",
+        "Semantic Scholar": "sampled",
+        "PsyArXiv": "queried"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "mark-hatzenbuehler",
+    "name": "Mark L. Hatzenbuehler",
+    "aliases": [
+      "Mark Hatzenbuehler"
+    ],
+    "areas": [
+      "psychopathology",
+      "stigma",
+      "mental health",
+      "health disparities",
+      "social determinants"
+    ],
+    "appointments": [
+      {
+        "program": "harvard",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Harvard University"
+        ],
+        "source": "https://psychology.fas.harvard.edu/people/mark-l-hatzenbuehler"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5002835195"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5002835195",
+          "name": "Mark L. Hatzenbuehler",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5031594382",
+          "name": "Mark A. Hatzenbuehler",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "sampled",
+        "Semantic Scholar": "sampled",
+        "PsyArXiv": "queried"
+      },
+      "errors": {}
+    }
+  }
+]

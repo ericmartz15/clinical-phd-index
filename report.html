@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore publication-based rankings of clinical psychology PhD programs and see the faculty and papers behind each score.">
+  <title>Report a correction · Clinical PhD Index</title>
+  <link rel="icon" href="assets/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="publication-data.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">ψ</span> Clinical PhD Index</a>
+      <nav aria-label="Main navigation">
+        <a href="index.html">Rankings</a>
+        <a href="faq.html">Methodology <span aria-hidden="true">&amp;</span><span class="sr-only">and</span> FAQ</a>
+        <a class="data-nav" href="data-quality.html">Data quality <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+
+<main class="wrap secondary-page">
+
+  <p><a href="index.html#rankings">← Program index</a></p>
+  <h1>Report a correction.</h1>
+  <p class="page-description" id="report-explain">Save a draft with the program and publication details for the maintainer.</p>
+  <form class="quality-card report-form" id="report-form">
+    <label for="report-program">Program</label><select id="report-program" name="program" required><option value="">Choose a program</option></select>
+    <label for="issue-type">Issue</label><select id="issue-type" name="type"><option>Missing paper</option><option>Wrong author match</option><option>Faculty roster or appointment</option><option>Program status</option></select>
+    <label for="paper">Paper title or DOI</label><input type="text" id="paper" name="paper" maxlength="220">
+    <label for="evidence">Public source URL</label><input type="url" id="evidence" name="evidence" maxlength="300">
+    <label for="details">What should change?</label><textarea id="details" name="details" required rows="5" maxlength="1200"></textarea>
+    <button id="report-label" class="primary-button" type="submit">Download correction draft</button>
+  </form>
+
+</main>
+  <footer class="site-footer">
+    <div class="wrap footer-inner"><a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">ψ</span> Clinical PhD Index</a><p>Publication data from <a href="https://openalex.org/">OpenAlex</a> and official faculty records.</p><a href="faq.html">Methodology &amp; FAQ <span aria-hidden="true">↗</span></a></div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,153 @@
+{
+  "status": "pending",
+  "stage": "calibration",
+  "target": 0.95,
+  "seed": 291756,
+  "window": [
+    "2021-11-19",
+    "2026-11-19"
+  ],
+  "eligibleFaculty": 7,
+  "samplingFrame": 7,
+  "excludedCalibration": [],
+  "sample": [
+    "allison-harvey",
+    "mark-hatzenbuehler",
+    "mark-chen",
+    "matthew-nock",
+    "michelle-craske",
+    "jill-hooley",
+    "richard-mcnally"
+  ],
+  "audited": 0,
+  "unavailable": [
+    "allison-harvey",
+    "mark-hatzenbuehler",
+    "mark-chen",
+    "matthew-nock",
+    "michelle-craske",
+    "jill-hooley",
+    "richard-mcnally"
+  ],
+  "matches": 0,
+  "denominator": 0,
+  "recall": null,
+  "diagnosticRecall": null,
+  "interval": null,
+  "targetMet": false,
+  "missing": [],
+  "rows": [],
+  "corpusSha256": "3986a174b5f7d9a6132b1347ae23a74601c0a60362148a5e312beaa20e5280eb",
+  "diagnostic": {
+    "person": "matthew-nock",
+    "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",
+    "source": "https://nocklab.fas.harvard.edu/journal-articles",
+    "iterations": [
+      {
+        "matched": 7,
+        "denominator": 12,
+        "finding": "The unkeyed ten-year OpenAlex query hit the first-page limit."
+      },
+      {
+        "matched": 11,
+        "denominator": 12,
+        "finding": "Year-bounded public queries recovered four records. One remaining apparent miss came from different hyphen characters.",
+        "evidence": "https://pubmed.ncbi.nlm.nih.gov/39221628/"
+      },
+      {
+        "matched": 12,
+        "denominator": 12,
+        "finding": "Unicode dash normalization aligned the last article with the existing OpenAlex record.",
+        "evidence": "https://openalex.org/W4402135442"
+      }
+    ],
+    "matches": 12,
+    "denominator": 12,
+    "rows": [
+      {
+        "year": 2025,
+        "title": "Predicting firearm suicide among US Army veterans transitioning from active service",
+        "matched": true,
+        "matchedDoi": "10.1038/s44220-025-00559-4",
+        "diagnosis": null
+      },
+      {
+        "year": 2025,
+        "title": "Pilot microrandomized trial of a brief digital intervention for suicidal thoughts",
+        "matched": true,
+        "matchedDoi": "10.1037/ccp0000978",
+        "diagnosis": null
+      },
+      {
+        "year": 2025,
+        "title": "Emotion processing and electrodermal activity in young people who self-harm",
+        "matched": true,
+        "matchedDoi": "10.1038/s44220-025-00520-5",
+        "diagnosis": null
+      },
+      {
+        "year": 2025,
+        "title": "Engagement in ecological momentary assessment of suicidal thoughts and behaviors: A mixed methods study",
+        "matched": true,
+        "matchedDoi": "10.1016/j.beth.2025.05.007",
+        "diagnosis": null
+      },
+      {
+        "year": 2025,
+        "title": "Interoceptive accuracy, sensitivity, and attention are associated with suicidal thoughts and behaviors",
+        "matched": true,
+        "matchedDoi": "10.1016/j.beth.2025.06.004",
+        "diagnosis": null
+      },
+      {
+        "year": 2025,
+        "title": "Identifying therapeutic characteristics of digital social media narratives about suicide: A mixed methods investigation",
+        "matched": true,
+        "matchedDoi": "10.1038/s44184-025-00155-5",
+        "diagnosis": null
+      },
+      {
+        "year": 2024,
+        "title": "Enhancing Suicide Risk Prediction With Polygenic Scores in Psychiatric Emergency Settings: Prospective Study",
+        "matched": true,
+        "matchedDoi": "10.2196/58357",
+        "diagnosis": null
+      },
+      {
+        "year": 2024,
+        "title": "The Lancet Commission on self-harm",
+        "matched": true,
+        "matchedDoi": "10.1016/s0140-6736(24)01121-8",
+        "diagnosis": null
+      },
+      {
+        "year": 2024,
+        "title": "Smartphone Screen Time Characteristics in People With Suicidal Thoughts: Retrospective Observational Data Analysis Study",
+        "matched": true,
+        "matchedDoi": "10.2196/57439",
+        "diagnosis": null
+      },
+      {
+        "year": 2024,
+        "title": "The short-term course of nonsuicidal self-injury among individuals seeking psychiatric treatment",
+        "matched": true,
+        "matchedDoi": "10.1001/jamanetworkopen.2024.40510",
+        "diagnosis": null
+      },
+      {
+        "year": 2024,
+        "title": "Suicide decision-making: Differences in proximal considerations between individuals who aborted and attempted suicide",
+        "matched": true,
+        "matchedDoi": "10.1111/sltb.13127",
+        "diagnosis": null
+      },
+      {
+        "year": 2024,
+        "title": "Detecting suicide risk among U.S. servicemembers and veterans: a deep learning approach using social media data",
+        "matched": true,
+        "matchedDoi": "10.1017/s0033291724001557",
+        "diagnosis": null
+      }
+    ]
+  }
+}

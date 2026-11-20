@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore publication-based rankings of clinical psychology PhD programs and see the faculty and papers behind each score.">
+  <title>Clinical PhD Index · Publication Rankings</title>
+  <link rel="icon" href="assets/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="publication-data.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#rankings">Skip to rankings</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">ψ</span> Clinical PhD Index</a>
+      <nav aria-label="Main navigation">
+        <a href="index.html" aria-current="page">Rankings</a>
+        <a href="faq.html">Methodology <span aria-hidden="true">&amp;</span><span class="sr-only">and</span> FAQ</a>
+        <a class="data-nav" href="data-quality.html">Data quality <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero wrap">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="eyebrow-line"></span> CLINICAL PSYCHOLOGY RESEARCH</p>
+        <h1>Clinical psychology<br><em>PhD programs.</em></h1>
+        <p class="hero-description">Explore clinical psychology PhD programs and the research behind them.</p>
+        <div class="hero-actions">
+          <a class="primary-button" href="#rankings">Explore rankings <span aria-hidden="true">↓</span></a>
+          <a class="text-button" href="faq.html">How we rank <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+      <figure class="hero-art">
+        <img src="assets/reading-room.jpg" alt="Sunlight falling across a walnut reading table in a university library" width="1200" height="800">
+      </figure>
+    </section>
+
+    <div class="facts-band">
+      <dl class="wrap facts">
+        <div><dt id="program-stat">—</dt><dd>Program entries</dd></div>
+        <div><dt id="journal-stat">—</dt><dd>Core faculty verified</dd></div>
+        <div><dt id="paper-stat">—</dt><dd>Works retrieved</dd></div>
+        <div><dt id="year-stat">—</dt><dd>Publication window</dd></div>
+      </dl>
+    </div>
+
+    <section class="rankings wrap" id="rankings" aria-labelledby="ranking-title">
+      <div class="section-head">
+        <div><h2 id="ranking-title">Program rankings</h2><p>Only programs with verified coverage enter the leaderboard.</p></div>
+        <button type="button" class="outline-button" id="export"><span aria-hidden="true">↓</span> Download CSV</button>
+      </div>
+
+      <div class="rankings-grid">
+        <aside class="filter-card" aria-label="Ranking filters">
+          <form id="filters">
+            <div class="filter-head"><h3>Filters</h3><button class="plain-button" type="reset">Reset</button></div>
+            <div class="filter-section">
+              <label for="region">Region</label>
+              <select id="region"><option value="">All regions</option></select>
+              <label class="coverage-label" for="accreditation">Accreditation or membership</label>
+              <select id="accreditation"><option value="">All programs</option><option>APA</option><option>PCSAS</option><option>CPA</option><option>CUDCP</option></select>
+              <label class="coverage-label" for="subfield">Research subfield</label>
+              <select id="subfield"><option value="">All subfields</option></select>
+              <label class="coverage-label" for="venue">Venue scope</label>
+              <select id="venue"><option value="all">All journal articles</option><option value="top">Top clinical journals</option><option value="digital">Computational and digital venues</option><option value="preprint">PsyArXiv preprints</option></select>
+              <label class="coverage-label" for="credit">Publication credit</label>
+              <select id="credit"><option value="fractional">Fractional</option><option value="weighted">Position-weighted</option></select>
+              <fieldset class="years"><legend>Publication years</legend>
+                <label for="start-year">From <output for="start-year" id="start-label"></output></label>
+                <input type="range" id="start-year">
+                <label for="end-year">Through <output for="end-year" id="end-label"></output></label>
+                <input type="range" id="end-year">
+              </fieldset>
+            </div>
+            <fieldset class="filter-section category-section">
+              <legend>Scope</legend>
+              <label class="category"><input type="checkbox" id="current-only"><span class="category-name">Current faculty only</span></label>
+              <label class="category"><input type="checkbox" id="international"><span class="category-name">Include international programs</span></label>
+              <label class="category"><input type="checkbox" id="ranked-only"><span class="category-name">Ranked programs only</span></label>
+              <a class="filter-link" href="faq.html#journals">See included journals ↗</a>
+            </fieldset>
+          </form>
+        </aside>
+
+        <div class="results">
+          <div class="results-toolbar">
+            <label class="search-field">
+              <span class="search-icon" aria-hidden="true"></span>
+              <span class="sr-only">Search programs</span>
+              <input id="search" type="search" placeholder="Search programs…">
+            </label>
+            <label class="sort-field" for="sort"><span>Sort by</span>
+              <select id="sort">
+                <option value="score">Adjusted count</option>
+                <option value="papers">Publications</option>
+                <option value="faculty">Publishing faculty</option>
+                <option value="name">Program name</option>
+              </select>
+            </label>
+          </div>
+          <p class="coverage-notice"><strong id="coverage-message"></strong> <a href="data-quality.html">See coverage and recall</a></p>
+          <p class="result-summary" id="result-summary" role="status"></p>
+          <div class="table-card">
+            <div class="table-scroll" tabindex="0" role="region" aria-label="Ranked clinical psychology PhD programs">
+              <table>
+                <thead><tr>
+                  <th scope="col" class="rank-col">Rank</th><th scope="col" id="heading-name">Program</th>
+                  <th scope="col" id="heading-score" class="number"><a href="faq.html#scoring">Adj. count</a></th>
+                  <th scope="col" id="heading-papers" class="number">Papers</th><th scope="col" id="heading-faculty" class="number">Faculty</th>
+                  <th scope="col"><span class="sr-only">Program details</span></th>
+                </tr></thead>
+                <tbody id="results-body"></tbody>
+              </table>
+            </div>
+            <div id="empty" class="empty" hidden><h3>No matching programs</h3><p>Try another search or broaden your filters.</p><button class="outline-button" type="button" id="clear">Clear filters</button></div>
+          </div>
+          <div id="pagination" class="pagination" hidden>
+            <button type="button" class="outline-button" id="prev-page">← Previous</button>
+            <span id="page-summary" aria-live="polite"></span>
+            <button type="button" class="outline-button" id="next-page">Next →</button>
+          </div>
+          <p class="table-note"><span class="info-icon" aria-hidden="true">i</span><span>Credit goes to the eligible program at publication. Papers written before a faculty appointment do not earn program credit. <a href="faq.html#scoring">Scoring details</a></span></p>
+          <noscript><p>Enable JavaScript to explore the publication rankings.</p></noscript>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner"><a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">ψ</span> Clinical PhD Index</a><p>Publication data from <a href="https://openalex.org/">OpenAlex</a> and official faculty records.</p><a href="faq.html">Methodology &amp; FAQ <span aria-hidden="true">↗</span></a></div>
+  </footer>
+</body>
+</html>

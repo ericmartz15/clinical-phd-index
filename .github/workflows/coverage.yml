@@ -1,0 +1,27 @@
+name: Review program rosters
+on:
+  schedule:
+    - cron: '27 14 5 * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: review/roster-state.json
+          key: clinical-roster-state-${{ github.run_id }}
+          restore-keys: clinical-roster-state-
+      - run: python pipeline/directories.py --cache "${{ runner.temp }}/directory-cache" --output review/directory-review.json --roster-state review/roster-state.json --apa-export data/apa-directory-live.json --cudcp-export data/cudcp-directory.json
+      - run: python -m unittest discover -s pipeline -p 'test_*.py'
+      - uses: actions/upload-artifact@v4
+        with:
+          name: directory-and-roster-review
+          path: review/
