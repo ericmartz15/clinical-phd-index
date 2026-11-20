@@ -1,6 +1,8 @@
 import unittest
+from unittest.mock import patch
 
 from build import audit, diagnostic_check
+from collect import stage_publications
 from common import creditable_appointments, doi_key, merge, normalize, weight
 from directories import cpa_rows
 from sources import published_byline
@@ -29,6 +31,20 @@ class ScoringTest(unittest.TestCase):
 
 
 class DataTest(unittest.TestCase):
+    def test_candidate_requires_resolved_identity_before_works_retrieval(self):
+        candidate = {"name": "Jane Doe", "url": "https://example.edu/people/jane-doe", "orcids": [],
+                     "profileStatus": "name confirmed on profile", "publicProfileTopics": ["depression", "sleep"],
+                     "programs": ["a"]}
+        with patch("collect.resolve", return_value={"status": "review", "ids": []}), patch("collect.oa_works") as works:
+            result = stage_publications(object(), candidate, {"a": ["Example University"]}, "2016-01-01", "2026-01-01")
+            self.assertEqual(result["status"], "identity requires review")
+            works.assert_not_called()
+        identity = {"status": "resolved", "ids": ["A123"], "confidence": .98}
+        with patch("collect.resolve", return_value=identity), patch("collect.oa_works", return_value=([], True)) as works:
+            result = stage_publications(object(), candidate, {"a": ["Example University"]}, "2016-01-01", "2026-01-01")
+            self.assertEqual(result["openAlex"], "A123")
+            self.assertEqual(works.call_args.args[1], "A123")
+
     def test_title_dash_is_normalized_consistently(self):
         self.assertEqual(normalize("Decision‐making"), normalize("decision-making"))
 

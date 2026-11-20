@@ -9,7 +9,14 @@ from urllib.parse import urlsplit
 
 from common import DATA, normalize, read, short_id, write
 from rosters import parse
-from sources import Client, SourceUnavailable, oa, oa_record, oa_works
+from sources import Client, SourceUnavailable, oa, oa_record, oa_works, resolve
+
+PROFILE_TOPICS = (
+    "addiction", "adolescent", "aging", "alcohol", "anxiety", "autism", "bipolar", "cardiovascular",
+    "child development", "cognition", "depression", "eating disorder", "emotion regulation", "grief",
+    "health disparities", "insomnia", "memory", "neuroimaging", "neuropsychology", "personality",
+    "psychosis", "psychophysiology", "psychotherapy", "schizophrenia", "sleep", "stress", "suicide", "trauma",
+)
 
 
 def profile_evidence(client, candidate):
@@ -31,25 +38,41 @@ def profile_evidence(client, candidate):
             result["cvLinks"].append(url)
         if re.search(r"\b(lab|laboratory)\b", normalize(label)):
             result["labLinks"].append(url)
-    return dict(result, profileStatus="name confirmed on profile", orcids=sorted(orcids),
+    profile_text = normalize(" ".join(profile.main_text if profile.has_main else profile.body_text))
+    topics = [topic for topic in PROFILE_TOPICS if re.search(rf"\b{re.escape(topic)}", profile_text)]
+    return dict(result, profileStatus="name confirmed on profile", orcids=sorted(orcids), publicProfileTopics=topics,
                 cvLinks=list(dict.fromkeys(result["cvLinks"])), labLinks=list(dict.fromkeys(result["labLinks"])))
 
 
-def stage_publications(client, candidate, start, end):
-    """Require concordant public profile, ORCID and OpenAlex identity for unreviewed people."""
+def stage_publications(client, candidate, affiliations, start, end):
+    """Use institutional profile evidence to resolve an author before retrieving works by ID."""
     result = dict(profile=candidate["url"], name=candidate["name"], status="identity requires review", works=[])
-    if len(candidate["orcids"]) != 1:
+    if candidate["profileStatus"] != "name confirmed on profile" or len(candidate["orcids"]) > 1:
         return result
-    orcid = candidate["orcids"][0]
     try:
-        author = oa(client, f"/authors/orcid:{orcid}")
-        names = [author.get("display_name"), *(author.get("display_name_alternatives") or [])]
-        if short_id(author.get("orcid")) != orcid or normalize(candidate["name"]) not in {normalize(name) for name in names}:
-            return result
-        aid = short_id(author["id"])
+        if candidate["orcids"]:
+            orcid = candidate["orcids"][0]
+            author = oa(client, f"/authors/orcid:{orcid}")
+            names = [author.get("display_name"), *(author.get("display_name_alternatives") or [])]
+            if short_id(author.get("orcid")) != orcid or normalize(candidate["name"]) not in {normalize(name) for name in names}:
+                return result
+            aid = short_id(author["id"])
+            identity = dict(ids=[aid], confidence=1, evidence=["Official profile and OpenAlex agree on name and ORCID"])
+        else:
+            topics = candidate["publicProfileTopics"]
+            if len(topics) < 2:
+                return result
+            person = dict(name=candidate["name"], areas=topics, appointments=[
+                dict(affiliations=affiliations[pid]) for pid in candidate["programs"]
+            ])
+            identity = resolve(client, person, None)
+            if identity["status"] != "resolved":
+                return dict(result, identity=identity)
+            aid = identity["ids"][0]
         rows, complete = oa_works(client, aid, start, end)
         works = [work for row in rows if (work := oa_record(row, aid, aid))]
-        return dict(result, openAlex=aid, orcid=orcid, status="retrieved" if complete else "incomplete", works=works)
+        return dict(result, openAlex=aid, identity=identity,
+                    status="retrieved" if complete else "incomplete", works=works)
     except SourceUnavailable as error:
         return dict(result, status="retrieval incomplete", error=str(error))
 
@@ -90,11 +113,13 @@ def main():
         profiles = list(executor.map(lambda row: profile_evidence(client, row), seen.values()))
     collected = []
     if os.environ.get("OPENALEX_API_KEY"):
+        affiliations = {row["id"]: [row["name"], *row.get("affiliations", [])]
+                        for row in read(DATA / "programs.json")}
         as_of = date.today()
         start = as_of.replace(year=as_of.year - 10, day=min(as_of.day, 28) if as_of.month == 2 else as_of.day)
         with ThreadPoolExecutor(max_workers=2) as executor:
             collected = list(executor.map(
-                lambda row: stage_publications(client, row, start.isoformat(), as_of.isoformat()), profiles))
+                lambda row: stage_publications(client, row, affiliations, start.isoformat(), as_of.isoformat()), profiles))
 
     faculty = read(DATA / "faculty-input.json")
     report = read(DATA / "recall-report.json")

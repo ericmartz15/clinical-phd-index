@@ -28,15 +28,22 @@ class Page(HTMLParser):
         self.url = url
         self.heading = None
         self.link = None
-        self.section = ""
+        self.clinical_page = bool(re.search(r"/(?:clinical(?:-science|-psychology)?)/(?:people|faculty)(?:/|$)|"
+                                           r"/(?:faculty|area-faculty)/clinical(?:-science|-psychology)?(?:/|$)",
+                                           urlsplit(url).path, re.I))
+        self.section = "Clinical faculty directory" if self.clinical_page else ""
         self.in_main = self.has_main = False
+        self.body_text, self.main_text = [], []
+        self.ignored = None
         self.headings, self.main_links, self.main_people = [], [], []
         self.links, self.people = [], []
 
     def handle_starttag(self, tag, attrs):
         if tag == "main":
             self.has_main = self.in_main = True
-            self.section = ""
+            self.section = "Clinical faculty directory" if self.clinical_page else ""
+        if tag in ("script", "style"):
+            self.ignored = tag
         if re.fullmatch(r"h[1-6]", tag):
             self.heading = [tag, []]
         if tag == "a":
@@ -44,12 +51,19 @@ class Page(HTMLParser):
             self.link = [urljoin(self.url, href), []]
 
     def handle_data(self, value):
+        if self.ignored:
+            return
+        self.body_text.append(value)
+        if self.in_main:
+            self.main_text.append(value)
         if self.heading is not None:
             self.heading[1].append(value)
         if self.link is not None:
             self.link[1].append(value)
 
     def handle_endtag(self, tag):
+        if tag == self.ignored:
+            self.ignored = None
         if tag == "main":
             self.in_main = False
         if self.heading and tag == self.heading[0]:
