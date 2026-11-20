@@ -196,12 +196,15 @@ def audit(faculty, works, references, seed, stage, start, end, excluded=()):
 def diagnostic_check(works, reference):
     if not reference:
         return None
-    titles = {normalize(work["title"]): work for work in works
-              if reference["person"] in work["people"] and work["kind"] == "journal"}
+    eligible = [work for work in works if reference["person"] in work["people"] and
+                work["kind"] == "journal" and not work["databaseMissing"]]
+    titles = {normalize(work["title"]): work for work in eligible}
+    dois = {work["doi"]: work for work in eligible if work["doi"]}
     rows = []
     for paper in reference["papers"]:
-        work = titles.get(normalize(paper["title"]))
-        found = work is not None and abs(int(work["date"][:4]) - paper["year"]) <= 1 if work and work["date"] else False
+        exact = dois.get(doi_key(paper.get("doi")))
+        work = exact or titles.get(normalize(paper["title"]))
+        found = bool(exact or (work and work["date"] and abs(int(work["date"][:4]) - paper["year"]) <= 1))
         rows.append(dict(paper, matched=found, matchedDoi=work["doi"] if found else None,
                          diagnosis=None if found else "Review database indexing, title variants, and author profile splits"))
     return dict(person=reference["person"], scope=reference["scope"], source=reference["source"],
@@ -211,7 +214,7 @@ def diagnostic_check(works, reference):
 
 def csv_export(path, rows, fieldnames):
     with path.open("w", newline="", encoding="utf-8") as out:
-        writer = csv.DictWriter(out, fieldnames=fieldnames, extrasaction="ignore")
+        writer = csv.DictWriter(out, fieldnames=fieldnames, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         for row in rows:
             writer.writerow({key: json.dumps(row.get(key), ensure_ascii=False) if isinstance(row.get(key), (list, dict))
@@ -253,7 +256,8 @@ def main():
         prior_people = {person["id"]: person for person in read(previous / "faculty.json")}
         unchanged = {person["id"] for person in faculty_input if person["id"] in prior_people and
                      all(prior_people[person["id"]].get(key) == value for key, value in person.items()) and
-                     prior_people[person["id"]]["identity"] == reviewed.get(person["id"])}
+                     (person["id"] not in reviewed or prior_people[person["id"]]["identity"] == reviewed[person["id"]]) and
+                     (not args.network or person["id"] in reviewed)}
         prior_people = {pid: prior_people[pid] for pid in unchanged}
         for work in read(previous / "publications.json"):
             retained = {pid: evidence for pid, evidence in work["people"].items() if pid in unchanged}
@@ -272,7 +276,10 @@ def main():
         records.extend(works)
         queue.extend(review)
     attribution = []
-    works = assign(merge(records), faculty, venues, attribution)
+    exclusions = {(row["source"], row["id"]) for row in read(DATA / "reviewed-exclusions.json", [])}
+    works = assign([work for work in merge(records) if not any(
+        (source["source"], source.get("id")) in exclusions for source in work["provenance"]
+    )], faculty, venues, attribution)
     calibration = read(args.calibration_report, {}) if args.calibration_report else {}
     excluded = calibration.get("sample", []) if calibration.get("stage") == "calibration" else []
     report = audit(faculty, works, reference, args.audit_seed, args.audit_stage, ago(5), args.as_of, excluded)
@@ -280,6 +287,8 @@ def main():
         (w.get("doi", ""), w["title"], w["date"], tuple(sorted(w["people"]))) for w in works
     ]), ensure_ascii=False).encode()).hexdigest()
     report["diagnostic"] = diagnostic_check(works, read(DATA / "audit-diagnostic.json"))
+    report["diagnosticChecks"] = [diagnostic_check(works, item)
+                                  for item in read(DATA / "audit-diagnostic-checks.json", [])]
     indexed = {p["id"] for p in faculty if p["retrieval"]["openAlex"] == "complete"}
     crosschecked = {p["id"] for p in faculty if all(state == "queried" for state in p["retrieval"].get("crosschecks", {}).values())
                     and p["retrieval"].get("crosschecks")}

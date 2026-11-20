@@ -1,0 +1,132 @@
+[
+  {
+    "person": "shirley-wang",
+    "source": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+    "scope": "Shirley Wang’s CV bibliography for 2022–2026",
+    "iterations": [
+      {
+        "matches": 25,
+        "denominator": 26,
+        "change": "Compared with the keyed OpenAlex snapshot using verified DOI matches for CV title variants."
+      },
+      {
+        "matches": 26,
+        "denominator": 26,
+        "change": "Recovered DOI 10.15626/mp.2023.3688 using the publisher byline, Crossref and the CV. OpenAlex attached the DOI to a different Shirley Wang profile."
+      }
+    ],
+    "papers": [
+      {
+        "title": "Contra-hedonic functions of self-destructive behaviors in adolescents",
+        "year": 2026
+      },
+      {
+        "title": "Multidisciplinary clinical psychological science: Progress, challenges, and opportunities",
+        "year": 2026
+      },
+      {
+        "title": "The future of the biopsychosocial model: Towards a transdisciplinary systems science of mental health",
+        "year": 2026,
+        "doi": "10.1177/21677026261435464"
+      },
+      {
+        "title": "Applying machine learning to investigate future life-oriented predictors of adolescents’ near-term suicidal ideation",
+        "year": 2026
+      },
+      {
+        "title": "Interpretation Issues with the Patient Health Questionnaire Instructions",
+        "year": 2026
+      },
+      {
+        "title": "Understanding, predicting, and preventing suicide: Recent advances using digital and computational methods",
+        "year": 2026
+      },
+      {
+        "title": "Electronic health record-based phenotyping for obsessive-compulsive disorder: Algorithm development and multicenter validation study",
+        "year": 2026
+      },
+      {
+        "title": "Path asymmetry in complex dynamical systems of psychopathology",
+        "year": 2026,
+        "doi": "10.1001/jamapsychiatry.2025.3147"
+      },
+      {
+        "title": "Quality and contents of self-guided adolescent suicide safety plans",
+        "year": 2026
+      },
+      {
+        "title": "Future directions for mathematical, computational, and digital methods in suicide research",
+        "year": 2026,
+        "doi": "10.1080/15374416.2026.2617212"
+      },
+      {
+        "title": "Accuracy and consistency of visual analog scales in ecological momentary assessment and digital studies",
+        "year": 2025
+      },
+      {
+        "title": "Patterns of symptom change in behaviors and cognitions during 10-session cognitive behavioral therapy (CBT-T) for non-underweight eating disorders",
+        "year": 2025
+      },
+      {
+        "title": "Identification of affective and social reinforcement functions of driven exercise: Evidence from three samples",
+        "year": 2025
+      },
+      {
+        "title": "Practicing theory building in a many modelers hackathon: A proof of concept",
+        "year": 2025,
+        "doi": "10.15626/mp.2023.3688"
+      },
+      {
+        "title": "Accessibility and utility of an electronic self-guided safety plan for adolescents",
+        "year": 2024
+      },
+      {
+        "title": "Building personalized machine learning models using real-time monitoring data to predict idiographic suicidal thoughts",
+        "year": 2024
+      },
+      {
+        "title": "Heterogeneity in suicide risk: Evidence from personalized dynamic models",
+        "year": 2024
+      },
+      {
+        "title": "Trajectory of ghrelin and PYY around a test meal in males and females with avoidant/restrictive food intake disorder versus healthy controls",
+        "year": 2024
+      },
+      {
+        "title": "Avoidant/restrictive food intake disorder differs from anorexia nervosa in delay discounting",
+        "year": 2024
+      },
+      {
+        "title": "Comparing self-harming intentions underlying eating disorder behaviors and nonsuicidal self-injury: Replication and extension in adolescents",
+        "year": 2023,
+        "doi": "10.1002/eat.24043"
+      },
+      {
+        "title": "Identity, social pressure, and body image in the development of disordered eating behaviors among pre-professional adolescent ballet dancers",
+        "year": 2023,
+        "doi": "10.1002/eat.24005"
+      },
+      {
+        "title": "Development of transdiagnostic clinical risk prediction models for 12-month onset and course of eating disorders among adolescents in the community",
+        "year": 2023
+      },
+      {
+        "title": "Real-time digital monitoring of a suicide attempt by a hospital patient",
+        "year": 2023
+      },
+      {
+        "title": "Exploring adolescent experience with disclosing self-injurious thoughts and behaviors across settings",
+        "year": 2022,
+        "doi": "10.1007/s10802-021-00878-x"
+      },
+      {
+        "title": "Online methods in adolescent self-injury research: Challenges and recommendations",
+        "year": 2022
+      },
+      {
+        "title": "Preliminary validation of the Pica, ARFID, and Rumination Disorder Interview ARFID Questionnaire (PARDI-AR-Q)",
+        "year": 2022
+      }
+    ]
+  }
+]

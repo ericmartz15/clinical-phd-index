@@ -223,16 +223,20 @@ function initializeProgram() {
 function initializeQuality() {
   const report = data.report;
   $("recall-value").textContent = report.recall == null ? "Pending" : `${(100 * report.recall).toFixed(1)}%`;
-  $("recall-detail").textContent = `${report.audited} of 50 planned faculty audits completed. ${report.matches} matched reference papers out of ${report.denominator} assessed.`;
-  if (report.diagnostic) {
-    const d = report.diagnostic;
+  const auditLabel = report.stage === "holdout" ? "holdout" : "calibration";
+  $("recall-detail").textContent = `${report.sample.length} faculty in the ${auditLabel} sample. ${report.audited} complete reference lists reviewed. ${report.matches} of ${report.denominator} eligible references matched.`;
+  const diagnostics = [report.diagnostic, ...(report.diagnosticChecks || [])].filter(Boolean);
+  if (diagnostics.length) {
     $("diagnostic-detail").hidden = false;
-    $("diagnostic-detail").textContent = `Preliminary check of one lab list found ${d.matches} of ${d.denominator} selected papers. This is outside the 50-faculty audit.`;
+    $("diagnostic-detail").textContent = "Pilot checks matched " +
+      diagnostics.map(d => `${d.matches} of ${d.denominator} papers in ${d.scope}`).join(", and ") +
+      ". These checks are outside the 50-faculty audit.";
   }
   $("coverage-counts").innerHTML = [
     ["Program entries", data.programs.length], ["Current rosters verified", data.counts.currentRostersVerified || 0],
     ["Current and historical rosters verified", data.counts.rosterVerified],
     ["Verified faculty records", data.counts.faculty], ["Resolved identities", data.counts.resolved],
+    ["Identities awaiting resolution", data.counts.faculty - data.counts.resolved],
     ["Completed primary retrievals", data.counts.complete], ["Programs released to rankings", data.counts.ranked]
   ].map(([label, count]) => `<li><strong>${count}</strong> ${label}</li>`).join("");
   $("directory-status").innerHTML = Object.entries(data.directories.directories).map(([name, info]) =>

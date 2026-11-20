@@ -1,5 +1,6 @@
 from collections import defaultdict
 from hashlib import sha256
+from tempfile import NamedTemporaryFile
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote, urlencode
 from urllib.request import Request, urlopen
@@ -45,7 +46,9 @@ class Client:
                 except (URLError, TimeoutError) as error:
                     raise SourceUnavailable(f"Connection failed for {url.split('/')[2]}") from error
             self.cache.mkdir(parents=True, exist_ok=True)
-            path.write_bytes(body)
+            with NamedTemporaryFile(dir=self.cache, delete=False) as temporary:
+                temporary.write(body)
+            os.replace(temporary.name, path)
         else:
             raise SourceUnavailable(f"No cached response for {url.split('/')[2]}")
         if not as_json:

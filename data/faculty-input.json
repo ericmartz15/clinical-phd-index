@@ -458,16 +458,21 @@
       {
         "program": "yale",
         "role": "tenure-track",
-        "start": null,
+        "start": "2024",
         "end": null,
         "current": true,
         "affiliations": [
           "Yale University",
           "yale university"
         ],
-        "source": "https://psychology.yale.edu/research/clinical-psychology"
+        "source": "https://psychology.yale.edu/research/clinical-psychology",
+        "dateSource": "https://wti.yale.edu/profile/shirley-wang"
       }
-    ]
+    ],
+    "orcid": "0000-0002-8583-3014",
+    "orcidSource": "https://wti.yale.edu/profile/shirley-wang",
+    "cv": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+    "lab": "https://ccslab.yale.edu/"
   },
   {
     "id": "aaron-fisher",

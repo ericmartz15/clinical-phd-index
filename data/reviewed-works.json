@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Practicing Theory Building in a Many Modelers Hackathon: A Proof of Concept",
+    "doi": "10.15626/mp.2023.3688",
+    "date": "2025-02-07",
+    "kind": "journal",
+    "venue": "Meta-Psychology",
+    "authorCount": 30,
+    "pmcid": "",
+    "people": {
+      "shirley-wang": {
+        "position": 5,
+        "affiliations": [
+          "Harvard University"
+        ],
+        "identityNote": "The publisher byline and faculty CV corroborate Shirley B. Wang. OpenAlex assigns the byline to Shirley V. Wang. Only this DOI is reassigned."
+      }
+    },
+    "issns": [
+      "2003-2714"
+    ],
+    "topics": [
+      "Interdisciplinary Research and Collaboration",
+      "Academic and Historical Perspectives in Psychology",
+      "Psychology Research and Bibliometrics"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2025-02-07",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2025-02-07",
+        "type": "published-online",
+        "source": "Crossref"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W4408154769",
+        "url": "https://openalex.org/W4408154769"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.15626/mp.2023.3688",
+        "url": "https://doi.org/10.15626/mp.2023.3688"
+      },
+      {
+        "source": "Publisher",
+        "id": "10.15626/mp.2023.3688",
+        "url": "https://conferences.lnu.se/index.php/metapsychology/article/view/3688/4185"
+      },
+      {
+        "source": "CV",
+        "id": "10.15626/mp.2023.3688",
+        "url": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view"
+      }
+    ],
+    "peerReview": "confirmed"
+  }
+]

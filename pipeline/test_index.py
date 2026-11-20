@@ -1,6 +1,6 @@
 import unittest
 
-from build import audit
+from build import audit, diagnostic_check
 from common import creditable_appointments, doi_key, merge, normalize, weight
 from directories import cpa_rows
 from sources import published_byline
@@ -54,6 +54,15 @@ class DataTest(unittest.TestCase):
         self.assertEqual(result["diagnosticRecall"], 1)
         self.assertIsNone(result["recall"])
         self.assertFalse(result["targetMet"])
+
+    def test_diagnostic_uses_documented_doi_for_title_variants(self):
+        work = {"kind": "journal", "title": "Published title", "date": "2025-01-01",
+                "people": {"a": {}}, "doi": "10.1234/example", "databaseMissing": False}
+        reference = {"person": "a", "scope": "CV check", "source": "CV", "papers": [
+            {"title": "Title as shown on CV", "year": 2025, "doi": "https://doi.org/10.1234/Example"}
+        ]}
+        self.assertEqual(diagnostic_check([work], reference)["matches"], 1)
+        self.assertEqual(diagnostic_check([dict(work, databaseMissing=True)], reference)["matches"], 0)
 
     def test_explicit_jats_first_author_group(self):
         xml = b"""<article><front><article-meta>

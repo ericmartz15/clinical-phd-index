@@ -134,10 +134,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "queried",
-        "Crossref": "sampled",
-        "Semantic Scholar": "sampled",
-        "PsyArXiv": "queried"
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
       },
       "errors": {}
     }
@@ -205,10 +205,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "queried",
-        "Crossref": "sampled",
-        "Semantic Scholar": "sampled",
-        "PsyArXiv": "queried"
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
       },
       "errors": {}
     }
@@ -255,10 +255,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "queried",
-        "Crossref": "sampled",
-        "Semantic Scholar": "sampled",
-        "PsyArXiv": "queried"
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
       },
       "errors": {}
     }
@@ -306,10 +306,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "queried",
-        "Crossref": "sampled",
-        "Semantic Scholar": "sampled",
-        "PsyArXiv": "queried"
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
       },
       "errors": {}
     }
@@ -406,10 +406,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "queried",
-        "Crossref": "sampled",
-        "Semantic Scholar": "sampled",
-        "PsyArXiv": "queried"
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
       },
       "errors": {}
     }
@@ -473,11 +473,3550 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "queried",
-        "Crossref": "sampled",
-        "Semantic Scholar": "sampled",
-        "PsyArXiv": "queried"
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
       },
+      "errors": {}
+    }
+  },
+  {
+    "id": "sara-jaffee",
+    "name": "Sara Jaffee",
+    "aliases": [
+      "Sara R. Jaffee"
+    ],
+    "areas": [
+      "child maltreatment",
+      "child development",
+      "psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "penn",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Pennsylvania",
+          "university of pennsylvania",
+          "penn medicine"
+        ],
+        "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5052369940"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5052369940",
+          "name": "Sara R. Jaffee",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5026470665",
+          "name": "Sara Jafeee",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "daniel-moriarity",
+    "name": "Daniel Moriarity",
+    "aliases": [
+      "Daniel P. Moriarity"
+    ],
+    "areas": [
+      "inflammation",
+      "depression",
+      "mood disorders"
+    ],
+    "appointments": [
+      {
+        "program": "penn",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Pennsylvania",
+          "university of pennsylvania",
+          "penn medicine"
+        ],
+        "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5003183076"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5003183076",
+          "name": "Daniel P. Moriarity",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5157892182",
+          "name": "Daniel P. Moriarity",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5068339224",
+          "name": "Daniel S. Moriarity",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "ayelet-meron-ruscio",
+    "name": "Ayelet Meron Ruscio",
+    "aliases": [
+      "Ayelet M. Ruscio",
+      "Ayelet Ruscio"
+    ],
+    "areas": [
+      "anxiety",
+      "depression",
+      "comorbidity"
+    ],
+    "appointments": [
+      {
+        "program": "penn",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Pennsylvania",
+          "university of pennsylvania",
+          "penn medicine"
+        ],
+        "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5067250281"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5067250281",
+          "name": "Ayelet Meron Ruscio",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "martin-seligman",
+    "name": "Martin Seligman",
+    "aliases": [
+      "Martin E. P. Seligman",
+      "Martin E P Seligman"
+    ],
+    "areas": [
+      "positive psychology",
+      "depression",
+      "well-being"
+    ],
+    "appointments": [
+      {
+        "program": "penn",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Pennsylvania",
+          "university of pennsylvania",
+          "penn medicine"
+        ],
+        "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5064981523"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5064981523",
+          "name": "Martin E. P. Seligman",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5022434825",
+          "name": "Martin Seligman",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5007144002",
+          "name": "Martin Seligman",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5112200729",
+          "name": "Martin E. P. Seligman",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5123583060",
+          "name": "Martin E. P. Seligman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "rebecca-waller",
+    "name": "Rebecca Waller",
+    "aliases": [
+      "Rebecca R. Waller"
+    ],
+    "areas": [
+      "child development",
+      "conduct problems",
+      "externalizing psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "penn",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Pennsylvania",
+          "university of pennsylvania",
+          "penn medicine"
+        ],
+        "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5069965130"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5069965130",
+          "name": "Rebecca E. Waller",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5135651996",
+          "name": "Rebecca Waller",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5001444895",
+          "name": "Rebecca Waller Davies",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5066429927",
+          "name": "Rebecca Lloyd Waller",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "arielle-baskin-sommers",
+    "name": "Arielle Baskin-Sommers",
+    "aliases": [
+      "Arielle R. Baskin-Sommers"
+    ],
+    "areas": [
+      "psychopathy",
+      "externalizing psychopathology",
+      "attention"
+    ],
+    "appointments": [
+      {
+        "program": "yale",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Yale University",
+          "yale university"
+        ],
+        "source": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5020403439",
+          "name": "Arielle Ryan Baskin-sommers",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "tyrone-cannon",
+    "name": "Tyrone Cannon",
+    "aliases": [
+      "Tyrone D. Cannon"
+    ],
+    "areas": [
+      "schizophrenia",
+      "psychosis",
+      "neurodevelopment"
+    ],
+    "appointments": [
+      {
+        "program": "yale",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Yale University",
+          "yale university"
+        ],
+        "source": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5014967846",
+          "name": "TD Cannon",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5090423513",
+          "name": "Tyrone D. Cannon",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5161615135",
+          "name": "Tyrone D Cannon",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5161704366",
+          "name": "Tyrone D Cannon",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5044952492",
+          "name": "Tyrone H. Cannon",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "dylan-gee",
+    "name": "Dylan Gee",
+    "aliases": [
+      "Dylan G. Gee"
+    ],
+    "areas": [
+      "anxiety",
+      "child development",
+      "fear learning"
+    ],
+    "appointments": [
+      {
+        "program": "yale",
+        "role": "tenure-track",
+        "start": "2016",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Yale University",
+          "yale university"
+        ],
+        "source": "https://psychology.yale.edu/research/clinical-psychology",
+        "dateSource": "https://psychology.yale.edu/news?page=29"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5045902050"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5045902050",
+          "name": "Dylan G. Gee",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5134109522",
+          "name": "Dylan Gee",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "jutta-joormann",
+    "name": "Jutta Joormann",
+    "aliases": [],
+    "areas": [
+      "depression",
+      "emotion regulation",
+      "cognition"
+    ],
+    "appointments": [
+      {
+        "program": "yale",
+        "role": "tenure-track",
+        "start": "2014",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Yale University",
+          "yale university"
+        ],
+        "source": "https://psychology.yale.edu/research/clinical-psychology",
+        "dateSource": "https://psychology.yale.edu/sites/default/files/cv-joormann82014.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5007569759",
+          "name": "Jutta Joormann",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5035637625",
+          "name": "Helena J.V. Rutherford and Jutta Joormann",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "shirley-wang",
+    "name": "Shirley Wang",
+    "aliases": [
+      "Shirley B. Wang"
+    ],
+    "areas": [
+      "suicide",
+      "eating disorders",
+      "ecological momentary assessment"
+    ],
+    "appointments": [
+      {
+        "program": "yale",
+        "role": "tenure-track",
+        "start": "2024",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Yale University",
+          "yale university"
+        ],
+        "source": "https://psychology.yale.edu/research/clinical-psychology",
+        "dateSource": "https://wti.yale.edu/profile/shirley-wang"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5070892042"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "ORCID in the Yale Wu Tsai Institute profile agrees with the OpenAlex author record."
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    },
+    "orcid": "0000-0002-8583-3014",
+    "orcidSource": "https://wti.yale.edu/profile/shirley-wang",
+    "cv": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+    "lab": "https://ccslab.yale.edu/"
+  },
+  {
+    "id": "aaron-fisher",
+    "name": "Aaron Fisher",
+    "aliases": [
+      "Aaron J. Fisher"
+    ],
+    "areas": [
+      "anxiety",
+      "psychotherapy",
+      "personalized interventions"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "onRosterBy": "2020",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/20-21_program_description_082120_cbs-final.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5027029570"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5027029570",
+          "name": "Aaron Jason Fisher",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5010284892",
+          "name": "Aaron Fisher",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5016866673",
+          "name": "Aaron Fisher",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5023315420",
+          "name": "Aaron S. Fisher",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5027347026",
+          "name": "Aaron Fisher",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "stephen-hinshaw",
+    "name": "Stephen Hinshaw",
+    "aliases": [
+      "Stephen P. Hinshaw"
+    ],
+    "areas": [
+      "ADHD",
+      "child psychopathology",
+      "stigma"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "onRosterBy": "2020",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/20-21_program_description_082120_cbs-final.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5027416767",
+          "name": "Stephen P. Hinshaw",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5146420076",
+          "name": "Stephen P. Hinshaw",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5020726201",
+          "name": "Stephen M. Hinshaw",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5069206945",
+          "name": "Hinshaw Stephen",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5085178273",
+          "name": "Stephen R. Hinshaw",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "sheri-johnson",
+    "name": "Sheri Johnson",
+    "aliases": [
+      "Sheri L. Johnson"
+    ],
+    "areas": [
+      "bipolar disorder",
+      "emotion regulation",
+      "impulsivity"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "onRosterBy": "2020",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/20-21_program_description_082120_cbs-final.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5074059744"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5074059744",
+          "name": "Sheri Lynn Johnson",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5005760020",
+          "name": "Sheri Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5040175611",
+          "name": "Sheri L. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5041687162",
+          "name": "Sverre Urnes Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5071166212",
+          "name": "Sheri P. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "keanan-joyner",
+    "name": "Keanan Joyner",
+    "aliases": [
+      "Keanan J. Joyner"
+    ],
+    "areas": [
+      "alcohol",
+      "substance use",
+      "psychophysiology"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5013274479",
+          "name": "Keanan J. Joyner",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5152962746",
+          "name": "Keanan Joyner",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "qing-zhou",
+    "name": "Qing Zhou",
+    "aliases": [],
+    "areas": [
+      "child development",
+      "developmental psychopathology",
+      "temperament"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "onRosterBy": "2020",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/20-21_program_description_082120_cbs-final.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5039441892"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5039441892",
+          "name": "Qing Zhou",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5017278139",
+          "name": "Qing Zhou",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5079451265",
+          "name": "Qing Zhou",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5088654770",
+          "name": "Qing Zhou",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5089732639",
+          "name": "Qing Hua Zhou",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "hedy-kober",
+    "name": "Hedy Kober",
+    "aliases": [],
+    "areas": [
+      "substance use",
+      "craving",
+      "mindfulness"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": "2024",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/newsletter_s24.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5005131042",
+          "name": "Hedy Kober",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "giovanni-ramos",
+    "name": "Giovanni Ramos",
+    "aliases": [
+      "Gio Ramos"
+    ],
+    "areas": [
+      "digital mental health",
+      "Latinx mental health",
+      "implementation science"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": "2025",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/newsletter_s24.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5053968801"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5053968801",
+          "name": "Giovanni Ramos",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5029786250",
+          "name": "Giovanni Ramos",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5005189828",
+          "name": "Giovanni Ramos Araújo",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5048873190",
+          "name": "Giovanni Francesco D’Angelo Ramos",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5050465365",
+          "name": "Giovanni Tolentino Ramos",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "jasmin-brooks-stephens",
+    "name": "Jasmin Brooks Stephens",
+    "aliases": [
+      "Jasmin Brooks",
+      "Jasmin R. Brooks"
+    ],
+    "areas": [
+      "racial trauma",
+      "suicide",
+      "child and adolescent mental health"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": "2025",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/newsletter_s24.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5011581059"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5011581059",
+          "name": "Jasmin R. Brooks",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5109465405",
+          "name": "Jasmin Roelle Brooks",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5129698894",
+          "name": "Jasmin R. Brooks Stephens",
+          "confidence": 0.53,
+          "evidence": [
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5133211845",
+          "name": "Jasmin R. Brooks Stephen",
+          "confidence": 0.53,
+          "evidence": [
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5090809325",
+          "name": "Jasmin Brooks",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "michael-bailey",
+    "name": "Michael Bailey",
+    "aliases": [
+      "J. Michael Bailey",
+      "John Michael Bailey"
+    ],
+    "areas": [
+      "sexual orientation",
+      "evolutionary psychology",
+      "behavior genetics"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5016178452"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5016178452",
+          "name": "J. Michael Bailey",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5009735497",
+          "name": "Michael Bailey",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5024340544",
+          "name": "Michael T. Bailey",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5027902867",
+          "name": "Michael A. Bailey",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5045573429",
+          "name": "Michael Bailey",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "vijay-mittal",
+    "name": "Vijay Mittal",
+    "aliases": [
+      "Vijay A. Mittal"
+    ],
+    "areas": [
+      "schizophrenia",
+      "psychosis",
+      "adolescence"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5088254667",
+          "name": "Vijay Anand Mittal",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5140228059",
+          "name": "Vijay Mittal",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5034417823",
+          "name": "Vijay K. Mittal",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5112541179",
+          "name": "Vijay Mittal",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5152388398",
+          "name": "Vijay Mittal",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "dan-mroczek",
+    "name": "Dan Mroczek",
+    "aliases": [
+      "Daniel Mroczek",
+      "Daniel K. Mroczek"
+    ],
+    "areas": [
+      "personality",
+      "lifespan development",
+      "health"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5082133606"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5082133606",
+          "name": "Daniel K. Mroczek",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5158517159",
+          "name": "Dan Mroczek",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "robin-nusslock",
+    "name": "Robin Nusslock",
+    "aliases": [],
+    "areas": [
+      "mood disorders",
+      "anxiety",
+      "affective neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5054013085",
+          "name": "Robin Nusslock",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5162054170",
+          "name": "Robin Nusslock",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5162069171",
+          "name": "Robin Nusslock",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "william-revelle",
+    "name": "William Revelle",
+    "aliases": [
+      "William R. Revelle"
+    ],
+    "areas": [
+      "personality",
+      "psychometrics",
+      "assessment"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5073712639"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5073712639",
+          "name": "William Revelle",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5135432006",
+          "name": "William Revelle",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5150341216",
+          "name": "Maintainer William Revelle",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "jennifer-tackett",
+    "name": "Jennifer Tackett",
+    "aliases": [
+      "Jennifer L. Tackett"
+    ],
+    "areas": [
+      "externalizing psychopathology",
+      "child development",
+      "personality"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5023519179",
+          "name": "Jennifer L. Tackett",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5135468310",
+          "name": "Jennifer L. Tackett",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5158350980",
+          "name": "Jennifer L Tackett",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "richard-zinbarg",
+    "name": "Richard Zinbarg",
+    "aliases": [
+      "Richard E. Zinbarg"
+    ],
+    "areas": [
+      "anxiety",
+      "psychometrics",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5022630565"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5022630565",
+          "name": "Richard E. Zinbarg",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5158456353",
+          "name": "Richard Zinbarg",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "dillon-browne",
+    "name": "Dillon Browne",
+    "aliases": [
+      "Dillon T. Browne"
+    ],
+    "areas": [
+      "child mental health",
+      "family systems",
+      "digital technology"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5019401974",
+          "name": "Dillon Thomas Browne",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5138074881",
+          "name": "Dillon T. Browne",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "allison-kelly",
+    "name": "Allison Kelly",
+    "aliases": [
+      "Allison C. Kelly"
+    ],
+    "areas": [
+      "eating disorders",
+      "self-compassion",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5035764570"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5035764570",
+          "name": "Allison C. Kelly",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5005072608",
+          "name": "Allison Kelly",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5065508189",
+          "name": "Allison A. Kelly",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5102438211",
+          "name": "Allison Kelly",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5017461155",
+          "name": "Kelly C. Allison",
+          "confidence": 0.18,
+          "evidence": [
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "tara-mcauley",
+    "name": "Tara McAuley",
+    "aliases": [],
+    "areas": [
+      "executive function",
+      "child development",
+      "neuropsychology"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5046444620"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5046444620",
+          "name": "Tara McAuley",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5035670195",
+          "name": "Tara McAuley",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "david-moscovitch",
+    "name": "David Moscovitch",
+    "aliases": [
+      "David A. Moscovitch"
+    ],
+    "areas": [
+      "social anxiety",
+      "memory",
+      "imagery"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5018108046"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5018108046",
+          "name": "David A. Moscovitch",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5049116481",
+          "name": "David H. Moscovitch",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "elizabeth-nilsen",
+    "name": "Elizabeth Nilsen",
+    "aliases": [
+      "Elizabeth S. Nilsen",
+      "Liz Nilsen"
+    ],
+    "areas": [
+      "child development",
+      "language",
+      "executive function"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5052130931"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5052130931",
+          "name": "Elizabeth S. Nilsen",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5062261547",
+          "name": "Elizabeth A. Nilsen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5045287498",
+          "name": "Liz-Marie Nilsen",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5052916963",
+          "name": "Natalie Elizabeth Nilsen",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "jonathan-oakman",
+    "name": "Jonathan Oakman",
+    "aliases": [
+      "Jonathan M. Oakman"
+    ],
+    "areas": [
+      "psychotherapy",
+      "psychological assessment",
+      "anxiety"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5104831838",
+          "name": "Jonathan M. Oakman",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5098485047",
+          "name": "and why they don't work better Jonathan M. Oakman Why our treatments work",
+          "confidence": 0.18,
+          "evidence": [
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5078217918",
+          "name": "Jonathan E. Oakman",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "christine-purdon",
+    "name": "Christine Purdon",
+    "aliases": [
+      "Christine L. Purdon"
+    ],
+    "areas": [
+      "anxiety",
+      "obsessive compulsive disorder",
+      "intrusive thoughts"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5004017845"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5004017845",
+          "name": "Christine L. Purdon",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5161041952",
+          "name": "Christine Purdon",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "uzma-rehman",
+    "name": "Uzma Rehman",
+    "aliases": [
+      "Uzma S. Rehman"
+    ],
+    "areas": [
+      "relationships",
+      "sexual well-being",
+      "emotion"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5042413485"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5042413485",
+          "name": "Uzma S. Rehman",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5004631206",
+          "name": "Uzma Rehman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5037185883",
+          "name": "Uzma Rehman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5100262418",
+          "name": "Uzma Rehman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5119216581",
+          "name": "Uzma Rehman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "dan-mcadams",
+    "name": "Dan McAdams",
+    "aliases": [
+      "Dan P. McAdams",
+      "Dan Philip McAdams"
+    ],
+    "areas": [
+      "personality",
+      "life stories",
+      "culture"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5059081206"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5059081206",
+          "name": "Dan P. McAdams",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5146403782",
+          "name": "Dan P. McAdams",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5064447152",
+          "name": "Daniel A. McAdams",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5137026974",
+          "name": "Galen Strawson, Shaun Gallagher, Dan Mcadams, Martino Feyles, Jean-Luc Amalric, Jens Brockmeier, Christian Gudehus, Sami Gülgöz, Sezin Öner, Richard Kearney, Olivier Abel, Johann Michel, Soljana Çili",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "howard-s-adelman",
+    "name": "Howard S. Adelman",
+    "aliases": [
+      "Howard Adelman"
+    ],
+    "areas": [
+      "school mental health",
+      "child development",
+      "learning"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5004555355",
+          "name": "Howard S. Adelman",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5000874647",
+          "name": "Howard Tzvi Adelman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5078056732",
+          "name": "Howard C. Adelman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5112772004",
+          "name": "HOWARD M. ADELMAN",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5143011462",
+          "name": "Howard Adelman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "thomas-n-bradbury",
+    "name": "Thomas N. Bradbury",
+    "aliases": [
+      "Thomas Bradbury"
+    ],
+    "areas": [
+      "marriage",
+      "relationships",
+      "couples"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5023554653"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5023554653",
+          "name": "Thomas N. Bradbury",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5022554332",
+          "name": "Thomas Bradbury",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5046600514",
+          "name": "Thomas Bradbury",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5099403847",
+          "name": "Thomas Bradbury",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5102847297",
+          "name": "Thomas Lane Bradbury",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "denise-a-chavira",
+    "name": "Denise A. Chavira",
+    "aliases": [
+      "Denise Chavira"
+    ],
+    "areas": [
+      "anxiety",
+      "child mental health",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5033767498"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5033767498",
+          "name": "Denise April Chavira",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5074867145",
+          "name": "Denise Daniela Cruz Chavira",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "bruce-chorpita",
+    "name": "Bruce Chorpita",
+    "aliases": [
+      "Bruce F. Chorpita"
+    ],
+    "areas": [
+      "child mental health",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5028201781"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5028201781",
+          "name": "Bruce F. Chorpita",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "tiffany-ho",
+    "name": "Tiffany Ho",
+    "aliases": [
+      "Tiffany C. Ho"
+    ],
+    "areas": [
+      "adolescent depression",
+      "neuroscience",
+      "suicide"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5049225932"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5049225932",
+          "name": "Tiffany Cheing Ho",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5101976927",
+          "name": "Tiffany F. Ho",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5006077985",
+          "name": "Tiffany Ho",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5101734661",
+          "name": "Tiffany C. Ho",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5103785508",
+          "name": "Tiffany Ho",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "katherine-h-karlsgodt",
+    "name": "Katherine H. Karlsgodt",
+    "aliases": [
+      "Katherine Karlsgodt"
+    ],
+    "areas": [
+      "psychosis",
+      "schizophrenia",
+      "neuroimaging"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5009032760"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5009032760",
+          "name": "Katherine H. Karlsgodt",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5140234010",
+          "name": "Katherine Karlsgodt",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "anna-s-lau",
+    "name": "Anna S. Lau",
+    "aliases": [
+      "Anna Lau"
+    ],
+    "areas": [
+      "child mental health",
+      "implementation science",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5038926208",
+          "name": "Anna S. Lau",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5103786093",
+          "name": "Anna S. Lau",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5110440679",
+          "name": "Anna Lau",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5014824337",
+          "name": "Anna F. Lau",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5022268047",
+          "name": "Anna Lau",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "steve-s-lee",
+    "name": "Steve S. Lee",
+    "aliases": [
+      "Steve Lee",
+      "Stephen S. Lee"
+    ],
+    "areas": [
+      "ADHD",
+      "child psychopathology",
+      "externalizing"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5021255904",
+          "name": "Steve Y. Lee",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5062548316",
+          "name": "Steve P. Lee",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5080511389",
+          "name": "Steve S. Lee",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5100650756",
+          "name": "Steve C. Lee",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5110051051",
+          "name": "Steve S. Lee",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "vickie-m-mays",
+    "name": "Vickie M. Mays",
+    "aliases": [
+      "Vickie Mays"
+    ],
+    "areas": [
+      "health disparities",
+      "mental health",
+      "discrimination"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5023443927",
+          "name": "Vickie M. Mays",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5108791605",
+          "name": "Vickie Mays",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5150467248",
+          "name": "Vickie M Mays",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "lauren-c-ng",
+    "name": "Lauren C. Ng",
+    "aliases": [
+      "Lauren Ng"
+    ],
+    "areas": [
+      "trauma",
+      "adolescent mental health",
+      "global mental health"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5045636109"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5045636109",
+          "name": "Lauren C. Ng",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5136625253",
+          "name": "Lauren Ng",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5045958478",
+          "name": "Lauren Ng",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5071270314",
+          "name": "Lauren Ng",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5105421673",
+          "name": "Lauren Ng",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "lara-ray",
+    "name": "Lara Ray",
+    "aliases": [
+      "Lara A. Ray"
+    ],
+    "areas": [
+      "alcohol",
+      "addiction",
+      "substance use"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5039382744"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5039382744",
+          "name": "Lara A. Ray",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5000677244",
+          "name": "Lara L Ray",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5017275386",
+          "name": "J Ray-Lara",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5044960274",
+          "name": "Ray Lara J",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5058242775",
+          "name": "Ray Freddy Lara Pacheco",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "cindy-yee-bradbury",
+    "name": "Cindy Yee-Bradbury",
+    "aliases": [
+      "Cindy M. Yee-Bradbury",
+      "Cindy Yee",
+      "Cindy M. Yee"
+    ],
+    "areas": [
+      "psychophysiology",
+      "emotion",
+      "schizophrenia"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5034746344",
+          "name": "Cindy M. Yee",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5084815310",
+          "name": "Cindy Yee‐Bradbury",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5044637267",
+          "name": "Cindy L. Yee",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5108526951",
+          "name": "Cindy J. Yee",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5034737712",
+          "name": "Cindy Kit Yee Luey",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
       "errors": {}
     }
   }

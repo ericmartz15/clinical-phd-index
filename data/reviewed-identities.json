@@ -1,7 +1,23 @@
 {
   "matthew-nock": {
-    "ids": ["A5082317510"], "confidence": 1, "status": "resolved",
-    "evidence": ["OpenAlex name, Harvard affiliation and suicide research agree with the official CV. A possible secondary author ID remains under review."],
+    "ids": [
+      "A5082317510"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "OpenAlex name, Harvard affiliation and suicide research agree with the official CV. A possible secondary author ID remains under review."
+    ],
     "splitReview": true
+  },
+  "shirley-wang": {
+    "ids": [
+      "A5070892042"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "ORCID in the Yale Wu Tsai Institute profile agrees with the OpenAlex author record."
+    ]
   }
 }

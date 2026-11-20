@@ -12,6 +12,10 @@ Open `index.html` for the static coverage preview, or serve this folder with `py
 
 ## Attribution
 
+For roster verification, `currentRosterReview` records the scope, date, and role decisions for the current faculty list. `rosterReview: "complete"` is reserved for programs where the current roster and relevant historical appointments have both been checked. Dates recorded as `onRosterBy` establish only that the person was listed by that date.
+
+The Actions refresh defaults to full publication retrieval. Its primary mode queries OpenAlex for the expanded roster and carries forward evidence for unchanged, manually resolved faculty. The data quality page reports the calibration sample and independent CV checks separately from the holdout. Evidence for a byline correction is stored at the individual DOI in `data/reviewed-works.json`. A correction to one byline leaves the other records on the OpenAlex profile untouched.
+
 The default window is exactly ten years before the build date. Journal articles and reviews use publication type as a peer-review proxy when item-level evidence is unavailable. Preprints are displayed separately. The scorer splits a paper across authors, then splits an author's credit across independently verified simultaneous clinical appointments if applicable. Weighted mode uses the outer positions for papers over 50 authors. Unknown publication or appointment evidence is flagged for review. A change in program affiliation does not move previously credited work.
 
 ## Hero image

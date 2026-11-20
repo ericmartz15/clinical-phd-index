@@ -4,30 +4,116 @@
   "target": 0.95,
   "seed": 291756,
   "window": [
-    "2021-11-19",
-    "2026-11-19"
+    "2021-11-20",
+    "2026-11-20"
   ],
-  "eligibleFaculty": 7,
-  "samplingFrame": 7,
+  "eligibleFaculty": 53,
+  "samplingFrame": 53,
   "excludedCalibration": [],
   "sample": [
-    "allison-harvey",
-    "mark-hatzenbuehler",
-    "mark-chen",
-    "matthew-nock",
-    "michelle-craske",
+    "aaron-fisher",
+    "jutta-joormann",
+    "giovanni-ramos",
+    "tara-mcauley",
+    "jasmin-brooks-stephens",
+    "shirley-wang",
     "jill-hooley",
-    "richard-mcnally"
+    "michael-bailey",
+    "daniel-moriarity",
+    "rebecca-waller",
+    "william-revelle",
+    "tiffany-ho",
+    "christine-purdon",
+    "mark-chen",
+    "lara-ray",
+    "jennifer-tackett",
+    "arielle-baskin-sommers",
+    "hedy-kober",
+    "anna-s-lau",
+    "dan-mcadams",
+    "robin-nusslock",
+    "steve-s-lee",
+    "dylan-gee",
+    "elizabeth-nilsen",
+    "dillon-browne",
+    "lauren-c-ng",
+    "cindy-yee-bradbury",
+    "matthew-nock",
+    "bruce-chorpita",
+    "jonathan-oakman",
+    "tyrone-cannon",
+    "sara-jaffee",
+    "howard-s-adelman",
+    "ayelet-meron-ruscio",
+    "dan-mroczek",
+    "mark-hatzenbuehler",
+    "thomas-n-bradbury",
+    "sheri-johnson",
+    "allison-harvey",
+    "david-moscovitch",
+    "uzma-rehman",
+    "michelle-craske",
+    "vickie-m-mays",
+    "denise-a-chavira",
+    "keanan-joyner",
+    "allison-kelly",
+    "stephen-hinshaw",
+    "richard-mcnally",
+    "qing-zhou",
+    "richard-zinbarg"
   ],
   "audited": 0,
   "unavailable": [
-    "allison-harvey",
-    "mark-hatzenbuehler",
-    "mark-chen",
-    "matthew-nock",
-    "michelle-craske",
+    "aaron-fisher",
+    "jutta-joormann",
+    "giovanni-ramos",
+    "tara-mcauley",
+    "jasmin-brooks-stephens",
+    "shirley-wang",
     "jill-hooley",
-    "richard-mcnally"
+    "michael-bailey",
+    "daniel-moriarity",
+    "rebecca-waller",
+    "william-revelle",
+    "tiffany-ho",
+    "christine-purdon",
+    "mark-chen",
+    "lara-ray",
+    "jennifer-tackett",
+    "arielle-baskin-sommers",
+    "hedy-kober",
+    "anna-s-lau",
+    "dan-mcadams",
+    "robin-nusslock",
+    "steve-s-lee",
+    "dylan-gee",
+    "elizabeth-nilsen",
+    "dillon-browne",
+    "lauren-c-ng",
+    "cindy-yee-bradbury",
+    "matthew-nock",
+    "bruce-chorpita",
+    "jonathan-oakman",
+    "tyrone-cannon",
+    "sara-jaffee",
+    "howard-s-adelman",
+    "ayelet-meron-ruscio",
+    "dan-mroczek",
+    "mark-hatzenbuehler",
+    "thomas-n-bradbury",
+    "sheri-johnson",
+    "allison-harvey",
+    "david-moscovitch",
+    "uzma-rehman",
+    "michelle-craske",
+    "vickie-m-mays",
+    "denise-a-chavira",
+    "keanan-joyner",
+    "allison-kelly",
+    "stephen-hinshaw",
+    "richard-mcnally",
+    "qing-zhou",
+    "richard-zinbarg"
   ],
   "matches": 0,
   "denominator": 0,
@@ -37,7 +123,7 @@
   "targetMet": false,
   "missing": [],
   "rows": [],
-  "corpusSha256": "3986a174b5f7d9a6132b1347ae23a74601c0a60362148a5e312beaa20e5280eb",
+  "corpusSha256": "d5348205a5d6c6bb53bce29397c8a3d68aefcd465abcbfb84280ce84460796fc",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",
@@ -149,5 +235,217 @@
         "diagnosis": null
       }
     ]
-  }
+  },
+  "diagnosticChecks": [
+    {
+      "person": "shirley-wang",
+      "scope": "Shirley Wang’s CV bibliography for 2022–2026",
+      "source": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "iterations": [
+        {
+          "matches": 25,
+          "denominator": 26,
+          "change": "Compared with the keyed OpenAlex snapshot using verified DOI matches for CV title variants."
+        },
+        {
+          "matches": 26,
+          "denominator": 26,
+          "change": "Recovered DOI 10.15626/mp.2023.3688 using the publisher byline, Crossref and the CV. OpenAlex attached the DOI to a different Shirley Wang profile."
+        }
+      ],
+      "matches": 26,
+      "denominator": 26,
+      "rows": [
+        {
+          "title": "Contra-hedonic functions of self-destructive behaviors in adolescents",
+          "year": 2026,
+          "matched": true,
+          "matchedDoi": "10.1002/eat.70111",
+          "diagnosis": null
+        },
+        {
+          "title": "Multidisciplinary clinical psychological science: Progress, challenges, and opportunities",
+          "year": 2026,
+          "matched": true,
+          "matchedDoi": "10.1177/21677026261440520",
+          "diagnosis": null
+        },
+        {
+          "title": "The future of the biopsychosocial model: Towards a transdisciplinary systems science of mental health",
+          "year": 2026,
+          "doi": "10.1177/21677026261435464",
+          "matched": true,
+          "matchedDoi": "10.1177/21677026261435464",
+          "diagnosis": null
+        },
+        {
+          "title": "Applying machine learning to investigate future life-oriented predictors of adolescents’ near-term suicidal ideation",
+          "year": 2026,
+          "matched": true,
+          "matchedDoi": "10.1016/j.jadr.2026.101105",
+          "diagnosis": null
+        },
+        {
+          "title": "Interpretation Issues with the Patient Health Questionnaire Instructions",
+          "year": 2026,
+          "matched": true,
+          "matchedDoi": "10.1001/jamapsychiatry.2025.3796",
+          "diagnosis": null
+        },
+        {
+          "title": "Understanding, predicting, and preventing suicide: Recent advances using digital and computational methods",
+          "year": 2026,
+          "matched": true,
+          "matchedDoi": "10.1177/09637214251414021",
+          "diagnosis": null
+        },
+        {
+          "title": "Electronic health record-based phenotyping for obsessive-compulsive disorder: Algorithm development and multicenter validation study",
+          "year": 2026,
+          "matched": true,
+          "matchedDoi": "10.2196/89213",
+          "diagnosis": null
+        },
+        {
+          "title": "Path asymmetry in complex dynamical systems of psychopathology",
+          "year": 2026,
+          "doi": "10.1001/jamapsychiatry.2025.3147",
+          "matched": true,
+          "matchedDoi": "10.1001/jamapsychiatry.2025.3147",
+          "diagnosis": null
+        },
+        {
+          "title": "Quality and contents of self-guided adolescent suicide safety plans",
+          "year": 2026,
+          "matched": true,
+          "matchedDoi": "10.1080/15374416.2026.2660293",
+          "diagnosis": null
+        },
+        {
+          "title": "Future directions for mathematical, computational, and digital methods in suicide research",
+          "year": 2026,
+          "doi": "10.1080/15374416.2026.2617212",
+          "matched": true,
+          "matchedDoi": "10.1080/15374416.2026.2617212",
+          "diagnosis": null
+        },
+        {
+          "title": "Accuracy and consistency of visual analog scales in ecological momentary assessment and digital studies",
+          "year": 2025,
+          "matched": true,
+          "matchedDoi": "10.1525/collabra.142735",
+          "diagnosis": null
+        },
+        {
+          "title": "Patterns of symptom change in behaviors and cognitions during 10-session cognitive behavioral therapy (CBT-T) for non-underweight eating disorders",
+          "year": 2025,
+          "matched": true,
+          "matchedDoi": "10.1002/eat.24429",
+          "diagnosis": null
+        },
+        {
+          "title": "Identification of affective and social reinforcement functions of driven exercise: Evidence from three samples",
+          "year": 2025,
+          "matched": true,
+          "matchedDoi": "10.1177/21677026241290455",
+          "diagnosis": null
+        },
+        {
+          "title": "Practicing theory building in a many modelers hackathon: A proof of concept",
+          "year": 2025,
+          "doi": "10.15626/mp.2023.3688",
+          "matched": true,
+          "matchedDoi": "10.15626/mp.2023.3688",
+          "diagnosis": null
+        },
+        {
+          "title": "Accessibility and utility of an electronic self-guided safety plan for adolescents",
+          "year": 2024,
+          "matched": true,
+          "matchedDoi": "10.1080/15374416.2024.2395271",
+          "diagnosis": null
+        },
+        {
+          "title": "Building personalized machine learning models using real-time monitoring data to predict idiographic suicidal thoughts",
+          "year": 2024,
+          "matched": true,
+          "matchedDoi": "10.1038/s44220-024-00335-w",
+          "diagnosis": null
+        },
+        {
+          "title": "Heterogeneity in suicide risk: Evidence from personalized dynamic models",
+          "year": 2024,
+          "matched": true,
+          "matchedDoi": "10.1016/j.brat.2024.104574",
+          "diagnosis": null
+        },
+        {
+          "title": "Trajectory of ghrelin and PYY around a test meal in males and females with avoidant/restrictive food intake disorder versus healthy controls",
+          "year": 2024,
+          "matched": true,
+          "matchedDoi": "10.1016/j.psyneuen.2024.107063",
+          "diagnosis": null
+        },
+        {
+          "title": "Avoidant/restrictive food intake disorder differs from anorexia nervosa in delay discounting",
+          "year": 2024,
+          "matched": true,
+          "matchedDoi": "10.1186/s40337-023-00958-x",
+          "diagnosis": null
+        },
+        {
+          "title": "Comparing self-harming intentions underlying eating disorder behaviors and nonsuicidal self-injury: Replication and extension in adolescents",
+          "year": 2023,
+          "doi": "10.1002/eat.24043",
+          "matched": true,
+          "matchedDoi": "10.1002/eat.24043",
+          "diagnosis": null
+        },
+        {
+          "title": "Identity, social pressure, and body image in the development of disordered eating behaviors among pre-professional adolescent ballet dancers",
+          "year": 2023,
+          "doi": "10.1002/eat.24005",
+          "matched": true,
+          "matchedDoi": "10.1002/eat.24005",
+          "diagnosis": null
+        },
+        {
+          "title": "Development of transdiagnostic clinical risk prediction models for 12-month onset and course of eating disorders among adolescents in the community",
+          "year": 2023,
+          "matched": true,
+          "matchedDoi": "10.1002/eat.23951",
+          "diagnosis": null
+        },
+        {
+          "title": "Real-time digital monitoring of a suicide attempt by a hospital patient",
+          "year": 2023,
+          "matched": true,
+          "matchedDoi": "10.1016/j.genhosppsych.2022.12.005",
+          "diagnosis": null
+        },
+        {
+          "title": "Exploring adolescent experience with disclosing self-injurious thoughts and behaviors across settings",
+          "year": 2022,
+          "doi": "10.1007/s10802-021-00878-x",
+          "matched": true,
+          "matchedDoi": "10.1007/s10802-021-00878-x",
+          "diagnosis": null
+        },
+        {
+          "title": "Online methods in adolescent self-injury research: Challenges and recommendations",
+          "year": 2022,
+          "matched": true,
+          "matchedDoi": "10.1080/15374416.2021.1875325",
+          "diagnosis": null
+        },
+        {
+          "title": "Preliminary validation of the Pica, ARFID, and Rumination Disorder Interview ARFID Questionnaire (PARDI-AR-Q)",
+          "year": 2022,
+          "matched": true,
+          "matchedDoi": "10.1186/s40337-022-00706-7",
+          "diagnosis": null
+        }
+      ]
+    }
+  ]
 }

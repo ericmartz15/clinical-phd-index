@@ -1,5 +1,6 @@
 """Propose potential official faculty pages and link-text candidates for manual verification."""
 import argparse
+from concurrent.futures import ThreadPoolExecutor
 from html.parser import HTMLParser
 from pathlib import Path
 import re
@@ -85,10 +86,13 @@ def main():
     cli.add_argument("--cache", required=True, type=Path)
     cli.add_argument("--output", required=True, type=Path)
     cli.add_argument("--program", action="append")
+    cli.add_argument("--workers", type=int, default=8, choices=range(1, 13), metavar="1–12")
     args = cli.parse_args()
     client = Client(args.cache, True)
-    programs = read(DATA / "programs.json")
-    write(args.output, [discover(client, row) for row in programs if not args.program or row["id"] in args.program])
+    programs = [row for row in read(DATA / "programs.json") if not args.program or row["id"] in args.program]
+    with ThreadPoolExecutor(max_workers=args.workers) as pool:
+        results = list(pool.map(lambda program: discover(client, program), programs))
+    write(args.output, results)
 
 
 if __name__ == "__main__":
