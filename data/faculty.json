@@ -5640,16 +5640,38 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5063678131"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5063678131",
+          "name": "Bengi Baran",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -5680,15 +5702,53 @@
     ],
     "identity": {
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5066496519",
+          "name": "S. Lutgendorf",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5075793477",
+          "name": "Susan K. Lutgendorf",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5143062509",
+          "name": "Susan Lutgendorf",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5039565967",
+          "name": "Lutgendorf Susan",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     "retrieval": {
       "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -5718,16 +5778,38 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5076088595"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5076088595",
+          "name": "Molly A. Nikolas",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -5824,15 +5906,42 @@
     ],
     "identity": {
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5060893068",
+          "name": "Daniel Tranel",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5158509257",
+          "name": "Daniel Tranel",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5159518619",
+          "name": " Daniel Thomas Tranel",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     "retrieval": {
       "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -5862,16 +5971,46 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5017447064"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5017447064",
+          "name": "Teresa A. Treat",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5158467130",
+          "name": "Teresa Treat",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -5901,16 +6040,38 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5010145070"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5010145070",
+          "name": "Tera L. Fazzino",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -5941,15 +6102,60 @@
     ],
     "identity": {
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5078452888",
+          "name": "Jeffrey M. Girard",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5135741667",
+          "name": "Jeffrey Girard",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5008406879",
+          "name": "Jeffrey Girard",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5050414530",
+          "name": "Jeffrey S. Girard",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5066242046",
+          "name": "Jeffrey Girard",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     "retrieval": {
       "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -5979,16 +6185,70 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5027384039"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5027384039",
+          "name": "Nancy A. Hamilton",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5000772364",
+          "name": "Nancy Hamilton",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5021816498",
+          "name": "Nancy Hamilton",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5053196059",
+          "name": "Nancy L. Hamilton",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5087823292",
+          "name": "Nancy Hamilton",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -6019,15 +6279,36 @@
     ],
     "identity": {
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5042128713",
+          "name": "Stephen Ilardi",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5065234279",
+          "name": "Stephen S. Ilardi",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
     },
     "retrieval": {
       "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -6057,16 +6338,38 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5044399980"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5044399980",
+          "name": "Charlene L. Muehlenhard",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -6096,16 +6399,70 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5046440614"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5046440614",
+          "name": "Jessica M. Powers",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5042728422",
+          "name": "Jessica Powers",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5047970707",
+          "name": "Jessica Davis Powers",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5057735153",
+          "name": "Jessica Powers",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5087464353",
+          "name": "Jessica Powers",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -6135,16 +6492,38 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5028826026"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5028826026",
+          "name": "Melisa V. Rempfer",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -6255,16 +6634,68 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5082451550"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5082451550",
+          "name": "Amber S. Watts",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5120203773",
+          "name": "Amber S. Watts",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5146846385",
+          "name": "Amber Watts",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5157872170",
+          "name": "Amber Watts",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5003549720",
+          "name": "Amber D Watts",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -6293,15 +6724,51 @@
     ],
     "identity": {
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5069119660",
+          "name": "Richard Yi",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5015401377",
+          "name": "Yi Yang",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5016187957",
+          "name": "Richard M. Y. Tang",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5020139469",
+          "name": "Perng-Yi Richard",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5037458489",
+          "name": "Richard Yi Tsun Kao",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     "retrieval": {
       "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -6332,16 +6799,66 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5017891189"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5017891189",
+          "name": "Kristy Benoit Allen",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5015168191",
+          "name": "Kristy M. Allen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5139927449",
+          "name": "Kristy Allen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5052129194",
+          "name": "Kristy Allen-Brady",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5112989055",
+          "name": "Kristy Allen Brady",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -6440,16 +6957,53 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5076500416"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5076500416",
+          "name": "Paula J. Fite",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5066310574",
+          "name": "Paula K Fite",
+          "confidence": 0.53,
+          "evidence": [
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5081419540",
+          "name": "Paula A Fite",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -6479,16 +7033,38 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5065720866"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5065720866",
+          "name": "Kelsie Terese Forbush",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -6518,16 +7094,46 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5071404992"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5071404992",
+          "name": "Matthew W. Mosconi",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5159803878",
+          "name": "Matthew Mosconi",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "HTTP 429 from api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   }
 ]

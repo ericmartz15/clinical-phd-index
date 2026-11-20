@@ -1323,88 +1323,171 @@
       ]
     },
     {
-      "pid": "bengi-baran",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
       "pid": "susan-lutgendorf",
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "molly-nikolas",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5066496519",
+          "name": "S. Lutgendorf",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5075793477",
+          "name": "Susan K. Lutgendorf",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5143062509",
+          "name": "Susan Lutgendorf",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5039565967",
+          "name": "Lutgendorf Susan",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     {
       "pid": "daniel-tranel",
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "teresa-treat",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "tera-fazzino",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5060893068",
+          "name": "Daniel Tranel",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5158509257",
+          "name": "Daniel Tranel",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5159518619",
+          "name": " Daniel Thomas Tranel",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     {
       "pid": "jeffrey-girard",
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "nancy-hamilton",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5078452888",
+          "name": "Jeffrey M. Girard",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5135741667",
+          "name": "Jeffrey Girard",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5008406879",
+          "name": "Jeffrey Girard",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5050414530",
+          "name": "Jeffrey S. Girard",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5066242046",
+          "name": "Jeffrey Girard",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     {
       "pid": "stephen-ilardi",
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "charlene-muehlenhard",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "jessica-powers",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "melisa-rempfer",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5042128713",
+          "name": "Stephen Ilardi",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5065234279",
+          "name": "Stephen S. Ilardi",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
     },
     {
       "pid": "jordan-thomas",
@@ -1458,46 +1541,49 @@
       ]
     },
     {
-      "pid": "amber-watts",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
       "pid": "richard-yi",
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "kristy-b-allen",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "paula-j-fite",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "kelsie-forbush",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "matthew-w-mosconi",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5069119660",
+          "name": "Richard Yi",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5015401377",
+          "name": "Yi Yang",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5016187957",
+          "name": "Richard M. Y. Tang",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5020139469",
+          "name": "Perng-Yi Richard",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5037458489",
+          "name": "Richard Yi Tsun Kao",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     }
   ],
   "publicationCandidates": [
@@ -7734,36 +7820,6 @@
       "issue": "Eligible appointment at publication unverified"
     },
     {
-      "person": "isaac-petersen",
-      "doi": "10.1037/edu0000461",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "isaac-petersen",
-      "doi": "10.31234/osf.io/r9vqz_v2",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "isaac-petersen",
-      "doi": "10.31234/osf.io/gzc9m_v1",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "isaac-petersen",
-      "doi": "10.31234/osf.io/bw4hc_v2",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "christopher-c-cushing",
-      "doi": "10.1037/pas0000810",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "christopher-c-cushing",
-      "doi": "10.2337/db21-569-p",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
       "person": "allison-harvey",
       "doi": "10.31234/osf.io/57jyg",
       "issue": "Eligible appointment at publication unverified"
@@ -7801,6 +7857,491 @@
     {
       "person": "shirley-wang",
       "doi": "10.31234/osf.io/q2ezw",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1093/sleep/zsw013",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1016/j.bpsc.2019.04.012",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1038/s41386-020-00833-2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1111/jsr.12968",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1016/j.nicl.2018.06.002",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1016/j.schres.2018.04.019",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1093/sleep/zsz067.913",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1093/sleepj/zsx050.1125",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1093/sleep/zsy061.997",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1016/j.biopsych.2020.02.1208",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1016/j.biopsych.2020.02.450",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bengi-baran",
+      "doi": "10.1093/sleep/zsy061.095",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "molly-nikolas",
+      "doi": "10.1037/pas0000688",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "isaac-petersen",
+      "doi": "10.1037/edu0000461",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "isaac-petersen",
+      "doi": "10.31234/osf.io/r9vqz_v2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "isaac-petersen",
+      "doi": "10.31234/osf.io/gzc9m_v1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "isaac-petersen",
+      "doi": "10.31234/osf.io/bw4hc_v2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "teresa-treat",
+      "doi": "10.1037/adb0000662",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "teresa-treat",
+      "doi": "10.1037/vio0000270",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "tera-fazzino",
+      "doi": "10.1016/j.amepre.2017.02.007",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "tera-fazzino",
+      "doi": "10.1002/oby.22007",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "tera-fazzino",
+      "doi": "10.1037/pro0000434",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "tera-fazzino",
+      "doi": "10.1111/acer.14025",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "tera-fazzino",
+      "doi": "10.1007/s10549-017-4603-z",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "tera-fazzino",
+      "doi": "10.1016/j.jand.2017.06.235",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "tera-fazzino",
+      "doi": "10.31234/osf.io/vhkeu",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "charlene-muehlenhard",
+      "doi": "10.1037/vio0000553",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1016/j.drugalcdep.2020.108171",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1093/ntr/ntaa111",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1037/abn0000792",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1093/ntr/ntac197",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1016/j.jpain.2022.09.019",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1016/j.addbeh.2023.107814",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1037/pha0000335",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1016/j.addbeh.2020.106548",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1016/j.copsyc.2019.01.013",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1111/ajad.13003",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1037/adb0001004",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1080/10826084.2025.2561919",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1007/s10865-021-00210-4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1111/ajad.13245",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.15288/jsad.2022.83.223",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1016/j.addbeh.2020.106318",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1093/ntr/ntae292",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1016/j.jpain.2021.12.005",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1002/cncr.35701",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1037/adb0000532",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1007/s40615-022-01419-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1037/pha0000692",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1016/j.cct.2024.107780",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1093/abm/kaaf075",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1093/ntr/ntag089",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1080/02791072.2022.2075713",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1016/j.jpain.2023.02.311",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1016/j.jpain.2024.01.326",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1080/00952990.2024.2375515",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1016/j.amepre.2025.108251",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1037/tra0001462",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1016/j.psychres.2018.04.060",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1037/prj0000412",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1016/j.psychres.2017.08.057",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1080/17522439.2019.1632920",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1111/papt.12412",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1037/neu0000700",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1097/nmd.0000000000001708",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1016/j.psychres.2018.10.016",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1017/s1352465822000017",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1016/j.schres.2020.08.019",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1080/17522439.2022.2089206",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "melisa-rempfer",
+      "doi": "10.1093/arclin/acaf084.112",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "amber-watts",
+      "doi": "10.1123/japa.2018-0031",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "amber-watts",
+      "doi": "10.1093/geroni/igaa057.3089",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "amber-watts",
+      "doi": "10.1212/wnl.92.15_supplement.p5.1-016",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "amber-watts",
+      "doi": "10.1093/geroni/igaf122.1800",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kristy-b-allen",
+      "doi": "10.1001/jamapsychiatry.2020.0585",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kristy-b-allen",
+      "doi": "10.1016/j.jecp.2018.10.011",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kristy-b-allen",
+      "doi": "10.1007/s10608-019-10071-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kristy-b-allen",
+      "doi": "10.1016/j.dcn.2021.100960",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kristy-b-allen",
+      "doi": "10.1002/da.23207",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kristy-b-allen",
+      "doi": "10.1007/s10578-018-0856-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kristy-b-allen",
+      "doi": "10.1002/dev.22024",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kristy-b-allen",
+      "doi": "10.1007/s10578-021-01147-0",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "christopher-c-cushing",
+      "doi": "10.1037/pas0000810",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kelsie-forbush",
+      "doi": "10.1037/pas0000810",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "christopher-c-cushing",
+      "doi": "10.2337/db21-569-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "paula-j-fite",
+      "doi": "10.1037/pas0001131",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "paula-j-fite",
+      "doi": "10.1093/cs/cdy004",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "paula-j-fite",
+      "doi": "10.1177/14732254221096554",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "paula-j-fite",
+      "doi": "10.13110/merrpalmquar1982.64.3.0376",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "paula-j-fite",
+      "doi": "10.1007/s10862-023-10044-w",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kelsie-forbush",
+      "doi": "10.1037/int0000156",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kelsie-forbush",
+      "doi": "10.1097/psy.0000000000001105",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kelsie-forbush",
+      "doi": "10.31234/osf.io/jb8z4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kelsie-forbush",
+      "doi": "10.31234/osf.io/m2k67",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "matthew-w-mosconi",
+      "doi": "10.1016/j.cell.2019.12.036",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "matthew-w-mosconi",
+      "doi": "10.1186/s11689-025-09642-4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "matthew-w-mosconi",
+      "doi": "10.31234/osf.io/7fkp3_v1",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -7845,6 +8386,21 @@
     },
     {
       "person": "daniel-moriarity",
+      "doi": "",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "amber-watts",
+      "doi": "",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "amber-watts",
+      "doi": "",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "matthew-w-mosconi",
       "doi": "",
       "issue": "Eligible appointment at publication unverified"
     }
