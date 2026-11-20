@@ -99,29 +99,52 @@ def parse(client, url):
     return page
 
 
+def source_links(page, institution_host):
+    found = {}
+    for url, label in page.links:
+        location = urlsplit(url)
+        if (location.hostname or "").removeprefix("www.") != institution_host:
+            continue
+        if re.search(r"clinical.*faculty|core faculty|area faculty|faculty mentors", label, re.I):
+            priority = 0
+        elif re.fullmatch(r"clinical (?:psychology|science)(?: (?:program|area|phd))?", normalize(label)):
+            priority = 1
+        elif page.clinical_page and normalize(label) in {"faculty", "people", "program faculty"}:
+            priority = 2
+        else:
+            continue
+        key = url.split("#", 1)[0]
+        found[key] = min(found.get(key, priority), priority)
+    return found
+
+
 def discover(client, program):
     start = program.get("rosterUrl") or program.get("programUrl")
     if not start:
         return dict(program=program["id"], status="official source needed")
-    try:
-        page = parse(client, start)
-        discovered = [doc for doc, label in page.links if
-            urlsplit(doc).hostname == urlsplit(start).hostname and
-            re.search(r"clinical.*faculty|core faculty|area faculty|faculty mentors", label, re.I)]
-        pages = [start, *list(dict.fromkeys(url.split("#", 1)[0] for url in discovered
-                                           if url.split("#", 1)[0] != start.split("#", 1)[0]))[:4]]
-        people = {p["url"]: p for p in (page.main_people if page.has_main else page.people)}
-        failures = []
-        for url in pages[1:]:
-            try:
-                child = parse(client, url)
-                people.update({p["url"]: p for p in (child.main_people if child.has_main else child.people)})
-            except SourceUnavailable as error:
-                failures.append(dict(url=url, reason=str(error)))
-        return dict(program=program["id"], status="needs role and completeness review", sources=pages,
-                    candidates=list(people.values()), failedSources=failures)
-    except SourceUnavailable as error:
-        return dict(program=program["id"], status="review pending", source=start, reason=str(error))
+    institution = urlsplit(start).hostname.removeprefix("www.")
+    pending = {start.split("#", 1)[0]: -1}
+    alternate = program.get("programUrl")
+    if alternate and urlsplit(alternate).hostname.removeprefix("www.") == institution:
+        pending.setdefault(alternate.split("#", 1)[0], 3)
+    visited, sources, failures, people = set(), [], [], {}
+    while pending and len(visited) < 6:
+        url = min(pending, key=pending.get)
+        pending.pop(url)
+        visited.add(url)
+        try:
+            page = parse(client, url)
+        except SourceUnavailable as error:
+            failures.append(dict(url=url, reason=str(error)))
+            continue
+        sources.append(url)
+        people.update({p["url"]: p for p in (page.main_people if page.has_main else page.people)})
+        for next_url, priority in source_links(page, institution).items():
+            if next_url not in visited:
+                pending[next_url] = min(pending.get(next_url, priority), priority)
+    status = "needs role and completeness review" if sources else "review pending"
+    return dict(program=program["id"], status=status, sources=sources,
+                candidates=list(people.values()), failedSources=failures)
 
 
 def main():
