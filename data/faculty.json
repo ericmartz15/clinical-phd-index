@@ -43,11 +43,13 @@
       "openAlex": "partial",
       "crosschecks": {
         "PubMed": "queried",
-        "Crossref": "sampled",
-        "Semantic Scholar": "sampled",
+        "Crossref": "queried",
+        "Semantic Scholar": "incomplete",
         "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -134,12 +136,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -205,12 +209,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -255,12 +261,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -306,12 +314,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -408,12 +418,14 @@
     "retrieval": {
       "openAlex": "partial",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     },
     "publicationList": "https://epiclab.fas.harvard.edu/all-publications"
   },
@@ -476,12 +488,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -545,12 +559,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -620,12 +636,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -682,12 +700,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -779,12 +799,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -861,12 +883,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -1164,10 +1188,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     },
@@ -1263,10 +1287,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -1687,7 +1711,8 @@
       "evidence": [
         "Full name or documented name variant",
         "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
+        "Multiple research topic terms agree",
+        "The official CV and publisher list a DOI indexed under a separate OpenAlex author ID."
       ],
       "candidates": [
         {
@@ -1726,10 +1751,11 @@
           "confidence": 0,
           "evidence": []
         }
-      ]
+      ],
+      "splitReview": true
     },
     "retrieval": {
-      "openAlex": "complete",
+      "openAlex": "partial",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
@@ -1737,7 +1763,8 @@
         "PsyArXiv": "not run"
       },
       "errors": {}
-    }
+    },
+    "cv": "https://psychology.berkeley.edu/sites/default/files/ramos_cv_11.20.32_am.pdf"
   },
   {
     "id": "jasmin-brooks-stephens",
@@ -2956,10 +2983,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -3341,12 +3368,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -3435,12 +3464,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -5582,6 +5613,921 @@
     "retrieval": {
       "openAlex": "unresolved",
       "errors": {}
+    }
+  },
+  {
+    "id": "bengi-baran",
+    "name": "Bengi Baran",
+    "aliases": [],
+    "areas": [
+      "sleep",
+      "memory",
+      "neuroimaging"
+    ],
+    "appointments": [
+      {
+        "program": "program-060",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Iowa",
+          "university of iowa",
+          "University of Iowa"
+        ],
+        "source": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "susan-lutgendorf",
+    "name": "Susan Lutgendorf",
+    "aliases": [
+      "Susan K. Lutgendorf"
+    ],
+    "areas": [
+      "cancer",
+      "stress",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-060",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Iowa",
+          "university of iowa",
+          "University of Iowa"
+        ],
+        "source": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "molly-nikolas",
+    "name": "Molly Nikolas",
+    "aliases": [
+      "Molly A. Nikolas"
+    ],
+    "areas": [
+      "ADHD",
+      "psychopathology",
+      "child development"
+    ],
+    "appointments": [
+      {
+        "program": "program-060",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Iowa",
+          "university of iowa",
+          "University of Iowa"
+        ],
+        "source": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "isaac-petersen",
+    "name": "Isaac Petersen",
+    "aliases": [
+      "Isaac T. Petersen"
+    ],
+    "areas": [
+      "child development",
+      "externalizing",
+      "attention"
+    ],
+    "appointments": [
+      {
+        "program": "program-060",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Iowa",
+          "university of iowa",
+          "University of Iowa"
+        ],
+        "source": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5070062193"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5070062193",
+          "name": "Isaac T. Petersen",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5014720798",
+          "name": "Isaac S. Petersen",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "daniel-tranel",
+    "name": "Daniel Tranel",
+    "aliases": [],
+    "areas": [
+      "neuropsychology",
+      "brain damage",
+      "decision making"
+    ],
+    "appointments": [
+      {
+        "program": "program-060",
+        "role": "tenure-track",
+        "current": true,
+        "start": "1994",
+        "end": null,
+        "affiliations": [
+          "University of Iowa",
+          "university of iowa",
+          "University of Iowa"
+        ],
+        "source": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf",
+        "dateSource": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/Tranel%20CV%20July%202025.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "teresa-treat",
+    "name": "Teresa Treat",
+    "aliases": [
+      "Teresa A. Treat"
+    ],
+    "areas": [
+      "psychometrics",
+      "eating disorders",
+      "clinical cognition"
+    ],
+    "appointments": [
+      {
+        "program": "program-060",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Iowa",
+          "university of iowa",
+          "University of Iowa"
+        ],
+        "source": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "tera-fazzino",
+    "name": "Tera Fazzino",
+    "aliases": [
+      "Tera L. Fazzino"
+    ],
+    "areas": [
+      "nutrition",
+      "addiction",
+      "eating behavior"
+    ],
+    "appointments": [
+      {
+        "program": "program-061",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas (Clinical Psychology PhD)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "jeffrey-girard",
+    "name": "Jeffrey Girard",
+    "aliases": [
+      "Jeffrey M. Girard"
+    ],
+    "areas": [
+      "computational methods",
+      "emotion",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-061",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas (Clinical Psychology PhD)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "nancy-hamilton",
+    "name": "Nancy Hamilton",
+    "aliases": [
+      "Nancy A. Hamilton"
+    ],
+    "areas": [
+      "sleep",
+      "health psychology",
+      "chronic pain"
+    ],
+    "appointments": [
+      {
+        "program": "program-061",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas (Clinical Psychology PhD)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "stephen-ilardi",
+    "name": "Stephen Ilardi",
+    "aliases": [
+      "Stephen S. Ilardi"
+    ],
+    "areas": [
+      "depression",
+      "psychopathology",
+      "intervention"
+    ],
+    "appointments": [
+      {
+        "program": "program-061",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas (Clinical Psychology PhD)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "charlene-muehlenhard",
+    "name": "Charlene Muehlenhard",
+    "aliases": [
+      "Charlene L. Muehlenhard"
+    ],
+    "areas": [
+      "sexual consent",
+      "sexual assault",
+      "gender differences"
+    ],
+    "appointments": [
+      {
+        "program": "program-061",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas (Clinical Psychology PhD)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "jessica-powers",
+    "name": "Jessica Powers",
+    "aliases": [
+      "Jessica M. Powers"
+    ],
+    "areas": [
+      "pain",
+      "substance use",
+      "addiction"
+    ],
+    "appointments": [
+      {
+        "program": "program-061",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas (Clinical Psychology PhD)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "melisa-rempfer",
+    "name": "Melisa Rempfer",
+    "aliases": [
+      "Melisa V. Rempfer"
+    ],
+    "areas": [
+      "schizophrenia",
+      "cognitive remediation",
+      "psychosis"
+    ],
+    "appointments": [
+      {
+        "program": "program-061",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas (Clinical Psychology PhD)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "jordan-thomas",
+    "name": "Jordan Thomas",
+    "aliases": [
+      "Jordan G. Thomas"
+    ],
+    "areas": [
+      "sleep",
+      "health psychology",
+      "behavioral medicine"
+    ],
+    "appointments": [
+      {
+        "program": "program-061",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas (Clinical Psychology PhD)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.45,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant"
+      ],
+      "candidates": [
+        {
+          "id": "A5028735277",
+          "name": "T. H. Jordan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5034295312",
+          "name": "Thomas Jordan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5058353105",
+          "name": "Thomas Jordan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5084703271",
+          "name": "Jordan M. Thomas",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5102763186",
+          "name": "Jordan Thomas",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "amber-watts",
+    "name": "Amber Watts",
+    "aliases": [
+      "Amber S. Watts"
+    ],
+    "areas": [
+      "aging",
+      "physical activity",
+      "dementia"
+    ],
+    "appointments": [
+      {
+        "program": "program-061",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas (Clinical Psychology PhD)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "richard-yi",
+    "name": "Richard Yi",
+    "aliases": [],
+    "areas": [
+      "addiction",
+      "delay discounting",
+      "substance use"
+    ],
+    "appointments": [
+      {
+        "program": "program-061",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas (Clinical Psychology PhD)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "kristy-b-allen",
+    "name": "Kristy B. Allen",
+    "aliases": [
+      "Kristy Allen"
+    ],
+    "areas": [
+      "anxiety",
+      "child development",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-062",
+        "role": "tenure-track",
+        "current": true,
+        "start": "2022",
+        "end": null,
+        "affiliations": [
+          "University of Kansas Clinical Child Psychology Program (CCPP)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://ccpp.ku.edu/core-faculty",
+        "dateSource": "https://ccpp.ku.edu/people/kristy-b-allen"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "christopher-c-cushing",
+    "name": "Christopher C. Cushing",
+    "aliases": [
+      "Christopher Cushing"
+    ],
+    "areas": [
+      "pediatric psychology",
+      "physical activity",
+      "health behavior"
+    ],
+    "appointments": [
+      {
+        "program": "program-062",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas Clinical Child Psychology Program (CCPP)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://ccpp.ku.edu/core-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5062347477"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5062347477",
+          "name": "Christopher C. Cushing",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5148210973",
+          "name": "Christopher. Cushing",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "paula-j-fite",
+    "name": "Paula J. Fite",
+    "aliases": [
+      "Paula Fite"
+    ],
+    "areas": [
+      "child development",
+      "aggression",
+      "externalizing"
+    ],
+    "appointments": [
+      {
+        "program": "program-062",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas Clinical Child Psychology Program (CCPP)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://ccpp.ku.edu/core-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "kelsie-forbush",
+    "name": "Kelsie Forbush",
+    "aliases": [
+      "Kelsie T. Forbush"
+    ],
+    "areas": [
+      "eating disorders",
+      "assessment",
+      "psychometrics"
+    ],
+    "appointments": [
+      {
+        "program": "program-062",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas Clinical Child Psychology Program (CCPP)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://ccpp.ku.edu/core-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "matthew-w-mosconi",
+    "name": "Matthew W. Mosconi",
+    "aliases": [
+      "Matthew Mosconi"
+    ],
+    "areas": [
+      "autism",
+      "motor control",
+      "neurodevelopment"
+    ],
+    "appointments": [
+      {
+        "program": "program-062",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Kansas Clinical Child Psychology Program (CCPP)",
+          "university of kansas",
+          "University of Kansas"
+        ],
+        "source": "https://ccpp.ku.edu/core-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "HTTP 429 from api.openalex.org"
+      }
     }
   }
 ]

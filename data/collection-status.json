@@ -1,0 +1,14 @@
+{
+  "programs": 232,
+  "sourcesReached": 195,
+  "programsWithCandidateLinks": 47,
+  "uniqueProfiles": 676,
+  "namesConfirmed": 369,
+  "publicationsRetrieved": 2909,
+  "publicationIdentitiesRetrieved": 42,
+  "auditSample": 50,
+  "auditMembersWithSourceLeads": 22,
+  "openAlexEnabled": true,
+  "date": "November 20, 2026",
+  "run": "https://github.com/ericmartz15/clinical-phd-index/actions/runs/44829245327"
+}

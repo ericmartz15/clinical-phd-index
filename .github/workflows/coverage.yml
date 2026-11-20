@@ -7,6 +7,9 @@ permissions:
   contents: read
 jobs:
   review:
+    concurrency:
+      group: openalex-collection
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:

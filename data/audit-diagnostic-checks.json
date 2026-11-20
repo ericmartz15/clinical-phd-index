@@ -438,5 +438,111 @@
         "year": 2022
       }
     ]
+  },
+  {
+    "person": "giovanni-ramos",
+    "source": "https://psychology.berkeley.edu/sites/default/files/ramos_cv_11.20.32_am.pdf",
+    "scope": "Giovanni Ramos’s April 2026 CV journal bibliography for 2022–2026",
+    "iterations": [
+      {
+        "matches": 13,
+        "denominator": 14,
+        "change": "Compared published journal entries in the April CV with the keyed snapshot.",
+        "missing": [
+          {
+            "doi": "10.1038/s44220-025-00467-7",
+            "title": "Advancing youth co-design of ethical guidelines for AI-powered digital mental health tools",
+            "reason": "OpenAlex linked the byline to a second author ID."
+          }
+        ]
+      },
+      {
+        "matches": 14,
+        "denominator": 14,
+        "change": "Recovered the published DOI by checking the CV and the publisher’s byline."
+      }
+    ],
+    "excluded": [
+      {
+        "reason": "Listed as in press in the reference CV",
+        "count": 1
+      },
+      {
+        "reason": "Conference proceedings",
+        "count": 1
+      }
+    ],
+    "papers": [
+      {
+        "doi": "10.1016/j.cbpra.2026.03.001",
+        "title": "State of the Science in Clinical Practice: Digital Mental Health Interventions",
+        "year": 2026
+      },
+      {
+        "doi": "10.1007/s10578-025-01956-7",
+        "title": "Attention Bias Training for Youth with Anxiety from a Rural Latine Community",
+        "year": 2026
+      },
+      {
+        "doi": "10.1037/cdp0000768",
+        "title": "A data-driven approach to identifying determinants of depression in rural Latine adolescents.",
+        "year": 2026
+      },
+      {
+        "doi": "10.1016/j.psc.2025.08.023",
+        "title": "Digital Mental Health Treatments for Depression",
+        "year": 2025
+      },
+      {
+        "doi": "10.1038/s44220-025-00467-7",
+        "title": "Advancing youth co-design of ethical guidelines for AI-powered digital mental health tools",
+        "year": 2025
+      },
+      {
+        "doi": "10.1080/15374416.2024.2395272",
+        "title": "Trajectories of Change in Parent–Child Interaction Therapy Outcomes in Latinx Families: Implications for Cultural Adaptation",
+        "year": 2024
+      },
+      {
+        "doi": "10.2196/48964",
+        "title": "The Acceptability, Engagement, and Feasibility of Mental Health Apps for Marginalized and Underserved Young People: Systematic Review and Qualitative Study",
+        "year": 2024
+      },
+      {
+        "doi": "10.1016/j.beth.2024.04.004",
+        "title": "State of the Science: Using Digital Mental Health Interventions to Extend the Impact of Psychological Services",
+        "year": 2024
+      },
+      {
+        "doi": "10.1016/j.cct.2023.107422",
+        "title": "Effectiveness-implementation hybrid trial of Spanish language, digital cognitive-behavioral therapy (dCBT) intervention for depression and anxiety – protocol for the SUPERA (SUpport from PEeRs to expand Access) study",
+        "year": 2023
+      },
+      {
+        "doi": "10.1038/s44184-023-00030-1",
+        "title": "Increasing digital mental health reach and uptake via youth partnerships",
+        "year": 2023
+      },
+      {
+        "doi": "10.1037/lat0000226",
+        "title": "Skill change among Latinx families in a behavioral parenting intervention: The interactive effect of caregiver language preference and acculturation.",
+        "year": 2023
+      },
+      {
+        "doi": "10.2196/40509",
+        "title": "Digital Intervention Barriers Scale–7 (DIBS-7): Development, Evaluation, and Preliminary Validation",
+        "year": 2023
+      },
+      {
+        "doi": "10.1016/j.brat.2022.104169",
+        "title": "The impact of COVID-19 on child and adolescent mental health and treatment considerations",
+        "year": 2022
+      },
+      {
+        "doi": "10.2196/35196",
+        "title": "App-Based Mindfulness Meditation for People of Color Who Experience Race-Related Stress: Protocol for a Randomized Controlled Trial",
+        "year": 2022
+      }
+    ]
   }
 ]

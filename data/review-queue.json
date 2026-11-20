@@ -276,6 +276,59 @@
       ]
     },
     {
+      "pid": "giovanni-ramos",
+      "ids": [
+        "A5053968801"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree",
+        "The official CV and publisher list a DOI indexed under a separate OpenAlex author ID."
+      ],
+      "candidates": [
+        {
+          "id": "A5053968801",
+          "name": "Giovanni Ramos",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5029786250",
+          "name": "Giovanni Ramos",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5005189828",
+          "name": "Giovanni Ramos Araújo",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5048873190",
+          "name": "Giovanni Francesco D’Angelo Ramos",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5050465365",
+          "name": "Giovanni Tolentino Ramos",
+          "confidence": 0,
+          "evidence": []
+        }
+      ],
+      "splitReview": true
+    },
+    {
       "pid": "vijay-mittal",
       "ids": [],
       "confidence": 0.8,
@@ -1268,6 +1321,183 @@
           ]
         }
       ]
+    },
+    {
+      "pid": "bengi-baran",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "susan-lutgendorf",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "molly-nikolas",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "daniel-tranel",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "teresa-treat",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "tera-fazzino",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "jeffrey-girard",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "nancy-hamilton",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "stephen-ilardi",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "charlene-muehlenhard",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "jessica-powers",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "melisa-rempfer",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "jordan-thomas",
+      "ids": [],
+      "confidence": 0.45,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant"
+      ],
+      "candidates": [
+        {
+          "id": "A5028735277",
+          "name": "T. H. Jordan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5034295312",
+          "name": "Thomas Jordan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5058353105",
+          "name": "Thomas Jordan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5084703271",
+          "name": "Jordan M. Thomas",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5102763186",
+          "name": "Jordan Thomas",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "amber-watts",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "richard-yi",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "kristy-b-allen",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "paula-j-fite",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "kelsie-forbush",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    {
+      "pid": "matthew-w-mosconi",
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
     }
   ],
   "publicationCandidates": [
@@ -1284,6 +1514,3002 @@
       "id": "35224567",
       "doi": "10.18653/v1/2021.cinlp-1.8",
       "title": "It's quality and quantity: the effect of the amount of comments on online suicidal posts."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42886898",
+      "doi": "10.1103/vrxp-zkbs",
+      "title": "Observation of a B_{c}^{*+} Meson with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42854147",
+      "doi": "10.1103/27s7-2frt",
+      "title": "Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at sqrt[s]=13  TeV."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42826970",
+      "doi": "10.1103/f3nk-5lt9",
+      "title": "Measurement of Charged-Particle Production in sqrt[s_{NN}]=9.62  TeV Proton-Oxygen Collisions as a Probe of Cosmic-Ray Air Showers with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42789880",
+      "doi": "10.1103/y1nh-1b82",
+      "title": "Measurements of Z-Boson Pair Entanglement in Decays of Higgs Bosons at the ATLAS Experiment."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42726943",
+      "doi": "10.1103/jngg-1nf3",
+      "title": "Evidence of ZZγ Production with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42705891",
+      "doi": "10.3934/mbe.2026081",
+      "title": "Quantification of various types of uncertainty in biological computational models using fuzzy mass functions."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42675441",
+      "doi": "10.1103/vbxg-71c2",
+      "title": "Evidence of Higgs Boson Inclusive Production at High Transverse Momentum Decaying to a Pair of b-Quarks with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42503122",
+      "doi": "10.1103/54vv-lgc7",
+      "title": "Combination of Measurements of CP Properties of Higgs Boson Interactions with Vector Bosons Using Proton-Proton Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42412634",
+      "doi": "10.1021/acs.est.6c01200",
+      "title": "Nighttime Organic Nitrates Drive New Particle Formation and Aerosol Growth in Urban Beijing."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "42245092",
+      "doi": "10.1037/vio0000683",
+      "title": "Characterizing sexual violence perpetrated by adolescents in South Africa and associations with HIV and STI risk behaviors."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41801983",
+      "doi": "10.1371/journal.pdig.0001273",
+      "title": "The adaptive large language models for vaccine prediction: A novel approach to vaccine demand prediction with engineered deviation prompts."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41791380",
+      "doi": "10.1016/j.ccell.2026.02.008",
+      "title": "Vascular STING activation facilitates NK cell anti-tumor immunity in small cell lung cancer."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41651474",
+      "doi": "10.1103/ldcn-r2lq",
+      "title": "Evidence for the Collective Nature of Radial Flow in Pb+Pb Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41418209",
+      "doi": "10.1103/gzdh-p159",
+      "title": "Evidence for the Dimuon Decay of the Higgs Boson in pp Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41308123",
+      "doi": "10.1126/science.adv7111",
+      "title": "Structural basis for the recruitment and selective phosphorylation of Akt by mTORC2."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "41004732",
+      "doi": "10.1103/bpln-ccql",
+      "title": "Evidence for Longitudinally Polarized W Bosons in the Electroweak Production of Same-Sign W Boson Pairs in Association with Two Jets in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40890138",
+      "doi": "10.1038/s41467-025-63535-7",
+      "title": "Probing stress and magnetism at high pressures with two-dimensional quantum sensors."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40849219",
+      "doi": "10.1016/j.dsx.2025.103278",
+      "title": "Association of eating duration less than 8 h with all-cause, cardiovascular, and cancer mortality."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40782806",
+      "doi": "10.1016/j.chembiol.2025.07.002",
+      "title": "A method for the detection and enrichment of endogenous cereblon substrates."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40512621",
+      "doi": "10.1016/j.celrep.2025.115860",
+      "title": "Airway basal stem cells are necessary for the maintenance of functional intraepithelial airway macrophages."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40279599",
+      "doi": "10.1103/physrevlett.134.142301",
+      "title": "Observation of tt[over ¯] Production in Pb+Pb Collisions at sqrt[s_{NN}]=5.02  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40215501",
+      "doi": "10.1103/physrevlett.134.121801",
+      "title": "Search for Dark Matter Produced in Association with a Dark Higgs Boson in the bb[over ¯] Final State Using pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40196695",
+      "doi": "10.1101/2025.03.24.645063",
+      "title": "A method for the detection and enrichment of endogenous cereblon substrates."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "40021189",
+      "doi": "10.1103/physrevlett.134.061803",
+      "title": "Search for Magnetic Monopole Pair Production in Ultraperipheral Pb+Pb Collisions at sqrt[s_{NN}]=5.36  TeV with the ATLAS Detector at the LHC."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39878999",
+      "doi": "10.1103/physrevlett.133.261803",
+      "title": "Simultaneous Unbinned Differential Cross-Section Measurement of Twenty-Four Z+jets Kinematic Observables with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39752696",
+      "doi": "10.1103/physrevlett.133.252301",
+      "title": "Disentangling Sources of Momentum Fluctuations in Xe+Xe and Pb+Pb Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39485985",
+      "doi": "10.1103/physrevlett.133.161804",
+      "title": "Search for the Exclusive W Boson Hadronic Decays W^{±}→π^{±}γ, W^{±}→K^{±}γ and W^{±}→ρ^{±}γ with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39485965",
+      "doi": "10.1103/physrevlett.133.161803",
+      "title": "Search for Light Long-Lived Particles in pp Collisions at sqrt[s]=13  TeV Using Displaced Vertices in the ATLAS Inner Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39423379",
+      "doi": "10.1103/physrevlett.133.141801",
+      "title": "Determination of the Relative Sign of the Higgs Boson Couplings to W and Z Bosons Using WH Production via Vector-Boson Fusion with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39303265",
+      "doi": "10.1103/physrevlett.133.101801",
+      "title": "Combination of Searches for Higgs Boson Pair Production in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39303233",
+      "doi": "10.1103/physrevlett.133.101802",
+      "title": "Studies of the Energy Dependence of Diboson Polarization Fractions and the Radiation-Amplitude-Zero Effect in WZ Production with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "39094132",
+      "doi": "10.1103/physrevlett.133.031802",
+      "title": "Statistical Combination of ATLAS Run 2 Searches for Charginos and Neutralinos at the LHC."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38996325",
+      "doi": "10.1103/physrevlett.132.261902",
+      "title": "Combination of Measurements of the Top Quark Mass from Data Collected by the ATLAS and CMS Experiments at sqrt[s]=7 and 8 TeV."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38992374",
+      "doi": "10.1016/j.scitotenv.2024.174462",
+      "title": "Assessing global carbon sequestration and bioenergy potential from microalgae cultivation on marginal lands leveraging machine learning."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38905640",
+      "doi": "10.1103/physrevlett.132.231801",
+      "title": "Combination of Searches for Resonant Higgs Boson Pair Production Using pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38877905",
+      "doi": "10.1103/physrevlett.132.221801",
+      "title": "Search for Nearly Mass-Degenerate Higgsinos Using Low-Momentum Mildly Displaced Tracks in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38829073",
+      "doi": "10.1103/physrevlett.132.202301",
+      "title": "Azimuthal Angle Correlations of Muons Produced via Heavy-Flavor Decays in 5.02 TeV Pb+Pb and pp Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38613283",
+      "doi": "10.1103/physrevlett.132.131802",
+      "title": "Study of High-Transverse-Momentum Higgs Boson Production in Association with a Vector Boson in the qqbb Final State with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38530158",
+      "doi": "10.1126/sciimmunol.adn1452",
+      "title": "The palmitoylation of gasdermin D directs its membrane translocation and pore formation during pyroptosis."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38518341",
+      "doi": "10.1103/physrevlett.132.102301",
+      "title": "Measurement of the Centrality Dependence of the Dijet Yield in p+Pb Collisions at sqrt[s_{NN}]=8.16  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38457710",
+      "doi": "10.1103/physrevlett.132.081801",
+      "title": "Search for New Phenomena in Two-Body Invariant Mass Distributions Using Unsupervised Machine Learning for Anomaly Detection at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38277610",
+      "doi": "10.1103/physrevlett.132.021802",
+      "title": "Observation of WZγ Production in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38277607",
+      "doi": "10.1103/physrevlett.132.021803",
+      "title": "Evidence for the Higgs Boson Decay to a Z Boson and a Photon at the LHC."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38181367",
+      "doi": "10.1103/physrevlett.131.251801",
+      "title": "Search for Dark Photons in Rare Z Boson Decays with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38181336",
+      "doi": "10.1103/physrevlett.131.251802",
+      "title": "Combined Measurement of the Higgs Boson Mass from the H→γγ and H→ZZ^{*}→4ℓ Decay Channels with the ATLAS Detector Using sqrt[s]=7, 8, and 13 TeV pp Collision Data."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "38092916",
+      "doi": "10.1038/s41586-023-06812-z",
+      "title": "A high-resolution transcriptomic and spatial atlas of cell types in the whole mouse brain."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "37925689",
+      "doi": "10.1103/physrevlett.131.162301",
+      "title": "Measurement of the Sensitivity of Two-Particle Correlations in pp Collisions to the Presence of Hard Scatterings."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "37897770",
+      "doi": "10.1103/physrevlett.131.151902",
+      "title": "Observation of an Excess of Dicharmonium Events in the Four-Muon Final State with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "37774379",
+      "doi": "10.1021/acs.jpclett.3c01790",
+      "title": "Molecular van der Waals Fluids in Cavity Quantum Electrodynamics."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "37034735",
+      "doi": "10.1101/2023.03.06.531121",
+      "title": "A high-resolution transcriptomic and spatial atlas of cell types in the whole mouse brain."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "36599989",
+      "doi": "10.1038/s41586-022-05561-9",
+      "title": "Pathogenic bacteria modulate pheromone response to promote mating."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "36263097",
+      "doi": "10.1016/j.bioactmat.2022.09.019",
+      "title": "A shear-thinning, ROS-scavenging hydrogel combined with dental pulp stem cells promotes spinal cord repair by inhibiting ferroptosis."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "35859696",
+      "doi": "10.1140/epjc/s10052-022-10549-w",
+      "title": "Scintillation light detection in the 6-m drift-length ProtoDUNE Dual Phase liquid argon TPC."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "35789740",
+      "doi": "10.1038/s41612-022-00276-0",
+      "title": "Disentangling drivers of air pollutant and health risk changes during the COVID-19 lockdown in China."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "35415296",
+      "doi": "10.1016/j.bioactmat.2022.03.033",
+      "title": "A facile and general method for synthesis of antibiotic-free protein-based hydrogel: Wound dressing for the eradication of drug-resistant bacteria and biofilms."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34941261",
+      "doi": "10.1021/acschembio.1c00632",
+      "title": "Multifaceted Regulation of Akt by Diverse C-Terminal Post-translational Modifications."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34720713",
+      "doi": "10.1140/epjc/s10052-021-09007-w",
+      "title": "Prospects for beyond the Standard Model physics searches at the Deep Underground Neutrino Experiment: DUNE Collaboration."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34682150",
+      "doi": "10.3390/children8100885",
+      "title": "Effects of an Internet-Based and Teacher-Facilitated Sexuality Education Package: A Cluster-Randomized Trial."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34627891",
+      "doi": "10.1016/j.scitotenv.2021.150869",
+      "title": "Influence of regional emission controls on the chemical composition, sources, and size distributions of submicron aerosols: Insights from the 2014 Nanjing Youth Olympic Games."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34422781",
+      "doi": "10.3389/fbioe.2021.704048",
+      "title": "Regenerative Medicine Technologies to Treat Dental, Oral, and Craniofacial Defects."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34337570",
+      "doi": "10.1016/j.cpnec.2020.100021",
+      "title": "Linking discrimination and sleep with biomarker profiles: An investigation in the MIDUS study."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34290438",
+      "doi": "10.1038/s41587-021-01000-8",
+      "title": "Publisher Correction: Voices of biotech leaders."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34113035",
+      "doi": "10.1038/s41587-021-00941-4",
+      "title": "Voices of biotech leaders."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "34083488",
+      "doi": "10.1126/science.abf1008",
+      "title": "Extensive pleiotropism and allelic heterogeneity mediate metabolic effects of IRX3 and IRX5."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33732807",
+      "doi": "10.21769/bioprotoc.3920",
+      "title": "Generation of the Compression-induced Dedifferentiated Adipocytes (CiDAs) Using Hypertonic Medium."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33711659",
+      "doi": "10.1016/j.jenvman.2021.112296",
+      "title": "Comparison of air pollutants and their health effects in two developed regions in China during the COVID-19 pandemic."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33593919",
+      "doi": "10.1073/pnas.2022179118",
+      "title": "Aqueous production of secondary organic aerosol from fossil-fuel emissions in winter Beijing haze."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33553827",
+      "doi": "10.1016/j.bioactmat.2021.01.024",
+      "title": "Hypoxia response element-directed expression of bFGF in dental pulp stem cells improve the hypoxic environment by targeting pericytes in SCI rats."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33100451",
+      "doi": "10.1016/j.atmosres.2020.105328",
+      "title": "Changes of air quality and its associated health and economic burden in 31 provincial capital cities in China during COVID-19 pandemic."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "33013082",
+      "doi": "10.1007/s41027-020-00254-1",
+      "title": "COVID-19, Cities and Urban Informal Workers: India in Comparative Perspective."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32957275",
+      "doi": "10.1016/j.chemosphere.2020.126851",
+      "title": "Chemical characteristics, sources and evolution processes of fine particles in Lin'an, Yangtze River Delta, China."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32869031",
+      "doi": "10.1101/2020.08.27.270819",
+      "title": "Elucidation of remdesivir cytotoxicity pathways through genome-wide CRISPR-Cas9 screening and transcriptomics."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32732423",
+      "doi": "10.1126/science.aay3983",
+      "title": "Allele-specific open chromatin in human iPSC neurons elucidates functional disease variants."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32503967",
+      "doi": "10.1038/s41467-020-16683-x",
+      "title": "Fast sulfate formation from oxidation of SO2 by NO2 and HONO observed in Beijing haze."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32436083",
+      "doi": "10.1007/s11095-020-02800-4",
+      "title": "Correlations Between Skin Barrier Integrity and Delivery of Hydrophilic Molecules in the Presence of Penetration Enhancers."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32380414",
+      "doi": "10.1016/j.omtn.2020.04.003",
+      "title": "Skin Delivery of siRNA Using Sponge Spicules in Combination with Cationic Flexible Liposomes."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32368058",
+      "doi": "10.2147/ijn.s249751",
+      "title": "Topical Application of Exosomes Derived from Human Umbilical Cord Mesenchymal Stem Cells in Combination with Sponge Spicules for Treatment of Photoaging."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "32010780",
+      "doi": "10.1126/sciadv.aax5611",
+      "title": "Compression-induced dedifferentiation of adipocytes promotes tumor progression."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "31722174",
+      "doi": "10.1021/acs.est.9b05546",
+      "title": "Characterization of Size-Resolved Hygroscopicity of Black Carbon-Containing Particle in Urban Environment."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "30996125",
+      "doi": "10.1073/pnas.1903048116",
+      "title": "Modular, stereocontrolled Cβ-H/Cα-C activation of alkyl carboxylic acids."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "30873298",
+      "doi": "10.1038/s41551-018-0275-1",
+      "title": "Alginate encapsulation as long-term immune protection of allogeneic pancreatic islet cells transplanted into the omental bursa of macaques."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "30384167",
+      "doi": "10.1016/j.ecoenv.2018.10.006",
+      "title": "Real time analysis of lead-containing atmospheric particles in Guangzhou during wintertime using single particle aerosol mass spectrometry."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "30122294",
+      "doi": "10.1016/j.bpj.2018.07.024",
+      "title": "Protein Motion and Configurations in a Form-Fitting Nanopore: Avidin in ClyA."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "29855126",
+      "doi": "10.1111/gcb.14339",
+      "title": "Field evidences for the positive effects of aerosols on tree growth."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "29533393",
+      "doi": "10.1038/sdata.2018.28",
+      "title": "Tracking vegetation phenology across diverse North American biomes using PhenoCam imagery."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "29333970",
+      "doi": "10.1177/1524838017744768",
+      "title": "Parental Migration, Children's Safety and Psychological Adjustment in Rural China: A Meta-Analysis."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "27474045",
+      "doi": "10.1016/j.bios.2016.06.067",
+      "title": "Macroporous mesh of nanoporous gold in electrochemical monitoring of superoxide release from skeletal muscle cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "mark-chen",
+      "id": "27285057",
+      "doi": "10.1016/j.sbi.2016.05.010",
+      "title": "Multi-domain terpenoid cyclase architecture and prospects for proximity in bifunctional catalysis."
+    },
+    {
+      "source": "PubMed",
+      "person": "sara-jaffee",
+      "id": "36908231",
+      "doi": "10.1111/jcpp.13772",
+      "title": "Editorial: Unsettling 'settled' science - the importance of questioning received wisdom about the causes of mental health and neuro-developmental conditions."
+    },
+    {
+      "source": "PubMed",
+      "person": "rebecca-waller",
+      "id": "42523231",
+      "doi": "10.64898/2026.07.14.738524",
+      "title": "Neuroanatomical Subtypes of Callous-Unemotional Traits in a Community Sample of Youth."
+    },
+    {
+      "source": "PubMed",
+      "person": "rebecca-waller",
+      "id": "40387906",
+      "doi": "10.1007/s00737-025-01595-w",
+      "title": "Correction to: Clinician-reported childbirth outcomes, patient-reported childbirth trauma, and risk for postpartum depression."
+    },
+    {
+      "source": "PubMed",
+      "person": "rebecca-waller",
+      "id": "37256593",
+      "doi": "10.1001/jamapsychiatry.2023.1409",
+      "title": "Concerns About Data in Study Reporting an Association Between Abortion Restrictions and Suicide-Reply."
+    },
+    {
+      "source": "PubMed",
+      "person": "rebecca-waller",
+      "id": "36993329",
+      "doi": "10.21203/rs.3.rs-2682358/v1",
+      "title": "The Influence of Pandemic-Related Worries During Pregnancy on Child Development at 12 Months."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "43052278",
+      "doi": "10.1038/s41467-026-78852-8",
+      "title": "Spatially resolved host and microbiota RNA profiling in the mouse gut using microDBiT."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "43028585",
+      "doi": "10.3390/healthcare14213563",
+      "title": "Temporal Trends in the Burden of Major Depressive Disorder and Dysthymia in Asia, 1990-2023: Findings from the Global Burden of Disease Study 2023."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "43013683",
+      "doi": "10.1126/scitranslmed.aec8494",
+      "title": "Dual inhibition of TNF-α and IL-1β signaling through BIG2 ameliorates osteoarthritis in mouse and primate models."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "43012049",
+      "doi": "10.1214/26-ejs2597",
+      "title": "Comprehensive neural network methods for heteroscedastic partial linear quantile regression in ultra-high dimensions: Deep and shallow architectures."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42996037",
+      "doi": "10.64898/2026.10.19.760099",
+      "title": "Spatially resolved host-fungal transcriptomics profiling by fungal-DBiT."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42995768",
+      "doi": "10.64898/2026.10.13.758928",
+      "title": "Chromosomal-Level Whole Genome Assemblies of Crassostrea Virginica."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42988903",
+      "doi": "10.1038/s41592-026-03253-0",
+      "title": "Nondisruptive 3D profiling of combinations of epigenetic marks in single cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42922444",
+      "doi": "10.1161/circresaha.125.328069",
+      "title": "Identification of a Novel EBF1-Expressing Disease-Associated Arterial Subpopulation in Pulmonary Arterial Hypertension."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42905015",
+      "doi": "10.1148/ryai.260538",
+      "title": "TRAM-AI: A Framework for Transparency in Reporting of Medical Imaging Datasets for Artificial Intelligence Development."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42886898",
+      "doi": "10.1103/vrxp-zkbs",
+      "title": "Observation of a B_{c}^{*+} Meson with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42854147",
+      "doi": "10.1103/27s7-2frt",
+      "title": "Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at sqrt[s]=13  TeV."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42826970",
+      "doi": "10.1103/f3nk-5lt9",
+      "title": "Measurement of Charged-Particle Production in sqrt[s_{NN}]=9.62  TeV Proton-Oxygen Collisions as a Probe of Cosmic-Ray Air Showers with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42809039",
+      "doi": "10.1007/s00284-026-05169-6",
+      "title": "Regulation of Ansamitocin P-3 Biosynthesis by the Response Regulator CrsB in Actinosynnema pretiosum."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42789880",
+      "doi": "10.1103/y1nh-1b82",
+      "title": "Measurements of Z-Boson Pair Entanglement in Decays of Higgs Bosons at the ATLAS Experiment."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42726943",
+      "doi": "10.1103/jngg-1nf3",
+      "title": "Evidence of ZZγ Production with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42720222",
+      "doi": "10.1063/5.0337441",
+      "title": "The Python simulations of chemistry framework: 10 years of an open-source quantum chemistry project."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42680906",
+      "doi": "10.1038/s41593-026-02419-5",
+      "title": "Whole-exome sequencing in individuals with obsessive-compulsive disorder and chronic tic disorders identifies 36 large-effect risk genes."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42675441",
+      "doi": "10.1103/vbxg-71c2",
+      "title": "Evidence of Higgs Boson Inclusive Production at High Transverse Momentum Decaying to a Pair of b-Quarks with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42641962",
+      "doi": "10.1016/j.jad.2026.122403",
+      "title": "Episode-state-associated and shared intrinsic functional network patterns in bipolar disorder."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42624552",
+      "doi": "10.1016/j.kint.2026.06.003",
+      "title": "Corrigendum to \"ZFYVE21 promotes endothelial nitric oxide signaling and vascular barrier function in the kidney during aging.\" Kidney International 2024;106:419-432."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42562965",
+      "doi": "10.1038/s41591-026-04557-6",
+      "title": "Intracranial delivery of B7-H3-targeting CAR-T cells for recurrent glioblastoma: a phase 1 trial."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42557532",
+      "doi": "10.1002/tpg2.70284",
+      "title": "Systematic prioritization of candidate genes in camptothecin biosynthesis using multi-omics and deep learning."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42525403",
+      "doi": "10.1001/jama.2026.8628",
+      "title": "Global Burden of Elevated LDL-C: Findings From the Global Burden of Disease Study 2023."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42523313",
+      "doi": "10.64898/2026.07.13.738265",
+      "title": "scWeave: A deep learning model that bidirectionally translates between gene expression and chromatin structure at single-cell resolution."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42503122",
+      "doi": "10.1103/54vv-lgc7",
+      "title": "Combination of Measurements of CP Properties of Higgs Boson Interactions with Vector Bosons Using Proton-Proton Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42491402",
+      "doi": "10.1002/imt2.70146",
+      "title": "Spatial omics in the AI era: Technologies, algorithmic ecosystems, biological applications, and large model perspectives."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42490500",
+      "doi": "10.1126/science.adw4243",
+      "title": "A 3D genome atlas of human tonsil and the role of loop extrusion in B cell somatic hypermutation."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42487098",
+      "doi": "10.1007/s40273-026-01639-8",
+      "title": "Cost-Effectiveness and Budget Impact of Lung Cancer Screening: A Systematic Review."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42469261",
+      "doi": "10.1038/s41467-026-75696-0",
+      "title": "Internalized components of membrane attack complexes disrupt proteostasis and acquire alarmin-like properties."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42427641",
+      "doi": "10.64898/2026.07.03.736247",
+      "title": "Internalized Components of Membrane Attack Complexes Disrupt Proteostasis and Acquire Alarmin-Like Properties."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42412817",
+      "doi": "10.1093/bioinformatics/btag239",
+      "title": "NoisyFlow: differentially private optimal transport using neural networks for secure biomedical data sharing across multiple institutions."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42393086",
+      "doi": "10.1038/s41539-026-00433-7",
+      "title": "Shared genetic architecture of reading and attention disorders using genomic structural equation modeling."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42298141",
+      "doi": "10.1038/s41568-026-00940-0",
+      "title": "3D multi-omics tumour atlases: from technology to biology and clinical translation."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42295549",
+      "doi": "10.1007/s11136-026-04303-y",
+      "title": "Translation and psychometric properties of the Chinese version of the inventory to measure and assess image disturbance in head and neck cancer (IMAGE-HN)."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42285051",
+      "doi": "10.1103/99yr-nqbx",
+      "title": "Electronic Origin of Delicate Antiferromagnetism in Fe_{x}NbS_{2}."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42275578",
+      "doi": "10.1097/hc9.0000000000000967",
+      "title": "IL15-mediated crosstalk between LSECs and CD8⁺ tissue-resident memory T cells drives alcohol-associated hepatitis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42213388",
+      "doi": "10.1186/s40658-026-00885-1",
+      "title": "Optimization of brain PET markerless head motion correction in a large human cohort."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42209477",
+      "doi": "10.1038/s41467-026-73044-w",
+      "title": "Author Correction: A ZFYVE21-Rubicon-RNF34 signaling complex promotes endosome-associated inflammasome activity in endothelial cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42138358",
+      "doi": "10.1177/09622802261449366",
+      "title": "Empowering classification for multivariate functional data with simultaneous feature selection."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42127115",
+      "doi": "10.1073/pnas.2536919123",
+      "title": "Superconductivity suppression and bilayer decoupling in Pr-substituted YBa2Cu3O7-δ."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42104960",
+      "doi": "10.1093/gigascience/giag045",
+      "title": "Draft assemblies for 177 bird species enhance genus-level coverage."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42092140",
+      "doi": "10.1038/s41586-026-10459-x",
+      "title": "Expanding the human proteome with microproteins and peptideins."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42092138",
+      "doi": "10.1038/s41586-026-10498-4",
+      "title": "Predicting temporal stability and resilience from resistance and recovery."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42055148",
+      "doi": "10.1016/j.ygeno.2026.111257",
+      "title": "Whole genome analysis of breed-specific copy number variations in dogs."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42036410",
+      "doi": "10.1038/s41467-026-72292-0",
+      "title": "FunDiff: diffusion models over function spaces for physics-informed generative modeling."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42009674",
+      "doi": "10.1038/s41467-026-72031-5",
+      "title": "Prediction and functional interpretation of inter-chromosomal genome architecture from DNA sequence with TwinC."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "42006356",
+      "doi": "10.1016/j.isci.2026.115116",
+      "title": "Mapping burdens and inequalities of polycystic ovary syndrome in young females across 953 locations 1990-2040 with deep learning forecasts."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41967265",
+      "doi": "10.1016/j.ecoenv.2026.120124",
+      "title": "PFNA dominates the association between PFAS mixture exposure and hypertension risk: The mediating role of estradiol in the U.S. adults."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41937088",
+      "doi": "10.1016/j.annonc.2026.03.008",
+      "title": "Datopotamab deruxtecan in patients with untreated, advanced triple-negative breast cancer (TROPION-Breast02): a randomised, open-label, international, phase III trial."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41922917",
+      "doi": "10.1097/cm9.0000000000004096",
+      "title": "Management and outcomes of patients with liver cancer in China and the United States."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41764406",
+      "doi": "10.1002/advs.202517231",
+      "title": "BCR::ABL1-Induced Enhancer Reprogramming Uncovers Hypersensitivity of Ph+B-ALL Cells to Enhancer-Targeting Drugs."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41756903",
+      "doi": "10.64898/2026.02.19.706897",
+      "title": "Differential analysis of image-based chromatin tracing data with Dory."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41706672",
+      "doi": "10.1097/js9.0000000000004067",
+      "title": "Dietary vitamin E intake, life expectancy, and mortality risk among adults in the United Kingdom and the United States."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41663403",
+      "doi": "10.1038/s41467-026-69156-y",
+      "title": "Structural basis of TACO1-mediated efficient mitochondrial translation."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41651474",
+      "doi": "10.1103/ldcn-r2lq",
+      "title": "Evidence for the Collective Nature of Radial Flow in Pb+Pb Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41505227",
+      "doi": "10.1021/acs.est.5c17819",
+      "title": "Global Impact of 60 years of ES&T."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41446151",
+      "doi": "10.64898/2025.12.18.695269",
+      "title": "Structural Basis of TACO1-Mediated Efficient Mitochondrial Translation."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41418209",
+      "doi": "10.1103/gzdh-p159",
+      "title": "Evidence for the Dimuon Decay of the Higgs Boson in pp Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41392286",
+      "doi": "10.1038/s41392-025-02523-1",
+      "title": "Selective depletion of tumor-associated SAMHD1 enhances chemotherapeutic efficacy and antitumor immune responses."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41345770",
+      "doi": "10.1038/s41592-025-02896-9",
+      "title": "Latent space-based network analysis for brain-behavior linking in neuroimaging."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41315256",
+      "doi": "10.1038/s41467-025-65795-9",
+      "title": "Visualizing the translation landscape in human cells at high resolution."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41299070",
+      "doi": "10.1038/s41563-025-02419-z",
+      "title": "Enabling efficient electron injection in stretchable OLED."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41282685",
+      "doi": "10.1101/2025.10.10.25337672",
+      "title": "Rare coding mutations identify 36 large-effect risk genes in obsessive-compulsive disorder and chronic tic disorders."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41271765",
+      "doi": "10.1038/s41467-025-65952-0",
+      "title": "ARMH2 is a cytosolic component of CatSper crucial for sperm function."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41241012",
+      "doi": "10.1016/j.jconrel.2025.114409",
+      "title": "Nanoparticle-mediated bone regeneration: From molecular mechanisms to clinical translation."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41232743",
+      "doi": "10.1016/j.pnpbp.2025.111560",
+      "title": "Gray matter volumes of the superior temporal gyrus link preterm birth and developmentally disordered eye gazing patterns in toddlers at eighteen months."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41193846",
+      "doi": "10.1038/s41586-025-09663-y",
+      "title": "Spatial dynamics of brain development and neuroinflammation."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41184644",
+      "doi": "10.1038/s41580-025-00924-2",
+      "title": "DNA looping regulates transcription."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41038164",
+      "doi": "10.1016/j.cell.2025.09.006",
+      "title": "Sequencing-free whole-genome spatial transcriptomics at single-molecule resolution."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "41004732",
+      "doi": "10.1103/bpln-ccql",
+      "title": "Evidence for Longitudinally Polarized W Bosons in the Electroweak Production of Same-Sign W Boson Pairs in Association with Two Jets in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40954249",
+      "doi": "10.1038/s41588-025-02314-y",
+      "title": "Advancing biological understanding of cellular senescence with computational multiomics."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40895078",
+      "doi": "10.1101/2024.05.08.593251",
+      "title": "FAIR sharing of Chromatin Tracing datasets using the newly developed 4DN FISH Omics Format."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40825871",
+      "doi": "10.1038/s41588-025-02297-w",
+      "title": "Tracing the evolution of single-cell 3D genomes in Kras-driven cancers."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40800928",
+      "doi": "10.1162/imag.a.56",
+      "title": "Supervised brain node and network construction under voxel-level functional imaging."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40795541",
+      "doi": "10.1016/j.media.2025.103739",
+      "title": "CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40764965",
+      "doi": "10.1186/s12916-025-04277-7",
+      "title": "Episode-specific cortical functional connectome reorganization and neurobiological correlates in bipolar disorder: a cross-sectional study."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40735106",
+      "doi": "10.1145/3664647.3681592",
+      "title": "CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40675955",
+      "doi": "10.1038/s41408-025-01323-8",
+      "title": "Prognostic gene expression and microRNA profiling signatures and genetic alterations in primary testicular diffuse large B-cell lymphoma."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40666962",
+      "doi": "10.1101/2025.06.13.659535",
+      "title": "Non-disruptive 3D profiling of combinations of epigenetic marks in single cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40641956",
+      "doi": "10.1093/nsr/nwaf229",
+      "title": "Dissolved carbon storage and flux dynamics in China's inland waters over the past 30 years."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40631833",
+      "doi": "10.1063/5.0278498",
+      "title": "Distinguishable-particle glassy crystal: The simplest molecular model of glass."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40610428",
+      "doi": "10.1038/s41467-025-61156-8",
+      "title": "Mechanism of EHMT2-mediated genomic imprinting associated with Prader-Willi syndrome."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40608449",
+      "doi": "10.1037/xhp0001319",
+      "title": "Serial dependence in biological motion perception: Unique patterns compared to nonbiological motion."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40571692",
+      "doi": "10.1038/s41598-025-02254-x",
+      "title": "Longitudinal patterns of attention-deficit/hyperactivity disorder children in Shanghai, China."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40543060",
+      "doi": "10.1002/hbm.70260",
+      "title": "Cost Efficiency of fMRI Studies Using Resting-State Vs. Task-Based Functional Connectivity."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40424361",
+      "doi": "10.1126/scisignal.adu3794",
+      "title": "YAP controls cell migration and invasion through a Rho GTPase switch."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40382345",
+      "doi": "10.1038/s41420-025-02512-x",
+      "title": "METTL13 is essential for the survival of acute myeloid leukemia cells by regulating MYC."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40375125",
+      "doi": "10.1186/s12875-025-02855-5",
+      "title": "Dementia care management in primary care practices: a descriptive study among nurse practitioners."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40337459",
+      "doi": "10.1002/pro6.1244",
+      "title": "Radiation induced liver injury (RILI) evaluation using longitudinal computed tomography (CT) in image-guided precision murine radiotherapy."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40279599",
+      "doi": "10.1103/physrevlett.134.142301",
+      "title": "Observation of tt[over ¯] Production in Pb+Pb Collisions at sqrt[s_{NN}]=5.02  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40264722",
+      "doi": "10.1093/cz/zoae048",
+      "title": "The role of primate-specific genes in the phenotypic evolution of lorises."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40215501",
+      "doi": "10.1103/physrevlett.134.121801",
+      "title": "Search for Dark Matter Produced in Association with a Dark Higgs Boson in the bb[over ¯] Final State Using pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40211002",
+      "doi": "10.1038/s41592-025-02652-z",
+      "title": "Perturb-tracing enables high-content screening of multi-scale 3D genome regulators."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40161724",
+      "doi": "10.1101/2025.03.06.641951",
+      "title": "Sequencing-free whole genome spatial transcriptomics at molecular resolution in intact tissue."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40143426",
+      "doi": "10.1097/cm9.0000000000003473",
+      "title": "Efficacy of balloon stent or oral estrogen for adhesion prevention in septate uterus: A randomized clinical trial."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40118046",
+      "doi": "10.1016/j.cell.2025.02.021",
+      "title": "Turnover atlas of proteome and phosphoproteome across mouse tissues and brain regions."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40021189",
+      "doi": "10.1103/physrevlett.134.061803",
+      "title": "Search for Magnetic Monopole Pair Production in Ultraperipheral Pb+Pb Collisions at sqrt[s_{NN}]=5.36  TeV with the ATLAS Detector at the LHC."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40020053",
+      "doi": "10.1126/sciadv.ads6123",
+      "title": "Manipulating perovskite structural asymmetry for high-performing self-powered full-stokes polarimetry."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39934126",
+      "doi": "10.1038/s41467-025-56739-4",
+      "title": "The neurobench framework for benchmarking neuromorphic computing algorithms and systems."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39910296",
+      "doi": "10.1038/s41586-024-08501-x",
+      "title": "Engineering a genomically recoded organism with one stop codon."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39883578",
+      "doi": "10.1016/j.celrep.2025.115237",
+      "title": "G3BP1 ribonucleoprotein complexes regulate focal adhesion protein mobility and cell migration."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39878999",
+      "doi": "10.1103/physrevlett.133.261803",
+      "title": "Simultaneous Unbinned Differential Cross-Section Measurement of Twenty-Four Z+jets Kinematic Observables with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39866884",
+      "doi": "10.21203/rs.3.rs-5732026/v1",
+      "title": "Prognostic gene expression and microRNA profiling signatures and genetic alterations in primary testicular diffuse large B-cell lymphoma."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39808752",
+      "doi": "10.1212/wnl.0000000000210231",
+      "title": "Antiseizure Medications in Poststroke Seizures: A Systematic Review and Network Meta-Analysis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39752696",
+      "doi": "10.1103/physrevlett.133.252301",
+      "title": "Disentangling Sources of Momentum Fluctuations in Xe+Xe and Pb+Pb Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39634941",
+      "doi": "10.1515/nanoph-2023-0918",
+      "title": "Aberration-corrected hybrid metalens for longwave infrared thermal imaging."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39541357",
+      "doi": "10.1073/pnas.2402818121",
+      "title": "Cotranslational molecular condensation of cochaperones and assembly factors facilitates axonemal dynein biogenesis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39530632",
+      "doi": "10.1002/alz.14266",
+      "title": "Sex-specific topological structure associated with dementia via latent space estimation."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39485985",
+      "doi": "10.1103/physrevlett.133.161804",
+      "title": "Search for the Exclusive W Boson Hadronic Decays W^{±}→π^{±}γ, W^{±}→K^{±}γ and W^{±}→ρ^{±}γ with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39485965",
+      "doi": "10.1103/physrevlett.133.161803",
+      "title": "Search for Light Long-Lived Particles in pp Collisions at sqrt[s]=13  TeV Using Displaced Vertices in the ATLAS Inner Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39467138",
+      "doi": "10.1073/pnas.2415236121",
+      "title": "Individual differences in information demand have a low dimensional structure predicted by some curiosity traits."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39464138",
+      "doi": "10.1101/2024.10.15.618303",
+      "title": "An Extensive Atlas of Proteome and Phosphoproteome Turnover Across Mouse Tissues and Brain Regions."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39423379",
+      "doi": "10.1103/physrevlett.133.141801",
+      "title": "Determination of the Relative Sign of the Higgs Boson Couplings to W and Z Bosons Using WH Production via Vector-Boson Fusion with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39409080",
+      "doi": "10.3390/ijms251910751",
+      "title": "Plasma Proteomic Biomarkers in Alzheimer's Disease and Cardiovascular Disease: A Longitudinal Study."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39371422",
+      "doi": "10.1080/01621459.2024.2311363",
+      "title": "Heterogeneity Analysis on Multi-state Brain Functional Connectivity and Adolescent Neurocognition."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39324520",
+      "doi": "10.1002/alz.14252",
+      "title": "Self-reported hearing loss is associated with faster cognitive and functional decline but not diagnostic conversion in the ADNI cohort."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39303265",
+      "doi": "10.1103/physrevlett.133.101801",
+      "title": "Combination of Searches for Higgs Boson Pair Production in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39303233",
+      "doi": "10.1103/physrevlett.133.101802",
+      "title": "Studies of the Energy Dependence of Diboson Polarization Fractions and the Radiation-Amplitude-Zero Effect in WZ Production with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39255793",
+      "doi": "10.1016/j.crmeth.2024.100859",
+      "title": "PTMoreR-enabled cross-species PTM mapping and comparative phosphoproteomics across mammals."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39231991",
+      "doi": "10.1038/s41467-024-51948-9",
+      "title": "Structures of the Mycobacterium tuberculosis efflux pump EfpA reveal the mechanisms of transport and inhibition."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39216588",
+      "doi": "10.1016/j.ijbiomac.2024.135191",
+      "title": "Preparation, structural characterization, and biological activities of lotus polysaccharides: A review."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39123049",
+      "doi": "10.1038/s41587-024-02353-6",
+      "title": "Fast, sensitive detection of protein homologs using deep dense retrieval."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39114739",
+      "doi": "10.3389/fpsyt.2024.1309868",
+      "title": "Exploring the relationship between frequent cannabis use, belief updating under uncertainty and psychotic-like symptoms."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39112518",
+      "doi": "10.1038/s41388-024-03115-z",
+      "title": "CRISPR-based dissection of microRNA-23a ~ 27a ~ 24-2 cluster functionality in hepatocellular carcinoma."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39094132",
+      "doi": "10.1103/physrevlett.133.031802",
+      "title": "Statistical Combination of ATLAS Run 2 Searches for Charginos and Neutralinos at the LHC."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39091821",
+      "doi": "10.1101/2024.07.28.605493",
+      "title": "Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39059466",
+      "doi": "10.1016/j.bpsc.2024.07.012",
+      "title": "Medial Amygdalar Tau Is Associated With Mood Symptoms in Preclinical Alzheimer's Disease."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "39011107",
+      "doi": "10.21203/rs.3.rs-4530649/v1",
+      "title": "Mechanism of EHMT2-mediated genomic imprinting associated with Prader-Willi syndrome."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38996325",
+      "doi": "10.1103/physrevlett.132.261902",
+      "title": "Combination of Measurements of the Top Quark Mass from Data Collected by the ATLAS and CMS Experiments at sqrt[s]=7 and 8 TeV."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38968937",
+      "doi": "10.1016/j.cell.2024.06.012",
+      "title": "Progestogen-driven B7-H4 contributes to onco-fetal immune tolerance."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38951234",
+      "doi": "10.1007/s00426-024-01996-z",
+      "title": "The dual nature of working memory deficits: methamphetamine abusers have more impaired social working memory capacity than canonical working memory capacity."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38947095",
+      "doi": "10.21203/rs.3.rs-4504419/v1",
+      "title": "Complement Membrane Attack Complexes Disrupt Proteostasis to Function as Intracellular Alarmins."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38939555",
+      "doi": "10.29011/2575-825x.100308",
+      "title": "Parent Stress and Observed Parenting in a Parent-Child Interaction Task in a Predominantly Minority and Low-Income Sample."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38905640",
+      "doi": "10.1103/physrevlett.132.231801",
+      "title": "Combination of Searches for Resonant Higgs Boson Pair Production Using pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38895308",
+      "doi": "10.1101/2024.06.03.597160",
+      "title": "Medial amygdalar tau is associated with anxiety symptoms in preclinical Alzheimer's disease."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38877905",
+      "doi": "10.1103/physrevlett.132.221801",
+      "title": "Search for Nearly Mass-Degenerate Higgsinos Using Low-Momentum Mildly Displaced Tracks in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38855935",
+      "doi": "10.1021/jacs.3c13320",
+      "title": "Bifunctional Molecules That Induce Both Targeted Degradation and Transcytosis of Extracellular Proteins in Brain Cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38829073",
+      "doi": "10.1103/physrevlett.132.202301",
+      "title": "Azimuthal Angle Correlations of Muons Produced via Heavy-Flavor Decays in 5.02 TeV Pb+Pb and pp Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38825784",
+      "doi": "10.1021/acs.nanolett.3c05145",
+      "title": "Chern Insulator States with Tunable Chern Numbers in a Graphene Moiré Superlattice."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38797325",
+      "doi": "10.1016/j.kint.2024.05.007",
+      "title": "ZFYVE21 promotes endothelial nitric oxide signaling and vascular barrier function in the kidney during aging."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38613283",
+      "doi": "10.1103/physrevlett.132.131802",
+      "title": "Study of High-Transverse-Momentum Higgs Boson Production in Association with a Vector Boson in the qqbb Final State with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38565534",
+      "doi": "10.1038/s41467-024-47032-x",
+      "title": "Northeast Pacific warm blobs sustained via extratropical atmospheric teleconnections."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38518341",
+      "doi": "10.1103/physrevlett.132.102301",
+      "title": "Measurement of the Centrality Dependence of the Dijet Yield in p+Pb Collisions at sqrt[s_{NN}]=8.16  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38494649",
+      "doi": "10.1093/biostatistics/kxae008",
+      "title": "Bayesian mixed model inference for genetic association under related samples with brain network phenotype."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38457710",
+      "doi": "10.1103/physrevlett.132.081801",
+      "title": "Search for New Phenomena in Two-Body Invariant Mass Distributions Using Unsupervised Machine Learning for Anomaly Detection at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38431710",
+      "doi": "10.1038/s41541-024-00841-z",
+      "title": "Prospective cohort study evaluating the association between influenza vaccination and neurodegenerative diseases."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38414132",
+      "doi": "10.1161/circresaha.122.321292",
+      "title": "Stromal Cell-SLIT3/Cardiomyocyte-ROBO1 Axis Regulates Pressure Overload-Induced Cardiac Hypertrophy."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38405824",
+      "doi": "10.21203/rs.3.rs-3938016/v1",
+      "title": "Functionally refined encoding of threat memory by distinct populations of basal forebrain cholinergic projection neurons."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38363713",
+      "doi": "10.7554/elife.86581",
+      "title": "Functionally refined encoding of threat memory by distinct populations of basal forebrain cholinergic projection neurons."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38330064",
+      "doi": "10.1093/biostatistics/kxad037",
+      "title": "DP2LM: leveraging deep learning approach for estimation and hypothesis testing on mediation effects with high-dimensional mediators and complex confounders."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38277610",
+      "doi": "10.1103/physrevlett.132.021802",
+      "title": "Observation of WZγ Production in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38277607",
+      "doi": "10.1103/physrevlett.132.021803",
+      "title": "Evidence for the Higgs Boson Decay to a Z Boson and a Photon at the LHC."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38260587",
+      "doi": "10.21203/rs.3.rs-3740027/v1",
+      "title": "Structures of the essential efflux pump EfpA from Mycobacterium tuberculosis reveal the mechanisms of substrate transport and small-molecule inhibition."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38181367",
+      "doi": "10.1103/physrevlett.131.251801",
+      "title": "Search for Dark Photons in Rare Z Boson Decays with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38181336",
+      "doi": "10.1103/physrevlett.131.251802",
+      "title": "Combined Measurement of the Higgs Boson Mass from the H→γγ and H→ZZ^{*}→4ℓ Decay Channels with the ATLAS Detector Using sqrt[s]=7, 8, and 13 TeV pp Collision Data."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "40756061",
+      "doi": "10.1038/s43586-024-00354-y",
+      "title": "Image-based 3D genomics through chromatin tracing."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38110370",
+      "doi": "10.1038/s41467-023-44225-8",
+      "title": "Author Correction: A ZFYVE21-Rubicon-RNF34 signaling complex promotes endosome-associated inflammasome activity in endothelial cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38071756",
+      "doi": "10.1002/bmc.5795",
+      "title": "Meeting Report on the 3rd Chinese American Society for Mass Spectrometry Conference-Advancing Biological and Pharmaceutical Mass Spectrometry."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38057346",
+      "doi": "10.1038/s41467-023-43776-0",
+      "title": "Rare X-linked variants carry predominantly male risk in autism, Tourette syndrome, and ADHD."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "38016472",
+      "doi": "10.1016/j.neuron.2023.10.039",
+      "title": "Longitudinal single-cell transcriptional dynamics throughout neurodegeneration in SCA1."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37980419",
+      "doi": "10.1038/s41467-023-43365-1",
+      "title": "Anomalous excitonic phase diagram in band-gap-tuned Ta2Ni(Se,S)5."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37977601",
+      "doi": "10.1103/physrevlett.131.181901",
+      "title": "Observation of Single-Top-Quark Production in Association with a Photon Using the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37968000",
+      "doi": "10.1136/bmjopen-2023-078684",
+      "title": "Clinical characteristics and outcomes of patients with post-stroke epilepsy: protocol for an individual patient data meta-analysis from the International Post-stroke Epilepsy Research Repository (IPSERR)."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37961758",
+      "doi": "10.1021/acs.est.3c08894",
+      "title": "Accelerating Environmental Research to Achieve Sustainable Development Goals."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37955510",
+      "doi": "10.1103/physrevlett.131.172301",
+      "title": "Measurement of Suppression of Large-Radius Jets and Its Dependence on Substructure in Pb+Pb Collisions at sqrt[s_{NN}]=5.02  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37935315",
+      "doi": "10.1016/j.molmet.2023.101834",
+      "title": "Extracellular macrophage migration inhibitory factor (MIF) downregulates adipose hormone-sensitive lipase (HSL) and contributes to obesity."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37925689",
+      "doi": "10.1103/physrevlett.131.162301",
+      "title": "Measurement of the Sensitivity of Two-Particle Correlations in pp Collisions to the Presence of Hard Scatterings."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37915586",
+      "doi": "10.3389/fimmu.2023.1248027",
+      "title": "Hedgehog costimulation during ischemia-reperfusion injury potentiates cytokine and homing responses of CD4+ T cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37908454",
+      "doi": "10.3389/fdata.2023.1301942",
+      "title": "Corrigendum: Applications and techniques for fast machine learning in science."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37897770",
+      "doi": "10.1103/physrevlett.131.151902",
+      "title": "Observation of an Excess of Dicharmonium Events in the Four-Muon Final State with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37897746",
+      "doi": "10.1103/physrevlett.131.151802",
+      "title": "Observation of the γγ→ττ Process in Pb+Pb Collisions and Constraints on the τ-Lepton Anomalous Magnetic Moment with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37850638",
+      "doi": "10.1093/nar/gkad862",
+      "title": "TheMarker: a comprehensive database of therapeutic biomarkers."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37831958",
+      "doi": "10.1097/j.pain.0000000000003061",
+      "title": "The value of the International Association for the Study of Pain to career development: perspectives of trainee and early career members."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37753060",
+      "doi": "10.52601/bpr.2023.230007",
+      "title": "A basic phosphoproteomic-DIA workflow integrating precise quantification of phosphosites in systems biology."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37713619",
+      "doi": "10.1093/nar/gkad751",
+      "title": "TTD: Therapeutic Target Database describing target druggability information."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37709241",
+      "doi": "10.1016/j.meegid.2023.105501",
+      "title": "Genomic evidence of sex chromosome aneuploidy and infection-associated genotypes in the tsetse fly Glossina fuscipes, the major vector of African trypanosomiasis in Uganda."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37706495",
+      "doi": "10.1097/ypg.0000000000000344",
+      "title": "A novel risk variant block across introns 36-45 of CACNA1C for schizophrenia: a cohort-wise replication and cerebral region-wide validation study."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37704727",
+      "doi": "10.1038/s41586-023-06542-2",
+      "title": "A cross-species proteomic map reveals neoteny of human synapse development."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37693879",
+      "doi": "10.1016/j.lanwpc.2023.100799",
+      "title": "Survival differences between the USA and an urban population from China for all cancer types and 20 individual cancers: a population-based study."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37656838",
+      "doi": "10.1103/physrevlett.131.072301",
+      "title": "Strong Constraints on Jet Quenching in Centrality-Dependent p+Pb Collisions at 5.02 TeV from ATLAS."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37653336",
+      "doi": "10.1038/s41477-023-01495-w",
+      "title": "Regulation of gene editing using T-DNA concatenation."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37625052",
+      "doi": "10.1103/physrevlett.131.061802",
+      "title": "Test of CP Invariance in Higgs Boson Vector-Boson-Fusion Production Using the H→γγ Channel with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37625051",
+      "doi": "10.1103/physrevlett.131.061803",
+      "title": "Search for Heavy Neutral Leptons in Decays of W Bosons Using a Dilepton Displaced Vertex in sqrt[s]=13  TeV pp Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37615903",
+      "doi": "10.1007/s11336-023-09926-5",
+      "title": "Joint Latent Space Model for Social Networks with Multivariate Attributes."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37546882",
+      "doi": "10.1101/2023.07.23.550157",
+      "title": "Tracing the evolution of single-cell cancer 3D genomes: an atlas for cancer gene discovery."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37365174",
+      "doi": "10.1038/s41467-023-39514-1",
+      "title": "An optogenetic-phosphoproteomic study reveals dynamic Akt1 signaling profiles in endothelial cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37355989",
+      "doi": "10.1016/j.celrep.2023.112684",
+      "title": "METTL3-mediated m6A methylation orchestrates mRNA stability and dsRNA contents to equilibrate γδ T1 and γδ T17 cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37325843",
+      "doi": "10.1039/d3cs00145h",
+      "title": "Tandem cells for unbiased photoelectrochemical water splitting."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37306960",
+      "doi": "10.1093/schbul/sbad073",
+      "title": "Pleiotropic Association of CACNA1C Variants With Neuropsychiatric Disorders."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37286577",
+      "doi": "10.1038/s41467-023-39154-5",
+      "title": "Author Correction: A ZFYVE21-Rubicon-RNF34 signaling complex promotes endosome-associated inflammasome activity in endothelial cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37283810",
+      "doi": "10.1016/j.isci.2023.106923",
+      "title": "A pref-1-controlled non-inflammatory mechanism of insulin resistance."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37229830",
+      "doi": "10.1016/j.ejmech.2023.115462",
+      "title": "Discovery of 2,5-disubstituted furan derivatives featuring a benzamide motif for overcoming P-glycoprotein mediated multidrug resistance in MCF-7/ADR cell."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "37225719",
+      "doi": "10.1038/s41467-023-38684-2",
+      "title": "A ZFYVE21-Rubicon-RNF34 signaling complex promotes endosome-associated inflammasome activity in endothelial cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36977681",
+      "doi": "10.1038/s41467-023-37513-w",
+      "title": "Controlling single rare earth ion emission in an electro-optical nanocavity."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36945545",
+      "doi": "10.1101/2023.03.05.531200",
+      "title": "Induction of T-DNA amplification by retrotransposon-derived sequences."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36943921",
+      "doi": "10.1126/scisignal.abo3406",
+      "title": "Hedgehog-induced ZFYVE21 promotes chronic vascular inflammation by activating NLRP3 inflammasomes in T cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36914886",
+      "doi": "10.1038/s41587-023-01702-1",
+      "title": "An integrated platform for high-throughput nanoscopy."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36913221",
+      "doi": "",
+      "title": "Association of lesion location with post-stroke depression in China: a systematic review and meta-analysis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36880644",
+      "doi": "10.7554/elife.83444",
+      "title": "Live imaging reveals chromatin compaction transitions and dynamic transcriptional bursting during stem cell differentiation in vivo."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36875295",
+      "doi": "10.1177/01466216231151701",
+      "title": "Heywood Cases in Unidimensional Factor Models and Item Response Models for Binary Data."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36860251",
+      "doi": "10.21037/hbsn-21-75",
+      "title": "Hepatocellular carcinoma and intrahepatic cholangiocarcinoma incidence between 2006 and 2015 in China: estimates based on data from 188 population-based cancer registries."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36812397",
+      "doi": "10.1021/acs.est.3c01070",
+      "title": "Environmental Research Addressing Sustainable Development Goals."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36781298",
+      "doi": "10.1002/ctm2.1179",
+      "title": "Phosphoproteomic analysis of metformin signaling in colorectal cancer cells elucidates mechanism of action and potential therapeutic opportunities."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36778402",
+      "doi": "10.1101/2023.01.31.525983",
+      "title": "Perturb-tracing enables high-content screening of multiscale 3D genome regulators."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36691909",
+      "doi": "10.1002/gepi.22515",
+      "title": "Deep learning identified genetic variants for COVID-19-related mortality among 28,097 affected cases in UK Biobank."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36599008",
+      "doi": "10.1126/scitranslmed.add3949",
+      "title": "An autocrine signaling circuit in hepatic stellate cells underlies advanced fibrosis in nonalcoholic steatohepatitis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36463290",
+      "doi": "10.1038/s41597-022-01852-y",
+      "title": "A multi-omics longitudinal aging dataset in primary human fibroblasts with mitochondrial perturbations."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36344847",
+      "doi": "10.1038/s41594-022-00852-1",
+      "title": "Cryo-EM structures of prefusion SIV envelope trimer."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36316919",
+      "doi": "10.1097/md.0000000000031320",
+      "title": "Rate and risk factors of metabolic components and component combinations according to hypertension status in Tibetans in a cross-sectional study."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36211400",
+      "doi": "10.3389/fimmu.2022.1020889",
+      "title": "Membrane attack complexes, endothelial cell activation, and direct allorecognition."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36083897",
+      "doi": "10.1126/sciadv.abn0756",
+      "title": "Proteotype coevolution and quantitative diversity across 11 mammalian species."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "36018638",
+      "doi": "10.1103/physrevlett.129.061803",
+      "title": "Observation of WWW Production in pp Collisions at sqrt[s]=13  TeV with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35921370",
+      "doi": "10.1371/journal.pone.0272438",
+      "title": "Predictive brain signals mediate association between shared reading and expressive vocabulary in infants."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35811175",
+      "doi": "10.1016/j.tig.2022.06.016",
+      "title": "New mechanism of chromatin compartmentalization by BRD2."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35687434",
+      "doi": "10.1103/physrevlett.128.217203",
+      "title": "Pervasive beyond Room-Temperature Ferromagnetism in a Doped van der Waals Magnet."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35576737",
+      "doi": "10.1016/j.bandl.2022.105129",
+      "title": "Top-down sensory prediction in the infant brain at 6 months is correlated with language development at 12 and 18 months."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35550658",
+      "doi": "10.1186/s40644-022-00460-8",
+      "title": "Identifying factors that may influence the classification performance of radiomics models using contrast-enhanced mammography (CEM) images."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35496379",
+      "doi": "10.3389/fdata.2022.787421",
+      "title": "Applications and Techniques for Fast Machine Learning in Science."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35366417",
+      "doi": "10.1016/j.cell.2022.03.008",
+      "title": "Cross-kingdom expression of synthetic genetic elements promotes discovery of metabolites in the human microbiome."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35361883",
+      "doi": "10.1038/s41388-022-02272-3",
+      "title": "Epigenetic regulation of EIF4A1 through DNA methylation and an oncogenic role of eIF4A1 through BRD2 signaling in prostate cancer."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35188460",
+      "doi": "10.7554/elife.69348",
+      "title": "Pseudohypoxic HIF pathway activation dysregulates collagen structure-function in human lung fibrosis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35165101",
+      "doi": "10.1158/1078-0432.ccr-21-3656",
+      "title": "Praluzatamab Ravtansine, a CD166-Targeting Antibody-Drug Conjugate, in Patients with Advanced Solid Tumors: An Open-Label Phase I/II Trial."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35061407",
+      "doi": "10.1103/physrevlett.127.271801",
+      "title": "Search for Lepton-Flavor Violation in Z-Boson Decays with τ Leptons with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "35005746",
+      "doi": "",
+      "title": "Comparison of the clinical efficacy of penicillin and ceftriaxone sodium in the treatment of neurosyphilis with psychiatric symptoms."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34970657",
+      "doi": "10.1002/jcv2.12049",
+      "title": "Sex-specific associations between traumatic experiences and resting-state functional connectivity in the Philadelphia Neurodevelopmental Cohort."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34749781",
+      "doi": "10.1186/s13059-021-02523-8",
+      "title": "TAD-like single-cell domain structures exist on both active and inactive X chromosomes and persist under epigenetic perturbations."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34706193",
+      "doi": "10.1021/acsami.1c16221",
+      "title": "Etched-And-Regrown GaN P-N Diodes with Low-Defect Interfaces Prepared by In Situ TBCl Etching."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34652194",
+      "doi": "10.1103/physrevlett.127.141801",
+      "title": "Search for New Phenomena in Final States with Two Leptons and One or No b-Tagged Jets at sqrt[s]=13  TeV Using the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34627087",
+      "doi": "10.1016/j.foodchem.2021.131259",
+      "title": "Direct authentication and composition quantitation of red wines based on Tri-step infrared spectroscopy and multivariate data fusion."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34529652",
+      "doi": "10.1371/journal.pcbi.1009279",
+      "title": "Eliminating accidental deviations to minimize generalization error and maximize replicability: Applications in connectomics and genomics."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34411509",
+      "doi": "10.1016/j.cels.2021.07.009",
+      "title": "A convergent molecular network underlying autism and congenital heart disease."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34397238",
+      "doi": "10.1103/physrevlett.127.051802",
+      "title": "Search for Displaced Leptons in sqrt[s]=13  TeV pp Collisions with the ATLAS Detector."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34324436",
+      "doi": "10.1172/jci.insight.140173",
+      "title": "Creatine transporter deficiency impairs stress adaptation and brain energetics homeostasis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34294711",
+      "doi": "10.1038/s41467-021-24809-y",
+      "title": "Bidirectional interconversion of microwave and light with thin-film lithium niobate."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34224879",
+      "doi": "10.1016/j.gpb.2021.03.007",
+      "title": "Mako: A Graph-based Pattern Growth Approach to Detect Complex Structural Variants."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34117851",
+      "doi": "10.3724/zdxbyxb-2021-0028",
+      "title": "Impact of socioeconomic status，population mobility and control measures on COVID-10 development in major cities of China."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "34099707",
+      "doi": "10.1038/s41467-021-23728-2",
+      "title": "Light regulates stomatal development by modulating paracrine signaling from inner tissues."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33995194",
+      "doi": "10.3389/fpsyg.2021.641333",
+      "title": "Do Students With Different Majors Have Different Personality Traits? Evidence From Two Chinese Agricultural Universities."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33931443",
+      "doi": "10.1126/sciadv.abd4676",
+      "title": "Topography of transcriptionally active chromatin in glioblastoma."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33903756",
+      "doi": "10.1038/s41596-021-00518-0",
+      "title": "Chromatin tracing and multiplexed imaging of nucleome architectures (MINA) and RNAs in single mammalian cells and tissue."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33574265",
+      "doi": "10.1038/s41467-021-21241-0",
+      "title": "Targeting IL-21 to tumor-reactive T cells enhances memory T cell responses and anti-PD-1 antibody therapy."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33565239",
+      "doi": "10.1111/jcmm.16277",
+      "title": "EXT1 methylation promotes proliferation and migration and predicts the clinical outcome of non-small cell lung carcinoma via WNT signalling pathway."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33536081",
+      "doi": "10.1186/s40246-021-00306-7",
+      "title": "Genetic variants are identified to increase risk of COVID-19 related mortality from UK Biobank data."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33531346",
+      "doi": "10.1073/pnas.2016553118",
+      "title": "PON2 subverts metabolic gatekeeper functions in B cells to promote leukemogenesis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33328483",
+      "doi": "10.1038/s41598-020-76439-x",
+      "title": "ProbeDealer is a convenient tool for designing probes for highly multiplexed fluorescence in situ hybridization."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33239628",
+      "doi": "10.1038/s41467-020-19764-z",
+      "title": "Designed CXCR4 mimic acts as a soluble chemokine receptor that blocks atherogenic inflammation by agonist-specific targeting."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33236465",
+      "doi": "10.1002/hbm.25294",
+      "title": "Super-variants identification for brain connectivity."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33200144",
+      "doi": "10.1101/2020.11.05.20226761",
+      "title": "Genetic variants are identified to increase risk of COVID-19 related mortality from UK Biobank data."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33191055",
+      "doi": "10.1016/j.tcb.2020.10.006",
+      "title": "Chromatin Tracing: Imaging 3D Genome and Nucleome."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33130273",
+      "doi": "10.1016/j.neuroimage.2020.117503",
+      "title": "The brain signature of emerging reading in two contrasting languages."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "33081427",
+      "doi": "10.4093/dmj.2019.0138",
+      "title": "A Vegetable Dietary Pattern Is Associated with Lowered Risk of Gestational Diabetes Mellitus in Chinese Women."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32991876",
+      "doi": "10.1016/j.yjmcc.2020.09.009",
+      "title": "Glycogen synthase kinase-3β inhibition alleviates activation of the NLRP3 inflammasome in myocardial infarction."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32808324",
+      "doi": "10.1002/gepi.22350",
+      "title": "Supervariants identification for breast cancer."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32728046",
+      "doi": "10.1038/s41467-020-14743-w",
+      "title": "An integrative ENCODE resource for cancer genomics."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32693585",
+      "doi": "10.1021/jacs.0c06039",
+      "title": "Design Principles for Enhancing Photoluminescence Quantum Yield in Hybrid Manganese Bromides."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32655362",
+      "doi": "10.3389/fnins.2020.00651",
+      "title": "KTN1 Variants Underlying Putamen Gray Matter Volumes and Parkinson's Disease."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32644051",
+      "doi": "10.1172/jci.insight.136852",
+      "title": "SLIT3 deficiency attenuates pressure overload-induced cardiac fibrosis and remodeling."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32601203",
+      "doi": "10.1073/pnas.1916121117",
+      "title": "OGT suppresses S6K1-mediated macrophage inflammation and metabolic disturbance."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32591510",
+      "doi": "10.1038/s41467-020-17053-3",
+      "title": "Cavity piezo-mechanics for superconducting-nanophotonic quantum interface."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32563920",
+      "doi": "10.1016/j.nicl.2020.102284",
+      "title": "Identifying commonality and specificity across psychosis sub-groups via classification based on features from dynamic connectivity analysis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32526036",
+      "doi": "10.1093/nar/gkaa498",
+      "title": "NAguideR: performing and prioritizing missing value imputations for consistent bottom-up proteomic analyses."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32518300",
+      "doi": "10.1038/s41467-020-16732-5",
+      "title": "Multiplexed imaging of nucleome architectures in single cells of mammalian tissue."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32477299",
+      "doi": "10.3389/fmicb.2020.00871",
+      "title": "The Snowmelt Niche Differentiates Three Microbial Life Strategies That Influence Soil Nitrogen Availability During and After Winter."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32334552",
+      "doi": "10.1186/s12888-020-02607-y",
+      "title": "Changes in community mental health services availability and suicide mortality in the US: a retrospective study."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32158750",
+      "doi": "10.3389/fbioe.2020.00128",
+      "title": "Efficient Single-Gene and Gene Family Editing in the Apicomplexan Parasite Eimeria tenella Using CRISPR-Cas9."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32131687",
+      "doi": "10.1161/jaha.119.014421",
+      "title": "Sex Differences in 1-Year Health Status Following Percutaneous Coronary Intervention in Patients Without Acute Myocardial Infarction: Results From the China PEACE Prospective Study."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "32105612",
+      "doi": "10.1016/j.molcel.2020.02.006",
+      "title": "Lamina-Dependent Stretching and Unconventional Chromosome Compartments in Early C. elegans Embryos."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31924761",
+      "doi": "10.1038/s41467-019-13914-8",
+      "title": "O-GlcNAc transferase inhibits visceral fat lipolysis and promotes diet-induced obesity."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31799334",
+      "doi": "10.1117/1.nph.6.4.045010",
+      "title": "Functional near-infrared spectroscopy for intraoperative brain mapping."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31630011",
+      "doi": "10.1016/j.media.2019.101570",
+      "title": "REFUGE Challenge: A unified framework for evaluating automated methods for glaucoma assessment from fundus photographs."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31622013",
+      "doi": "10.1002/pmic.201900245",
+      "title": "motifeR: An Integrated Web Software for Identification and Visualization of Protein Posttranslational Modification Motifs."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31608058",
+      "doi": "10.3389/fimmu.2019.02229",
+      "title": "MiRNA Regulation of MIF in SLE and Attenuation of Murine Lupus Nephritis With miR-654."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31530853",
+      "doi": "10.1038/s41598-019-49718-5",
+      "title": "Horizontal and vertical integrative analysis methods for mental disorders omics data."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31529772",
+      "doi": "10.1002/smll.201904043",
+      "title": "Amorphous Ruthenium-Sulfide with Isolated Catalytic Sites for Pt-Like Electrocatalytic Hydrogen Production Over Whole pH Range."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31506440",
+      "doi": "10.1038/s41467-019-12149-x",
+      "title": "Broadband on-chip single-photon spectrometer."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31405076",
+      "doi": "10.3390/genes10080604",
+      "title": "Integrative Analysis of Cancer Omics Data for Prognosis Modeling."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31401375",
+      "doi": "10.1016/j.envres.2019.108597",
+      "title": "A land use regression model of nitrogen dioxide and fine particulate matter in a complex urban core in Lanzhou, China."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31353209",
+      "doi": "10.1016/j.molcel.2019.06.019",
+      "title": "Structural Basis for Target-Directed MicroRNA Degradation."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31349105",
+      "doi": "10.1016/j.ecoenv.2019.109453",
+      "title": "Benchmark dose assessment for coke oven emissions-induced telomere length effects in occupationally exposed workers in China."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31335194",
+      "doi": "10.1089/dia.2019.0157",
+      "title": "Sotagliflozin Added to Optimized Insulin Therapy Leads to Lower Rates of Clinically Relevant Hypoglycemic Events at Any HbA1c at 52 Weeks in Adults with Type 1 Diabetes."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31275150",
+      "doi": "10.3389/fphar.2019.00689",
+      "title": "Parecoxib Shortens the Duration of Acute Postoperative Pain After Laparoscopic-Assisted Vaginal Hysterectomy."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31118516",
+      "doi": "10.1038/s41586-019-1231-2",
+      "title": "Exome sequencing of 20,791 cases of type 2 diabetes and 24,440 controls."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31101625",
+      "doi": "10.1182/blood.2019000430",
+      "title": "Identification and transcriptome analysis of erythroblastic island macrophages."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31098383",
+      "doi": "10.1155/2019/3618103",
+      "title": "Single Nucleotide Polymorphisms in CDKAL1 Gene Are Associated with Risk of Gestational Diabetes Mellitus in Chinese Population."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31089473",
+      "doi": "10.1155/2019/5232308",
+      "title": "A Vitamin Pattern Diet Is Associated with Decreased Risk of Gestational Diabetes Mellitus in Chinese Women: Results from a Case Control Study in Taiyuan, China."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "31020471",
+      "doi": "10.1007/s10549-019-05178-z",
+      "title": "Examining the cost-effectiveness of baseline left ventricular function assessment among breast cancer patients undergoing anthracycline-based therapy."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30941828",
+      "doi": "10.1002/gepi.22203",
+      "title": "Common genetic variants have associations with human cortical brain regions and risk of schizophrenia."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30793708",
+      "doi": "10.13075/ijomeh.1896.01331",
+      "title": "The associations of work style and physical exercise with the risk of work-related musculoskeletal disorders in nurses."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30777207",
+      "doi": "10.1016/j.ejrad.2019.01.025",
+      "title": "MRI texture analysis based on 3D tumor measurement reflects the IDH1 mutations in gliomas - A preliminary study."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30710417",
+      "doi": "10.1111/jcmm.14175",
+      "title": "Resveratrol promotes trophoblast invasion in pre-eclampsia by inducing epithelial-mesenchymal transition."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30658178",
+      "doi": "10.1016/j.molbiopara.2019.01.002",
+      "title": "Stable transfection of Eimeria necatrix through nucleofection of second generation merozoites."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30652106",
+      "doi": "10.15698/mic2019.01.665",
+      "title": "Guidelines for DNA recombination and repair studies: Mechanistic assays of DNA repair processes."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30504766",
+      "doi": "10.1038/s41467-018-07461-x",
+      "title": "Adipocyte OGT governs diet-induced hyperphagia and obesity."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30472510",
+      "doi": "10.1016/j.psychres.2018.11.013",
+      "title": "Course, outcome and diagnosis stability of early-onset schizophrenia in Yunnan Province, China-a three years follow-up study."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30382632",
+      "doi": "10.1002/pmic.201800118",
+      "title": "Dynamic Proteomics Reveals High Plasticity of Cellular Proteome: Growth-Related and Drug-Induced Changes in Cancer Cells are Comparable."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30257206",
+      "doi": "10.1016/j.celrep.2018.08.082",
+      "title": "De Novo Sequence and Copy Number Variants Are Strongly Associated with Tourette Disorder and Implicate Cell Polarity in Pathogenesis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30241019",
+      "doi": "10.1016/j.envint.2018.09.021",
+      "title": "Identifying windows of susceptibility for maternal exposure to ambient air pollution and preterm birth."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30195759",
+      "doi": "10.1016/j.omtn.2018.05.007",
+      "title": "Downregulated lncRNA HOXA11-AS Affects Trophoblast Cell Proliferation and Migration by Regulating RND3 and HOXA7 Expression in PE."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30186159",
+      "doi": "10.3389/fphar.2018.00820",
+      "title": "The Curcumin Analogs 2-Pyridyl Cyclohexanone Induce Apoptosis via Inhibition of the JAK2-STAT3 Pathway in Human Esophageal Squamous Cell Carcinoma Cells."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30179811",
+      "doi": "10.1016/j.scitotenv.2018.08.303",
+      "title": "Seasonal analyses of the association between prenatal ambient air pollution exposure and birth weight for gestational age in Guangzhou, China."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30157926",
+      "doi": "10.1186/s12913-018-3478-y",
+      "title": "General self-efficacy modifies the effect of stress on burnout in nurses with different personality types."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30128351",
+      "doi": "10.1126/sciadv.aar4994",
+      "title": "Superconducting cavity electro-optics: A platform for coherent photon conversion between superconducting and photonic circuits."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30053424",
+      "doi": "10.1016/j.cell.2018.06.016",
+      "title": "The Psychiatric Cell Map Initiative: A Convergent Systems Biological Approach to Illuminating Key Molecular Pathways in Neuropsychiatric Disorders."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30037904",
+      "doi": "10.1074/jbc.ra118.004709",
+      "title": "Transcriptional regulation of O-GlcNAc homeostasis is disrupted in pancreatic cancer."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "30028057",
+      "doi": "10.1111/cpr.12490",
+      "title": "MiR-616-3p modulates cell proliferation and migration through targeting tissue factor pathway inhibitor 2 in preeclampsia."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "29984583",
+      "doi": "10.1021/acs.est.8b01888",
+      "title": "Photocatalytic Reactive Ultrafiltration Membrane for Removal of Antibiotic Resistant Bacteria and Antibiotic Resistance Genes from Wastewater Effluent."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "29867474",
+      "doi": "10.3389/fphar.2018.00466",
+      "title": "Therapeutic Efficacy and Safety of Traditional Chinese Medicine Classic Herbal Formula Longdanxiegan Decoction for Hypertension: A Systematic Review and Meta-Analysis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "29717063",
+      "doi": "10.1126/scisignal.aai9085",
+      "title": "Nuclear PTEN enhances the maturation of a microRNA regulon to limit MyD88-dependent susceptibility to sepsis."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "29632708",
+      "doi": "10.1080/2162402x.2017.1296996",
+      "title": "S100A4 blockage alleviates agonistic anti-CD137 antibody-induced liver pathology without disruption of antitumor immunity."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "29111487",
+      "doi": "10.1016/j.neurobiolaging.2017.09.027",
+      "title": "Cortical β-amyloid burden, gray matter, and memory in adults at varying APOE ε4 risk for Alzheimer's disease."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "28947510",
+      "doi": "10.1128/jcm.01144-17",
+      "title": "Reply to Galen, \"Screening Cerebrospinal Fluid Prior to Herpes Simplex Virus PCR Testing Might Miss Cases of Herpes Simplex Encephalitis\"."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "28927883",
+      "doi": "10.1016/j.abb.2017.09.009",
+      "title": "Retinol saturase modulates lipid metabolism and the production of reactive oxygen species."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "28923916",
+      "doi": "10.1073/pnas.1706394114",
+      "title": "Critical role of caveolin-1 in ocular neovascularization and multitargeted antiangiogenic effects of cavtratin via JNK."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "28759483",
+      "doi": "10.1213/ane.0000000000002305",
+      "title": "Alarm Limits for Intraoperative Drug Infusions: A Report From the Multicenter Perioperative Outcomes Group."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "28591529",
+      "doi": "10.1056/nejmsr1613680",
+      "title": "Are Small Breast Cancers Good because They Are Small or Small because They Are Good?"
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "28479601",
+      "doi": "10.1038/cmi.2017.17",
+      "title": "B7-DC (PD-L2) costimulation of CD4+ T-helper 1 response via RGMb."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "28298450",
+      "doi": "10.1128/jcm.00119-17",
+      "title": "Cost-Effectiveness Study of Criteria for Screening Cerebrospinal Fluid To Determine the Need for Herpes Simplex Virus PCR Testing."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "28167723",
+      "doi": "10.1377/hlthaff.2016.0683",
+      "title": "Longer Periods Of Hospice Service Associated With Lower End-Of-Life Spending In Regions With High Expenditures."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "27866221",
+      "doi": "10.1007/s00018-016-2420-x",
+      "title": "Inter-organ regulation of adipose tissue browning."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "27743899",
+      "doi": "10.1016/j.neuroimage.2016.10.019",
+      "title": "A framework for designing dynamic lp-ntPET studies to maximize the sensitivity to transient neurotransmitter responses to drugs: Application to dopamine and smoking."
+    },
+    {
+      "source": "PubMed",
+      "person": "shirley-wang",
+      "id": "27729272",
+      "doi": "10.1016/j.gene.2016.10.011",
+      "title": "Cyclophosphamide promotes the proliferation inhibition of mouse ovarian granulosa cells and premature ovarian failure by activating the lncRNA-Meg3-p53-p66Shc pathway."
+    },
+    {
+      "source": "PubMed",
+      "person": "aaron-fisher",
+      "id": "32484392",
+      "doi": "10.1177/1747021820934990",
+      "title": "Insights into visual working memory precision at the feature- and object-level from a hemispheric encoding manipulation."
+    },
+    {
+      "source": "PubMed",
+      "person": "uzma-rehman",
+      "id": "39824908",
+      "doi": "10.1038/s41598-025-85448-7",
+      "title": "Exploring technology acceptance of flight simulation training devices and augmented reality in general aviation pilot training."
+    },
+    {
+      "source": "PubMed",
+      "person": "uzma-rehman",
+      "id": "36059783",
+      "doi": "10.3389/fpsyg.2022.909875",
+      "title": "Investigating male gamers' behavioral intention to play PUBG: Insights from playful-consumption experiences."
+    },
+    {
+      "source": "PubMed",
+      "person": "uzma-rehman",
+      "id": "34842539",
+      "doi": "10.2196/30310",
+      "title": "Predicting Video Game Addiction Through the Dimensions of Consumer Video Game Engagement: Quantitative and Cross-sectional Study."
+    },
+    {
+      "source": "PubMed",
+      "person": "uzma-rehman",
+      "id": "33192855",
+      "doi": "10.3389/fpsyg.2020.570236",
+      "title": "Nuances of COVID-19 and Psychosocial Work Environment on Nurses' Wellbeing: The Mediating Role of Stress and Eustress in Lieu to JD-R Theory."
+    },
+    {
+      "source": "PubMed",
+      "person": "uzma-rehman",
+      "id": "32090111",
+      "doi": "10.1155/2020/7680960",
+      "title": "Malay Validation of Copenhagen Psychosocial Work Environment Questionnaire in Context of Second Generation Statistical Techniques."
+    },
+    {
+      "source": "PubMed",
+      "person": "tiffany-ho",
+      "id": "42102209",
+      "doi": "10.1126/sciadv.aec0795",
+      "title": "Drp1 regulates mitochondrial health and controls skeletal muscle mass through the Erk1/2-Nur77 pathway."
+    },
+    {
+      "source": "PubMed",
+      "person": "tiffany-ho",
+      "id": "40526851",
+      "doi": "10.22454/fammed.2025.951379",
+      "title": "Barriers to Implementing a Racial Justice Curriculum: CERA Comparison of Family Medicine Program Directors' and Residents' Perspectives."
+    },
+    {
+      "source": "PubMed",
+      "person": "tiffany-ho",
+      "id": "38442019",
+      "doi": "10.1016/j.celrep.2024.113881",
+      "title": "Liver-derived plasminogen mediates muscle stem cell expansion during caloric restriction through the plasminogen receptor Plg-RKT."
+    },
+    {
+      "source": "PubMed",
+      "person": "tiffany-ho",
+      "id": "37178122",
+      "doi": "10.1016/j.celrep.2023.112499",
+      "title": "Conserved multi-tissue transcriptomic adaptations to exercise training in humans and mice."
+    },
+    {
+      "source": "PubMed",
+      "person": "tiffany-ho",
+      "id": "36632497",
+      "doi": "10.22454/primer.2022.517073",
+      "title": "Family Medicine Resident Perceptions on Racial Justice Training in Residency: A CERA Study."
+    },
+    {
+      "source": "PubMed",
+      "person": "tiffany-ho",
+      "id": "33547568",
+      "doi": "10.1007/s11606-020-06540-4",
+      "title": "Post-Visit Patient Understanding About Newly Prescribed Medications."
+    },
+    {
+      "source": "PubMed",
+      "person": "tiffany-ho",
+      "id": "33049094",
+      "doi": "10.1111/acel.13166",
+      "title": "Age-induced mitochondrial DNA point mutations are inadequate to alter metabolic homeostasis in response to nutrient challenge."
+    },
+    {
+      "source": "PubMed",
+      "person": "tiffany-ho",
+      "id": "30591411",
+      "doi": "10.1016/j.molmet.2018.11.012",
+      "title": "The impact of exercise on mitochondrial dynamics and the role of Drp1 in exercise performance and training adaptations in skeletal muscle."
     }
   ],
   "attribution": [
@@ -1330,6 +4556,11 @@
     {
       "person": "mark-chen",
       "doi": "10.1037/abn0000883",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "giovanni-ramos",
+      "doi": "10.1038/s44220-025-00467-7",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -4503,6 +7734,76 @@
       "issue": "Eligible appointment at publication unverified"
     },
     {
+      "person": "isaac-petersen",
+      "doi": "10.1037/edu0000461",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "isaac-petersen",
+      "doi": "10.31234/osf.io/r9vqz_v2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "isaac-petersen",
+      "doi": "10.31234/osf.io/gzc9m_v1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "isaac-petersen",
+      "doi": "10.31234/osf.io/bw4hc_v2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "christopher-c-cushing",
+      "doi": "10.1037/pas0000810",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "christopher-c-cushing",
+      "doi": "10.2337/db21-569-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.31234/osf.io/57jyg",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "allison-harvey",
+      "doi": "10.31234/osf.io/qma4f",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1037/sah0000066",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1192/bjp.bp.116.181503",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "shirley-wang",
+      "doi": "10.1002/eat.23607",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "shirley-wang",
+      "doi": "10.31234/osf.io/p2akd",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "shirley-wang",
+      "doi": "10.31234/osf.io/ad3mq",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "shirley-wang",
+      "doi": "10.31234/osf.io/q2ezw",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
       "person": "daniel-moriarity",
       "doi": "",
       "issue": "Eligible appointment at publication unverified"
@@ -4539,6 +7840,11 @@
     },
     {
       "person": "matthew-grilli",
+      "doi": "",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-moriarity",
       "doi": "",
       "issue": "Eligible appointment at publication unverified"
     }

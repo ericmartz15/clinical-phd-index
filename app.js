@@ -272,6 +272,12 @@ function initializeQuality() {
   ].map(([label, count]) => `<li><strong>${count}</strong> ${label}</li>`).join("");
   $("directory-status").innerHTML = Object.entries(data.directories.directories).map(([name, info]) =>
     `<li><strong>${name}</strong> · ${escapeHtml(info.status)} <a href="${escapeHtml(info.source)}">Official source ↗</a></li>`).join("");
+  if (data.collection && $("collection-status")) {
+    const collection = data.collection;
+    $("collection-status").hidden = false;
+    $("collection-detail").textContent = `On ${collection.date}, the collector checked ${collection.programs} program entries and reached a source for ${collection.sourcesReached}. It matched ${collection.namesConfirmed} names to official profiles and staged ${collection.publicationsRetrieved.toLocaleString("en-US")} publication records for faculty and attribution review.`;
+    $("collection-run").href = collection.run;
+  }
 }
 
 function initializeReport() {

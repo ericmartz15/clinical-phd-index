@@ -313,6 +313,7 @@ def main():
             rankable.append(p["id"])
     snapshot = dict(asOf=args.as_of, start=start, programs=programs, faculty=faculty, works=works, venues=venues,
                     directories=read(DATA / "directory-status.json"), report=report,
+                    collection=read(DATA / "collection-status.json"),
                     counts=dict(rosterVerified=sum(roster_coverage.values()),
                                 currentRostersVerified=sum(p.get("currentRosterReview", {}).get("status") == "complete" for p in programs),
                                 faculty=len(faculty), resolved=sum(p["identity"]["status"]=="resolved" for p in faculty),

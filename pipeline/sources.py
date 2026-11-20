@@ -26,6 +26,7 @@ class Client:
     def __init__(self, cache, network):
         self.cache = cache
         self.network = network
+        self.openalex_pause = None
 
     def get(self, url, params=None, headers=None, as_json=True):
         uri = url + ("?" + urlencode(params) if params else "")
@@ -33,6 +34,9 @@ class Client:
         if path.exists():
             body = path.read_bytes()
         elif self.network:
+            is_openalex = url.startswith(OA + "/")
+            if is_openalex and self.openalex_pause:
+                raise SourceUnavailable(self.openalex_pause)
             request = Request(uri, headers={"User-Agent": "ClinicalPhDIndex/2.0", **(headers or {})})
             for attempt in range(3):
                 try:
@@ -40,6 +44,20 @@ class Client:
                         body = response.read()
                     break
                 except HTTPError as error:
+                    if error.code == 429 and is_openalex:
+                        try:
+                            payload = json.load(error)
+                            reason = payload.get("reason") if isinstance(payload, dict) else None
+                        except (ValueError, OSError):
+                            reason = None
+                        retry = error.headers.get("Retry-After", "")
+                        if reason == "daily_budget" or (retry.isdecimal() and int(retry) > 60):
+                            self.openalex_pause = ("OpenAlex daily API budget exhausted" if reason == "daily_budget"
+                                                   else "OpenAlex requested a cooldown longer than 60 seconds")
+                            raise SourceUnavailable(self.openalex_pause) from error
+                        if attempt < 2:
+                            time.sleep(max(int(retry), 2 ** attempt) if retry.isdecimal() else 2 ** attempt)
+                            continue
                     if error.code not in (429, 500, 502, 503, 504) or attempt == 2:
                         raise SourceUnavailable(f"HTTP {error.code} from {url.split('/')[2]}") from error
                     time.sleep(2 ** attempt)

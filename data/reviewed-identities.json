@@ -81,5 +81,57 @@
       }
     ],
     "splitReview": true
+  },
+  "giovanni-ramos": {
+    "ids": [
+      "A5053968801"
+    ],
+    "confidence": 0.98,
+    "status": "resolved",
+    "evidence": [
+      "Full name or documented name variant",
+      "Institution in OpenAlex affiliation history",
+      "Multiple research topic terms agree",
+      "The official CV and publisher list a DOI indexed under a separate OpenAlex author ID."
+    ],
+    "candidates": [
+      {
+        "id": "A5053968801",
+        "name": "Giovanni Ramos",
+        "confidence": 0.98,
+        "evidence": [
+          "Full name or documented name variant",
+          "Institution in OpenAlex affiliation history",
+          "Multiple research topic terms agree"
+        ]
+      },
+      {
+        "id": "A5029786250",
+        "name": "Giovanni Ramos",
+        "confidence": 0.45,
+        "evidence": [
+          "Full name or documented name variant"
+        ]
+      },
+      {
+        "id": "A5005189828",
+        "name": "Giovanni Ramos Araújo",
+        "confidence": 0,
+        "evidence": []
+      },
+      {
+        "id": "A5048873190",
+        "name": "Giovanni Francesco D’Angelo Ramos",
+        "confidence": 0,
+        "evidence": []
+      },
+      {
+        "id": "A5050465365",
+        "name": "Giovanni Tolentino Ramos",
+        "confidence": 0,
+        "evidence": []
+      }
+    ],
+    "splitReview": true
   }
 }

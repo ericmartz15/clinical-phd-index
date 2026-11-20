@@ -10,8 +10,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
-  <script defer src="publication-data.js"></script>
-  <script defer src="app.js"></script>
+  <script defer src="publication-data.js?v=collection-status"></script>
+  <script defer src="app.js?v=collection-status"></script>
 </head>
 <body>
   <header class="site-header">
@@ -35,6 +35,11 @@
     <p><a href="data/recall-report.json" download>Download the recall report</a></p></section>
     <section class="quality-card"><h2>Coverage</h2><ul id="coverage-counts"></ul></section>
   </div>
+  <section id="collection-status" class="quality-card wide-card" hidden>
+    <h2>Automated collection</h2>
+    <p id="collection-detail"></p>
+    <p><a id="collection-run">View the collection run on GitHub</a></p>
+  </section>
   <section class="quality-card wide-card"><h2>Program sources</h2><ul id="directory-status"></ul></section>
   <section class="quality-card wide-card"><h2>Datasets</h2>
     <p>Faculty <a href="data/faculty.csv" download>CSV</a> · <a href="data/faculty.json" download>JSON</a></p>

@@ -1,11 +1,15 @@
 import unittest
+from io import BytesIO
+from pathlib import Path
+from tempfile import TemporaryDirectory
 from unittest.mock import patch
+from urllib.error import HTTPError
 
 from build import audit, diagnostic_check
 from collect import stage_publications
 from common import creditable_appointments, doi_key, merge, normalize, weight
 from directories import cpa_rows
-from sources import published_byline
+from sources import Client, OA, SourceUnavailable, published_byline
 
 
 class ScoringTest(unittest.TestCase):
@@ -31,6 +35,16 @@ class ScoringTest(unittest.TestCase):
 
 
 class DataTest(unittest.TestCase):
+    def test_openalex_budget_limit_leaves_later_requests_queued(self):
+        url = OA + "/authors"
+        error = HTTPError(url, 429, "Too Many Requests", {}, BytesIO(b'{"reason":"daily_budget"}'))
+        with TemporaryDirectory() as directory, patch("sources.urlopen", side_effect=error) as request:
+            client = Client(Path(directory), True)
+            for name in ("First author", "Second author"):
+                with self.assertRaisesRegex(SourceUnavailable, "daily API budget"):
+                    client.get(url, {"search": name})
+            request.assert_called_once()
+
     def test_candidate_requires_resolved_identity_before_works_retrieval(self):
         candidate = {"name": "Jane Doe", "url": "https://example.edu/people/jane-doe", "orcids": [],
                      "profileStatus": "name confirmed on profile", "publicProfileTopics": ["depression", "sleep"],

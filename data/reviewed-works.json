@@ -692,5 +692,62 @@
       }
     ],
     "peerReview": "inferred"
+  },
+  {
+    "title": "Advancing youth co-design of ethical guidelines for AI-powered digital mental health tools",
+    "doi": "10.1038/s44220-025-00467-7",
+    "date": "2025-07-31",
+    "kind": "journal",
+    "venue": "Nature Mental Health",
+    "authorCount": 10,
+    "pmcid": "13632709",
+    "people": {
+      "giovanni-ramos": {
+        "position": 2,
+        "affiliations": [
+          "University of California, San Francisco",
+          "University of California, Irvine"
+        ],
+        "identityNote": "The CV and the Nature Mental Health byline confirm Giovanni Ramos. OpenAlex used A5090345450 for this DOI."
+      }
+    },
+    "issns": [
+      "2731-6076"
+    ],
+    "topics": [
+      "Digital Mental Health Interventions",
+      "Ethics in Clinical Research",
+      "Ethics and Social Impacts of AI"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2025-07-31",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2025-07-31",
+        "source": "Publisher",
+        "type": "published-online"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W4412780850",
+        "url": "https://openalex.org/W4412780850"
+      },
+      {
+        "source": "CV",
+        "id": "10.1038/s44220-025-00467-7",
+        "url": "https://psychology.berkeley.edu/sites/default/files/ramos_cv_11.20.32_am.pdf"
+      },
+      {
+        "source": "Publisher",
+        "id": "10.1038/s44220-025-00467-7",
+        "url": "https://www.nature.com/natmentalhealth/volumes/3/issues/8"
+      }
+    ],
+    "peerReview": "confirmed"
   }
 ]
