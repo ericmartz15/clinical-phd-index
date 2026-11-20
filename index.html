@@ -4,22 +4,22 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Explore publication-based rankings of clinical psychology PhD programs and see the faculty and papers behind each score.">
-  <title>Clinical PhD Index · Publication Rankings</title>
+  <title>Clinical PhD Index</title>
   <link rel="icon" href="assets/favicon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
   <script defer src="publication-data.js"></script>
-  <script defer src="app.js"></script>
+  <script defer src="app.js?v=publication-preview"></script>
 </head>
 <body>
-  <a class="skip" href="#rankings">Skip to rankings</a>
+  <a class="skip" href="#rankings">Skip to publication data</a>
   <header class="site-header">
     <div class="wrap header-inner">
       <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">ψ</span> Clinical PhD Index</a>
       <nav aria-label="Main navigation">
-        <a href="index.html" aria-current="page">Rankings</a>
+        <a href="index.html" aria-current="page">Programs</a>
         <a href="faq.html">Methodology <span aria-hidden="true">&amp;</span><span class="sr-only">and</span> FAQ</a>
         <a class="data-nav" href="data-quality.html">Data quality <span aria-hidden="true">↗</span></a>
       </nav>
@@ -33,7 +33,7 @@
         <h1>Clinical psychology<br><em>PhD programs.</em></h1>
         <p class="hero-description">Explore clinical psychology PhD programs and the research behind them.</p>
         <div class="hero-actions">
-          <a class="primary-button" href="#rankings">Explore rankings <span aria-hidden="true">↓</span></a>
+          <a class="primary-button" href="#rankings">Explore publication data <span aria-hidden="true">↓</span></a>
           <a class="text-button" href="faq.html">How we rank <span aria-hidden="true">↗</span></a>
         </div>
       </div>
@@ -53,12 +53,12 @@
 
     <section class="rankings wrap" id="rankings" aria-labelledby="ranking-title">
       <div class="section-head">
-        <div><h2 id="ranking-title">Program rankings</h2><p>Only programs with verified coverage enter the leaderboard.</p></div>
+        <div><h2 id="ranking-title">Publication preview</h2><p>Compare the publication data available so far and open each program to see its faculty and papers.</p></div>
         <button type="button" class="outline-button" id="export"><span aria-hidden="true">↓</span> Download CSV</button>
       </div>
 
       <div class="rankings-grid">
-        <aside class="filter-card" aria-label="Ranking filters">
+        <aside class="filter-card" aria-label="Publication filters">
           <form id="filters">
             <div class="filter-head"><h3>Filters</h3><button class="plain-button" type="reset">Reset</button></div>
             <div class="filter-section">
@@ -98,9 +98,10 @@
             </label>
             <label class="sort-field" for="sort"><span>Sort by</span>
               <select id="sort">
+                <option value="coverage">Publication data first</option>
                 <option value="score">Adjusted count</option>
                 <option value="papers">Publications</option>
-                <option value="faculty">Publishing faculty</option>
+                <option value="faculty">Reviewed faculty</option>
                 <option value="name">Program name</option>
               </select>
             </label>
@@ -108,12 +109,12 @@
           <p class="coverage-notice"><strong id="coverage-message"></strong> <a href="data-quality.html">See coverage and recall</a></p>
           <p class="result-summary" id="result-summary" role="status"></p>
           <div class="table-card">
-            <div class="table-scroll" tabindex="0" role="region" aria-label="Ranked clinical psychology PhD programs">
+            <div class="table-scroll" tabindex="0" role="region" aria-label="Clinical psychology PhD program publication data">
               <table>
                 <thead><tr>
-                  <th scope="col" class="rank-col">Rank</th><th scope="col" id="heading-name">Program</th>
+                  <th scope="col" id="heading-rank" class="rank-col">Rank</th><th scope="col" id="heading-name">Program</th>
                   <th scope="col" id="heading-score" class="number"><a href="faq.html#scoring">Adj. count</a></th>
-                  <th scope="col" id="heading-papers" class="number">Papers</th><th scope="col" id="heading-faculty" class="number">Faculty</th>
+                  <th scope="col" id="heading-papers" class="number">Papers counted</th><th scope="col" id="heading-faculty" class="number">Faculty reviewed</th>
                   <th scope="col"><span class="sr-only">Program details</span></th>
                 </tr></thead>
                 <tbody id="results-body"></tbody>
@@ -127,7 +128,7 @@
             <button type="button" class="outline-button" id="next-page">Next →</button>
           </div>
           <p class="table-note"><span class="info-icon" aria-hidden="true">i</span><span>Credit goes to the eligible program at publication. Papers written before a faculty appointment do not earn program credit. <a href="faq.html#scoring">Scoring details</a></span></p>
-          <noscript><p>Enable JavaScript to explore the publication rankings.</p></noscript>
+          <noscript><p>Enable JavaScript to explore the publication data.</p></noscript>
         </div>
       </div>
     </section>

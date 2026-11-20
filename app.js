@@ -14,6 +14,12 @@ function statusBadges(program) {
     `<span class="status-badge" title="${escapeHtml(detail.label)}">${escapeHtml(name)}</span>`).join("");
 }
 
+function programCoverage(program) {
+  if (program.rankable) return "Coverage verified";
+  if (program.facultyCount) return "Partial publication coverage";
+  return program.eligibility === "historical" ? "Historical entry" : "Coverage pending";
+}
+
 function publicationUrl(work) {
   if (work.doi) return "https://doi.org/" + encodeURI(work.doi);
   return work.provenance[0]?.url || "";
@@ -26,11 +32,19 @@ function initializeRankings() {
   const minimum = Number(data.start.slice(0, 4));
   const maximum = Number(data.asOf.slice(0, 4));
   const pageSize = 25;
+  const hasRankings = data.programs.some(program => program.rankable);
+  const programsWithPapers = new Set(data.works.flatMap(work => work.credit.map(credit => credit.program)));
+  const defaultSort = hasRankings ? "score" : "coverage";
   let page = 1;
   let rows = [];
+  $("sort").value = defaultSort;
+  $("ranking-title").textContent = hasRankings ? "Program rankings" : "Publication preview";
+  $("heading-rank").hidden = !hasRankings;
+  $("ranked-only").disabled = !hasRankings;
+  $("ranked-only").closest("label").hidden = !hasRankings;
+  $("paper-stat").textContent = data.counts.works.toLocaleString("en-US");
   $("program-stat").textContent = data.programs.length;
   $("journal-stat").textContent = data.counts.faculty;
-  $("paper-stat").textContent = data.counts.works.toLocaleString("en-US");
   $("year-stat").textContent = `${minimum}–${maximum}`;
   for (const field of [start, end]) {
     field.min = minimum;
@@ -44,9 +58,9 @@ function initializeRankings() {
   const fields = ["Computational and digital mental health", "Trauma", "Child and adolescent",
     "Anxiety and CBT", "Assessment", "Mood and suicide", "Psychosis", "Health psychology"];
   for (const name of fields) $("subfield").add(new Option(name, name));
-  $("coverage-message").textContent = data.report.targetMet
-    ? "See the published recall audit and program coverage."
-    : "Coverage build in progress. Program rankings will appear after the recall audit meets the target.";
+  $("coverage-message").textContent = hasRankings
+    ? "Programs awaiting validation show partial counts."
+    : "Counts reflect indexed papers and reviewed faculty so far. Rankings are pending the coverage audit.";
 
   function calculate() {
     const q = normalized($("search").value).split(" ").filter(Boolean);
@@ -71,7 +85,7 @@ function initializeRankings() {
       }
     }
     const results = data.programs.filter(program => {
-      const fields = normalized([program.name, program.location, ...program.programmeAliases].join(" "));
+      const fields = normalized([program.name, program.location, ...(program.programmeAliases || [])].join(" "));
       if (!q.every(term => fields.includes(term))) return false;
       if ($("region").value && $("region").value !== program.region) return false;
       if ($("accreditation").value && !program.statuses[$("accreditation").value]) return false;
@@ -83,22 +97,27 @@ function initializeRankings() {
     }).map(program => {
       const sum = perProgram.get(program.id);
       const rankable = program.rankable && (["US", "CA"].includes(program.country) || $("international").checked);
-      return {program, rankable, score: rankable && venue !== "preprint" ? (sum?.score || 0) : null,
-        papers: rankable ? (sum?.papers.size || 0) : null, faculty: program.facultyCount, rank: null};
+      const hasData = rankable || programsWithPapers.has(program.id);
+      return {program, rankable, hasData, score: hasData && venue !== "preprint" ? (sum?.score || 0) : null,
+        papers: hasData ? (sum?.papers.size || 0) : null, faculty: program.facultyCount, rank: null};
     });
     const metric = $("sort").value;
     const names = (a, b) => a.program.name.localeCompare(b.program.name);
     let previous, rank;
-    results.sort((a, b) => (b.score ?? -1) - (a.score ?? -1) || names(a, b));
-    for (const [index, row] of results.entries()) {
-      if (!(row.score > 0)) continue;
+    const ranked = results.filter(row => row.rankable && row.score > 0)
+      .sort((a, b) => b.score - a.score || names(a, b));
+    for (const [index, row] of ranked.entries()) {
       const rounded = Math.round(row.score * 100) / 100;
       if (rounded !== previous) rank = index + 1;
       row.rank = rank;
       previous = rounded;
     }
-    if (metric !== "score") results.sort((a, b) =>
-      (metric === "name" ? 0 : (b[metric] ?? -1) - (a[metric] ?? -1)) || names(a, b));
+    results.sort((a, b) => {
+      if (metric === "coverage") return Number(b.hasData) - Number(a.hasData) || names(a, b);
+      if (metric === "name") return names(a, b);
+      const rankedFirst = metric === "score" && hasRankings ? Number(b.rankable) - Number(a.rankable) : 0;
+      return rankedFirst || (b[metric] ?? -1) - (a[metric] ?? -1) || names(a, b);
+    });
     return results;
   }
 
@@ -115,17 +134,17 @@ function initializeRankings() {
     $("next-page").disabled = page === maxPage;
     $("page-summary").textContent = `Page ${page} of ${maxPage}`;
     $("result-summary").textContent = visible.length
-      ? `${offset + 1}–${offset + visible.length} of ${rows.length} programs · ${rows.filter(row => row.rank).length} ranked`
+      ? `${offset + 1}–${offset + visible.length} of ${rows.length} programs · ${rows.filter(row => row.hasData).length} with publication data${hasRankings ? ` · ${rows.filter(row => row.rank).length} ranked` : ""}`
       : "0 programs";
     $("empty").hidden = rows.length > 0;
     $("export").disabled = !rows.length;
     $("results-body").innerHTML = visible.map(({program, rank, score, faculty, papers}) => {
       const id = encodeURIComponent(program.id);
       return `<tr>
-        <td class="rank">${rank ?? "—"}</td>
+        ${hasRankings ? `<td class="rank">${rank ?? "—"}</td>` : ""}
         <th scope="row" class="program-cell">
           <a class="program-button" href="program.html?id=${id}">${escapeHtml(program.name)}</a>
-          <span class="location">${escapeHtml(program.location)} · ${escapeHtml(program.eligibility === "historical" ? "Historical entry" : program.rankable ? "Coverage verified" : "Coverage pending")}</span>
+          <span class="location">${escapeHtml(program.location)} · ${escapeHtml(programCoverage(program))}</span>
           <span class="status-badges">${statusBadges(program)}</span>
         </th>
         <td class="number score">${score == null ? "—" : displayScore(score)}</td>
@@ -148,7 +167,7 @@ function initializeRankings() {
   });
   filter.addEventListener("reset", () => {
     $("search").value = "";
-    $("sort").value = "score";
+    $("sort").value = defaultSort;
     setTimeout(resetPage, 0);
   });
   $("clear").addEventListener("click", () => filter.reset());
@@ -157,10 +176,10 @@ function initializeRankings() {
   $("prev-page").addEventListener("click", () => { page--; render(); $("result-summary").scrollIntoView(); });
   $("next-page").addEventListener("click", () => { page++; render(); $("result-summary").scrollIntoView(); });
   $("export").addEventListener("click", () => {
-    saveCsv("clinical-phd-rankings.csv", [
-      ["Rank", "Program", "Location", "Score", "Papers", "Faculty records", "Accreditation and membership", "Rank eligible"],
+    saveCsv(hasRankings ? "clinical-phd-rankings.csv" : "clinical-phd-publication-preview.csv", [
+      ["Rank", "Program", "Location", "Adjusted count", "Papers counted", "Faculty records", "Accreditation and membership", "Coverage"],
       ...rows.map(row => [row.rank, row.program.name, row.program.location, row.score, row.papers, row.faculty,
-        Object.keys(row.program.statuses).join(" + "), row.rankable ? "Yes" : "Coverage pending"])
+        Object.keys(row.program.statuses).join(" + "), programCoverage(row.program)])
     ]);
   });
   render();
