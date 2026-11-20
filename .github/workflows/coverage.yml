@@ -8,7 +8,7 @@ permissions:
 jobs:
   review:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v5
@@ -21,6 +21,10 @@ jobs:
           restore-keys: clinical-roster-state-
       - run: python pipeline/directories.py --cache "${{ runner.temp }}/directory-cache" --output review/directory-review.json --roster-state review/roster-state.json --apa-export data/apa-directory-live.json --cudcp-export data/cudcp-directory.json
       - run: python pipeline/rosters.py --cache "${{ runner.temp }}/roster-cache" --output review/roster-candidates.json
+      - name: Collect faculty profiles, publications, and audit source leads
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python pipeline/collect.py --rosters review/roster-candidates.json --cache "${{ runner.temp }}/roster-cache" --output review
       - run: python -m unittest discover -s pipeline -p 'test_*.py'
       - uses: actions/upload-artifact@v4
         with:

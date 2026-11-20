@@ -6,8 +6,20 @@ from pathlib import Path
 import re
 from urllib.parse import urljoin, urlsplit
 
-from common import DATA, read, write
+from common import DATA, normalize, read, write
 from sources import Client, SourceUnavailable
+
+
+def person_link(label, url):
+    parts = normalize(label).split()
+    path = urlsplit(url).path.lower()
+    if not 2 <= len(parts) <= 7 or re.search(
+            r"\b(faculty|directory|student|admission|clinical|department|program|staff|people|psychology)\b",
+            normalize(label)):
+        return False
+    if label != label.title() and not all(word[0].isupper() for word in label.split() if word.isalpha()):
+        return False
+    return bool(re.search(r"/(?:people|faculty|faculty-page|profiles?|staff)/[^/]+", path))
 
 
 class Page(HTMLParser):
@@ -17,9 +29,14 @@ class Page(HTMLParser):
         self.heading = None
         self.link = None
         self.section = ""
+        self.in_main = self.has_main = False
+        self.headings, self.main_links, self.main_people = [], [], []
         self.links, self.people = [], []
 
     def handle_starttag(self, tag, attrs):
+        if tag == "main":
+            self.has_main = self.in_main = True
+            self.section = ""
         if re.fullmatch(r"h[1-6]", tag):
             self.heading = [tag, []]
         if tag == "a":
@@ -33,8 +50,12 @@ class Page(HTMLParser):
             self.link[1].append(value)
 
     def handle_endtag(self, tag):
+        if tag == "main":
+            self.in_main = False
         if self.heading and tag == self.heading[0]:
             name = " ".join("".join(self.heading[1]).split())
+            if tag == "h1":
+                self.headings.append(name)
             if re.search(r"clinical|core|emerit|adjunct|staff|students|postdoc|training faculty", name, re.I):
                 self.section = name
             self.heading = None
@@ -43,10 +64,15 @@ class Page(HTMLParser):
             label = " ".join("".join(tokens).split())
             if urlsplit(url).scheme in ("https", "http") and label:
                 self.links.append((url, label))
+                if self.in_main:
+                    self.main_links.append((url, label))
                 if (re.search(r"clinical|core|training faculty", self.section, re.I) and
                     not re.search(r"emerit|adjunct|students|postdoc", self.section, re.I) and
-                    1 < len(label.split()) <= 6 and re.search(r"/(?:people|faculty|profiles?|staff)/", url, re.I)):
-                    self.people.append(dict(name=label, url=url, section=self.section, status="unreviewed"))
+                    person_link(label, url)):
+                    person = dict(name=label, url=url, section=self.section, status="unreviewed", rosterUrl=self.url)
+                    self.people.append(person)
+                    if self.in_main:
+                        self.main_people.append(person)
             self.link = None
 
 
@@ -68,15 +94,18 @@ def discover(client, program):
         discovered = [doc for doc, label in page.links if
             urlsplit(doc).hostname == urlsplit(start).hostname and
             re.search(r"clinical.*faculty|core faculty|area faculty|faculty mentors", label, re.I)]
-        pages = [start, *dict.fromkeys(url for url in discovered[:3] if url != start)]
-        people = {p["url"]: p for p in page.people}
+        pages = [start, *list(dict.fromkeys(url.split("#", 1)[0] for url in discovered
+                                           if url.split("#", 1)[0] != start.split("#", 1)[0]))[:4]]
+        people = {p["url"]: p for p in (page.main_people if page.has_main else page.people)}
+        failures = []
         for url in pages[1:]:
             try:
-                people.update({p["url"]: p for p in parse(client, url).people})
-            except SourceUnavailable:
-                continue
+                child = parse(client, url)
+                people.update({p["url"]: p for p in (child.main_people if child.has_main else child.people)})
+            except SourceUnavailable as error:
+                failures.append(dict(url=url, reason=str(error)))
         return dict(program=program["id"], status="needs role and completeness review", sources=pages,
-                    candidates=list(people.values()))
+                    candidates=list(people.values()), failedSources=failures)
     except SourceUnavailable as error:
         return dict(program=program["id"], status="review pending", source=start, reason=str(error))
 
