@@ -225,6 +225,8 @@ def main():
     parser.add_argument("--network", action="store_true")
     parser.add_argument("--allow-partial", action="store_true")
     parser.add_argument("--skip-crosschecks", action="store_true")
+    parser.add_argument("--previous-snapshot", type=Path,
+                        help="Retain prior evidence for unchanged faculty inputs during a primary-only refresh")
     parser.add_argument("--crosscheck-limit", type=int, help="Limit DOI lookups per author for diagnostics")
     parser.add_argument("--audit-seed", type=int, default=291756)
     parser.add_argument("--audit-stage", choices=("calibration", "holdout"), default="calibration")
@@ -242,8 +244,27 @@ def main():
     reviewed = read(DATA / "reviewed-identities.json", {})
     independent = read(DATA / "reviewed-works.json", [])
     reference = read(DATA / "audit-references.json", {})
+    previous = args.previous_snapshot
+    if previous and not args.skip_crosschecks:
+        parser.error("--previous-snapshot requires --skip-crosschecks")
     records, faculty, queue = list(independent), [], []
+    prior_people = {}
+    if previous:
+        prior_people = {person["id"]: person for person in read(previous / "faculty.json")}
+        unchanged = {person["id"] for person in faculty_input if person["id"] in prior_people and
+                     all(prior_people[person["id"]].get(key) == value for key, value in person.items()) and
+                     prior_people[person["id"]]["identity"] == reviewed.get(person["id"])}
+        prior_people = {pid: prior_people[pid] for pid in unchanged}
+        for work in read(previous / "publications.json"):
+            retained = {pid: evidence for pid, evidence in work["people"].items() if pid in unchanged}
+            if retained and start <= work["date"] <= args.as_of:
+                records.append(dict(work, people=retained))
+        queue.extend(row for row in read(previous / "review-queue.json", {}).get("publicationCandidates", [])
+                     if row.get("person") in unchanged)
     for person in faculty_input:
+        if person["id"] in prior_people:
+            faculty.append(prior_people[person["id"]])
+            continue
         result, works, review = pull_person(client, person, reviewed, start, args.as_of,
                                             not args.skip_crosschecks, args.allow_partial, args.crosscheck_limit)
         print(person["name"], result["identity"]["status"], result["retrieval"]["openAlex"], len(works), flush=True)
@@ -275,7 +296,9 @@ def main():
             rankable.append(p["id"])
     snapshot = dict(asOf=args.as_of, start=start, programs=programs, faculty=faculty, works=works, venues=venues,
                     directories=read(DATA / "directory-status.json"), report=report,
-                    counts=dict(rosterVerified=sum(roster_coverage.values()), faculty=len(faculty), resolved=sum(p["identity"]["status"]=="resolved" for p in faculty),
+                    counts=dict(rosterVerified=sum(roster_coverage.values()),
+                                currentRostersVerified=sum(p.get("currentRosterReview", {}).get("status") == "complete" for p in programs),
+                                faculty=len(faculty), resolved=sum(p["identity"]["status"]=="resolved" for p in faculty),
                                 complete=len(indexed), works=len(works), ranked=len(rankable)),
                     reportTarget=args.report_target)
     write(DATA / "faculty.json", faculty)

@@ -579,7 +579,7 @@
     "programmeAliases": [
       "UC Berkeley Clinical Science Program"
     ],
-    "rosterUrl": "https://psychology.berkeley.edu/sites/default/files/program_manual_2024-2025.pdf#page=32",
+    "rosterUrl": "https://psychology.berkeley.edu/research/clinical-science",
     "rosterReview": "pending",
     "directoryHistory": [
       {
@@ -596,7 +596,19 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-19",
+      "scope": "Clinical Science primary research faculty, cross-checked against department titles and the 2025–26 clinical program handbook.",
+      "roleDecisions": [
+        {
+          "name": "Nancy Liu",
+          "reason": "Clinic director and clinical professor. Research-track eligibility needs confirmation.",
+          "source": "https://psychology.berkeley.edu/people/nancy-liu"
+        }
+      ]
+    }
   },
   {
     "id": "program-014",
@@ -681,7 +693,13 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-19",
+      "scope": "Ladder faculty listed with clinical psychology as their primary area. Secondary and joint appointments remain under review for core status.",
+      "roleDecisions": []
+    }
   },
   {
     "id": "program-016",
@@ -1219,7 +1237,24 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-19",
+      "scope": "Current primary psychology professors listed as supervisors of clinical-area students.",
+      "roleDecisions": [
+        {
+          "name": "Brenden Tervo-Clemmens",
+          "reason": "Yale appointment begins July 2027.",
+          "source": "https://psychology.yale.edu/people/faculty/primary"
+        },
+        {
+          "name": "Mary O’Brien",
+          "reason": "Listed separately under faculty teaching clinical area courses.",
+          "source": "https://psychology.yale.edu/research/clinical-psychology"
+        }
+      ]
+    }
   },
   {
     "id": "program-028",
@@ -2392,7 +2427,19 @@
       "Northwestern University (Clinical Science, Evanston)"
     ],
     "rosterUrl": "https://psychology.northwestern.edu/people/faculty/core/clinical.html",
-    "rosterReview": "pending"
+    "rosterReview": "pending",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-19",
+      "scope": "Departmental core faculty explicitly listed in the clinical area. Instructional roles excluded.",
+      "roleDecisions": [
+        {
+          "name": "Alissa Levy Chung",
+          "reason": "Associate professor of instruction.",
+          "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+        }
+      ]
+    }
   },
   {
     "id": "program-053",
@@ -3335,7 +3382,19 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-19",
+      "scope": "Core faculty in the clinical training handbook, restricted to ladder and research-track appointments.",
+      "roleDecisions": [
+        {
+          "name": "Rebecca Shingleton",
+          "reason": "Associate senior lecturer, non-ladder faculty.",
+          "source": "https://psychology.fas.harvard.edu/people/rebecca-shingleton-0"
+        }
+      ]
+    }
   },
   {
     "id": "program-074",
@@ -6452,7 +6511,7 @@
     "programmeAliases": [
       "University of Pennsylvania"
     ],
-    "rosterUrl": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-faculty",
+    "rosterUrl": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee",
     "rosterReview": "pending",
     "directoryHistory": [
       {
@@ -6469,7 +6528,24 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-19",
+      "scope": "Five tenure-track core clinical faculty explicitly listed by the Clinical Program Committee.",
+      "roleDecisions": [
+        {
+          "name": "Melissa Hunt",
+          "reason": "Teaching and administrative role.",
+          "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-faculty"
+        },
+        {
+          "name": "Philip Gehrman",
+          "reason": "Outside-department graduate group faculty.",
+          "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee"
+        }
+      ]
+    }
   },
   {
     "id": "program-143",
@@ -9385,7 +9461,7 @@
     "location": "Canada",
     "region": "Canada",
     "country": "CA",
-    "eligibility": "candidate",
+    "eligibility": "active",
     "degree": "Doctorate to verify",
     "affiliations": [
       "University of Waterloo"
@@ -9398,7 +9474,15 @@
       }
     },
     "programmeAliases": [],
-    "programUrl": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+    "programUrl": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+    "rosterUrl": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-19",
+      "scope": "Published clinical core roster in the CPA-accredited doctoral track.",
+      "roleDecisions": []
+    },
+    "degreeSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
   },
   {
     "id": "university-of-western-ontario",

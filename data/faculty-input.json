@@ -201,5 +201,1253 @@
         "source": "https://psychology.fas.harvard.edu/people/mark-l-hatzenbuehler"
       }
     ]
+  },
+  {
+    "id": "sara-jaffee",
+    "name": "Sara Jaffee",
+    "aliases": [
+      "Sara R. Jaffee"
+    ],
+    "areas": [
+      "child maltreatment",
+      "child development",
+      "psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "penn",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Pennsylvania",
+          "university of pennsylvania",
+          "penn medicine"
+        ],
+        "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee"
+      }
+    ]
+  },
+  {
+    "id": "daniel-moriarity",
+    "name": "Daniel Moriarity",
+    "aliases": [
+      "Daniel P. Moriarity"
+    ],
+    "areas": [
+      "inflammation",
+      "depression",
+      "mood disorders"
+    ],
+    "appointments": [
+      {
+        "program": "penn",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Pennsylvania",
+          "university of pennsylvania",
+          "penn medicine"
+        ],
+        "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee"
+      }
+    ]
+  },
+  {
+    "id": "ayelet-meron-ruscio",
+    "name": "Ayelet Meron Ruscio",
+    "aliases": [
+      "Ayelet M. Ruscio",
+      "Ayelet Ruscio"
+    ],
+    "areas": [
+      "anxiety",
+      "depression",
+      "comorbidity"
+    ],
+    "appointments": [
+      {
+        "program": "penn",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Pennsylvania",
+          "university of pennsylvania",
+          "penn medicine"
+        ],
+        "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee"
+      }
+    ]
+  },
+  {
+    "id": "martin-seligman",
+    "name": "Martin Seligman",
+    "aliases": [
+      "Martin E. P. Seligman",
+      "Martin E P Seligman"
+    ],
+    "areas": [
+      "positive psychology",
+      "depression",
+      "well-being"
+    ],
+    "appointments": [
+      {
+        "program": "penn",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Pennsylvania",
+          "university of pennsylvania",
+          "penn medicine"
+        ],
+        "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee"
+      }
+    ]
+  },
+  {
+    "id": "rebecca-waller",
+    "name": "Rebecca Waller",
+    "aliases": [
+      "Rebecca R. Waller"
+    ],
+    "areas": [
+      "child development",
+      "conduct problems",
+      "externalizing psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "penn",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Pennsylvania",
+          "university of pennsylvania",
+          "penn medicine"
+        ],
+        "source": "https://psychology.sas.upenn.edu/clinical-training-program/clinical-program-committee"
+      }
+    ]
+  },
+  {
+    "id": "arielle-baskin-sommers",
+    "name": "Arielle Baskin-Sommers",
+    "aliases": [
+      "Arielle R. Baskin-Sommers"
+    ],
+    "areas": [
+      "psychopathy",
+      "externalizing psychopathology",
+      "attention"
+    ],
+    "appointments": [
+      {
+        "program": "yale",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Yale University",
+          "yale university"
+        ],
+        "source": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
+  },
+  {
+    "id": "tyrone-cannon",
+    "name": "Tyrone Cannon",
+    "aliases": [
+      "Tyrone D. Cannon"
+    ],
+    "areas": [
+      "schizophrenia",
+      "psychosis",
+      "neurodevelopment"
+    ],
+    "appointments": [
+      {
+        "program": "yale",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Yale University",
+          "yale university"
+        ],
+        "source": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
+  },
+  {
+    "id": "dylan-gee",
+    "name": "Dylan Gee",
+    "aliases": [
+      "Dylan G. Gee"
+    ],
+    "areas": [
+      "anxiety",
+      "child development",
+      "fear learning"
+    ],
+    "appointments": [
+      {
+        "program": "yale",
+        "role": "tenure-track",
+        "start": "2016",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Yale University",
+          "yale university"
+        ],
+        "source": "https://psychology.yale.edu/research/clinical-psychology",
+        "dateSource": "https://psychology.yale.edu/news?page=29"
+      }
+    ]
+  },
+  {
+    "id": "jutta-joormann",
+    "name": "Jutta Joormann",
+    "aliases": [],
+    "areas": [
+      "depression",
+      "emotion regulation",
+      "cognition"
+    ],
+    "appointments": [
+      {
+        "program": "yale",
+        "role": "tenure-track",
+        "start": "2014",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Yale University",
+          "yale university"
+        ],
+        "source": "https://psychology.yale.edu/research/clinical-psychology",
+        "dateSource": "https://psychology.yale.edu/sites/default/files/cv-joormann82014.pdf"
+      }
+    ]
+  },
+  {
+    "id": "shirley-wang",
+    "name": "Shirley Wang",
+    "aliases": [
+      "Shirley B. Wang"
+    ],
+    "areas": [
+      "suicide",
+      "eating disorders",
+      "ecological momentary assessment"
+    ],
+    "appointments": [
+      {
+        "program": "yale",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Yale University",
+          "yale university"
+        ],
+        "source": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
+  },
+  {
+    "id": "aaron-fisher",
+    "name": "Aaron Fisher",
+    "aliases": [
+      "Aaron J. Fisher"
+    ],
+    "areas": [
+      "anxiety",
+      "psychotherapy",
+      "personalized interventions"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "onRosterBy": "2020",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/20-21_program_description_082120_cbs-final.pdf"
+      }
+    ]
+  },
+  {
+    "id": "stephen-hinshaw",
+    "name": "Stephen Hinshaw",
+    "aliases": [
+      "Stephen P. Hinshaw"
+    ],
+    "areas": [
+      "ADHD",
+      "child psychopathology",
+      "stigma"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "onRosterBy": "2020",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/20-21_program_description_082120_cbs-final.pdf"
+      }
+    ]
+  },
+  {
+    "id": "sheri-johnson",
+    "name": "Sheri Johnson",
+    "aliases": [
+      "Sheri L. Johnson"
+    ],
+    "areas": [
+      "bipolar disorder",
+      "emotion regulation",
+      "impulsivity"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "onRosterBy": "2020",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/20-21_program_description_082120_cbs-final.pdf"
+      }
+    ]
+  },
+  {
+    "id": "keanan-joyner",
+    "name": "Keanan Joyner",
+    "aliases": [
+      "Keanan J. Joyner"
+    ],
+    "areas": [
+      "alcohol",
+      "substance use",
+      "psychophysiology"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science"
+      }
+    ]
+  },
+  {
+    "id": "qing-zhou",
+    "name": "Qing Zhou",
+    "aliases": [],
+    "areas": [
+      "child development",
+      "developmental psychopathology",
+      "temperament"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "onRosterBy": "2020",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/20-21_program_description_082120_cbs-final.pdf"
+      }
+    ]
+  },
+  {
+    "id": "hedy-kober",
+    "name": "Hedy Kober",
+    "aliases": [],
+    "areas": [
+      "substance use",
+      "craving",
+      "mindfulness"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": "2024",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/newsletter_s24.pdf"
+      }
+    ]
+  },
+  {
+    "id": "giovanni-ramos",
+    "name": "Giovanni Ramos",
+    "aliases": [
+      "Gio Ramos"
+    ],
+    "areas": [
+      "digital mental health",
+      "Latinx mental health",
+      "implementation science"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": "2025",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/newsletter_s24.pdf"
+      }
+    ]
+  },
+  {
+    "id": "jasmin-brooks-stephens",
+    "name": "Jasmin Brooks Stephens",
+    "aliases": [
+      "Jasmin Brooks",
+      "Jasmin R. Brooks"
+    ],
+    "areas": [
+      "racial trauma",
+      "suicide",
+      "child and adolescent mental health"
+    ],
+    "appointments": [
+      {
+        "program": "berkeley",
+        "role": "tenure-track",
+        "start": "2025",
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Berkeley",
+          "university of california berkeley",
+          "uc berkeley"
+        ],
+        "source": "https://psychology.berkeley.edu/research/clinical-science",
+        "dateSource": "https://psychology.berkeley.edu/sites/default/files/newsletter_s24.pdf"
+      }
+    ]
+  },
+  {
+    "id": "michael-bailey",
+    "name": "Michael Bailey",
+    "aliases": [
+      "J. Michael Bailey",
+      "John Michael Bailey"
+    ],
+    "areas": [
+      "sexual orientation",
+      "evolutionary psychology",
+      "behavior genetics"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ]
+  },
+  {
+    "id": "vijay-mittal",
+    "name": "Vijay Mittal",
+    "aliases": [
+      "Vijay A. Mittal"
+    ],
+    "areas": [
+      "schizophrenia",
+      "psychosis",
+      "adolescence"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ]
+  },
+  {
+    "id": "dan-mroczek",
+    "name": "Dan Mroczek",
+    "aliases": [
+      "Daniel Mroczek",
+      "Daniel K. Mroczek"
+    ],
+    "areas": [
+      "personality",
+      "lifespan development",
+      "health"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ]
+  },
+  {
+    "id": "robin-nusslock",
+    "name": "Robin Nusslock",
+    "aliases": [],
+    "areas": [
+      "mood disorders",
+      "anxiety",
+      "affective neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ]
+  },
+  {
+    "id": "william-revelle",
+    "name": "William Revelle",
+    "aliases": [
+      "William R. Revelle"
+    ],
+    "areas": [
+      "personality",
+      "psychometrics",
+      "assessment"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ]
+  },
+  {
+    "id": "jennifer-tackett",
+    "name": "Jennifer Tackett",
+    "aliases": [
+      "Jennifer L. Tackett"
+    ],
+    "areas": [
+      "externalizing psychopathology",
+      "child development",
+      "personality"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ]
+  },
+  {
+    "id": "richard-zinbarg",
+    "name": "Richard Zinbarg",
+    "aliases": [
+      "Richard E. Zinbarg"
+    ],
+    "areas": [
+      "anxiety",
+      "psychometrics",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ]
+  },
+  {
+    "id": "dillon-browne",
+    "name": "Dillon Browne",
+    "aliases": [
+      "Dillon T. Browne"
+    ],
+    "areas": [
+      "child mental health",
+      "family systems",
+      "digital technology"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+      }
+    ]
+  },
+  {
+    "id": "allison-kelly",
+    "name": "Allison Kelly",
+    "aliases": [
+      "Allison C. Kelly"
+    ],
+    "areas": [
+      "eating disorders",
+      "self-compassion",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ]
+  },
+  {
+    "id": "tara-mcauley",
+    "name": "Tara McAuley",
+    "aliases": [],
+    "areas": [
+      "executive function",
+      "child development",
+      "neuropsychology"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ]
+  },
+  {
+    "id": "david-moscovitch",
+    "name": "David Moscovitch",
+    "aliases": [
+      "David A. Moscovitch"
+    ],
+    "areas": [
+      "social anxiety",
+      "memory",
+      "imagery"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ]
+  },
+  {
+    "id": "elizabeth-nilsen",
+    "name": "Elizabeth Nilsen",
+    "aliases": [
+      "Elizabeth S. Nilsen",
+      "Liz Nilsen"
+    ],
+    "areas": [
+      "child development",
+      "language",
+      "executive function"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ]
+  },
+  {
+    "id": "jonathan-oakman",
+    "name": "Jonathan Oakman",
+    "aliases": [
+      "Jonathan M. Oakman"
+    ],
+    "areas": [
+      "psychotherapy",
+      "psychological assessment",
+      "anxiety"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ]
+  },
+  {
+    "id": "christine-purdon",
+    "name": "Christine Purdon",
+    "aliases": [
+      "Christine L. Purdon"
+    ],
+    "areas": [
+      "anxiety",
+      "obsessive compulsive disorder",
+      "intrusive thoughts"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ]
+  },
+  {
+    "id": "uzma-rehman",
+    "name": "Uzma Rehman",
+    "aliases": [
+      "Uzma S. Rehman"
+    ],
+    "areas": [
+      "relationships",
+      "sexual well-being",
+      "emotion"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of Waterloo",
+          "University of Waterloo"
+        ],
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "onRosterBy": "2014",
+        "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
+      }
+    ]
+  },
+  {
+    "id": "dan-mcadams",
+    "name": "Dan McAdams",
+    "aliases": [
+      "Dan P. McAdams",
+      "Dan Philip McAdams"
+    ],
+    "areas": [
+      "personality",
+      "life stories",
+      "culture"
+    ],
+    "appointments": [
+      {
+        "program": "northwestern",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "Northwestern University",
+          "northwestern university"
+        ],
+        "source": "https://psychology.northwestern.edu/people/faculty/core/clinical.html"
+      }
+    ]
+  },
+  {
+    "id": "howard-s-adelman",
+    "name": "Howard S. Adelman",
+    "aliases": [
+      "Howard Adelman"
+    ],
+    "areas": [
+      "school mental health",
+      "child development",
+      "learning"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
+  },
+  {
+    "id": "thomas-n-bradbury",
+    "name": "Thomas N. Bradbury",
+    "aliases": [
+      "Thomas Bradbury"
+    ],
+    "areas": [
+      "marriage",
+      "relationships",
+      "couples"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
+  },
+  {
+    "id": "denise-a-chavira",
+    "name": "Denise A. Chavira",
+    "aliases": [
+      "Denise Chavira"
+    ],
+    "areas": [
+      "anxiety",
+      "child mental health",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
+  },
+  {
+    "id": "bruce-chorpita",
+    "name": "Bruce Chorpita",
+    "aliases": [
+      "Bruce F. Chorpita"
+    ],
+    "areas": [
+      "child mental health",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
+  },
+  {
+    "id": "tiffany-ho",
+    "name": "Tiffany Ho",
+    "aliases": [
+      "Tiffany C. Ho"
+    ],
+    "areas": [
+      "adolescent depression",
+      "neuroscience",
+      "suicide"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
+  },
+  {
+    "id": "katherine-h-karlsgodt",
+    "name": "Katherine H. Karlsgodt",
+    "aliases": [
+      "Katherine Karlsgodt"
+    ],
+    "areas": [
+      "psychosis",
+      "schizophrenia",
+      "neuroimaging"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
+  },
+  {
+    "id": "anna-s-lau",
+    "name": "Anna S. Lau",
+    "aliases": [
+      "Anna Lau"
+    ],
+    "areas": [
+      "child mental health",
+      "implementation science",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
+  },
+  {
+    "id": "steve-s-lee",
+    "name": "Steve S. Lee",
+    "aliases": [
+      "Steve Lee",
+      "Stephen S. Lee"
+    ],
+    "areas": [
+      "ADHD",
+      "child psychopathology",
+      "externalizing"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
+  },
+  {
+    "id": "vickie-m-mays",
+    "name": "Vickie M. Mays",
+    "aliases": [
+      "Vickie Mays"
+    ],
+    "areas": [
+      "health disparities",
+      "mental health",
+      "discrimination"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
+  },
+  {
+    "id": "lauren-c-ng",
+    "name": "Lauren C. Ng",
+    "aliases": [
+      "Lauren Ng"
+    ],
+    "areas": [
+      "trauma",
+      "adolescent mental health",
+      "global mental health"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
+  },
+  {
+    "id": "lara-ray",
+    "name": "Lara Ray",
+    "aliases": [
+      "Lara A. Ray"
+    ],
+    "areas": [
+      "alcohol",
+      "addiction",
+      "substance use"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
+  },
+  {
+    "id": "cindy-yee-bradbury",
+    "name": "Cindy Yee-Bradbury",
+    "aliases": [
+      "Cindy M. Yee-Bradbury",
+      "Cindy Yee",
+      "Cindy M. Yee"
+    ],
+    "areas": [
+      "psychophysiology",
+      "emotion",
+      "schizophrenia"
+    ],
+    "appointments": [
+      {
+        "program": "ucla",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "affiliations": [
+          "University of California, Los Angeles",
+          "university of california los angeles",
+          "ucla"
+        ],
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+      }
+    ]
   }
 ]

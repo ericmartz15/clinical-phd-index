@@ -192,7 +192,9 @@ function initializeProgram() {
   document.title = program.name + " · Clinical PhD Index";
   $("program-title").textContent = program.name;
   $("program-location").textContent = program.location + " · " +
-    (program.rankable ? "Coverage verified" : "Coverage pending");
+    (program.rankable ? "Coverage verified" :
+      program.currentRosterReview?.status === "complete" ? "Current roster verified" :
+      program.currentRosterReview?.status === "partial" ? "Current roster partly verified" : "Coverage pending");
   $("program-badges").innerHTML = statusBadges(program);
   $("report-link").href = "report.html?id=" + encodeURIComponent(program.id);
   const links = [["Program source", program.programUrl], ["Faculty roster source", program.rosterUrl],
@@ -228,7 +230,8 @@ function initializeQuality() {
     $("diagnostic-detail").textContent = `Preliminary check of one lab list found ${d.matches} of ${d.denominator} selected papers. This is outside the 50-faculty audit.`;
   }
   $("coverage-counts").innerHTML = [
-    ["Program entries", data.programs.length], ["Complete faculty rosters", data.counts.rosterVerified],
+    ["Program entries", data.programs.length], ["Current rosters verified", data.counts.currentRostersVerified || 0],
+    ["Current and historical rosters verified", data.counts.rosterVerified],
     ["Verified faculty records", data.counts.faculty], ["Resolved identities", data.counts.resolved],
     ["Completed primary retrievals", data.counts.complete], ["Programs released to rankings", data.counts.ranked]
   ].map(([label, count]) => `<li><strong>${count}</strong> ${label}</li>`).join("");

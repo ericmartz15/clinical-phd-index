@@ -2,6 +2,10 @@ name: Refresh publication evidence
 on:
   workflow_dispatch:
     inputs:
+      retrieval:
+        type: choice
+        options: [full, primary]
+        default: full
       audit_stage:
         type: choice
         options: [calibration, holdout]
@@ -27,6 +31,7 @@ jobs:
         env:
           AUDIT_STAGE: ${{ inputs.audit_stage }}
           AUDIT_SEED: ${{ inputs.audit_seed }}
+          RETRIEVAL: ${{ inputs.retrieval }}
         run: |
           test -n "$OPENALEX_API_KEY" || { echo 'Add the OPENALEX_API_KEY repository secret to use cursor pagination.'; exit 1; }
           args=()
@@ -34,7 +39,13 @@ jobs:
             test -f data/calibration-report.json
             args+=(--calibration-report data/calibration-report.json)
           fi
-          python pipeline/build.py --cache "${{ runner.temp }}/publication-cache" --network --audit-stage "$AUDIT_STAGE" --audit-seed "$AUDIT_SEED" "${args[@]}"
+          if [[ "$RETRIEVAL" == primary ]]; then
+            prior="${{ runner.temp }}/previous-publication-evidence"
+            mkdir -p "$prior"
+            cp data/{faculty,publications,review-queue}.json "$prior/"
+            args+=(--skip-crosschecks --previous-snapshot "$prior")
+          fi
+          python pipeline/build.py --cache "${{ runner.temp }}/publication-cache" --network --audit-stage "$AUDIT_STAGE" --audit-seed "$AUDIT_SEED" --report-target "${{ github.server_url }}/${{ github.repository }}/issues/new" "${args[@]}"
       - uses: actions/upload-artifact@v4
         with:
           name: publication-refresh
