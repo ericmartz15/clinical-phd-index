@@ -4,6 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
 permissions:
+  actions: read
   contents: read
   pages: write
   id-token: write
@@ -25,8 +26,23 @@ jobs:
           cp *.html styles.css app.js publication-data.js _site/
           cp -R assets _site/
           cp data/faculty.{csv,json} data/publications.{csv,json} data/recall-report.json data/review-queue.json _site/data/
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
+        id: upload
         with:
           path: _site
+      - name: Wait for the uploaded artifact to become visible
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ARTIFACT_ID: ${{ steps.upload.outputs.artifact_id }}
+        run: |
+          for attempt in {1..8}; do
+            if gh api "repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?name=github-pages" |
+              jq --exit-status --arg id "$ARTIFACT_ID" 'any(.artifacts[]; (.id | tostring) == $id and .expired == false)' > /dev/null; then
+              exit 0
+            fi
+            sleep 5
+          done
+          echo 'The Pages artifact did not become visible within 40 seconds.'
+          exit 1
       - id: deployment
         uses: actions/deploy-pages@v4
