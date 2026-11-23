@@ -2001,7 +2001,27 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-23",
+      "scope": "Reviewed the department’s Clinical Faculty directory. Clinical-track clinic roles are listed for follow-up.",
+      "sources": [],
+      "roleDecisions": [
+        {
+          "name": "Harvey Gayer",
+          "label": "Part-time clinical faculty",
+          "reason": "The department lists a part-time clinical faculty appointment.",
+          "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+        },
+        {
+          "name": "Emily Mouilso",
+          "label": "Clinic director",
+          "reason": "The department lists a clinical associate professor appointment. Research-track eligibility needs confirmation.",
+          "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+        }
+      ]
+    }
   },
   {
     "id": "program-043",
@@ -3357,7 +3377,33 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://www.bu.edu/psych/academics/phd/clinical/applying/",
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-23",
+      "scope": "The published PhD clinical mentor list was cross-checked with faculty titles. Two clinical mentor appointments require track confirmation.",
+      "sources": [
+        {
+          "label": "Department faculty titles",
+          "url": "https://www.bu.edu/psych/people/faculty/"
+        }
+      ],
+      "roleDecisions": [
+        {
+          "name": "Dan Fulford",
+          "label": "Clinical mentor",
+          "reason": "The mentor list includes Fulford. The relevant research or tenure-track program appointment is under review.",
+          "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+        },
+        {
+          "name": "Mark Richardson",
+          "label": "Clinical associate professor",
+          "reason": "The department lists a clinical faculty title. Research-track eligibility needs confirmation.",
+          "source": "https://www.bu.edu/psych/profile/mark-richardson/"
+        }
+      ]
+    }
   },
   {
     "id": "program-072",

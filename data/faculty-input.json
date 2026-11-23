@@ -2536,5 +2536,524 @@
         "source": "https://ccpp.ku.edu/core-faculty"
       }
     ]
+  },
+  {
+    "id": "brian-bauer",
+    "name": "Brian Bauer",
+    "aliases": [
+      "Brian W. Bauer"
+    ],
+    "areas": [
+      "suicide",
+      "assessment",
+      "substance use"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ]
+  },
+  {
+    "id": "steven-beach",
+    "name": "Steven Beach",
+    "aliases": [
+      "Steven R. H. Beach"
+    ],
+    "areas": [
+      "family relationships",
+      "depression",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ]
+  },
+  {
+    "id": "sierra-carter",
+    "name": "Sierra Carter",
+    "aliases": [
+      "Sierra E. Carter"
+    ],
+    "areas": [
+      "stress",
+      "health disparities",
+      "trauma"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ]
+  },
+  {
+    "id": "thania-galvan",
+    "name": "Thania Galvan",
+    "aliases": [
+      "Thania L. Galvan"
+    ],
+    "areas": [
+      "child development",
+      "mental health disparities",
+      "suicide"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ]
+  },
+  {
+    "id": "justin-lavner",
+    "name": "Justin Lavner",
+    "aliases": [
+      "Justin A. Lavner"
+    ],
+    "areas": [
+      "family relationships",
+      "marriage",
+      "child development"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ]
+  },
+  {
+    "id": "josh-miller",
+    "name": "Josh Miller",
+    "aliases": [
+      "Joshua D. Miller",
+      "Josh D. Miller"
+    ],
+    "areas": [
+      "personality disorders",
+      "psychopathology",
+      "assessment"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ]
+  },
+  {
+    "id": "anne-shaffer",
+    "name": "Anne Shaffer",
+    "aliases": [],
+    "areas": [
+      "child development",
+      "maltreatment",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ]
+  },
+  {
+    "id": "gregory-strauss",
+    "name": "Gregory Strauss",
+    "aliases": [
+      "Gregory P. Strauss"
+    ],
+    "areas": [
+      "psychosis",
+      "schizophrenia",
+      "emotion"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ]
+  },
+  {
+    "id": "cindy-suveg",
+    "name": "Cindy Suveg",
+    "aliases": [
+      "Cynthia Suveg"
+    ],
+    "areas": [
+      "anxiety",
+      "child development",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ]
+  },
+  {
+    "id": "lawrence-sweet",
+    "name": "Lawrence Sweet",
+    "aliases": [
+      "Lawrence H. Sweet"
+    ],
+    "areas": [
+      "neuropsychology",
+      "neuroimaging",
+      "health"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ]
+  },
+  {
+    "id": "todd-farchione",
+    "name": "Todd Farchione",
+    "aliases": [
+      "Todd J. Farchione"
+    ],
+    "areas": [
+      "anxiety",
+      "depression",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ]
+  },
+  {
+    "id": "qimin-liu",
+    "name": "Qimin Liu",
+    "aliases": [],
+    "areas": [
+      "depression",
+      "emotion",
+      "quantitative methods"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": "2023",
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/",
+        "dateSource": "https://www.bu.edu/psych/profile/qimin-liu/"
+      }
+    ]
+  },
+  {
+    "id": "kristin-long",
+    "name": "Kristin Long",
+    "aliases": [
+      "Kristin A. Long"
+    ],
+    "areas": [
+      "autism",
+      "health disparities",
+      "family health"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ]
+  },
+  {
+    "id": "samuel-meisel",
+    "name": "Samuel Meisel",
+    "aliases": [
+      "Samuel N. Meisel"
+    ],
+    "areas": [
+      "adolescent substance use",
+      "alcohol",
+      "parenting"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": "2024",
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/",
+        "dateSource": "https://www.bu.edu/psych/profile/samuel-meisel/"
+      }
+    ]
+  },
+  {
+    "id": "michael-otto",
+    "name": "Michael Otto",
+    "aliases": [
+      "Michael W. Otto"
+    ],
+    "areas": [
+      "anxiety",
+      "psychotherapy",
+      "substance use"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ]
+  },
+  {
+    "id": "tibor-palfai",
+    "name": "Tibor Palfai",
+    "aliases": [
+      "Tibor P. Palfai"
+    ],
+    "areas": [
+      "alcohol",
+      "substance use",
+      "behavior change"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ]
+  },
+  {
+    "id": "donna-pincus",
+    "name": "Donna Pincus",
+    "aliases": [
+      "Donna B. Pincus"
+    ],
+    "areas": [
+      "child anxiety",
+      "panic",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ]
+  },
+  {
+    "id": "yakeel-quiroz",
+    "name": "Yakeel Quiroz",
+    "aliases": [
+      "Yakeel T. Quiroz"
+    ],
+    "areas": [
+      "Alzheimer disease",
+      "neuroimaging",
+      "memory"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ]
+  },
+  {
+    "id": "amelia-stanton",
+    "name": "Amelia Stanton",
+    "aliases": [
+      "Amelia M. Stanton"
+    ],
+    "areas": [
+      "sexual health",
+      "mental health disparities",
+      "HIV"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ]
+  },
+  {
+    "id": "martha-tompson",
+    "name": "Martha Tompson",
+    "aliases": [
+      "Martha C. Tompson"
+    ],
+    "areas": [
+      "child depression",
+      "bipolar disorder",
+      "family interventions"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ]
   }
 ]

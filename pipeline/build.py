@@ -134,12 +134,14 @@ def assign(works, faculty, venues, issues):
     return works
 
 
-def audit(faculty, works, references, seed, stage, start, end, excluded=()):
+def audit(faculty, works, references, seed, stage, start, end, excluded=(), fixed_sample=None):
     """Sample before collecting references, then compare eligible reference rows to the frozen output."""
     cohort = sorted({row["id"] for row in faculty if any(a.get("current") and a["role"] in CORE_ROLES
                                                          for a in row.get("appointments", []))})
     sampling_frame = [person for person in cohort if person not in excluded]
-    sample = random.Random(seed).sample(sampling_frame, min(50, len(sampling_frame)))
+    sample = random.Random(seed).sample(sampling_frame, min(50, len(sampling_frame))) if fixed_sample is None else fixed_sample
+    if len(sample) != len(set(sample)) or not set(sample) <= set(sampling_frame):
+        raise ValueError("The fixed audit sample contains duplicate or ineligible faculty.")
     included = defaultdict(set)
     for work in works:
         if work["kind"] != "journal" or not start <= work["date"] <= end:
@@ -289,14 +291,25 @@ def main():
         (source["source"], source.get("id")) in exclusions for source in work["provenance"]
     )], faculty, venues, attribution)
     calibration = read(args.calibration_report, {}) if args.calibration_report else {}
-    excluded = calibration.get("sample", []) if calibration.get("stage") == "calibration" else []
-    report = audit(faculty, works, reference, args.audit_seed, args.audit_stage, ago(5), args.as_of, excluded)
+    diagnostic = read(DATA / "audit-diagnostic.json")
+    checks = read(DATA / "audit-diagnostic-checks.json", [])
+    excluded = set(calibration.get("sample", [])) if calibration.get("stage") == "calibration" else set()
+    if args.audit_stage == "holdout":
+        if calibration.get("audited") != 50 or calibration.get("stage") != "calibration":
+            parser.error("The holdout requires a completed 50-faculty calibration report.")
+        excluded.update(item["person"] for item in [diagnostic, *checks] if item)
+    audit_plan = read(DATA / "calibration-plan.json") if args.audit_stage == "calibration" else None
+    seed = audit_plan["seed"] if audit_plan else args.audit_seed
+    start_audit, end_audit = audit_plan["window"] if audit_plan else [ago(5), args.as_of]
+    report = audit(faculty, works, reference, seed, args.audit_stage, start_audit, end_audit,
+                   sorted(excluded), audit_plan["sample"] if audit_plan else None)
+    if audit_plan:
+        report["frozenFrameSize"] = audit_plan["frameSize"]
     report["corpusSha256"] = sha256(json.dumps(sorted([
         (w.get("doi", ""), w["title"], w["date"], tuple(sorted(w["people"]))) for w in works
     ]), ensure_ascii=False).encode()).hexdigest()
-    report["diagnostic"] = diagnostic_check(works, read(DATA / "audit-diagnostic.json"))
-    report["diagnosticChecks"] = [diagnostic_check(works, item)
-                                  for item in read(DATA / "audit-diagnostic-checks.json", [])]
+    report["diagnostic"] = diagnostic_check(works, diagnostic)
+    report["diagnosticChecks"] = [diagnostic_check(works, item) for item in checks]
     indexed = {p["id"] for p in faculty if p["retrieval"]["openAlex"] == "complete"}
     crosschecked = {p["id"] for p in faculty if all(state == "queried" for state in p["retrieval"].get("crosschecks", {}).values())
                     and p["retrieval"].get("crosschecks")}
