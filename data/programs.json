@@ -6576,7 +6576,54 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-23",
+      "scope": "The program separates Core and Associate faculty. Six Core appointments with substantial documented research roles are listed. Five named Core appointments need additional track evidence.",
+      "sources": [
+        "https://www.ohsu.edu/school-of-medicine/psychology",
+        "https://www.ohsu.edu/people/amy-holley-phd",
+        "https://www.ohsu.edu/people/rebekah-huber-phd",
+        "https://www.ohsu.edu/school-of-medicine/psychoneuroimmunology-lab/faculty-and-staff",
+        "https://orcid.org/0000-0002-0225-7200",
+        "https://www.ohsu.edu/doernbecher/novel-interventions-childrens-healthcare-nich",
+        "https://www.ohsu.edu/people/anna-c-wilson-phd"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Shanna Cooper",
+          "label": "Appointment track under review",
+          "reason": "Verify track for a clinical neuropsychology appointment with research participation.",
+          "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty"
+        },
+        {
+          "name": "Susanne W. Duvall",
+          "label": "Appointment track under review",
+          "reason": "Verify track for an associate director and clinical neuropsychologist appointment.",
+          "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty"
+        },
+        {
+          "name": "Darren M. Janzen",
+          "label": "Appointment track under review",
+          "reason": "Verify track for an associate director with clinical, training and research activities.",
+          "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty"
+        },
+        {
+          "name": "Leeza Maron",
+          "label": "Appointment track under review",
+          "reason": "Verify track for the division director and clinical neuropsychologist appointment.",
+          "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty"
+        },
+        {
+          "name": "Dorianne Wright",
+          "label": "Appointment track under review",
+          "reason": "Verify track for a psychiatry appointment described through clinical service, instruction, and supervision.",
+          "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty"
+        }
+      ]
+    }
   },
   {
     "id": "program-139",

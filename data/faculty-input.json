@@ -4786,5 +4786,185 @@
         ]
       }
     ]
+  },
+  {
+    "id": "amy-holley",
+    "name": "Amy Holley",
+    "aliases": [
+      "Amy L. Holley"
+    ],
+    "areas": [
+      "pediatric pain",
+      "sleep",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://www.ohsu.edu/people/amy-holley-phd",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ],
+    "lab": "https://www.ohsu.edu/advancing-research-pediatric-pain-lab/about-us"
+  },
+  {
+    "id": "rebekah-huber",
+    "name": "Rebekah Huber",
+    "aliases": [
+      "Rebekah S. Huber"
+    ],
+    "areas": [
+      "youth suicide prevention",
+      "mood disorders",
+      "mobile assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://www.ohsu.edu/people/rebekah-huber-phd",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jennifer-loftis",
+    "name": "Jennifer Loftis",
+    "aliases": [
+      "Jennifer M. Loftis"
+    ],
+    "areas": [
+      "substance use",
+      "mood disorders",
+      "neuropsychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://www.ohsu.edu/school-of-medicine/psychoneuroimmunology-lab/faculty-and-staff",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ],
+    "lab": "https://www.ohsu.edu/school-of-medicine/psychoneuroimmunology-lab"
+  },
+  {
+    "id": "suzanne-h-mitchell",
+    "name": "Suzanne H. Mitchell",
+    "aliases": [
+      "Suzanne Mitchell"
+    ],
+    "areas": [
+      "decision-making",
+      "addiction",
+      "reward valuation"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://orcid.org/0000-0002-0225-7200",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ],
+    "lab": "https://www.ohsu.edu/school-of-medicine/translational-neuroeconomics-lab",
+    "orcid": "0000-0002-0225-7200",
+    "orcidSource": "https://orcid.org/0000-0002-0225-7200"
+  },
+  {
+    "id": "david-wagner",
+    "name": "David Wagner",
+    "aliases": [
+      "David V. Wagner"
+    ],
+    "areas": [
+      "pediatric chronic illness",
+      "implementation science",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://www.ohsu.edu/doernbecher/novel-interventions-childrens-healthcare-nich",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anna-c-wilson",
+    "name": "Anna C. Wilson",
+    "aliases": [
+      "Anna Wilson"
+    ],
+    "areas": [
+      "pediatric chronic pain",
+      "families",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://www.ohsu.edu/people/anna-c-wilson-phd",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ],
+    "lab": "https://www.ohsu.edu/advancing-research-pediatric-pain-lab/about-us"
   }
 ]
