@@ -364,7 +364,9 @@
         ],
         "source": "https://psychology.yale.edu/research/clinical-psychology"
       }
-    ]
+    ],
+    "orcid": "0000-0001-6773-0508",
+    "orcidSource": "https://medicine.yale.edu/profile/arielle-baskin-sommers/"
   },
   {
     "id": "tyrone-cannon",
@@ -390,7 +392,9 @@
         ],
         "source": "https://psychology.yale.edu/research/clinical-psychology"
       }
-    ]
+    ],
+    "orcid": "0000-0002-5632-3154",
+    "orcidSource": "https://medicine.yale.edu/profile/tyrone-cannon/"
   },
   {
     "id": "dylan-gee",
@@ -442,7 +446,9 @@
         "source": "https://psychology.yale.edu/research/clinical-psychology",
         "dateSource": "https://psychology.yale.edu/sites/default/files/cv-joormann82014.pdf"
       }
-    ]
+    ],
+    "orcid": "0000-0002-5531-8513",
+    "orcidSource": "https://medicine.yale.edu/profile/jutta-joormann/"
   },
   {
     "id": "shirley-wang",
@@ -640,7 +646,9 @@
         "source": "https://psychology.berkeley.edu/research/clinical-science",
         "dateSource": "https://psychology.berkeley.edu/sites/default/files/newsletter_s24.pdf"
       }
-    ]
+    ],
+    "orcid": "0000-0001-9893-1046",
+    "orcidSource": "https://medicine.yale.edu/profile/hedy-kober/"
   },
   {
     "id": "giovanni-ramos",
@@ -1972,7 +1980,9 @@
         ],
         "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
       }
-    ]
+    ],
+    "orcid": "0000-0002-6038-331X",
+    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/40751038/"
   },
   {
     "id": "bengi-baran",
@@ -2176,16 +2186,22 @@
         "program": "program-061",
         "role": "tenure-track",
         "current": true,
-        "start": null,
+        "start": "2020",
         "end": null,
         "affiliations": [
           "University of Kansas (Clinical Psychology PhD)",
           "university of kansas",
           "University of Kansas"
         ],
-        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty",
+        "dateSource": "https://affcom.ku.edu/people/staff/girard_cv.pdf"
       }
-    ]
+    ],
+    "orcid": "0000-0002-7359-3746",
+    "orcidSource": "https://orcid.org/0000-0002-7359-3746",
+    "cv": "https://affcom.ku.edu/people/staff/girard_cv.pdf",
+    "lab": "https://affcom.ku.edu/",
+    "publicationList": "https://affcom.ku.edu/publications.html"
   },
   {
     "id": "nancy-hamilton",

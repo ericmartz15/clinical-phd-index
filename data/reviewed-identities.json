@@ -133,5 +133,69 @@
       }
     ],
     "splitReview": true
+  },
+  "arielle-baskin-sommers": {
+    "ids": [
+      "A5020403439"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "The named researcher and listed ORCID agree with OpenAlex. Source: https://medicine.yale.edu/profile/arielle-baskin-sommers/"
+    ]
+  },
+  "jutta-joormann": {
+    "ids": [
+      "A5007569759"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "The named researcher and listed ORCID agree with OpenAlex. Source: https://medicine.yale.edu/profile/jutta-joormann/"
+    ]
+  },
+  "tyrone-cannon": {
+    "ids": [
+      "A5090423513"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "The named researcher and listed ORCID agree with OpenAlex. Source: https://medicine.yale.edu/profile/tyrone-cannon/",
+      "Additional candidate author IDs require paper-level review."
+    ],
+    "splitReview": true
+  },
+  "tracy-witte": {
+    "ids": [
+      "A5056326051"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "The named researcher and listed ORCID agree with OpenAlex. Source: https://pubmed.ncbi.nlm.nih.gov/40751038/"
+    ]
+  },
+  "jeffrey-girard": {
+    "ids": [
+      "A5078452888"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "The named researcher and listed ORCID agree with OpenAlex. Source: https://orcid.org/0000-0002-7359-3746",
+      "Additional candidate author IDs require paper-level review."
+    ],
+    "splitReview": true
+  },
+  "hedy-kober": {
+    "ids": [
+      "A5005131042"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "OpenAlex agrees with the named ORCID in the Yale profile, and the UC Berkeley department lists the current Clinical Science appointment. Source: https://medicine.yale.edu/profile/hedy-kober/"
+    ]
   }
 }

@@ -7135,5 +7135,1486 @@
       },
       "errors": {}
     }
+  },
+  {
+    "id": "brian-bauer",
+    "name": "Brian Bauer",
+    "aliases": [
+      "Brian W. Bauer"
+    ],
+    "areas": [
+      "suicide",
+      "assessment",
+      "substance use"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5075095444",
+          "name": "Brian Ward Bauer",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5137600931",
+          "name": "Brian W. Bauer",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5152884260",
+          "name": "Brian W Bauer",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5005163056",
+          "name": "Brian Bauer",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5035325288",
+          "name": "Brian Bauer",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "steven-beach",
+    "name": "Steven Beach",
+    "aliases": [
+      "Steven R. H. Beach"
+    ],
+    "areas": [
+      "family relationships",
+      "depression",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5006169428"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5006169428",
+          "name": "Steven R. H. Beach",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5063403690",
+          "name": "Steven Joel Beach",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5007315943",
+          "name": "Steven F. Beach",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5015671176",
+          "name": "Steven H. Beach",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5041946253",
+          "name": "Steven T. Beach",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "sierra-carter",
+    "name": "Sierra Carter",
+    "aliases": [
+      "Sierra E. Carter"
+    ],
+    "areas": [
+      "stress",
+      "health disparities",
+      "trauma"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5022600493",
+          "name": "Sierra Carter",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5052883633",
+          "name": "Sierra Elizabeth Carter",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5005429365",
+          "name": "Sierra T. Carter",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5046203921",
+          "name": "Regina Carter",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "thania-galvan",
+    "name": "Thania Galvan",
+    "aliases": [
+      "Thania L. Galvan"
+    ],
+    "areas": [
+      "child development",
+      "mental health disparities",
+      "suicide"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5053710059"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5053710059",
+          "name": "Thania Galvan",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "justin-lavner",
+    "name": "Justin Lavner",
+    "aliases": [
+      "Justin A. Lavner"
+    ],
+    "areas": [
+      "family relationships",
+      "marriage",
+      "child development"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5019054517"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5019054517",
+          "name": "Justin A. Lavner",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5161215528",
+          "name": "Justin Lavner",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "josh-miller",
+    "name": "Josh Miller",
+    "aliases": [
+      "Joshua D. Miller",
+      "Josh D. Miller"
+    ],
+    "areas": [
+      "personality disorders",
+      "psychopathology",
+      "assessment"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5053842759",
+          "name": "Josh Miller",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5076480110",
+          "name": "Joshua D. Miller",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5069546997",
+          "name": "Josh Miller",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5001083675",
+          "name": "Josh Miller",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5004112964",
+          "name": "Josh Miller",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "anne-shaffer",
+    "name": "Anne Shaffer",
+    "aliases": [],
+    "areas": [
+      "child development",
+      "maltreatment",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5079405523",
+          "name": "Anne E. Shaffer",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5103206424",
+          "name": "Anne Shaffer",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5010794329",
+          "name": "ANNE SHAFFER",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5032799066",
+          "name": "LeighAnn Shaffer",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5058063394",
+          "name": "Stephanie A. Shaffer",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "gregory-strauss",
+    "name": "Gregory Strauss",
+    "aliases": [
+      "Gregory P. Strauss"
+    ],
+    "areas": [
+      "psychosis",
+      "schizophrenia",
+      "emotion"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5016710875",
+          "name": "Gregory P. Strauss",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "cindy-suveg",
+    "name": "Cindy Suveg",
+    "aliases": [
+      "Cynthia Suveg"
+    ],
+    "areas": [
+      "anxiety",
+      "child development",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5021688280",
+          "name": "Cynthia M. Suveg",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5103449134",
+          "name": "Cindy Suveg",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "lawrence-sweet",
+    "name": "Lawrence Sweet",
+    "aliases": [
+      "Lawrence H. Sweet"
+    ],
+    "areas": [
+      "neuropsychology",
+      "neuroimaging",
+      "health"
+    ],
+    "appointments": [
+      {
+        "program": "georgia",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Georgia",
+          "university of georgia"
+        ],
+        "source": "https://www.psychology.uga.edu/directory/clinical-faculty"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5103421108",
+          "name": "Lawrence H. Sweet",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5157828842",
+          "name": "Lawrence Sweet",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5064041348",
+          "name": "Lawrence C. Sweet",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5013333155",
+          "name": "James Lawrence Sweet",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5034403451",
+          "name": "Lawrence D. Sweet",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "todd-farchione",
+    "name": "Todd Farchione",
+    "aliases": [
+      "Todd J. Farchione"
+    ],
+    "areas": [
+      "anxiety",
+      "depression",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5001202942",
+          "name": "Todd J. Farchione",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5162278561",
+          "name": "Todd J. Farchione",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5162094248",
+          "name": "Todd J. Farchione",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5162100200",
+          "name": "Todd J. Farchione",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "qimin-liu",
+    "name": "Qimin Liu",
+    "aliases": [],
+    "areas": [
+      "depression",
+      "emotion",
+      "quantitative methods"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": "2023",
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/",
+        "dateSource": "https://www.bu.edu/psych/profile/qimin-liu/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5102792089",
+          "name": "Qimin Liu",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5013825685",
+          "name": "Qimin Liu",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5160308246",
+          "name": "Qimin Liu",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5161817128",
+          "name": "Qimin Liu",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "kristin-long",
+    "name": "Kristin Long",
+    "aliases": [
+      "Kristin A. Long"
+    ],
+    "areas": [
+      "autism",
+      "health disparities",
+      "family health"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5002370004"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5002370004",
+          "name": "Kristin A. Long",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5071206425",
+          "name": "Kristin M. Long",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5093919925",
+          "name": "Kristin Long",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5105698484",
+          "name": "Kristin L. Long",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5010685474",
+          "name": "Kristin Helene Long",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "samuel-meisel",
+    "name": "Samuel Meisel",
+    "aliases": [
+      "Samuel N. Meisel"
+    ],
+    "areas": [
+      "adolescent substance use",
+      "alcohol",
+      "parenting"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": "2024",
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/",
+        "dateSource": "https://www.bu.edu/psych/profile/samuel-meisel/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5070519334"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5070519334",
+          "name": "Samuel N. Meisel",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "michael-otto",
+    "name": "Michael Otto",
+    "aliases": [
+      "Michael W. Otto"
+    ],
+    "areas": [
+      "anxiety",
+      "psychotherapy",
+      "substance use"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5063995344"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5063995344",
+          "name": "Michael W. Otto",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5076608218",
+          "name": "Jasper A. J. Smits",
+          "confidence": 0.53,
+          "evidence": [
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5009236151",
+          "name": "Michael R. Otto",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5041575146",
+          "name": "Michael Otto",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5056173398",
+          "name": "Michael J. Otto",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "tibor-palfai",
+    "name": "Tibor Palfai",
+    "aliases": [
+      "Tibor P. Palfai"
+    ],
+    "areas": [
+      "alcohol",
+      "substance use",
+      "behavior change"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5062528926"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5062528926",
+          "name": "Tibor P. Palfai",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5032572186",
+          "name": "Tibor Palfai",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "donna-pincus",
+    "name": "Donna Pincus",
+    "aliases": [
+      "Donna B. Pincus"
+    ],
+    "areas": [
+      "child anxiety",
+      "panic",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5087170762"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5087170762",
+          "name": "Donna B. Pincus",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5078277309",
+          "name": "Rachel A. Merson",
+          "confidence": 0.53,
+          "evidence": [
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5079471165",
+          "name": "Lydia Chevalier",
+          "confidence": 0.35,
+          "evidence": [
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "yakeel-quiroz",
+    "name": "Yakeel Quiroz",
+    "aliases": [
+      "Yakeel T. Quiroz"
+    ],
+    "areas": [
+      "Alzheimer disease",
+      "neuroimaging",
+      "memory"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5055843167"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5055843167",
+          "name": "Yakeel T. Quiroz",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5007211830",
+          "name": "Yakeel Tatiana Quiroz Gaviria",
+          "confidence": 0.18,
+          "evidence": [
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "amelia-stanton",
+    "name": "Amelia Stanton",
+    "aliases": [
+      "Amelia M. Stanton"
+    ],
+    "areas": [
+      "sexual health",
+      "mental health disparities",
+      "HIV"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5039757975"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5039757975",
+          "name": "Amelia M. Stanton",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5072763003",
+          "name": "Amelia M. Duran-Stanton",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5097067029",
+          "name": "MAJOR AMELIA M. DURAN-STANTON",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5098508522",
+          "name": "CAPTAIN AMELIA M. DURAN-STANTON",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "martha-tompson",
+    "name": "Martha Tompson",
+    "aliases": [
+      "Martha C. Tompson"
+    ],
+    "areas": [
+      "child depression",
+      "bipolar disorder",
+      "family interventions"
+    ],
+    "appointments": [
+      {
+        "program": "program-071",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Boston University",
+          "boston university"
+        ],
+        "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5076198337"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5076198337",
+          "name": "Martha C. Tompson",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
   }
 ]
