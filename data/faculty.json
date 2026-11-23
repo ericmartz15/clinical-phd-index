@@ -8543,5 +8543,1703 @@
       },
       "errors": {}
     }
+  },
+  {
+    "id": "shannon-dorsey",
+    "name": "Shannon Dorsey",
+    "aliases": [
+      "Shannon M. Dorsey"
+    ],
+    "areas": [
+      "child trauma",
+      "implementation science",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5039237396"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5039237396",
+          "name": "Shannon Dorsey",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5129041413",
+          "name": "Shannon Dorsey",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5158164531",
+          "name": "Shannon Dorsey",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "angela-fang",
+    "name": "Angela Fang",
+    "aliases": [
+      "Angela F. Fang"
+    ],
+    "areas": [
+      "anxiety",
+      "obsessive compulsive disorder",
+      "social cognition"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5091006917"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5091006917",
+          "name": "Angela Fang",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5112605000",
+          "name": "Angela Fang",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5119477976",
+          "name": "Angela Fang",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5024997075",
+          "name": "Angela F. Gao",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5027170777",
+          "name": "Angela Fang Wang",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "jennifer-forsyth",
+    "name": "Jennifer Forsyth",
+    "aliases": [
+      "Jennifer K. Forsyth"
+    ],
+    "areas": [
+      "psychosis",
+      "schizophrenia",
+      "genetics"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5002308446",
+          "name": "Jennifer K. Forsyth",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5134600372",
+          "name": "Jennifer Forsyth",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5059661234",
+          "name": "Jennifer Forsyth",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5075730823",
+          "name": "Jennifer Forsyth",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5140534229",
+          "name": "Jennifer Forsyth",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "katherine-t-foster",
+    "name": "Katherine T. Foster",
+    "aliases": [
+      "Katherine Foster"
+    ],
+    "areas": [
+      "adolescent mental health",
+      "substance use",
+      "depression"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5038072243"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5038072243",
+          "name": "Katherine T. Foster",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5011650886",
+          "name": "Katherine L. Foster",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5060538814",
+          "name": "Katherine I. Foster",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5077779559",
+          "name": "Katherine Foster",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5088521011",
+          "name": "Katherine Foster",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "william-george",
+    "name": "William George",
+    "aliases": [
+      "William H. George"
+    ],
+    "areas": [
+      "alcohol",
+      "substance use",
+      "sexual health"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5027143644"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5027143644",
+          "name": "William H. George",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5102103871",
+          "name": "William George",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5110727357",
+          "name": "W. H. GEORGE",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5076879662",
+          "name": "William George Unruh",
+          "confidence": 0.35,
+          "evidence": [
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5091380477",
+          "name": "William George Stetler‐Stevenson",
+          "confidence": 0.35,
+          "evidence": [
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "debrielle-t-jacques",
+    "name": "Debrielle T. Jacques",
+    "aliases": [
+      "Debrielle Jacques"
+    ],
+    "areas": [
+      "developmental psychopathology",
+      "adolescent development",
+      "family"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5081204815"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5081204815",
+          "name": "Debrielle T. Jacques",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5054410083",
+          "name": "Debrielle Jacques",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "jonathan-kanter",
+    "name": "Jonathan Kanter",
+    "aliases": [
+      "Jonathan W. Kanter"
+    ],
+    "areas": [
+      "depression",
+      "behavioral activation",
+      "social connection"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5062334720"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5062334720",
+          "name": "Jonathan William Kanter",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5031567909",
+          "name": "Jonathan S. Kanter",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5009109129",
+          "name": "Jonathan Kanter Wasserman",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "lynn-fainsilber-katz",
+    "name": "Lynn Fainsilber Katz",
+    "aliases": [
+      "Lynn F. Katz",
+      "Lynn Katz"
+    ],
+    "areas": [
+      "child development",
+      "emotion regulation",
+      "family relationships"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5038780326"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5038780326",
+          "name": "Lynn Fainsilber Katz",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5078332880",
+          "name": "Lynn E. Katz",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5083168040",
+          "name": "Lynn E. Katz",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5111883252",
+          "name": "Lynn Katz",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5138698435",
+          "name": "Lynn Katz",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "kevin-king",
+    "name": "Kevin King",
+    "aliases": [
+      "Kevin M. King"
+    ],
+    "areas": [
+      "adolescent substance use",
+      "research methods",
+      "alcohol"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5078451901"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5078451901",
+          "name": "Kevin Michael King",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5009897602",
+          "name": "Kevin King",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5019752954",
+          "name": "Kevin W. King",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5049285220",
+          "name": "Kevin R. King",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5090148953",
+          "name": "Kevin S. King",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "mary-larimer",
+    "name": "Mary Larimer",
+    "aliases": [
+      "Mary E. Larimer"
+    ],
+    "areas": [
+      "alcohol",
+      "substance use",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5074182249"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5074182249",
+          "name": "Mary E. Larimer",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5160985818",
+          "name": "Mary E. Larimer",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5161909571",
+          "name": "MARY LARIMER",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5035004591",
+          "name": "Mary B. Larimer",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5108283737",
+          "name": "Ruth-Mary Larimer",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "liliana-lengua",
+    "name": "Liliana Lengua",
+    "aliases": [
+      "Liliana J. Lengua"
+    ],
+    "areas": [
+      "child development",
+      "temperament",
+      "resilience"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5002595847"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5002595847",
+          "name": "Liliana J. Lengua",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5162077531",
+          "name": "Liliana J. Lengua",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "priscilla-lui",
+    "name": "Priscilla Lui",
+    "aliases": [
+      "Priscilla P. Lui"
+    ],
+    "areas": [
+      "alcohol",
+      "health disparities",
+      "acculturation"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5027162075",
+          "name": "P. Priscilla Lui",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5117064055",
+          "name": "Priscilla Lui",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5061076886",
+          "name": "P. Priscilla Lui",
+          "confidence": 0.35,
+          "evidence": [
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5000393041",
+          "name": "Pan Priscilla Lui",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5057733572",
+          "name": "Priscilla Lui Tsang Sun-Kai",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "lori-zoellner",
+    "name": "Lori Zoellner",
+    "aliases": [
+      "Lori A. Zoellner"
+    ],
+    "areas": [
+      "trauma",
+      "posttraumatic stress",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5070331330"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5070331330",
+          "name": "Lori A. Zoellner",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5158462188",
+          "name": "Lori Zoellner",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "margaret-fields-olivieri",
+    "name": "Margaret Fields-Olivieri",
+    "aliases": [
+      "Margaret A. Fields-Olivieri",
+      "Margaret A. Olivieri"
+    ],
+    "areas": [
+      "language",
+      "child development",
+      "parenting"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5035551375"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5035551375",
+          "name": "Margaret A. Fields‐Olivieri",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "susan-p-keane",
+    "name": "Susan P. Keane",
+    "aliases": [
+      "Susan Keane"
+    ],
+    "areas": [
+      "child psychopathology",
+      "peer relationships",
+      "attention"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5032211619",
+          "name": "Susan Phillips Keane",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5025916591",
+          "name": "Susan Egan Keane",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5090187332",
+          "name": "Susan Keane",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5109257392",
+          "name": "Susan Keane",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5060662324",
+          "name": "Susan Keane Baker",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "rosemery-o-nelson-gray",
+    "name": "Rosemery O. Nelson-Gray",
+    "aliases": [
+      "Rosemery Nelson-Gray"
+    ],
+    "areas": [
+      "behavior therapy",
+      "personality",
+      "assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5027848495",
+          "name": "Rosemery O. Nelson‐Gray",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "danielle-weber",
+    "name": "Danielle Weber",
+    "aliases": [
+      "Danielle M. Weber"
+    ],
+    "areas": [
+      "couples",
+      "relationships",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5070979720"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5070979720",
+          "name": "Danielle M. Weber",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5008215223",
+          "name": "Danielle Weber",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5039279973",
+          "name": "Danielle Weber",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5132915624",
+          "name": "Danielle Weber",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5140857925",
+          "name": "Danielle Weber",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "kari-m-eddington",
+    "name": "Kari M. Eddington",
+    "aliases": [
+      "Kari Eddington"
+    ],
+    "areas": [
+      "depression",
+      "emotion",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5003852925"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5003852925",
+          "name": "Kari Merrill Eddington",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "michaeline-jensen",
+    "name": "Michaeline Jensen",
+    "aliases": [
+      "Michaeline D. Jensen"
+    ],
+    "areas": [
+      "adolescent mental health",
+      "relationships",
+      "digital media"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5056749577"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5056749577",
+          "name": "Michaeline R. Jensen",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5129789998",
+          "name": "Michaeline Jensen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "julia-mendez",
+    "name": "Julia Mendez",
+    "aliases": [
+      "Julia L. Mendez"
+    ],
+    "areas": [
+      "family",
+      "child development",
+      "school readiness"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5017777215",
+          "name": "Julia Mendez",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5100624159",
+          "name": "Julia L. Mendez",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5052619903",
+          "name": "Julia Méndez",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5054784415",
+          "name": "Julia Méndez",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5111485836",
+          "name": "J. L. Fernández Méndez",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "suzanne-vrshek-schallhorn",
+    "name": "Suzanne Vrshek-Schallhorn",
+    "aliases": [
+      "Suzanne Schallhorn"
+    ],
+    "areas": [
+      "stress",
+      "depression",
+      "neuroendocrinology"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5006111568"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5006111568",
+          "name": "Suzanne Vrshek‐Schallhorn",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "blair-wisco",
+    "name": "Blair Wisco",
+    "aliases": [
+      "Blair E. Wisco"
+    ],
+    "areas": [
+      "trauma",
+      "posttraumatic stress",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5066942592"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5066942592",
+          "name": "Blair Elizabeth Wisco",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
   }
 ]

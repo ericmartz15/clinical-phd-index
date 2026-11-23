@@ -197,5 +197,47 @@
     "evidence": [
       "OpenAlex agrees with the named ORCID in the Yale profile, and the UC Berkeley department lists the current Clinical Science appointment. Source: https://medicine.yale.edu/profile/hedy-kober/"
     ]
+  },
+  "daniel-w-oesterle": {
+    "ids": [
+      "A5032967143"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "The named researcher and listed ORCID agree with OpenAlex. Source: https://doi.org/10.1002/jcop.22974"
+    ]
+  },
+  "stephen-hinshaw": {
+    "ids": [
+      "A5027416767"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "The named researcher and listed ORCID agree with OpenAlex. Source: https://orcid.org/0000-0001-6497-1082",
+      "Additional candidate author IDs require paper-level review."
+    ],
+    "splitReview": true
+  },
+  "daniel-taylor": {
+    "ids": [
+      "A5081239528"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "The named researcher and listed ORCID agree with OpenAlex. Source: https://doi.org/10.1093/sleep/zsac117"
+    ]
+  },
+  "zachary-cohen": {
+    "ids": [
+      "A5065428235"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "The named researcher and listed ORCID agree with OpenAlex. Source: https://orcid.org/0000-0002-4883-1028"
+    ]
   }
 }

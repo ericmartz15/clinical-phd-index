@@ -537,7 +537,9 @@
         "onRosterBy": "2020",
         "dateSource": "https://psychology.berkeley.edu/sites/default/files/20-21_program_description_082120_cbs-final.pdf"
       }
-    ]
+    ],
+    "orcid": "0000-0001-6497-1082",
+    "orcidSource": "https://orcid.org/0000-0001-6497-1082"
   },
   {
     "id": "sheri-johnson",
@@ -1533,15 +1535,19 @@
         "program": "program-005",
         "role": "tenure-track",
         "current": true,
-        "start": null,
+        "start": "2023",
         "end": null,
         "affiliations": [
           "University of Arizona",
           "university of arizona"
         ],
-        "source": "https://psychology.arizona.edu/faculty/clinical"
+        "source": "https://psychology.arizona.edu/faculty/clinical",
+        "dateSource": "https://orcid.org/0000-0002-4883-1028"
       }
-    ]
+    ],
+    "orcid": "0000-0002-4883-1028",
+    "orcidSource": "https://orcid.org/0000-0002-4883-1028",
+    "lab": "https://sites.arizona.edu/personalized-treatment-lab/"
   },
   {
     "id": "melissa-flores",
@@ -1797,7 +1803,9 @@
         ],
         "source": "https://psychology.arizona.edu/faculty/clinical"
       }
-    ]
+    ],
+    "orcid": "0000-0003-3433-2516",
+    "orcidSource": "https://doi.org/10.1093/sleep/zsac117"
   },
   {
     "id": "tiffany-brown",
@@ -1894,15 +1902,18 @@
         "program": "program-003",
         "role": "tenure-track",
         "current": true,
-        "start": null,
+        "start": "2026",
         "end": null,
         "affiliations": [
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/",
+        "dateSource": "https://bulletin.auburn.edu/undergraduate/faculty/"
       }
-    ]
+    ],
+    "orcid": "0000-0002-1379-4116",
+    "orcidSource": "https://doi.org/10.1002/jcop.22974"
   },
   {
     "id": "april-smith",
