@@ -62,7 +62,7 @@
     "john-ruiz",
     "mark-chen"
   ],
-  "audited": 3,
+  "audited": 4,
   "unavailable": [
     "aaron-fisher",
     "lara-ray",
@@ -99,7 +99,6 @@
     "charlene-muehlenhard",
     "matthew-grilli",
     "allison-harvey",
-    "shirley-wang",
     "lauren-c-ng",
     "stephen-hinshaw",
     "tera-fazzino",
@@ -112,8 +111,8 @@
     "sheri-johnson",
     "john-ruiz"
   ],
-  "matches": 81,
-  "denominator": 81,
+  "matches": 103,
+  "denominator": 103,
   "recall": null,
   "diagnosticRecall": 1.0,
   "interval": null,
@@ -451,6 +450,204 @@
       "date": "2022-08-19",
       "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
       "dateSource": "https://doi.org/10.1523/jneurosci.0233-22.2022",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Contra-hedonic functions of self-destructive behaviors in adolescents",
+      "doi": "10.1002/eat.70111",
+      "date": "2026-04-20",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1002/eat.70111",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "The future of the biopsychosocial model: Towards a transdisciplinary systems science of mental health",
+      "doi": "10.1177/21677026261435464",
+      "date": "2026-06-25",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1177/21677026261435464",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Applying machine learning to investigate future life-oriented predictors of adolescents’ near-term suicidal ideation",
+      "doi": "10.1016/j.jadr.2026.101105",
+      "date": "2026-06-15",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1016/j.jadr.2026.101105",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Interpretation Issues with the Patient Health Questionnaire Instructions",
+      "doi": "10.1001/jamapsychiatry.2025.3796",
+      "date": "2026-04-01",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1001/jamapsychiatry.2025.3796",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Understanding, predicting, and preventing suicide: Recent advances using digital and computational methods",
+      "doi": "10.1177/09637214251414021",
+      "date": "2026-02-07",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1177/09637214251414021",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Electronic health record-based phenotyping for obsessive-compulsive disorder: Algorithm development and multicenter validation study",
+      "doi": "10.2196/89213",
+      "date": "2026-10-02",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.2196/89213",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Quality and contents of self-guided adolescent suicide safety plans",
+      "doi": "10.1080/15374416.2026.2660293",
+      "date": "2026-05-05",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1080/15374416.2026.2660293",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Future directions for mathematical, computational, and digital methods in suicide research",
+      "doi": "10.1080/15374416.2026.2617212",
+      "date": "2026-01-02",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1080/15374416.2026.2617212",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Accuracy and consistency of visual analog scales in ecological momentary assessment and digital studies",
+      "doi": "10.1525/collabra.142735",
+      "date": "2025-08-06",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1525/collabra.142735",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Patterns of symptom change in behaviors and cognitions during 10-session cognitive behavioral therapy (CBT-T) for non-underweight eating disorders",
+      "doi": "10.1002/eat.24429",
+      "date": "2025-04-01",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1002/eat.24429",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Identification of affective and social reinforcement functions of driven exercise: Evidence from three samples",
+      "doi": "10.1177/21677026241290455",
+      "date": "2024-12-14",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1177/21677026241290455",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Practicing theory building in a many modelers hackathon: A proof of concept",
+      "doi": "10.15626/mp.2023.3688",
+      "date": "2025-02-07",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.15626/mp.2023.3688",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Accessibility and utility of an electronic self-guided safety plan for adolescents",
+      "doi": "10.1080/15374416.2024.2395271",
+      "date": "2024-09-23",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1080/15374416.2024.2395271",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Building personalized machine learning models using real-time monitoring data to predict idiographic suicidal thoughts",
+      "doi": "10.1038/s44220-024-00335-w",
+      "date": "2024-10-24",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1038/s44220-024-00335-w",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Heterogeneity in suicide risk: Evidence from personalized dynamic models",
+      "doi": "10.1016/j.brat.2024.104574",
+      "date": "2024-05-23",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1016/j.brat.2024.104574",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Trajectory of ghrelin and PYY around a test meal in males and females with avoidant/restrictive food intake disorder versus healthy controls",
+      "doi": "10.1016/j.psyneuen.2024.107063",
+      "date": "2024-05-06",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1016/j.psyneuen.2024.107063",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Avoidant/restrictive food intake disorder differs from anorexia nervosa in delay discounting",
+      "doi": "10.1186/s40337-023-00958-x",
+      "date": "2024-01-29",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1186/s40337-023-00958-x",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Comparing self-harming intentions underlying eating disorder behaviors and nonsuicidal self-injury: Replication and extension in adolescents",
+      "doi": "10.1002/eat.24043",
+      "date": "2023-08-28",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1002/eat.24043",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Identity, social pressure, and body image in the development of disordered eating behaviors among pre-professional adolescent ballet dancers",
+      "doi": "10.1002/eat.24005",
+      "date": "2023-06-01",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1002/eat.24005",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Development of transdiagnostic clinical risk prediction models for 12-month onset and course of eating disorders among adolescents in the community",
+      "doi": "10.1002/eat.23951",
+      "date": "2023-04-13",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1002/eat.23951",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Real-time digital monitoring of a suicide attempt by a hospital patient",
+      "doi": "10.1016/j.genhosppsych.2022.12.005",
+      "date": "2022-12-21",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1016/j.genhosppsych.2022.12.005",
+      "matched": true
+    },
+    {
+      "person": "shirley-wang",
+      "title": "Preliminary validation of the Pica, ARFID, and Rumination Disorder Interview ARFID Questionnaire (PARDI-AR-Q)",
+      "doi": "10.1186/s40337-022-00706-7",
+      "date": "2022-11-22",
+      "reference": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+      "dateSource": "https://doi.org/10.1186/s40337-022-00706-7",
       "matched": true
     },
     {
@@ -1091,7 +1288,7 @@
       ]
     }
   ],
-  "corpusSha256": "d30353f5f0bc4d6e718e45932e67fd7b5f7add0f8942007d5c020acf53540331",
+  "corpusSha256": "6e532b1085d3b0cac47ca682669950ccbea81940f67647269d99e4cffe2e80cb",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",

@@ -1795,17 +1795,30 @@
         "program": "program-005",
         "role": "tenure-track",
         "current": true,
-        "start": null,
+        "start": "2019",
         "end": null,
         "affiliations": [
           "University of Arizona",
           "university of arizona"
         ],
-        "source": "https://psychology.arizona.edu/faculty/clinical"
+        "source": "https://psychology.arizona.edu/faculty/clinical",
+        "dateSource": "https://psychology.arizona.edu/news/welcome-new-faculty-fall-2019"
       }
     ],
     "orcid": "0000-0003-3433-2516",
-    "orcidSource": "https://doi.org/10.1093/sleep/zsac117"
+    "orcidSource": "https://doi.org/10.1093/sleep/zsac117",
+    "cv": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+    "appointmentReview": [
+      {
+        "institution": "University of North Texas",
+        "programName": "Clinical Health Psychology",
+        "start": "2013",
+        "end": "2019",
+        "source": "https://psychology.arizona.edu/sites/default/files/Taylor%20CV.pdf",
+        "note": "The CV documents direction of clinical training. University records distinguish two clinical programs and describe changes to the former degree. Confirm program continuity before attributing these papers.",
+        "programSource": "https://pahs.unt.edu/psychology/how-apply.html"
+      }
+    ]
   },
   {
     "id": "tiffany-brown",

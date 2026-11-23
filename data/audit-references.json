@@ -700,5 +700,208 @@
         "reason": "Official publication date falls outside the audit window."
       }
     ]
+  },
+  "shirley-wang": {
+    "source": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+    "additionalSource": "https://ccslab.squarespace.com/publications",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "doi": "10.1002/eat.70111",
+        "title": "Contra-hedonic functions of self-destructive behaviors in adolescents",
+        "date": "2026-04-20",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/eat.70111"
+      },
+      {
+        "doi": "10.1177/21677026261435464",
+        "title": "The future of the biopsychosocial model: Towards a transdisciplinary systems science of mental health",
+        "date": "2026-06-25",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/21677026261435464"
+      },
+      {
+        "doi": "10.1016/j.jadr.2026.101105",
+        "title": "Applying machine learning to investigate future life-oriented predictors of adolescents’ near-term suicidal ideation",
+        "date": "2026-06-15",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1016/j.jadr.2026.101105"
+      },
+      {
+        "doi": "10.1001/jamapsychiatry.2025.3796",
+        "title": "Interpretation Issues with the Patient Health Questionnaire Instructions",
+        "date": "2026-04-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1001/jamapsychiatry.2025.3796"
+      },
+      {
+        "doi": "10.1177/09637214251414021",
+        "title": "Understanding, predicting, and preventing suicide: Recent advances using digital and computational methods",
+        "date": "2026-02-07",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/09637214251414021"
+      },
+      {
+        "doi": "10.2196/89213",
+        "title": "Electronic health record-based phenotyping for obsessive-compulsive disorder: Algorithm development and multicenter validation study",
+        "date": "2026-10-02",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.2196/89213"
+      },
+      {
+        "doi": "10.1080/15374416.2026.2660293",
+        "title": "Quality and contents of self-guided adolescent suicide safety plans",
+        "date": "2026-05-05",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/15374416.2026.2660293"
+      },
+      {
+        "doi": "10.1080/15374416.2026.2617212",
+        "title": "Future directions for mathematical, computational, and digital methods in suicide research",
+        "date": "2026-01-02",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/15374416.2026.2617212"
+      },
+      {
+        "doi": "10.1525/collabra.142735",
+        "title": "Accuracy and consistency of visual analog scales in ecological momentary assessment and digital studies",
+        "date": "2025-08-06",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1525/collabra.142735"
+      },
+      {
+        "doi": "10.1002/eat.24429",
+        "title": "Patterns of symptom change in behaviors and cognitions during 10-session cognitive behavioral therapy (CBT-T) for non-underweight eating disorders",
+        "date": "2025-04-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/eat.24429"
+      },
+      {
+        "doi": "10.1177/21677026241290455",
+        "title": "Identification of affective and social reinforcement functions of driven exercise: Evidence from three samples",
+        "date": "2024-12-14",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/21677026241290455"
+      },
+      {
+        "doi": "10.15626/mp.2023.3688",
+        "title": "Practicing theory building in a many modelers hackathon: A proof of concept",
+        "date": "2025-02-07",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.15626/mp.2023.3688"
+      },
+      {
+        "doi": "10.1080/15374416.2024.2395271",
+        "title": "Accessibility and utility of an electronic self-guided safety plan for adolescents",
+        "date": "2024-09-23",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/15374416.2024.2395271"
+      },
+      {
+        "doi": "10.1038/s44220-024-00335-w",
+        "title": "Building personalized machine learning models using real-time monitoring data to predict idiographic suicidal thoughts",
+        "date": "2024-10-24",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s44220-024-00335-w"
+      },
+      {
+        "doi": "10.1016/j.brat.2024.104574",
+        "title": "Heterogeneity in suicide risk: Evidence from personalized dynamic models",
+        "date": "2024-05-23",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1016/j.brat.2024.104574"
+      },
+      {
+        "doi": "10.1016/j.psyneuen.2024.107063",
+        "title": "Trajectory of ghrelin and PYY around a test meal in males and females with avoidant/restrictive food intake disorder versus healthy controls",
+        "date": "2024-05-06",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1016/j.psyneuen.2024.107063"
+      },
+      {
+        "doi": "10.1186/s40337-023-00958-x",
+        "title": "Avoidant/restrictive food intake disorder differs from anorexia nervosa in delay discounting",
+        "date": "2024-01-29",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1186/s40337-023-00958-x"
+      },
+      {
+        "doi": "10.1002/eat.24043",
+        "title": "Comparing self-harming intentions underlying eating disorder behaviors and nonsuicidal self-injury: Replication and extension in adolescents",
+        "date": "2023-08-28",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/eat.24043"
+      },
+      {
+        "doi": "10.1002/eat.24005",
+        "title": "Identity, social pressure, and body image in the development of disordered eating behaviors among pre-professional adolescent ballet dancers",
+        "date": "2023-06-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/eat.24005"
+      },
+      {
+        "doi": "10.1002/eat.23951",
+        "title": "Development of transdiagnostic clinical risk prediction models for 12-month onset and course of eating disorders among adolescents in the community",
+        "date": "2023-04-13",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/eat.23951"
+      },
+      {
+        "doi": "10.1016/j.genhosppsych.2022.12.005",
+        "title": "Real-time digital monitoring of a suicide attempt by a hospital patient",
+        "date": "2022-12-21",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1016/j.genhosppsych.2022.12.005"
+      },
+      {
+        "doi": "10.1186/s40337-022-00706-7",
+        "title": "Preliminary validation of the Pica, ARFID, and Rumination Disorder Interview ARFID Questionnaire (PARDI-AR-Q)",
+        "date": "2022-11-22",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1186/s40337-022-00706-7"
+      }
+    ],
+    "excluded": [
+      {
+        "reason": "The November CV labels this work conditionally accepted. No published journal article was confirmed by the cutoff.",
+        "title": "Integrating artificial intelligence chatbot conversations with digital phenotyping in suicide research."
+      },
+      {
+        "reason": "The 2021 CV entries on the previous calendar-year list were published before November 20, 2021.",
+        "count": 9
+      },
+      {
+        "title": "Multidisciplinary clinical psychological science: Progress, challenges, and opportunities",
+        "doi": "10.1177/21677026261440520",
+        "date": "2026-06-25",
+        "source": "https://journals.sagepub.com/doi/abs/10.1177/21677026261440520",
+        "reason": "SAGE labels the work an Introduction, and external peer review could not be confirmed."
+      },
+      {
+        "title": "Path asymmetry in complex dynamical systems of psychopathology",
+        "doi": "10.1001/jamapsychiatry.2025.3147",
+        "date": "2026-01-01",
+        "source": "https://dare.uva.nl/id/e2f814fe-096b-496f-9352-1c496c527df9",
+        "reason": "Listed by the author institution as a letter or comment. External peer review could not be confirmed."
+      },
+      {
+        "title": "Exploring adolescent experience with disclosing self-injurious thoughts and behaviors across settings",
+        "doi": "10.1007/s10802-021-00878-x",
+        "date": "2021-10-27",
+        "source": "https://doi.org/10.1007/s10802-021-00878-x",
+        "reason": "Online publication before the audit window."
+      },
+      {
+        "title": "Online methods in adolescent self-injury research: Challenges and recommendations",
+        "doi": "10.1080/15374416.2021.1875325",
+        "date": "2021-03-03",
+        "source": "https://doi.org/10.1080/15374416.2021.1875325",
+        "reason": "Online publication before the audit window."
+      }
+    ]
   }
 }

@@ -1280,59 +1280,28 @@
         "dateSource": "https://psychology.berkeley.edu/sites/default/files/20-21_program_description_082120_cbs-final.pdf"
       }
     ],
+    "orcid": "0000-0001-6497-1082",
+    "orcidSource": "https://orcid.org/0000-0001-6497-1082",
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5027416767"
       ],
-      "candidates": [
-        {
-          "id": "A5027416767",
-          "name": "Stephen P. Hinshaw",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5146420076",
-          "name": "Stephen P. Hinshaw",
-          "confidence": 0.63,
-          "evidence": [
-            "Full name or documented name variant",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5020726201",
-          "name": "Stephen M. Hinshaw",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5069206945",
-          "name": "Hinshaw Stephen",
-          "confidence": 0.35,
-          "evidence": [
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5085178273",
-          "name": "Stephen R. Hinshaw",
-          "confidence": 0,
-          "evidence": []
-        }
-      ]
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "The named researcher and listed ORCID agree with OpenAlex. Source: https://orcid.org/0000-0001-6497-1082",
+        "Additional candidate author IDs require paper-level review."
+      ],
+      "splitReview": true
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -4077,8 +4046,8 @@
           ]
         },
         {
-          "id": "A5126812171",
-          "name": "Gene E. Alexander",
+          "id": "A5121103202",
+          "name": "Gene Alexander",
           "confidence": 0.8,
           "evidence": [
             "Full name or documented name variant",
@@ -4086,7 +4055,7 @@
           ]
         },
         {
-          "id": "A5140241650",
+          "id": "A5126812171",
           "name": "Gene E. Alexander",
           "confidence": 0.8,
           "evidence": [
@@ -4211,70 +4180,27 @@
         "program": "program-005",
         "role": "tenure-track",
         "current": true,
-        "start": null,
+        "start": "2023",
         "end": null,
         "affiliations": [
           "University of Arizona",
           "university of arizona"
         ],
-        "source": "https://psychology.arizona.edu/faculty/clinical"
+        "source": "https://psychology.arizona.edu/faculty/clinical",
+        "dateSource": "https://orcid.org/0000-0002-4883-1028"
       }
     ],
+    "orcid": "0000-0002-4883-1028",
+    "orcidSource": "https://orcid.org/0000-0002-4883-1028",
+    "lab": "https://sites.arizona.edu/personalized-treatment-lab/",
     "identity": {
       "ids": [
         "A5065428235"
       ],
-      "confidence": 0.98,
+      "confidence": 1,
       "status": "resolved",
       "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
-      ],
-      "candidates": [
-        {
-          "id": "A5065428235",
-          "name": "Zachary Daniel Cohen",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5102625377",
-          "name": "Zachary Cohen",
-          "confidence": 0.63,
-          "evidence": [
-            "Full name or documented name variant",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5026085962",
-          "name": "Zachary Cohen",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5048116243",
-          "name": "Zachary Cohen",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5103080201",
-          "name": "Zachary Cohen",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
+        "The named researcher and listed ORCID agree with OpenAlex. Source: https://orcid.org/0000-0002-4883-1028"
       ]
     },
     "retrieval": {
@@ -5000,71 +4926,50 @@
         "program": "program-005",
         "role": "tenure-track",
         "current": true,
-        "start": null,
+        "start": "2019",
         "end": null,
         "affiliations": [
           "University of Arizona",
           "university of arizona"
         ],
-        "source": "https://psychology.arizona.edu/faculty/clinical"
+        "source": "https://psychology.arizona.edu/faculty/clinical",
+        "dateSource": "https://psychology.arizona.edu/news/welcome-new-faculty-fall-2019"
       }
     ],
+    "orcid": "0000-0003-3433-2516",
+    "orcidSource": "https://doi.org/10.1093/sleep/zsac117",
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5081239528"
       ],
-      "candidates": [
-        {
-          "id": "A5081239528",
-          "name": "Daniel J. Taylor",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5022959226",
-          "name": "D. Robin Taylor",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5034728624",
-          "name": "Daniel J. Taylor",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5049383935",
-          "name": "Daniel P. Taylor",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5070183545",
-          "name": "Daniel Taylor",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "The named researcher and listed ORCID agree with OpenAlex. Source: https://doi.org/10.1093/sleep/zsac117"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
-    }
+    },
+    "cv": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+    "appointmentReview": [
+      {
+        "institution": "University of North Texas",
+        "programName": "Clinical Health Psychology",
+        "start": "2013",
+        "end": "2019",
+        "source": "https://psychology.arizona.edu/sites/default/files/Taylor%20CV.pdf",
+        "note": "The CV documents direction of clinical training. University records distinguish two clinical programs and describe changes to the former degree. Confirm program continuity before attributing these papers.",
+        "programSource": "https://pahs.unt.edu/psychology/how-apply.html"
+      }
+    ]
   },
   {
     "id": "tiffany-brown",
@@ -5323,43 +5228,36 @@
         "program": "program-003",
         "role": "tenure-track",
         "current": true,
-        "start": null,
+        "start": "2026",
         "end": null,
         "affiliations": [
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/",
+        "dateSource": "https://bulletin.auburn.edu/undergraduate/faculty/"
       }
     ],
+    "orcid": "0000-0002-1379-4116",
+    "orcidSource": "https://doi.org/10.1002/jcop.22974",
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5032967143"
       ],
-      "candidates": [
-        {
-          "id": "A5032967143",
-          "name": "Daniel W. Oesterle",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5099686830",
-          "name": "Daniel A Oesterle",
-          "confidence": 0,
-          "evidence": []
-        }
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "The named researcher and listed ORCID agree with OpenAlex. Source: https://doi.org/10.1002/jcop.22974"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
