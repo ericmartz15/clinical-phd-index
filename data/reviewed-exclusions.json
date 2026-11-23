@@ -16,5 +16,143 @@
     "id": "10.1177/21677026251409757",
     "reason": "Publisher classifies this item as commentary and OpenAlex classifies it as editorial. External peer review could not be confirmed.",
     "evidence": "https://journals.sagepub.com/doi/10.1177/21677026251409757"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsae067.0806",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/47/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsaa056.176",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/43/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsae067.0969",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/47/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsaa056.396",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/43/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsaa056.1069",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/43/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsac079.323",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/45/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsad077.0148",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/46/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsae067.0943",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/47/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsae067.0421",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/47/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsae067.0397",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/47/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsae067.0926",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/47/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsae067.0349",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/47/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsad077.0652",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/46/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsac079.248",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/45/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsad077.0231",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/46/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsae067.01048",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/47/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsae067.0997",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/47/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsae067.0139",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/47/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsaa056.797",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/43/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsac079.672",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/45/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/sleep/zsad077.0329",
+    "reason": "The publisher issue identifies this numbered item as an annual-meeting abstract.",
+    "evidence": "https://academic.oup.com/sleep/issue/46/Supplement_1"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1016/j.biopsych.2025.02.170",
+    "reason": "Annual-meeting symposium or poster abstract published in a conference supplement.",
+    "evidence": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223%2825%2900268-9/abstract"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1016/j.biopsych.2023.02.598",
+    "reason": "Annual-meeting symposium or poster abstract published in a conference supplement.",
+    "evidence": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223%2823%2900672-8/abstract"
   }
 ]

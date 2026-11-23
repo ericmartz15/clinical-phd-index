@@ -10918,5 +10918,630 @@
       },
       "errors": {}
     }
+  },
+  {
+    "id": "christopher-beam",
+    "name": "Christopher Beam",
+    "aliases": [
+      "Chris Beam",
+      "Christopher R. Beam"
+    ],
+    "areas": [
+      "cognitive aging",
+      "behavior genetics",
+      "dementia"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5026476253"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5026476253",
+          "name": "Christopher R. Beam",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5126840470",
+          "name": "Christopher Beam",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5009476037",
+          "name": "Christopher Beam",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5099198748",
+          "name": "Christopher Beam",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5113098418",
+          "name": "Chris Beam",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "gerald-davison",
+    "name": "Gerald Davison",
+    "aliases": [
+      "Gerald C. Davison"
+    ],
+    "areas": [
+      "cognitive behavioral therapy",
+      "assessment",
+      "clinical decision making"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5091310405"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5091310405",
+          "name": "Gerald C. Davison",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5048185229",
+          "name": "Alfred Gerald Davison",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5052476769",
+          "name": "Gerald Lyman Davison",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "iony-ezawa",
+    "name": "Iony Ezawa",
+    "aliases": [
+      "Iony D. Ezawa"
+    ],
+    "areas": [
+      "depression",
+      "cognitive behavioral therapy",
+      "digital intervention"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5012613056"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5012613056",
+          "name": "Iony D. Ezawa",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "duke-han",
+    "name": "Duke Han",
+    "aliases": [
+      "S. Duke Han",
+      "Sang Duke Han"
+    ],
+    "areas": [
+      "neuropsychology",
+      "cognitive aging",
+      "financial decision making"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5040338005",
+          "name": "Sungwon Han",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5066733109",
+          "name": "S. Duke Han",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5084830269",
+          "name": "S. Duke Han",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5110587376",
+          "name": "Duke Han",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5124699014",
+          "name": "S. Duke Han",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "stanley-huey-jr",
+    "name": "Stanley Huey Jr.",
+    "aliases": [
+      "Stanley Huey",
+      "Stanley J. Huey Jr."
+    ],
+    "areas": [
+      "child and adolescent psychotherapy",
+      "juvenile justice",
+      "cultural adaptation"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5082587115"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5082587115",
+          "name": "Stanley J. Huey",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "katharina-kircanski",
+    "name": "Katharina Kircanski",
+    "aliases": [
+      "Kat Kircanski"
+    ],
+    "areas": [
+      "pediatric anxiety",
+      "affective neuroscience",
+      "mood disorders"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5024266925",
+          "name": "Katharina Kircanski",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "darby-saxbe",
+    "name": "Darby Saxbe",
+    "aliases": [
+      "Darby E. Saxbe"
+    ],
+    "areas": [
+      "family environments",
+      "neuroendocrinology",
+      "development"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5007506615",
+          "name": "Darby Saxbe",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5162100884",
+          "name": "Darby E. Saxbe",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "jonathan-stange",
+    "name": "Jonathan Stange",
+    "aliases": [
+      "Jonathan P. Stange"
+    ],
+    "areas": [
+      "mood disorders",
+      "suicide",
+      "ambulatory assessment"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5051388979",
+          "name": "Jonathan P. Stange",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5088062989",
+          "name": "Jonathan P. Stange",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5042225438",
+          "name": "Lisa M. Kern",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "emilio-valadez",
+    "name": "Emilio Valadez",
+    "aliases": [
+      "Emilio A. Valadez"
+    ],
+    "areas": [
+      "early adversity",
+      "anxiety",
+      "developmental neuroimaging"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": "2025",
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/",
+        "dateSource": "https://dornsife.usc.edu/profile/emilio-valadez/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5055789020",
+          "name": "Emilio A. Valadez",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5141155723",
+          "name": "Adolfo Emilio Barajas-Valadez",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5157581225",
+          "name": "Pablo Emiliano Valadez Martínez",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
   }
 ]

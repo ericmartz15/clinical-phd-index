@@ -1465,5 +1465,343 @@
       "https://orcid.org/0000-0003-3433-2516",
       "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/"
     ]
+  },
+  "aaron-fisher": {
+    "source": "https://psychology.berkeley.edu/sites/default/files/aaron_fisher_cv_7.25.26.pdf",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "title": "Beyond parametric ergodicity: a framework for structural generalizability",
+        "doi": "10.1098/rsta.2025.0159",
+        "date": "2026-11-19",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1098/rsta.2025.0159"
+      },
+      {
+        "title": "Uncovering Discrete States from Multimodal Psychophysiological Data Using Gaussian Latent Dirichlet Allocation (GLDA)",
+        "doi": "10.63562/2577-8439.1162",
+        "date": "2026-05-22",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.63562/2577-8439.1162",
+        "diagnosis": "OpenAlex has a work record with a Berkeley affiliation but no linked author ID. The CV and publisher confirm Fisher’s byline."
+      },
+      {
+        "title": "Network models of symptoms following mild traumatic brain injury: A systematic review and meta-analysis",
+        "doi": "10.1017/s1355617726101854",
+        "date": "2026-02-16",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W7129053300"
+      },
+      {
+        "title": "Feasibility and Acceptability of a Smartphone and Wearable Assessment Protocol for Adolescents with Depression",
+        "doi": "10.1007/s10802-026-01464-9",
+        "date": "2026-06-18",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s10802-026-01464-9"
+      },
+      {
+        "title": "Establishing minimally sufficient conditions reduces the complexity of symptom presentations in Diagnostic and Statistical Manual of Mental Disorders internalizing disorders.",
+        "doi": "10.1037/abn0001069",
+        "date": "2025-10-06",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4414874404"
+      },
+      {
+        "title": "What’s strength centrality got to do with it? Examining the stability of central symptoms across symptom ensembles and time in idiographic networks.",
+        "doi": "10.1037/abn0001005",
+        "date": "2025-04-10",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4409331685"
+      },
+      {
+        "title": "Group-to-individual generalizability and individual-level inferences in cognitive neuroscience",
+        "doi": "10.1016/j.neubiorev.2025.106024",
+        "date": "2025-01-30",
+        "kind": "journal",
+        "dateSource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11835466/"
+      },
+      {
+        "title": "ESM-Q: A consensus-based quality assessment tool for experience sampling method items",
+        "doi": "10.3758/s13428-025-02626-1",
+        "date": "2025-03-21",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.3758/s13428-025-02626-1"
+      },
+      {
+        "title": "Network analyses of ecological momentary emotion and avoidance assessments before and after cognitive behavioral therapy for anxiety disorders",
+        "doi": "10.1016/j.janxdis.2024.102914",
+        "date": "2024-08-13",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39153405/",
+        "diagnosis": "OpenAlex has a work record and cites the Berkeley affiliation, but leaves the author ID blank. PubMed confirms Fisher’s byline and affiliation."
+      },
+      {
+        "title": "Identifying Person-Specific Drivers of Depression in Adolescents: Protocol for a Smartphone-Based Ecological Momentary Assessment and Passive Sensing Study",
+        "doi": "10.2196/43931",
+        "date": "2024-07-16",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.2196/43931"
+      },
+      {
+        "title": "Sleep, event appraisal, and affect: An ecological momentary assessment study",
+        "doi": "10.1016/j.jad.2024.06.034",
+        "date": "2024-06-15",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4399701309"
+      },
+      {
+        "title": "Person-specific and pooled prediction models for binge eating, alcohol use and binge drinking in bulimia nervosa and alcohol use disorder",
+        "doi": "10.1017/s0033291724000862",
+        "date": "2024-05-22",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1017/s0033291724000862"
+      },
+      {
+        "title": "Implementing precision methods in personalizing psychological therapies: Barriers and possible ways forward",
+        "doi": "10.1016/j.brat.2023.104443",
+        "date": "2023-12-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4389219195"
+      },
+      {
+        "title": "Optimizing Outcomes in Psychotherapy for Anxiety Disorders Using Smartphone-Based and Passive Sensing Features: Protocol for a Randomized Controlled Trial",
+        "doi": "10.2196/42547",
+        "date": "2024-05-14",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4306961081"
+      },
+      {
+        "title": "Understanding heterogeneity, comorbidity, and variability in depression: Idiographic models and depression outcomes",
+        "doi": "10.1016/j.jad.2024.04.034",
+        "date": "2024-04-10",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4394689155"
+      },
+      {
+        "title": "Self-Efficacy Effects on Symptom Experiences in Daily Life and Early Treatment Success in Anxiety Patients",
+        "doi": "10.1177/21677026231205262",
+        "date": "2024-05-14",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4396895926"
+      },
+      {
+        "title": "Bedtime regularity predicts positive affect among veterans with posttraumatic stress disorder: an ecological momentary assessment study",
+        "doi": "10.1186/s12888-023-05373-9",
+        "date": "2023-11-22",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1186/s12888-023-05373-9"
+      },
+      {
+        "title": "Elevated emotion network connectivity is associated with fluctuations in depression",
+        "doi": "10.1073/pnas.2216499120",
+        "date": "2023-10-30",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1073/pnas.2216499120"
+      },
+      {
+        "title": "Sleep Quality Moderates the Relationship Between Daily Mean Levels and Variability of Positive Affect",
+        "doi": "10.1007/s42761-022-00177-8",
+        "date": "2023-01-20",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s42761-022-00177-8"
+      },
+      {
+        "title": "Clinician Opinions: Perceived Utility of and Barriers to Incorporating Pretreatment Ecological Momentary Assessment Into Clinical Care",
+        "doi": "10.1016/j.beth.2022.08.005",
+        "date": "2022-08-19",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4292380307"
+      },
+      {
+        "title": "Examining the Concurrent and Predictive Validity of Single Items in Ecological Momentary Assessments",
+        "doi": "10.1177/10731911221113563",
+        "date": "2022-08-24",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/10731911221113563"
+      },
+      {
+        "title": "Unsupervised clustering of autonomic temporal networks in clinically distressed and psychologically healthy individuals",
+        "doi": "10.1016/j.brat.2022.104105",
+        "date": "2022-04-30",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4225343239"
+      },
+      {
+        "title": "Identifying and predicting posttraumatic stress symptom states in adults with posttraumatic stress disorder",
+        "doi": "10.1002/jts.22857",
+        "date": "2022-07-21",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/jts.22857"
+      },
+      {
+        "title": "Characterizing symptom prominence in persistent postconcussion symptoms using random ensembles of person-specific networks.",
+        "doi": "10.1037/neu0001143",
+        "date": "2026-11-16",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/43038088/"
+      }
+    ],
+    "excluded": [
+      {
+        "doi": "10.1037/abn0001133",
+        "title": "Constructs should do work",
+        "source": "https://psychology.berkeley.edu/people/aaron-fisher",
+        "reason": "Author labels this as a reply. External peer review was not confirmed."
+      },
+      {
+        "title": "Setweaver",
+        "reason": "The CV describes an R package."
+      },
+      {
+        "title": "Daily life fluctuations in affect predict within-person changes in a real-world measure of cognitive processing speed",
+        "doi": "10.7554/elife.108521.1",
+        "source": "https://elifesciences.org/reviewed-preprints/108521",
+        "reason": "eLife lists this DOI as a reviewed preprint. A journal version of record was not confirmed at the cutoff."
+      },
+      {
+        "title": "The Hierarchical Taxonomy of Psychopathology (HiTOP) Is Not an Improvement Over the DSM",
+        "doi": "10.1177/21677026211068873",
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9596130/",
+        "reason": "Publisher calls it a short communication/commentary. External peer review was not confirmed."
+      },
+      {
+        "title": "Toward a systems-based approach to understanding the role of the sympathetic nervous system in depression",
+        "reason": "Appeared in the June 2021 issue before the window."
+      },
+      {
+        "title": "A close look at the role of time in affect dynamics research",
+        "reason": "The CV lists this as a book chapter."
+      },
+      {
+        "doi": "10.1037/adb0000666",
+        "title": "Pooled and person-specific machine learning models for predicting future alcohol consumption, craving, and wanting to drink: A demonstration of parallel utility.",
+        "date": "2021-04-22",
+        "source": "https://static1.squarespace.com/static/5c50963bec4eb720bb707354/t/645ea7198c4ba76dc24a5e17/1683924762020/Soyster_Ashlock_Fisher_2021.pdf",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.3389/fpsyg.2021.689407",
+        "title": "Negative Emotion Differentiation Predicts Psychotherapy Outcome: Preliminary Findings",
+        "date": "2021-08-02",
+        "source": "https://doi.org/10.3389/fpsyg.2021.689407",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1177/21677026211002500",
+        "title": "Folk Classification and Factor Rotations: Whales, Sharks, and the Problems With the Hierarchical Taxonomy of Psychopathology (HiTOP)",
+        "date": "2021-05-18",
+        "source": "https://doi.org/10.1177/21677026211002500",
+        "reason": "Official publication date falls outside the audit window."
+      }
+    ],
+    "supplementarySources": [
+      "https://psychology.berkeley.edu/people/aaron-fisher",
+      "https://pubmed.ncbi.nlm.nih.gov/43038088/"
+    ]
+  },
+  "bengi-baran": {
+    "source": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/Bengi-Baran-CV-Aug-2025.pdf",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "title": "NREM Sleep Oscillations Are Associated With Anxiety and Negative Affect in Young Adults",
+        "doi": "10.1111/jsr.70050",
+        "date": "2025-03-24",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1111/jsr.70050"
+      },
+      {
+        "title": "Sleep oscillations and their relations with sleep-dependent memory consolidation in early course psychosis and first-degree relatives",
+        "doi": "10.1016/j.schres.2024.10.026",
+        "date": "2024-11-07",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4404126068"
+      },
+      {
+        "title": "Age-Related Changes in Sleep and Its Implications for Cognitive Decline in Aging Persons With Schizophrenia: A Critical Review",
+        "doi": "10.1093/schbul/sbae059",
+        "date": "2024-05-07",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1093/schbul/sbae059"
+      },
+      {
+        "title": "Self-focused brain predictors of cognitive behavioral therapy response in a transdiagnostic sample",
+        "doi": "10.1016/j.jpsychires.2024.01.018",
+        "date": "2024-01-16",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38266332/"
+      },
+      {
+        "title": "Sleep spindle activity is associated with state- and trait-based emotion in healthy school-aged children",
+        "doi": "10.1016/j.sleep.2023.11.009",
+        "date": "2023-11-11",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4388591543"
+      },
+      {
+        "title": "Increased resting‐state thalamocortical functional connectivity in children and young adults with autism spectrum disorder",
+        "doi": "10.1002/aur.2875",
+        "date": "2022-12-22",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4312094502"
+      },
+      {
+        "title": "Maladaptive self-focused attention and default mode network connectivity: a transdiagnostic investigation across social anxiety and body dysmorphic disorders",
+        "doi": "10.1093/scan/nsab130",
+        "date": "2021-12-07",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1093/scan/nsab130"
+      },
+      {
+        "title": "Time Out: A Scoping Review of Non‐Duration Based Social Media Use Measures and Adolescent Mental Health",
+        "doi": "10.1002/jad.70088",
+        "date": "2025-12-19",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/jad.70088"
+      },
+      {
+        "title": "Sleep and wake markers of thalamocortical functioning in early-course psychosis and first-degree relatives",
+        "doi": "10.1038/s41537-026-00735-0",
+        "date": "2026-03-11",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W7134915089"
+      },
+      {
+        "title": "Leveraging Electronic Health Records to Understand Sleep Issues in Young Adults with Genetic Syndromes Across Rural-Urban Continuums",
+        "doi": "10.1016/j.sleep.2025.107654",
+        "date": "2026-01-29",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W7126093124"
+      }
+    ],
+    "excluded": [
+      {
+        "doi": "10.17077/rep.006664",
+        "source": "https://baran.lab.uiowa.edu/publications",
+        "reason": "The lab lists a practice brief rather than a journal article."
+      },
+      {
+        "doi": "10.17077/pp.006691",
+        "source": "https://baran.lab.uiowa.edu/publications",
+        "reason": "The lab lists a preprint. Its verified journal version is a separate publication in the reference set."
+      },
+      {
+        "source": "https://baran.lab.uiowa.edu/publications",
+        "reason": "The 2023 bioRxiv version of the early-course psychosis paper was excluded. The CV and lab both list its 2024 peer-reviewed version."
+      }
+    ],
+    "supplementarySources": [
+      "https://baran.lab.uiowa.edu/publications",
+      "https://www.nature.com/articles/s41537-026-00735-0",
+      "https://doi.org/10.1016/j.sleep.2025.107654"
+    ]
   }
 }

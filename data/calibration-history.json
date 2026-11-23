@@ -265,5 +265,44 @@
         "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
       }
     ]
+  },
+  {
+    "label": "Fisher and Baran reference checks before DOI recovery",
+    "corpusSha256": "3df0b281d552c2575cff0d2b9e469e35a44c7f50a435fc351c0c06fa1ade9af3",
+    "audited": 7,
+    "matches": 198,
+    "denominator": 201,
+    "missing": [
+      {
+        "person": "aaron-fisher",
+        "title": "Uncovering Discrete States from Multimodal Psychophysiological Data Using Gaussian Latent Dirichlet Allocation (GLDA)",
+        "doi": "10.63562/2577-8439.1162",
+        "date": "2026-05-22",
+        "reference": "https://psychology.berkeley.edu/sites/default/files/aaron_fisher_cv_7.25.26.pdf",
+        "dateSource": "https://doi.org/10.63562/2577-8439.1162",
+        "matched": false,
+        "reason": "OpenAlex has a work record with a Berkeley affiliation but no linked author ID. The CV and publisher confirm Fisher’s byline."
+      },
+      {
+        "person": "aaron-fisher",
+        "title": "Network analyses of ecological momentary emotion and avoidance assessments before and after cognitive behavioral therapy for anxiety disorders",
+        "doi": "10.1016/j.janxdis.2024.102914",
+        "date": "2024-08-13",
+        "reference": "https://psychology.berkeley.edu/sites/default/files/aaron_fisher_cv_7.25.26.pdf",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39153405/",
+        "matched": false,
+        "reason": "OpenAlex has a work record and cites the Berkeley affiliation, but leaves the author ID blank. PubMed confirms Fisher’s byline and affiliation."
+      },
+      {
+        "person": "daniel-taylor",
+        "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+        "doi": "",
+        "date": "2023-06-01",
+        "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+        "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+        "matched": false,
+        "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+      }
+    ]
   }
 ]

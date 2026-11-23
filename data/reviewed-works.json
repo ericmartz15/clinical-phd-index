@@ -895,5 +895,248 @@
       }
     ],
     "peerReview": "confirmed"
+  },
+  {
+    "title": "Uncovering Discrete States from Multimodal Psychophysiological Data Using Gaussian Latent Dirichlet Allocation (GLDA)",
+    "doi": "10.63562/2577-8439.1162",
+    "date": "2026-05-22",
+    "kind": "journal",
+    "venue": "Northeast Journal of Complex Systems",
+    "authorCount": 3,
+    "pmcid": "",
+    "people": {
+      "aaron-fisher": {
+        "position": 2,
+        "affiliations": [
+          "University of California, Berkeley"
+        ],
+        "identityNote": "The Berkeley CV and publisher byline or PubMed affiliation identify Aaron J. Fisher. OpenAlex leaves the author ID empty for this DOI."
+      }
+    },
+    "issns": [
+      "2577-8439"
+    ],
+    "topics": [
+      "Bayesian Methods and Mixture Models",
+      "Mental Health Research Topics",
+      "Advanced Clustering Algorithms Research"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-05-22",
+        "type": "published-online",
+        "source": "Publisher",
+        "url": "https://orb.binghamton.edu/nejcs/vol8/iss1/13/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7162195479",
+        "url": "https://openalex.org/W7162195479"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.63562/2577-8439.1162",
+        "url": "https://doi.org/10.63562/2577-8439.1162"
+      },
+      {
+        "source": "Publisher",
+        "id": "10.63562/2577-8439.1162",
+        "url": "https://orb.binghamton.edu/nejcs/vol8/iss1/13/"
+      },
+      {
+        "source": "CV",
+        "id": "10.63562/2577-8439.1162",
+        "url": "https://psychology.berkeley.edu/sites/default/files/aaron_fisher_cv_7.25.26.pdf"
+      }
+    ],
+    "peerReview": "inferred"
+  },
+  {
+    "title": "Network analyses of ecological momentary emotion and avoidance assessments before and after cognitive behavioral therapy for anxiety disorders",
+    "doi": "10.1016/j.janxdis.2024.102914",
+    "date": "2024-08-13",
+    "kind": "journal",
+    "venue": "Journal of Anxiety Disorders",
+    "authorCount": 10,
+    "pmcid": "",
+    "people": {
+      "aaron-fisher": {
+        "position": 9,
+        "affiliations": [
+          "University of California, Berkeley"
+        ],
+        "identityNote": "The Berkeley CV and publisher byline or PubMed affiliation identify Aaron J. Fisher. OpenAlex leaves the author ID empty for this DOI."
+      }
+    },
+    "issns": [
+      "0887-6185",
+      "1873-7897"
+    ],
+    "topics": [
+      "Mental Health Research Topics",
+      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+      "Personality Disorders and Psychopathology"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2024-08-13",
+        "type": "published-online",
+        "source": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39153405/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W4401538759",
+        "url": "https://openalex.org/W4401538759"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1016/j.janxdis.2024.102914",
+        "url": "https://doi.org/10.1016/j.janxdis.2024.102914"
+      },
+      {
+        "source": "PubMed",
+        "id": "39153405",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39153405/"
+      },
+      {
+        "source": "CV",
+        "id": "10.1016/j.janxdis.2024.102914",
+        "url": "https://psychology.berkeley.edu/sites/default/files/aaron_fisher_cv_7.25.26.pdf"
+      }
+    ],
+    "peerReview": "inferred"
+  },
+  {
+    "title": "Group-to-Individual Generalizability and Individual-Level Inferences in Cognitive Neuroscience",
+    "doi": "10.1016/j.neubiorev.2025.106024",
+    "date": "2025-01-30",
+    "kind": "journal",
+    "venue": "Neuroscience & Biobehavioral Reviews",
+    "authorCount": 5,
+    "pmcid": "11835466",
+    "people": {
+      "aaron-fisher": {
+        "position": 2,
+        "affiliations": [
+          "University of California, Berkeley"
+        ],
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "0149-7634",
+      "1873-7528"
+    ],
+    "topics": [
+      "Functional Brain Connectivity Studies",
+      "Neural and Behavioral Psychology Studies",
+      "Advanced Neuroimaging Techniques and Applications"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2025-01-30",
+        "type": "published-online",
+        "source": "PubMed",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11835466/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "PubMed",
+        "id": "39889869",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11835466/"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [],
+    "venueTier": "other",
+    "credit": [
+      {
+        "person": "aaron-fisher",
+        "program": "berkeley",
+        "current": true,
+        "fractional": 0.2,
+        "weighted": 0.14285714285714285,
+        "appointmentSource": "https://psychology.berkeley.edu/research/clinical-science"
+      }
+    ]
+  },
+  {
+    "title": "Self-Focused Brain Predictors of Cognitive Behavioral Therapy Response in a Transdiagnostic Sample",
+    "doi": "10.1016/j.jpsychires.2024.01.018",
+    "date": "2024-01-16",
+    "kind": "journal",
+    "venue": "Journal of Psychiatric Research",
+    "authorCount": 9,
+    "pmcid": "10922639",
+    "people": {
+      "bengi-baran": {
+        "position": 2,
+        "affiliations": [
+          "University of Iowa"
+        ],
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "0022-3956",
+      "1879-1379"
+    ],
+    "topics": [
+      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+      "Functional Brain Connectivity Studies",
+      "Obsessive-Compulsive Spectrum Disorders"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2024-01-16",
+        "type": "published-online",
+        "source": "PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38266332/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "PubMed",
+        "id": "38266332",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38266332/"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Anxiety and CBT",
+      "Assessment",
+      "Mood and suicide"
+    ],
+    "venueTier": "other",
+    "credit": [
+      {
+        "person": "angela-fang",
+        "program": "program-174",
+        "current": true,
+        "fractional": 0.1111111111111111,
+        "weighted": 0.18181818181818182,
+        "appointmentSource": "https://psych.uw.edu/people/faculty?area=clinical"
+      },
+      {
+        "person": "bengi-baran",
+        "program": "program-060",
+        "current": true,
+        "fractional": 0.1111111111111111,
+        "weighted": 0.09090909090909091,
+        "appointmentSource": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf"
+      }
+    ]
   }
 ]

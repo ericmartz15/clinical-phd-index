@@ -303,8 +303,11 @@ def main():
         queue.extend(row for row in read(previous / "review-queue.json", {}).get("publicationCandidates", [])
                      if row.get("person") in preserved and row not in queue)
     attribution = []
-    exclusions = {(row["source"], row["id"]) for row in read(DATA / "reviewed-exclusions.json", [])}
-    works = assign([work for work in merge(records) if not any(
+    reviewed_exclusions = read(DATA / "reviewed-exclusions.json", [])
+    exclusions = {(row["source"], row["id"]) for row in reviewed_exclusions}
+    excluded_dois = {doi_key(row["id"]) for row in reviewed_exclusions if row["source"] == "DOI"}
+    excluded_dois.discard("")
+    works = assign([work for work in merge(records) if work["doi"] not in excluded_dois and not any(
         (source["source"], source.get("id")) in exclusions for source in work["provenance"]
     )], faculty, venues, attribution)
     calibration = read(args.calibration_report, {}) if args.calibration_report else {}
