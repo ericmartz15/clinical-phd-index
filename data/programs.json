@@ -9164,7 +9164,44 @@
     },
     "programmeAliases": [],
     "programUrl": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology.html",
-    "degreeSource": "https://www.dal.ca/study/programs/graduate-professional/clinical-psychology-phd.html"
+    "degreeSource": "https://www.dal.ca/study/programs/graduate-professional/clinical-psychology-phd.html",
+    "rosterUrl": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-23",
+      "scope": "Research faculty on the Clinical Psychology program roster checked against the departmental appointment directory. The instructor stream is listed separately in the review evidence.",
+      "sources": [
+        "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "https://www.dal.ca/faculty/science/psychology_neuroscience/news%26events/2026/06/29/dr__ellen_jopling_joins_dalhousie_with_banting_discovery_award.html",
+        "https://medicine.dal.ca/departments/department-sites/psychiatry/our-people/faculty/sherry-stewart.html"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Alissa Pencer",
+          "label": "Instructor stream",
+          "reason": "The clinical roster explicitly identifies the instructor stream for this person.",
+          "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html"
+        },
+        {
+          "name": "Cheryl Aubie",
+          "label": "Instructor stream",
+          "reason": "The clinical roster explicitly identifies the instructor stream for this person.",
+          "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html"
+        },
+        {
+          "name": "Meghan Rossi",
+          "label": "Instructor stream",
+          "reason": "The clinical roster explicitly identifies the instructor stream for this person.",
+          "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html"
+        },
+        {
+          "name": "Natalie Stratton",
+          "label": "Instructor stream",
+          "reason": "The clinical roster explicitly identifies the instructor stream for this person.",
+          "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html"
+        }
+      ]
+    }
   },
   {
     "id": "lakehead-university",
@@ -9323,7 +9360,25 @@
       }
     },
     "programmeAliases": [],
-    "programUrl": "https://www.sfu.ca/psychology/graduate/clinical-psychology-program.html"
+    "programUrl": "https://www.sfu.ca/psychology/graduate/clinical-psychology-program.html",
+    "rosterUrl": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-23",
+      "scope": "The Clinical Science Area Faculty roster is reconciled with the Clinical Psychology program faculty page and the departmental appointments directory. Current named appointments on leave are included.",
+      "sources": [
+        "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "https://www.sfu.ca/psychology/graduate/clinical-psychology-program/clinical-faculty.html"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Rachel Fouladi",
+          "label": "Associate faculty",
+          "reason": "The Clinical Science area lists a separate Associate Faculty appointment.",
+          "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html"
+        }
+      ]
+    }
   },
   {
     "id": "universite-laval-doctorat-en-psychologie-recherche-et-interven",

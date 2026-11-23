@@ -4236,5 +4236,546 @@
         "dateSource": "https://dornsife.usc.edu/profile/emilio-valadez/"
       }
     ]
+  },
+  {
+    "id": "natalie-rosen",
+    "name": "Natalie Rosen",
+    "aliases": [
+      "Natalie O. Rosen"
+    ],
+    "areas": [
+      "sexual health",
+      "couples",
+      "pain"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shannon-johnson",
+    "name": "Shannon Johnson",
+    "aliases": [
+      "Shannon A. Johnson"
+    ],
+    "areas": [
+      "neuropsychology",
+      "attention",
+      "neurodevelopment"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christine-chambers",
+    "name": "Christine Chambers",
+    "aliases": [
+      "Christine T. Chambers"
+    ],
+    "areas": [
+      "pediatric pain",
+      "knowledge translation",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "penny-corkum",
+    "name": "Penny Corkum",
+    "aliases": [
+      "Penny V. Corkum"
+    ],
+    "areas": [
+      "pediatric sleep",
+      "attention",
+      "digital interventions"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ellen-jopling",
+    "name": "Ellen Jopling",
+    "aliases": [
+      "Ellen N. Jopling"
+    ],
+    "areas": [
+      "developmental psychopathology",
+      "early adversity",
+      "stress"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": "2026-07-01",
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ],
+        "dateSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/news%26events/2026/06/29/dr__ellen_jopling_joins_dalhousie_with_banting_discovery_award.html"
+      }
+    ]
+  },
+  {
+    "id": "simon-sherry",
+    "name": "Simon Sherry",
+    "aliases": [
+      "Simon B. Sherry"
+    ],
+    "areas": [
+      "perfectionism",
+      "depression",
+      "eating disorders"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sherry-stewart",
+    "name": "Sherry Stewart",
+    "aliases": [
+      "Sherry H. Stewart"
+    ],
+    "areas": [
+      "addiction",
+      "anxiety",
+      "trauma"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://medicine.dal.ca/departments/department-sites/psychiatry/our-people/faculty/sherry-stewart.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "molly-cairncross",
+    "name": "Molly Cairncross",
+    "aliases": [
+      "Molly B. Cairncross"
+    ],
+    "areas": [
+      "concussion",
+      "neuropsychology",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alexander-chapman",
+    "name": "Alexander Chapman",
+    "aliases": [
+      "Alex Chapman",
+      "Alexander L. Chapman"
+    ],
+    "areas": [
+      "borderline personality disorder",
+      "emotion regulation",
+      "self-injury"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rebecca-cobb",
+    "name": "Rebecca Cobb",
+    "aliases": [
+      "Rebecca J. Cobb"
+    ],
+    "areas": [
+      "couples",
+      "relationships",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "david-cox",
+    "name": "David Cox",
+    "aliases": [
+      "David N. Cox"
+    ],
+    "areas": [
+      "clinical assessment",
+      "psychotherapy",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kevin-douglas",
+    "name": "Kevin Douglas",
+    "aliases": [
+      "Kevin S. Douglas"
+    ],
+    "areas": [
+      "forensic psychology",
+      "violence risk",
+      "psychopathy"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stephen-hart",
+    "name": "Stephen Hart",
+    "aliases": [
+      "Steve Hart",
+      "Stephen D. Hart"
+    ],
+    "areas": [
+      "forensic psychology",
+      "violence risk",
+      "psychopathy"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grace-iarocci",
+    "name": "Grace Iarocci",
+    "aliases": [],
+    "areas": [
+      "autism",
+      "development",
+      "child psychology"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "marlene-moretti",
+    "name": "Marlene Moretti",
+    "aliases": [
+      "Marlene M. Moretti"
+    ],
+    "areas": [
+      "developmental psychopathology",
+      "attachment",
+      "adolescent mental health"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "angelina-polsinelli",
+    "name": "Angelina Polsinelli",
+    "aliases": [
+      "Angelina J. Polsinelli"
+    ],
+    "areas": [
+      "neuropsychology",
+      "dementia",
+      "informal caregiving"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "allen-thornton",
+    "name": "Allen Thornton",
+    "aliases": [
+      "Allen E. Thornton"
+    ],
+    "areas": [
+      "neuropsychology",
+      "cognitive assessment",
+      "brain health"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wendy-thornton",
+    "name": "Wendy Thornton",
+    "aliases": [
+      "Wendy L. Thornton"
+    ],
+    "areas": [
+      "neuropsychology",
+      "aging",
+      "cognition"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shannon-zaitsoff",
+    "name": "Shannon Zaitsoff",
+    "aliases": [
+      "Shannon L. Zaitsoff"
+    ],
+    "areas": [
+      "eating disorders",
+      "adolescent mental health",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alicia-nijdam-jones",
+    "name": "Alicia Nijdam-Jones",
+    "aliases": [
+      "Alicia H. Nijdam-Jones"
+    ],
+    "areas": [
+      "forensic assessment",
+      "cultural safety",
+      "psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ]
   }
 ]
