@@ -2386,5 +2386,148 @@
       "https://pubmed.ncbi.nlm.nih.gov/42385266"
     ],
     "note": "The full CV supplied the reference list through June 20, 2026. PubMed supplemented the remainder of the fixed window using a verified author name and affiliation. Printed DOI transcription errors were resolved against publisher records."
+  },
+  "allison-kelly": {
+    "source": "https://uwaterloo.ca/self-attitudes-lab/publications",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "title": "How do peer displays of self-compassion affect personal self-compassion 2–4 days later?: An experimental study of college women",
+        "doi": "10.1016/j.paid.2026.113896",
+        "date": "2026-05-23",
+        "dateSource": "https://openalex.org/W7162201277",
+        "kind": "journal"
+      },
+      {
+        "title": "The Impact of Calorie Menu Labeling on Disordered Eating and Related Psychosocial Outcomes: A Longitudinal Study Among Young Adults in Canada",
+        "doi": "10.1016/j.amepre.2026.108296",
+        "date": "2026-02-05",
+        "dateSource": "https://openalex.org/W7128035037",
+        "kind": "journal"
+      },
+      {
+        "title": "Self‐compassion promotes social safeness in patients with eating disorders: A 12‐week longitudinal study",
+        "doi": "10.1111/bjc.12542",
+        "date": "2025-03-31",
+        "dateSource": "https://doi.org/10.1111/bjc.12542",
+        "kind": "journal"
+      },
+      {
+        "title": "Self-compassion promotes positive mental health in women with anorexia nervosa: A two-week daily diary study",
+        "doi": "10.1080/10640266.2024.2346373",
+        "date": "2024-04-28",
+        "dateSource": "https://doi.org/10.1080/10640266.2024.2346373",
+        "kind": "journal"
+      },
+      {
+        "title": "How Exposure to Personal Distress With and Without Self-compassion Affects Distress Tolerance: Results from a Two-Sample Randomized Trial",
+        "doi": "10.1007/s12671-024-02312-x",
+        "date": "2024-02-28",
+        "dateSource": "https://openalex.org/W4392236772",
+        "kind": "journal"
+      },
+      {
+        "title": "The whole is more than the sum of its parts: A qualitative investigation of body-dissatisfied college women’s experiences of relational body image",
+        "doi": "10.1016/j.bodyim.2023.05.009",
+        "date": "2023-06-19",
+        "dateSource": "https://openalex.org/W4381191485",
+        "kind": "journal"
+      },
+      {
+        "title": "Collaborative care in eating disorders treatment: exploring the role of clinician distress, self-compassion, and compassion for others",
+        "doi": "10.1186/s40337-023-00741-y",
+        "date": "2023-04-06",
+        "dateSource": "https://doi.org/10.1186/s40337-023-00741-y",
+        "kind": "journal"
+      },
+      {
+        "title": "A daily diary study of self-compassion and adaptive coping behaviours in women with symptoms of bulimia nervosa",
+        "doi": "10.1186/s40337-023-00755-6",
+        "date": "2023-03-27",
+        "dateSource": "https://doi.org/10.1186/s40337-023-00755-6",
+        "kind": "journal"
+      },
+      {
+        "title": "Improvements in Compassion and Fears of Compassion throughout the COVID-19 Pandemic: A Multinational Study",
+        "doi": "10.3390/ijerph20031845",
+        "date": "2023-01-19",
+        "dateSource": "https://doi.org/10.3390/ijerph20031845",
+        "kind": "journal"
+      },
+      {
+        "title": "Individual differences in relational body image: Within-person variability predicts maladaptive trait body image",
+        "doi": "10.1016/j.bodyim.2022.08.005",
+        "date": "2022-08-24",
+        "dateSource": "https://openalex.org/W4293010886",
+        "kind": "journal"
+      },
+      {
+        "title": "Self-compassion and its barriers: predicting outcomes from inpatient and residential eating disorders treatment",
+        "doi": "10.1186/s40337-022-00640-8",
+        "date": "2022-08-06",
+        "dateSource": "https://doi.org/10.1186/s40337-022-00640-8",
+        "kind": "journal"
+      },
+      {
+        "title": "Adaptive body image can be contagious: An examination of college women facing situational body image threats",
+        "doi": "10.1016/j.bodyim.2022.06.008",
+        "date": "2022-07-06",
+        "dateSource": "https://openalex.org/W4284991776",
+        "kind": "journal"
+      },
+      {
+        "title": "Compassion Protects Mental Health and Social Safeness During the COVID-19 Pandemic Across 21 Countries",
+        "doi": "10.1007/s12671-021-01822-2",
+        "date": "2022-01-04",
+        "dateSource": "https://doi.org/10.1007/s12671-021-01822-2",
+        "kind": "journal"
+      },
+      {
+        "title": "The role of social connection on the experience of COVID-19 related post-traumatic growth and stress",
+        "doi": "10.1371/journal.pone.0261384",
+        "date": "2021-12-15",
+        "dateSource": "https://doi.org/10.1371/journal.pone.0261384",
+        "kind": "journal"
+      }
+    ],
+    "excluded": [
+      {
+        "doi": "10.1002/eat.24224",
+        "title": "The ups and downs of self‐criticism and disordered eating: Complementing Paranjothy and Wade's (2024) analysis by considering both trait and state perspectives",
+        "source": "https://onlinelibrary.wiley.com/doi/10.1002/eat.24224",
+        "reason": "The publisher labels this a commentary. External peer review was not confirmed."
+      },
+      {
+        "doi": "10.1002/eat.23533",
+        "date": "2021-05-17",
+        "title": "A two‐week daily diary study examining the association between daily self‐compassion and symptoms of bulimia nervosa",
+        "source": "https://doi.org/10.1002/eat.23533",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1002/cpp.2601",
+        "date": "2021-05-15",
+        "title": "Fears of compassion magnify the harmful effects of threat of COVID‐19 on mental health and social safeness across 21 countries",
+        "source": "https://doi.org/10.1002/cpp.2601",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1111/bjc.12275",
+        "date": "2020-12-26",
+        "title": "Why would I want to be more self‐compassionate? A qualitative study of the pros and cons to cultivating self‐compassion in individuals with anorexia nervosa",
+        "source": "https://doi.org/10.1111/bjc.12275",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.4324/9781003035879",
+        "title": "Compassion Focused Therapy",
+        "source": "https://doi.org/10.4324/9781003035879",
+        "reason": "Crossref registers the DOI as a book."
+      }
+    ]
   }
 }

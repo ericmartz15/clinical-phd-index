@@ -154,5 +154,11 @@
     "id": "10.1016/j.biopsych.2023.02.598",
     "reason": "Annual-meeting symposium or poster abstract published in a conference supplement.",
     "evidence": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223%2823%2900672-8/abstract"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1002/eat.24224",
+    "reason": "Publisher labels this item a commentary. External peer review was not confirmed.",
+    "evidence": "https://onlinelibrary.wiley.com/doi/10.1002/eat.24224"
   }
 ]

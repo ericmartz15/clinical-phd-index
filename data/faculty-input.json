@@ -356,14 +356,15 @@
       {
         "program": "yale",
         "role": "tenure-track",
-        "start": null,
+        "start": "2014",
         "end": null,
         "current": true,
         "affiliations": [
           "Yale University",
           "yale university"
         ],
-        "source": "https://psychology.yale.edu/research/clinical-psychology"
+        "source": "https://psychology.yale.edu/research/clinical-psychology",
+        "dateSource": "https://modlab.yale.edu/resource/download/46"
       }
     ],
     "orcid": "0000-0001-6773-0508",
@@ -934,7 +935,7 @@
       {
         "program": "university-of-waterloo",
         "role": "tenure-track",
-        "start": null,
+        "start": "2012",
         "end": null,
         "current": true,
         "affiliations": [
@@ -960,7 +961,7 @@
       {
         "program": "university-of-waterloo",
         "role": "tenure-track",
-        "start": null,
+        "start": "2011",
         "end": null,
         "current": true,
         "affiliations": [
@@ -988,7 +989,7 @@
       {
         "program": "university-of-waterloo",
         "role": "tenure-track",
-        "start": null,
+        "start": "2006",
         "end": null,
         "current": true,
         "affiliations": [
@@ -1017,7 +1018,7 @@
       {
         "program": "university-of-waterloo",
         "role": "tenure-track",
-        "start": null,
+        "start": "2007",
         "end": null,
         "current": true,
         "affiliations": [
@@ -1045,7 +1046,7 @@
       {
         "program": "university-of-waterloo",
         "role": "tenure-track",
-        "start": null,
+        "start": "1997",
         "end": null,
         "current": true,
         "affiliations": [
@@ -1073,7 +1074,7 @@
       {
         "program": "university-of-waterloo",
         "role": "tenure-track",
-        "start": null,
+        "start": "1997",
         "end": null,
         "current": true,
         "affiliations": [
@@ -1101,7 +1102,7 @@
       {
         "program": "university-of-waterloo",
         "role": "tenure-track",
-        "start": null,
+        "start": "2007",
         "end": null,
         "current": true,
         "affiliations": [

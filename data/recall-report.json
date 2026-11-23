@@ -62,7 +62,7 @@
     "john-ruiz",
     "mark-chen"
   ],
-  "audited": 8,
+  "audited": 9,
   "unavailable": [
     "lara-ray",
     "vickie-m-mays",
@@ -98,7 +98,6 @@
     "lauren-c-ng",
     "stephen-hinshaw",
     "tera-fazzino",
-    "allison-kelly",
     "jessica-powers",
     "vijay-mittal",
     "lee-ryan",
@@ -107,10 +106,10 @@
     "sheri-johnson",
     "john-ruiz"
   ],
-  "matches": 263,
-  "denominator": 264,
+  "matches": 277,
+  "denominator": 278,
   "recall": null,
-  "diagnosticRecall": 0.9962121212121212,
+  "diagnosticRecall": 0.9964028776978417,
   "interval": null,
   "targetMet": false,
   "missing": [
@@ -2107,6 +2106,132 @@
       "matched": true
     },
     {
+      "person": "allison-kelly",
+      "title": "How do peer displays of self-compassion affect personal self-compassion 2–4 days later?: An experimental study of college women",
+      "doi": "10.1016/j.paid.2026.113896",
+      "date": "2026-05-23",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://openalex.org/W7162201277",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "The Impact of Calorie Menu Labeling on Disordered Eating and Related Psychosocial Outcomes: A Longitudinal Study Among Young Adults in Canada",
+      "doi": "10.1016/j.amepre.2026.108296",
+      "date": "2026-02-05",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://openalex.org/W7128035037",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "Self‐compassion promotes social safeness in patients with eating disorders: A 12‐week longitudinal study",
+      "doi": "10.1111/bjc.12542",
+      "date": "2025-03-31",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://doi.org/10.1111/bjc.12542",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "Self-compassion promotes positive mental health in women with anorexia nervosa: A two-week daily diary study",
+      "doi": "10.1080/10640266.2024.2346373",
+      "date": "2024-04-28",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://doi.org/10.1080/10640266.2024.2346373",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "How Exposure to Personal Distress With and Without Self-compassion Affects Distress Tolerance: Results from a Two-Sample Randomized Trial",
+      "doi": "10.1007/s12671-024-02312-x",
+      "date": "2024-02-28",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://openalex.org/W4392236772",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "The whole is more than the sum of its parts: A qualitative investigation of body-dissatisfied college women’s experiences of relational body image",
+      "doi": "10.1016/j.bodyim.2023.05.009",
+      "date": "2023-06-19",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://openalex.org/W4381191485",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "Collaborative care in eating disorders treatment: exploring the role of clinician distress, self-compassion, and compassion for others",
+      "doi": "10.1186/s40337-023-00741-y",
+      "date": "2023-04-06",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://doi.org/10.1186/s40337-023-00741-y",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "A daily diary study of self-compassion and adaptive coping behaviours in women with symptoms of bulimia nervosa",
+      "doi": "10.1186/s40337-023-00755-6",
+      "date": "2023-03-27",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://doi.org/10.1186/s40337-023-00755-6",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "Improvements in Compassion and Fears of Compassion throughout the COVID-19 Pandemic: A Multinational Study",
+      "doi": "10.3390/ijerph20031845",
+      "date": "2023-01-19",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://doi.org/10.3390/ijerph20031845",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "Individual differences in relational body image: Within-person variability predicts maladaptive trait body image",
+      "doi": "10.1016/j.bodyim.2022.08.005",
+      "date": "2022-08-24",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://openalex.org/W4293010886",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "Self-compassion and its barriers: predicting outcomes from inpatient and residential eating disorders treatment",
+      "doi": "10.1186/s40337-022-00640-8",
+      "date": "2022-08-06",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://doi.org/10.1186/s40337-022-00640-8",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "Adaptive body image can be contagious: An examination of college women facing situational body image threats",
+      "doi": "10.1016/j.bodyim.2022.06.008",
+      "date": "2022-07-06",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://openalex.org/W4284991776",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "Compassion Protects Mental Health and Social Safeness During the COVID-19 Pandemic Across 21 Countries",
+      "doi": "10.1007/s12671-021-01822-2",
+      "date": "2022-01-04",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://doi.org/10.1007/s12671-021-01822-2",
+      "matched": true
+    },
+    {
+      "person": "allison-kelly",
+      "title": "The role of social connection on the experience of COVID-19 related post-traumatic growth and stress",
+      "doi": "10.1371/journal.pone.0261384",
+      "date": "2021-12-15",
+      "reference": "https://uwaterloo.ca/self-attitudes-lab/publications",
+      "dateSource": "https://doi.org/10.1371/journal.pone.0261384",
+      "matched": true
+    },
+    {
       "person": "mark-chen",
       "title": "Depression Symptom Network Reorganization Under Internet-Based Emotion Regulation Intervention: Evidence From a Large Real-World Cohort",
       "doi": "10.1037/amp0001798",
@@ -2871,7 +2996,7 @@
       ]
     }
   ],
-  "corpusSha256": "513f176d4151d33bee9656255d4a330bd6747959853d8fbbfbce59fc7c1ab97b",
+  "corpusSha256": "a7eb9e75c86e50def532300f312f877aed2a433127d419cd03cafc7b9ff81380",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",

@@ -275581,7 +275581,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "allison-kelly",
+        "program": "university-of-waterloo",
+        "current": true,
+        "fractional": 0.5,
+        "weighted": 0.5,
+        "appointmentSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "A two‐week daily diary study examining the association between daily self‐compassion and symptoms of bulimia nervosa",
@@ -276392,67 +276401,6 @@
     ]
   },
   {
-    "title": "The ups and downs of self‐criticism and disordered eating: Complementing Paranjothy and Wade's (2024) analysis by considering both trait and state perspectives",
-    "doi": "10.1002/eat.24224",
-    "date": "2024-05-03",
-    "kind": "journal",
-    "venue": "International Journal of Eating Disorders",
-    "authorCount": 3,
-    "pmcid": "",
-    "people": {
-      "allison-kelly": {
-        "position": 1,
-        "affiliations": [
-          "University of Waterloo"
-        ],
-        "coFirst": [],
-        "coLast": []
-      }
-    },
-    "issns": [
-      "0276-3478",
-      "1098-108X"
-    ],
-    "topics": [
-      "Eating Disorders and Behaviors",
-      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
-      "Nutrition, Health and Food Behavior"
-    ],
-    "evidenceDates": [
-      {
-        "date": "2024-05-03",
-        "source": "OpenAlex",
-        "type": "publication"
-      }
-    ],
-    "provenance": [
-      {
-        "source": "OpenAlex",
-        "id": "W4396641581",
-        "url": "https://openalex.org/W4396641581"
-      }
-    ],
-    "peerReview": "inferred",
-    "linkedDois": [],
-    "databaseMissing": false,
-    "subfields": [
-      "Anxiety and CBT",
-      "Assessment",
-      "Mood and suicide"
-    ],
-    "venueTier": "other",
-    "credit": [
-      {
-        "person": "allison-kelly",
-        "program": "university-of-waterloo",
-        "current": true,
-        "fractional": 0.3333333333333333,
-        "weighted": 0.4,
-        "appointmentSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
-      }
-    ]
-  },
-  {
     "title": "The Impact of Calorie Menu Labeling on Disordered Eating and Related Psychosocial Outcomes: A Longitudinal Study Among Young Adults in Canada",
     "doi": "10.1016/j.amepre.2026.108296",
     "date": "2026-02-05",
@@ -276734,7 +276682,16 @@
       "Child and adolescent"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "tara-mcauley",
+        "program": "university-of-waterloo",
+        "current": true,
+        "fractional": 0.3333333333333333,
+        "weighted": 0.4,
+        "appointmentSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Hospital-Based Modified Cogmed Working Memory Training for Youth With ADHD",
@@ -277016,7 +276973,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "tara-mcauley",
+        "program": "university-of-waterloo",
+        "current": true,
+        "fractional": 0.5,
+        "weighted": 0.5,
+        "appointmentSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Global executive dysfunction, not core executive skills, mediate the relationship between adversity exposure and later health in undergraduate students",
@@ -279161,7 +279127,16 @@
       "Anxiety and CBT"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "david-moscovitch",
+        "program": "university-of-waterloo",
+        "current": true,
+        "fractional": 0.5,
+        "weighted": 0.5,
+        "appointmentSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Imagery Rescripting of Painful Memories in Social Anxiety Disorder: A Qualitative Analysis of Needs Fulfillment and Memory Updating",
@@ -279583,7 +279558,16 @@
       "Mood and suicide"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "david-moscovitch",
+        "program": "university-of-waterloo",
+        "current": true,
+        "fractional": 0.2,
+        "weighted": 0.14285714285714285,
+        "appointmentSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Social Anxiety and the Generation of Positivity During Dyadic Interaction: Curiosity and Authenticity Are the Keys to Success",
@@ -279939,7 +279923,16 @@
       "Mood and suicide"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "david-moscovitch",
+        "program": "university-of-waterloo",
+        "current": true,
+        "fractional": 0.25,
+        "weighted": 0.3333333333333333,
+        "appointmentSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Pathways from adversity to wisdom",
@@ -279982,7 +279975,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "david-moscovitch",
+        "program": "university-of-waterloo",
+        "current": true,
+        "fractional": 0.3333333333333333,
+        "weighted": 0.4,
+        "appointmentSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "None the wiser: Year-long longitudinal study on effects of adversity on wisdom",
@@ -280025,7 +280027,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "david-moscovitch",
+        "program": "university-of-waterloo",
+        "current": true,
+        "fractional": 0.25,
+        "weighted": 0.16666666666666666,
+        "appointmentSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Effects of Imagery Rescripting on Trait Anxiety and Core Beliefs: A Pilot Study Comparing the Current Self and a Supportive Other as Intervening Agents",
@@ -281435,7 +281446,16 @@
       "Child and adolescent"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "elizabeth-nilsen",
+        "program": "university-of-waterloo",
+        "current": true,
+        "fractional": 0.3333333333333333,
+        "weighted": 0.2,
+        "appointmentSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Children’s endorsement of prosocial lies according to content and recipient knowledge",
@@ -309029,7 +309049,16 @@
       "Psychosis"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.01,
+        "weighted": 0.0,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Early Life Stress Predicts Depressive Symptoms in Adolescents During the COVID-19 Pandemic: The Mediating Role of Perceived Stress",
@@ -404856,7 +404885,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.01,
+        "weighted": 0.0,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Understanding positive emotion deficits in depression: From emotion preferences to emotion regulation",
@@ -405882,7 +405920,16 @@
       "Assessment"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.045454545454545456,
+        "weighted": 0.041666666666666664,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Rates of Incidental Findings in Brain Magnetic Resonance Imaging in Children",
@@ -408461,7 +408508,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "top",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.5,
+        "weighted": 0.5,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Aggressive Realism: More Efficient Processing of Anger in Physically Aggressive Individuals",
@@ -408678,7 +408734,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.5,
+        "weighted": 0.5,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "The Role of Exposure to Violence and Psychopathy on Violent Crime Perpetration",
@@ -409522,7 +409587,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.2,
+        "weighted": 0.2857142857142857,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Distrust Moderates the Effect of Deviant Peer Affiliation on Increased Externalizing in Adolescents",
@@ -410091,7 +410165,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.5,
+        "weighted": 0.5,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Living in a Disadvantaged Neighborhood Affects Neural Processing of Facial Trustworthiness",
@@ -410674,7 +410757,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.16666666666666666,
+        "weighted": 0.25,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Preprint: Emotion-modulated startle in psychopathy: Clarifying familiar effects",
@@ -410723,7 +410815,16 @@
       "Mood and suicide"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.3333333333333333,
+        "weighted": 0.4,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Preprint: Characterizing the Anomalous Cognition-Emotion Interactions in Externalizing",
@@ -410773,7 +410874,16 @@
       "Mood and suicide"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.16666666666666666,
+        "weighted": 0.25,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Preprint: Altering the Cognitive-Affective Dysfunctions of Psychopathic and Externalizing Offender Subtypes with Cognitive Remediation",
@@ -410877,7 +410987,16 @@
       "Mood and suicide"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.125,
+        "weighted": 0.1,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Preprint: Differential effects of psychopathy and antisocial personality disorder symptoms on cognitive and fear processing in female offenders",
@@ -410922,7 +411041,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.2,
+        "weighted": 0.14285714285714285,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Preprint: Psychopathy-Related Differences in Selective Attention Are Captured by an Early Event-Related Potential",
@@ -410967,7 +411095,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.25,
+        "weighted": 0.3333333333333333,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Preprint: The impact of cognitive control, incentives, and working memory load on the P3 responses of externalizing prisoners",
@@ -411014,7 +411151,16 @@
       "Psychosis"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.16666666666666666,
+        "weighted": 0.25,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "19.2 Neuroscientific and Psychological Evidence for Understanding Youthful Offending",
@@ -411177,7 +411323,16 @@
     "databaseMissing": false,
     "subfields": [],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.2,
+        "weighted": 0.14285714285714285,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Comparing descriptive and theoretical models of decision-making under uncertainty and their relation to socioeconomic factors",
@@ -411685,7 +411840,16 @@
       "Child and adolescent"
     ],
     "venueTier": "other",
-    "credit": []
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.3333333333333333,
+        "weighted": 0.4,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   },
   {
     "title": "Bioethics and medical oversight in multi-site observational neuroimaging studies with children and adolescents: 10 years of ABCD experience",
@@ -411886,6 +412050,14 @@
     ],
     "venueTier": "other",
     "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.25,
+        "weighted": 0.16666666666666666,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      },
       {
         "person": "dylan-gee",
         "program": "yale",
