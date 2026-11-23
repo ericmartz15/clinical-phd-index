@@ -3687,5 +3687,307 @@
         "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
       }
     ]
+  },
+  {
+    "id": "gary-bennett",
+    "name": "Gary Bennett",
+    "aliases": [
+      "Gary G. Bennett"
+    ],
+    "areas": [
+      "obesity",
+      "health disparities",
+      "digital interventions"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/gary.bennett"
+      }
+    ]
+  },
+  {
+    "id": "melanie-bonner",
+    "name": "Melanie Bonner",
+    "aliases": [
+      "Melanie Jean Bonner",
+      "Melanie J. Bonner"
+    ],
+    "areas": [
+      "pediatric neuropsychology",
+      "child health",
+      "cognitive interventions"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/melanie.bonner"
+      }
+    ],
+    "orcid": "0009-0002-8015-364X",
+    "orcidSource": "https://scholars.duke.edu/person/melanie.bonner"
+  },
+  {
+    "id": "karen-appleyard-carmody",
+    "name": "Karen Appleyard Carmody",
+    "aliases": [
+      "Karen Appleyard",
+      "Karen A. Carmody"
+    ],
+    "areas": [
+      "early childhood",
+      "trauma",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/karen.appleyard"
+      }
+    ]
+  },
+  {
+    "id": "avshalom-caspi",
+    "name": "Avshalom Caspi",
+    "aliases": [
+      "A. Caspi"
+    ],
+    "areas": [
+      "developmental psychopathology",
+      "genetics",
+      "mental health"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/avshalom.caspi"
+      }
+    ]
+  },
+  {
+    "id": "david-goldston",
+    "name": "David Goldston",
+    "aliases": [
+      "David B. Goldston"
+    ],
+    "areas": [
+      "suicide prevention",
+      "adolescent mental health",
+      "substance use"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/david.goldston"
+      }
+    ]
+  },
+  {
+    "id": "terrie-moffitt",
+    "name": "Terrie Moffitt",
+    "aliases": [
+      "Terrie E. Moffitt"
+    ],
+    "areas": [
+      "developmental psychopathology",
+      "antisocial behavior",
+      "aging"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/terrie.moffitt"
+      }
+    ]
+  },
+  {
+    "id": "eve-puffer",
+    "name": "Eve Puffer",
+    "aliases": [
+      "Eve S. Puffer"
+    ],
+    "areas": [
+      "global mental health",
+      "parenting",
+      "implementation"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/eve.puffer"
+      }
+    ]
+  },
+  {
+    "id": "zachary-rosenthal",
+    "name": "Zachary Rosenthal",
+    "aliases": [
+      "Mark Zachary Rosenthal",
+      "M. Zachary Rosenthal"
+    ],
+    "areas": [
+      "misophonia",
+      "emotion regulation",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/rosen025"
+      }
+    ]
+  },
+  {
+    "id": "moria-smoski",
+    "name": "Moria Smoski",
+    "aliases": [
+      "Moria J. Smoski"
+    ],
+    "areas": [
+      "depression",
+      "emotion regulation",
+      "interventions"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/moria.smoski"
+      }
+    ]
+  },
+  {
+    "id": "timothy-strauman",
+    "name": "Timothy Strauman",
+    "aliases": [
+      "Timothy J. Strauman"
+    ],
+    "areas": [
+      "depression",
+      "self-regulation",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/tjstraum"
+      }
+    ]
+  },
+  {
+    "id": "nancy-zucker",
+    "name": "Nancy Zucker",
+    "aliases": [
+      "Nancy L. Zucker"
+    ],
+    "areas": [
+      "eating disorders",
+      "interoception",
+      "pediatric mental health"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/zucke001"
+      }
+    ]
   }
 ]

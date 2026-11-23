@@ -5610,7 +5610,33 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-23",
+      "scope": "Duke’s Clinical Psychology PhD Area Faculty list, reconciled against current Scholars@Duke appointment profiles. Clinical training-track appointment dates remain under review.",
+      "sources": [
+        "https://scholars.duke.edu/person/gary.bennett",
+        "https://scholars.duke.edu/person/melanie.bonner",
+        "https://scholars.duke.edu/person/karen.appleyard",
+        "https://scholars.duke.edu/person/avshalom.caspi",
+        "https://scholars.duke.edu/person/david.goldston",
+        "https://scholars.duke.edu/person/terrie.moffitt",
+        "https://scholars.duke.edu/person/eve.puffer",
+        "https://scholars.duke.edu/person/rosen025",
+        "https://scholars.duke.edu/person/moria.smoski",
+        "https://scholars.duke.edu/person/tjstraum",
+        "https://scholars.duke.edu/person/zucke001"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Francis Keefe",
+          "label": "Emeritus",
+          "reason": "University appointment profile lists current emeritus status. Historical clinical affiliation remains under review.",
+          "source": "https://scholars.duke.edu/person/keefe003"
+        }
+      ]
+    }
   },
   {
     "id": "program-121",
