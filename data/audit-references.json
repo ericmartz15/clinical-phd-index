@@ -2529,5 +2529,563 @@
         "reason": "Crossref registers the DOI as a book."
       }
     ]
+  },
+  "arielle-baskin-sommers": {
+    "source": "https://modlab.yale.edu/publications",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "title": "Bioethics and medical oversight in multi-site observational neuroimaging studies with children and adolescents: 10 years of ABCD experience",
+        "doi": "10.1016/j.dcn.2026.101784",
+        "date": "2026-07-23",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42570410/",
+        "kind": "journal"
+      },
+      {
+        "title": "Distinct Representations of Irrelevant Emotional Information in the Visual Network Are Associated With Psychopathology in Youth",
+        "doi": "10.1016/j.bpsgos.2026.100799",
+        "date": "2026-07-29",
+        "dateSource": "https://doi.org/10.1016/j.bpsgos.2026.100799",
+        "kind": "journal"
+      },
+      {
+        "title": "Regular substance use relates to cost sensitivity during cost-benefit decision-making in stable and volatile learning contexts",
+        "doi": "10.1038/s41598-026-60861-8",
+        "date": "2026-07-03",
+        "dateSource": "https://doi.org/10.1038/s41598-026-60861-8",
+        "kind": "journal"
+      },
+      {
+        "title": "Neighborhood disorder impacts cognitive processing during navigation on a novel virtual reality paradigm",
+        "doi": "10.1038/s41598-026-56852-4",
+        "date": "2026-06-09",
+        "dateSource": "https://doi.org/10.1038/s41598-026-56852-4",
+        "kind": "journal"
+      },
+      {
+        "title": "The role of state social service spending in moderating mental health outcomes of community violence: A spatial meta-analysis",
+        "doi": "10.1016/j.socscimed.2026.119372",
+        "date": "2026-05-13",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42166877/",
+        "kind": "journal"
+      },
+      {
+        "title": "Arrest Status, Suicide-Related Outcomes, and Moderating Social Factors: A Cross-sectional Study of a U.S. Sample (2015–2019)",
+        "doi": "10.1007/s10597-026-01632-7",
+        "date": "2026-04-09",
+        "dateSource": "https://doi.org/10.1007/s10597-026-01632-7",
+        "kind": "journal"
+      },
+      {
+        "title": "Dimensional Associations Between Conduct Problems and Brain Structure Across 18 International Cohorts in ENIGMA",
+        "doi": "10.1016/j.jaac.2026.03.002",
+        "date": "2026-03-01",
+        "dateSource": "https://doi.org/10.1016/j.jaac.2026.03.002",
+        "kind": "journal"
+      },
+      {
+        "title": "Revamping neuroimaging analysis to reveal biomarkers of adolescent mental health",
+        "doi": "10.1038/s44220-026-00610-y",
+        "date": "2026-04-02",
+        "dateSource": "https://doi.org/10.1038/s44220-026-00610-y",
+        "kind": "journal"
+      },
+      {
+        "title": "What we have learned about adolescent mental health and where we are going after a decade with the Adolescent Brain Cognitive Development Study",
+        "doi": "10.1016/j.dcn.2026.101686",
+        "date": "2026-01-28",
+        "dateSource": "https://doi.org/10.1016/j.dcn.2026.101686",
+        "kind": "journal"
+      },
+      {
+        "title": "The relationship between regular substance use and cost comparisons in stable and volatile learning contexts",
+        "doi": "10.1038/s41398-026-03830-z",
+        "date": "2026-01-30",
+        "dateSource": "https://doi.org/10.1038/s41398-026-03830-z",
+        "kind": "journal"
+      },
+      {
+        "title": "Advancing experimental models of complex decision environments to better understand risky behaviors.",
+        "doi": "10.1037/abn0001072",
+        "date": "2025-10-23",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41129403/",
+        "kind": "journal"
+      },
+      {
+        "title": "Multisystem Environmental Factors Elucidate Shared and Distinct Associations With Brain and Behavior in Adolescents",
+        "doi": "10.1016/j.jaac.2025.10.008",
+        "date": "2025-10-15",
+        "dateSource": "https://doi.org/10.1016/j.jaac.2025.10.008",
+        "kind": "journal"
+      },
+      {
+        "title": "Comparing descriptive and theoretical models of decision-making under uncertainty and their relation to socioeconomic factors",
+        "doi": "10.1371/journal.pone.0332189",
+        "date": "2025-09-15",
+        "dateSource": "https://doi.org/10.1371/journal.pone.0332189",
+        "kind": "journal"
+      },
+      {
+        "title": "Shared and Distinct Alterations in Brain Structure of Youth With Internalizing or Externalizing Disorders: Findings From the ENIGMA Antisocial Behavior, ADHD, Major Depressive Disorder, and Anxiety Working Groups.",
+        "doi": "10.1016/j.biopsych.2025.08.003",
+        "date": "2025-08-12",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40812743/",
+        "kind": "journal",
+        "diagnosis": "The full published article has a verified Yale byline beyond the OpenAlex snapshot’s truncated authors. A similar conference abstract has a different DOI."
+      },
+      {
+        "title": "Variation in moment-to-moment brain state engagement follows a consistent trajectory during development.",
+        "doi": "10.1016/j.neuron.2025.08.020",
+        "date": "2025-09-17",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40967219/",
+        "kind": "journal"
+      },
+      {
+        "title": "Representing Brain-Behavior Associations by Retaining High-Motion Minoritized Youth",
+        "doi": "10.1016/j.bpsc.2025.01.014",
+        "date": "2025-02-05",
+        "dateSource": "https://doi.org/10.1016/j.bpsc.2025.01.014",
+        "kind": "journal"
+      },
+      {
+        "title": "Person-centered analyses reveal that developmental adversity at moderate levels and neural threat/safety discrimination are associated with lower anxiety in early adulthood",
+        "doi": "10.1038/s44271-025-00193-x",
+        "date": "2025-03-05",
+        "dateSource": "https://doi.org/10.1038/s44271-025-00193-x",
+        "kind": "journal"
+      },
+      {
+        "title": "Availability of community resources reduces the association among community violence exposure, negative emotionality, and substance use disorders",
+        "doi": "10.1016/j.chiabu.2024.107226",
+        "date": "2025-01-05",
+        "dateSource": "https://doi.org/10.1016/j.chiabu.2024.107226",
+        "kind": "journal"
+      },
+      {
+        "title": "Manifold Learning Uncovers Nonlinear Interactions Between the Adolescent Brain and Environment That Predict Emotional and Behavioral Problems",
+        "doi": "10.1016/j.bpsc.2024.07.001",
+        "date": "2024-03-06",
+        "dateSource": "https://doi.org/10.1016/j.bpsc.2024.07.001",
+        "kind": "journal"
+      },
+      {
+        "title": "Negative Urgency and Lack of Perseverance Predict Suicidal Ideation and Attempts Among Young Adolescents",
+        "doi": "10.1080/15374416.2024.2426128",
+        "date": "2024-11-21",
+        "dateSource": "https://doi.org/10.1080/15374416.2024.2426128",
+        "kind": "journal"
+      },
+      {
+        "title": "Advancing the science of biosocial transactions related to aggression in children and young people: A brief review and steps forward",
+        "doi": "10.1016/j.avb.2024.102001",
+        "date": "2024-09-13",
+        "dateSource": "https://doi.org/10.1016/j.avb.2024.102001",
+        "kind": "journal"
+      },
+      {
+        "title": "The unusual suspects: A systematic search for the molecular and cellular correlates of human aggression",
+        "doi": "10.1016/j.avb.2024.102002",
+        "date": "2024-09-14",
+        "dateSource": "https://doi.org/10.1016/j.avb.2024.102002",
+        "kind": "journal"
+      },
+      {
+        "title": "Affective motivations for substance misuse differentially relate to consideration of multiple costs during effortful decision making.",
+        "doi": "10.1037/abn0000931",
+        "date": "2024-10-01",
+        "dateSource": "https://doi.org/10.1037/abn0000931",
+        "kind": "journal"
+      },
+      {
+        "title": "Enhancing Within-Person Estimation of Neurocognition and the Prediction of Externalizing Behaviors in Adolescents",
+        "doi": "10.5334/cpsy.112",
+        "date": "2024-07-26",
+        "dateSource": "https://doi.org/10.5334/cpsy.112",
+        "kind": "journal"
+      },
+      {
+        "title": "Using latent transition analysis to evaluate the impact of perceived threats on emotional and behavioral development",
+        "doi": "10.1111/cdev.14138",
+        "date": "2024-11-01",
+        "dateSource": "https://doi.org/10.1111/cdev.14138",
+        "kind": "journal"
+      },
+      {
+        "title": "Shrinking the footprint of the criminal legal system through policies informed by psychology and neuroscience",
+        "doi": "10.1038/s44271-024-00090-9",
+        "date": "2024-04-30",
+        "dateSource": "https://doi.org/10.1038/s44271-024-00090-9",
+        "kind": "journal"
+      },
+      {
+        "title": "Interactive effects of participant and stimulus race on cognitive performance in youth: Insights from the ABCD study",
+        "doi": "10.1016/j.dcn.2024.101393",
+        "date": "2024-05-24",
+        "dateSource": "https://doi.org/10.1016/j.dcn.2024.101393",
+        "kind": "journal"
+      },
+      {
+        "title": "Trajectories of parental harshness and exposure to community violence differentially predict externalizing and internalizing mental health problems in legal system-involved youth",
+        "doi": "10.1017/s0954579422001420",
+        "date": "2023-02-03",
+        "dateSource": "https://doi.org/10.1017/s0954579422001420",
+        "kind": "journal"
+      },
+      {
+        "title": "Person-Centered Combinations of Individual, Familial, Neighborhood, and Structural Risk Factors Differentially Relate to Antisocial Behavior and Psychopathology",
+        "doi": "10.1177/00938548241246146",
+        "date": "2024-04-20",
+        "dateSource": "https://doi.org/10.1177/00938548241246146",
+        "kind": "journal"
+      },
+      {
+        "title": "How Does Parental Monitoring Reduce Adolescent Substance Use? Preliminary Tests of Two Potential Mechanisms",
+        "doi": "10.15288/jsad.23-00297",
+        "date": "2024-01-16",
+        "dateSource": "https://doi.org/10.15288/jsad.23-00297",
+        "kind": "journal"
+      },
+      {
+        "title": "An ‘embedded brain’ approach to understanding antisocial behaviour",
+        "doi": "10.1016/j.tics.2023.08.013",
+        "date": "2023-09-15",
+        "dateSource": "https://doi.org/10.1016/j.tics.2023.08.013",
+        "kind": "journal"
+      },
+      {
+        "title": "Environmental Predictors of Within-Person Changes in Callous-Unemotional Traits among Justice-Involved Male Adolescents",
+        "doi": "10.1080/15374416.2022.2093207",
+        "date": "2022-07-28",
+        "dateSource": "https://doi.org/10.1080/15374416.2022.2093207",
+        "kind": "journal"
+      },
+      {
+        "title": "Distinct neurocognitive fingerprints reflect differential associations with risky and impulsive behavior in a neurotypical sample",
+        "doi": "10.1038/s41598-023-38991-0",
+        "date": "2023-07-21",
+        "dateSource": "https://doi.org/10.1038/s41598-023-38991-0",
+        "kind": "journal"
+      },
+      {
+        "title": "Pandemic-Related Changes in the Prevalence of Early Adolescent Alcohol and Drug Use, 2020-2021: Data From a Multisite Cohort Study.",
+        "doi": "10.1016/j.jadohealth.2023.02.040",
+        "date": "2023-05-16",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37191599/",
+        "kind": "journal",
+        "diagnosis": "The earlier snapshot treated the registered journal DOI as a preprint. PubMed and the coauthor’s lab list confirm publication in the Journal of Adolescent Health."
+      },
+      {
+        "title": "Development in uncertain contexts: An ecologically informed approach to understanding decision-making during adolescence",
+        "doi": "10.3758/s13415-023-01067-7",
+        "date": "2023-02-03",
+        "dateSource": "https://doi.org/10.3758/s13415-023-01067-7",
+        "kind": "journal"
+      },
+      {
+        "title": "Executive Network Activation Moderates the Association between Neighborhood Threats and Externalizing Behavior in Youth",
+        "doi": "10.1007/s10802-022-01003-2",
+        "date": "2023-01-27",
+        "dateSource": "https://doi.org/10.1007/s10802-022-01003-2",
+        "kind": "journal"
+      },
+      {
+        "title": "Trajectories of Psychopathic Traits, Anxiety, and Violence Exposure Differentially Predict Antisociality in Legal System-Involved Youth",
+        "doi": "10.1007/s10802-022-00989-z",
+        "date": "2023-02-02",
+        "dateSource": "https://doi.org/10.1007/s10802-022-00989-z",
+        "kind": "journal"
+      },
+      {
+        "title": "Family Well‐Being During the COVID ‐19 Pandemic: The Risks of Financial Insecurity and Coping",
+        "doi": "10.1111/jora.12776",
+        "date": "2022-06-24",
+        "dateSource": "https://doi.org/10.1111/jora.12776",
+        "kind": "journal"
+      },
+      {
+        "title": "Classifying Conduct Disorder Using a Biopsychosocial Model and Machine Learning Method",
+        "doi": "10.1016/j.bpsc.2022.02.004",
+        "date": "2022-02-22",
+        "dateSource": "https://doi.org/10.1016/j.bpsc.2022.02.004",
+        "kind": "journal"
+      },
+      {
+        "title": "Parental knowledge/monitoring and adolescent substance use: A causal relationship?",
+        "doi": "10.1037/hea0001245",
+        "date": "2023-12-01",
+        "dateSource": "https://doi.org/10.1037/hea0001245",
+        "kind": "journal"
+      },
+      {
+        "title": "Distrust Moderates the Effect of Deviant Peer Affiliation on Increased Externalizing in Adolescents",
+        "doi": "10.1007/s10964-022-01640-2",
+        "date": "2022-05-31",
+        "dateSource": "https://doi.org/10.1007/s10964-022-01640-2",
+        "kind": "journal"
+      },
+      {
+        "title": "Associations among Household and Neighborhood Socioeconomic Disadvantages, Resting-state Frontoamygdala Connectivity, and Internalizing Symptoms in Youth",
+        "doi": "10.1162/jocn_a_01826",
+        "date": "2022-02-01",
+        "dateSource": "https://doi.org/10.1162/jocn_a_01826",
+        "kind": "journal"
+      },
+      {
+        "title": "Negative Impacts of Pandemic Induced At-Home Remote Learning Can Be Mitigated by Parental Involvement",
+        "doi": "10.3389/feduc.2022.804191",
+        "date": "2022-03-17",
+        "dateSource": "https://doi.org/10.3389/feduc.2022.804191",
+        "kind": "journal"
+      },
+      {
+        "title": "Cognitive–affective factors underlying disinhibitory disorders and legal implications",
+        "doi": "10.1038/s44159-022-00020-8",
+        "date": "2022-02-02",
+        "dateSource": "https://doi.org/10.1038/s44159-022-00020-8",
+        "kind": "journal"
+      },
+      {
+        "title": "The importance of an exaggerated attention bottleneck for understanding psychopathy",
+        "doi": "10.1016/j.tics.2022.01.001",
+        "date": "2022-02-01",
+        "dateSource": "https://doi.org/10.1016/j.tics.2022.01.001",
+        "kind": "journal"
+      },
+      {
+        "title": "Parental Knowledge/Monitoring and Depressive Symptoms During Adolescence: Protective Factor or Spurious Association?",
+        "doi": "10.1007/s10802-021-00896-9",
+        "date": "2022-01-21",
+        "dateSource": "https://doi.org/10.1007/s10802-021-00896-9",
+        "kind": "journal"
+      },
+      {
+        "title": "Longitudinal Evidence of a Vicious Cycle Between Nucleus Accumbens Microstructure and Childhood Weight Gain",
+        "doi": "10.1016/j.jadohealth.2022.01.002",
+        "date": "2022-03-02",
+        "dateSource": "https://doi.org/10.1016/j.jadohealth.2022.01.002",
+        "kind": "journal"
+      },
+      {
+        "title": "The role of perceived threats on mental health, social, and neurocognitive youth outcomes: A multicontextual, person-centered approach",
+        "doi": "10.1017/s095457942100184x",
+        "date": "2022-03-02",
+        "dateSource": "https://doi.org/10.1017/s095457942100184x",
+        "kind": "journal"
+      },
+      {
+        "title": "Location matters: Regional variation in association of community burden of COVID-19 with caregiver and youth worry",
+        "doi": "10.1016/j.healthplace.2022.102885",
+        "date": "2022-08-09",
+        "dateSource": "https://doi.org/10.1016/j.healthplace.2022.102885",
+        "kind": "journal"
+      },
+      {
+        "title": "The effect of neuroscientific evidence on sentencing depends on how one conceives of reasons for incarceration",
+        "doi": "10.1371/journal.pone.0276237",
+        "date": "2022-11-02",
+        "dateSource": "https://doi.org/10.1371/journal.pone.0276237",
+        "kind": "journal"
+      },
+      {
+        "title": "Resource scarcity compromises explore-exploit decision-making",
+        "doi": "10.1016/j.jesp.2021.104254",
+        "date": "2021-11-23",
+        "dateSource": "https://modlab.yale.edu/resource/download/162",
+        "kind": "journal"
+      }
+    ],
+    "excluded": [
+      {
+        "title": "Distinct associations between multimodal brain measures and psychopathology domains predict school-related impairment. Translational Psychiatry.",
+        "doi": "10.64898/2026.06.03.729937",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/42282539/",
+        "reason": "The lab labels it in press. Only a preprint could be independently verified by the audit cutoff."
+      },
+      {
+        "title": "Social determinants of health and pediatric long COVID in the US. JAMA pediatrics .",
+        "doi": "10.1001/jamapediatrics.2025.5485",
+        "source": "https://jamanetwork.com/journals/jamapediatrics/article-abstract/2843098",
+        "reason": "PubMed lists the person in expanded group metadata. The publisher shows a group byline without an individual ordered author position."
+      },
+      {
+        "title": "Commentary: Treating Conduct Problems by Linking Nurture and Neurobiological Change. Biological Psychiatry.",
+        "doi": "10.1016/j.biopsych.2025.12.002",
+        "source": "https://doi.org/10.1016/j.biopsych.2025.12.002",
+        "reason": "The lab lists this separately as a commentary. External peer review was not confirmed."
+      },
+      {
+        "title": "Characterizing Long COVID in Children and Adolescents. JAMA, 332 , 1174-1188 .",
+        "doi": "10.1001/jama.2024.12747",
+        "source": "https://jamanetwork.com/journals/jama/fullarticle/2822770",
+        "reason": "The publisher names the person in group information rather than the individual ordered byline."
+      },
+      {
+        "title": "Cortical structure and subcortical volumes in conduct disorder: A coordinated analysis of 15 international cohorts from the ENIGMA Antisocial Behavior working group. The Lancet Psychiatry, 11 , 620-632.",
+        "doi": "10.1016/s2215-0366(24)00187-1",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/39025633/",
+        "reason": "PubMed lists the person as a collaborator of the group author. Individual author order is unavailable."
+      },
+      {
+        "title": "Individual and environmental correlates of childhood maltreatment and exposure to community violence: Utilizing a latent profile and a multilevel meta-analytic approach",
+        "doi": "10.1017/s0033291721001380",
+        "date": "2021-06-02",
+        "source": "https://doi.org/10.1017/s0033291721001380",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Book Review: Criminality in Context: The Psychological Foundations of Criminal Justice Reform. Amicus Journal, 42 , 54-57.",
+        "doi": "",
+        "source": "https://modlab.yale.edu/publications",
+        "reason": "The laboratory classifies the item as a book review."
+      },
+      {
+        "title": "Making the Sentencing Case: Psychological and Neuroscientific Evidence for Expanding the Age of Youthful Offenders",
+        "doi": "10.1146/annurev-criminol-030920-113250",
+        "date": "2021-08-23",
+        "source": "https://doi.org/10.1146/annurev-criminol-030920-113250",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Toward Targeted Interventions: Examining the Science Behind Interventions for Youth Who Offend",
+        "doi": "10.1146/annurev-criminol-030620-023027",
+        "date": "2021-07-02",
+        "source": "https://doi.org/10.1146/annurev-criminol-030620-023027",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Conduct disorder symptomatology is associated with an altered functional connectome in a large national youth sample",
+        "doi": "10.1017/s0954579421000237",
+        "date": "2021-04-14",
+        "source": "https://doi.org/10.1017/s0954579421000237",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Adolescent civic engagement: Lessons from Black Lives Matter",
+        "doi": "10.1073/pnas.2109860118",
+        "date": "2021-10-04",
+        "source": "https://doi.org/10.1073/pnas.2109860118",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Baseline brain function in the preadolescents of the ABCD Study",
+        "doi": "10.1038/s41593-021-00867-9",
+        "date": "2021-06-07",
+        "source": "https://doi.org/10.1038/s41593-021-00867-9",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Substance use patterns in 9-10 year olds: Baseline findings from the adolescent brain cognitive development (ABCD) study",
+        "doi": "10.1016/j.drugalcdep.2021.108946",
+        "date": "2021-07-29",
+        "source": "https://doi.org/10.1016/j.drugalcdep.2021.108946",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Psychopathy",
+        "doi": "10.1038/s41572-021-00282-1",
+        "date": "2021-07-08",
+        "source": "https://doi.org/10.1038/s41572-021-00282-1",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Cognitive Empathy in Subtypes of Antisocial Individuals",
+        "doi": "10.3389/fpsyt.2021.677975",
+        "date": "2021-07-05",
+        "source": "https://doi.org/10.3389/fpsyt.2021.677975",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Responsible Use of Open-Access Developmental Data: The Adolescent Brain Cognitive Development (ABCD) Study",
+        "doi": "10.1177/09567976211003564",
+        "date": "2021-05-27",
+        "source": "https://doi.org/10.1177/09567976211003564",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Rates of Incidental Findings in Brain Magnetic Resonance Imaging in Children",
+        "doi": "10.1001/jamaneurol.2021.0306",
+        "date": "2021-03-22",
+        "source": "https://doi.org/10.1001/jamaneurol.2021.0306",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Psychopathy is associated with exaggerated attention bottleneck: EEG and behavioral evidence from a dual-task paradigm. Cognitive, Affective, & Behavioral Neuroscience, 21 , 881-893 . Supplement .",
+        "doi": "10.3758/s13415-021-00891-z",
+        "source": "https://link.springer.com/content/pdf/10.3758/s13415-021-00891-z.pdf",
+        "reason": "The verified online-first date was April 5, 2021, before the audit window."
+      },
+      {
+        "title": "Physical Aggression Is Associated With More Effective Postdecisional Processing of Social Threat",
+        "doi": "10.1177/2167702620966294",
+        "date": "2021-03-17",
+        "source": "https://doi.org/10.1177/2167702620966294",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Correspondence between perceived pubertal development and hormone levels in 9-10 year-olds from the Adolescent Brain Cognitive Development study. Frontiers in Endocrinology, 11, 549928. Supplement .",
+        "doi": "10.3389/fendo.2020.549928",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/33679599/",
+        "reason": "The verified online date was February 18, 2021, before the audit window."
+      },
+      {
+        "title": "Demographic and mental health assessments in the adolescent brain and cognitive development study: Updates and age-related trajectories",
+        "doi": "10.1016/j.dcn.2021.101031",
+        "date": "2021-10-29",
+        "source": "https://doi.org/10.1016/j.dcn.2021.101031",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Procedurally just organizational climates improve relations between corrections officers and incarcerated individuals",
+        "doi": "10.1080/1068316x.2020.1818238",
+        "date": "2020-12-18",
+        "source": "https://doi.org/10.1080/1068316x.2020.1818238",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Profiles of lifetime substance use are differentiated by substance of choice, affective motivations for use, and childhood maltreatment",
+        "doi": "10.1016/j.addbeh.2020.106710",
+        "date": "2020-10-14",
+        "source": "https://doi.org/10.1016/j.addbeh.2020.106710",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Cognitive mechanisms influencing facial emotion processing in psychopathy and externalizing.",
+        "doi": "10.1037/per0000473",
+        "date": "2021-11-01",
+        "source": "https://doi.org/10.1037/per0000473",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Exposure to violence and nonassociative learning capability confer risk for violent behavior.",
+        "doi": "10.1037/abn0000579",
+        "date": "2020-06-25",
+        "source": "https://doi.org/10.1037/abn0000579",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Examining Relations Between Obsessive-Compulsive Features, Substance-Use Disorders, and Antisocial Personality Disorder in the Vietnam Era Twin Cohort",
+        "doi": "10.1007/s11469-020-00299-9",
+        "date": "2020-05-13",
+        "source": "https://doi.org/10.1007/s11469-020-00299-9",
+        "reason": "Online publication falls outside the audit window."
+      },
+      {
+        "title": "Influences of early‐life stress on frontolimbic circuitry: Harnessing a dimensional approach to elucidate the effects of heterogeneity in stress exposure",
+        "doi": "10.1002/dev.21969",
+        "date": "2020-03-29",
+        "source": "https://doi.org/10.1002/dev.21969",
+        "reason": "Online publication falls outside the audit window."
+      }
+    ],
+    "supplementarySources": [
+      "https://modlab.yale.edu/resource/download/46",
+      "https://pubmed.ncbi.nlm.nih.gov/40812743/",
+      "https://pelham-lab.ucsd.edu/research/published-papers"
+    ],
+    "note": "Year sections of the lab bibliography were reconciled with the faculty CV and published bylines. Three works listed only through group attribution are documented separately because individual ordered bylines could not be verified."
   }
 }

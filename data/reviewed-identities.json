@@ -253,5 +253,35 @@
       "OpenAlex author and published Berkeley byline agree on the ORCID. Source: https://pubmed.ncbi.nlm.nih.gov/35079830/",
       "The sole works on A5133029617 and A5153012308 have matching publisher or PubMed bylines reviewed by DOI. Other author fragments remain under review."
     ]
+  },
+  "dillon-browne": {
+    "ids": [
+      "A5019401974"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "Official byline or public ORCID record and OpenAlex agree. Source: https://orcid.org/0000-0002-7445-6604"
+    ]
+  },
+  "david-moscovitch": {
+    "ids": [
+      "A5018108046"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "Official byline or public ORCID record and OpenAlex agree. Source: https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch-et-al_scil-model_perspectives_2023.pdf"
+    ]
+  },
+  "christine-purdon": {
+    "ids": [
+      "A5004017845"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "Official byline or public ORCID record and OpenAlex agree. Source: https://www.sciencedirect.com/science/article/pii/S0887618522000718"
+    ]
   }
 }

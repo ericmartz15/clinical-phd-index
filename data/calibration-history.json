@@ -363,5 +363,44 @@
         "reason": "OpenAlex created a separate author ID from a spelling variant. The PubMed record confirms the name and Berkeley affiliation."
       }
     ]
+  },
+  {
+    "label": "Baskin-Sommers bibliography before byline and publication-type corrections",
+    "corpusSha256": "9ad129780d85304c60ee6783b0f2e9237d9e5e6a1943711cb3bc999cdb729af6",
+    "audited": 10,
+    "matches": 326,
+    "denominator": 329,
+    "missing": [
+      {
+        "person": "arielle-baskin-sommers",
+        "title": "Shared and Distinct Alterations in Brain Structure of Youth With Internalizing or Externalizing Disorders: Findings From the ENIGMA Antisocial Behavior, ADHD, Major Depressive Disorder, and Anxiety Working Groups.",
+        "doi": "10.1016/j.biopsych.2025.08.003",
+        "date": "2025-08-12",
+        "reference": "https://modlab.yale.edu/publications",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40812743/",
+        "matched": false,
+        "reason": "The full published article has a verified Yale byline beyond the OpenAlex snapshot’s truncated authors. A similar conference abstract has a different DOI."
+      },
+      {
+        "person": "arielle-baskin-sommers",
+        "title": "Pandemic-Related Changes in the Prevalence of Early Adolescent Alcohol and Drug Use, 2020-2021: Data From a Multisite Cohort Study.",
+        "doi": "10.1016/j.jadohealth.2023.02.040",
+        "date": "2023-05-16",
+        "reference": "https://modlab.yale.edu/publications",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37191599/",
+        "matched": false,
+        "reason": "The earlier snapshot treated the registered journal DOI as a preprint. PubMed and the coauthor’s lab list confirm publication in the Journal of Adolescent Health."
+      },
+      {
+        "person": "daniel-taylor",
+        "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+        "doi": "",
+        "date": "2023-06-01",
+        "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+        "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+        "matched": false,
+        "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+      }
+    ]
   }
 ]

@@ -62,7 +62,7 @@
     "john-ruiz",
     "mark-chen"
   ],
-  "audited": 9,
+  "audited": 10,
   "unavailable": [
     "lara-ray",
     "vickie-m-mays",
@@ -79,7 +79,6 @@
     "martin-seligman",
     "jordan-thomas",
     "jennifer-tackett",
-    "arielle-baskin-sommers",
     "matthew-w-mosconi",
     "paula-j-fite",
     "denise-a-chavira",
@@ -106,10 +105,10 @@
     "sheri-johnson",
     "john-ruiz"
   ],
-  "matches": 277,
-  "denominator": 278,
+  "matches": 328,
+  "denominator": 329,
   "recall": null,
-  "diagnosticRecall": 0.9964028776978417,
+  "diagnosticRecall": 0.9969604863221885,
   "interval": null,
   "targetMet": false,
   "missing": [
@@ -618,6 +617,465 @@
       "date": "2026-01-29",
       "reference": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/Bengi-Baran-CV-Aug-2025.pdf",
       "dateSource": "https://openalex.org/W7126093124",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Bioethics and medical oversight in multi-site observational neuroimaging studies with children and adolescents: 10 years of ABCD experience",
+      "doi": "10.1016/j.dcn.2026.101784",
+      "date": "2026-07-23",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42570410/",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Distinct Representations of Irrelevant Emotional Information in the Visual Network Are Associated With Psychopathology in Youth",
+      "doi": "10.1016/j.bpsgos.2026.100799",
+      "date": "2026-07-29",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.bpsgos.2026.100799",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Regular substance use relates to cost sensitivity during cost-benefit decision-making in stable and volatile learning contexts",
+      "doi": "10.1038/s41598-026-60861-8",
+      "date": "2026-07-03",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1038/s41598-026-60861-8",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Neighborhood disorder impacts cognitive processing during navigation on a novel virtual reality paradigm",
+      "doi": "10.1038/s41598-026-56852-4",
+      "date": "2026-06-09",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1038/s41598-026-56852-4",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "The role of state social service spending in moderating mental health outcomes of community violence: A spatial meta-analysis",
+      "doi": "10.1016/j.socscimed.2026.119372",
+      "date": "2026-05-13",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42166877/",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Arrest Status, Suicide-Related Outcomes, and Moderating Social Factors: A Cross-sectional Study of a U.S. Sample (2015–2019)",
+      "doi": "10.1007/s10597-026-01632-7",
+      "date": "2026-04-09",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1007/s10597-026-01632-7",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Dimensional Associations Between Conduct Problems and Brain Structure Across 18 International Cohorts in ENIGMA",
+      "doi": "10.1016/j.jaac.2026.03.002",
+      "date": "2026-03-01",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.jaac.2026.03.002",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Revamping neuroimaging analysis to reveal biomarkers of adolescent mental health",
+      "doi": "10.1038/s44220-026-00610-y",
+      "date": "2026-04-02",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1038/s44220-026-00610-y",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "What we have learned about adolescent mental health and where we are going after a decade with the Adolescent Brain Cognitive Development Study",
+      "doi": "10.1016/j.dcn.2026.101686",
+      "date": "2026-01-28",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.dcn.2026.101686",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "The relationship between regular substance use and cost comparisons in stable and volatile learning contexts",
+      "doi": "10.1038/s41398-026-03830-z",
+      "date": "2026-01-30",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1038/s41398-026-03830-z",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Advancing experimental models of complex decision environments to better understand risky behaviors.",
+      "doi": "10.1037/abn0001072",
+      "date": "2025-10-23",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41129403/",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Multisystem Environmental Factors Elucidate Shared and Distinct Associations With Brain and Behavior in Adolescents",
+      "doi": "10.1016/j.jaac.2025.10.008",
+      "date": "2025-10-15",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.jaac.2025.10.008",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Comparing descriptive and theoretical models of decision-making under uncertainty and their relation to socioeconomic factors",
+      "doi": "10.1371/journal.pone.0332189",
+      "date": "2025-09-15",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1371/journal.pone.0332189",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Shared and Distinct Alterations in Brain Structure of Youth With Internalizing or Externalizing Disorders: Findings From the ENIGMA Antisocial Behavior, ADHD, Major Depressive Disorder, and Anxiety Working Groups.",
+      "doi": "10.1016/j.biopsych.2025.08.003",
+      "date": "2025-08-12",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40812743/",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Variation in moment-to-moment brain state engagement follows a consistent trajectory during development.",
+      "doi": "10.1016/j.neuron.2025.08.020",
+      "date": "2025-09-17",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40967219/",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Representing Brain-Behavior Associations by Retaining High-Motion Minoritized Youth",
+      "doi": "10.1016/j.bpsc.2025.01.014",
+      "date": "2025-02-05",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.bpsc.2025.01.014",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Person-centered analyses reveal that developmental adversity at moderate levels and neural threat/safety discrimination are associated with lower anxiety in early adulthood",
+      "doi": "10.1038/s44271-025-00193-x",
+      "date": "2025-03-05",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1038/s44271-025-00193-x",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Availability of community resources reduces the association among community violence exposure, negative emotionality, and substance use disorders",
+      "doi": "10.1016/j.chiabu.2024.107226",
+      "date": "2025-01-05",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.chiabu.2024.107226",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Manifold Learning Uncovers Nonlinear Interactions Between the Adolescent Brain and Environment That Predict Emotional and Behavioral Problems",
+      "doi": "10.1016/j.bpsc.2024.07.001",
+      "date": "2024-03-06",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.bpsc.2024.07.001",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Negative Urgency and Lack of Perseverance Predict Suicidal Ideation and Attempts Among Young Adolescents",
+      "doi": "10.1080/15374416.2024.2426128",
+      "date": "2024-11-21",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1080/15374416.2024.2426128",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Advancing the science of biosocial transactions related to aggression in children and young people: A brief review and steps forward",
+      "doi": "10.1016/j.avb.2024.102001",
+      "date": "2024-09-13",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.avb.2024.102001",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "The unusual suspects: A systematic search for the molecular and cellular correlates of human aggression",
+      "doi": "10.1016/j.avb.2024.102002",
+      "date": "2024-09-14",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.avb.2024.102002",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Affective motivations for substance misuse differentially relate to consideration of multiple costs during effortful decision making.",
+      "doi": "10.1037/abn0000931",
+      "date": "2024-10-01",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1037/abn0000931",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Enhancing Within-Person Estimation of Neurocognition and the Prediction of Externalizing Behaviors in Adolescents",
+      "doi": "10.5334/cpsy.112",
+      "date": "2024-07-26",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.5334/cpsy.112",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Using latent transition analysis to evaluate the impact of perceived threats on emotional and behavioral development",
+      "doi": "10.1111/cdev.14138",
+      "date": "2024-11-01",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1111/cdev.14138",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Shrinking the footprint of the criminal legal system through policies informed by psychology and neuroscience",
+      "doi": "10.1038/s44271-024-00090-9",
+      "date": "2024-04-30",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1038/s44271-024-00090-9",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Interactive effects of participant and stimulus race on cognitive performance in youth: Insights from the ABCD study",
+      "doi": "10.1016/j.dcn.2024.101393",
+      "date": "2024-05-24",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.dcn.2024.101393",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Trajectories of parental harshness and exposure to community violence differentially predict externalizing and internalizing mental health problems in legal system-involved youth",
+      "doi": "10.1017/s0954579422001420",
+      "date": "2023-02-03",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1017/s0954579422001420",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Person-Centered Combinations of Individual, Familial, Neighborhood, and Structural Risk Factors Differentially Relate to Antisocial Behavior and Psychopathology",
+      "doi": "10.1177/00938548241246146",
+      "date": "2024-04-20",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1177/00938548241246146",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "How Does Parental Monitoring Reduce Adolescent Substance Use? Preliminary Tests of Two Potential Mechanisms",
+      "doi": "10.15288/jsad.23-00297",
+      "date": "2024-01-16",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.15288/jsad.23-00297",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "An ‘embedded brain’ approach to understanding antisocial behaviour",
+      "doi": "10.1016/j.tics.2023.08.013",
+      "date": "2023-09-15",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.tics.2023.08.013",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Environmental Predictors of Within-Person Changes in Callous-Unemotional Traits among Justice-Involved Male Adolescents",
+      "doi": "10.1080/15374416.2022.2093207",
+      "date": "2022-07-28",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1080/15374416.2022.2093207",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Distinct neurocognitive fingerprints reflect differential associations with risky and impulsive behavior in a neurotypical sample",
+      "doi": "10.1038/s41598-023-38991-0",
+      "date": "2023-07-21",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1038/s41598-023-38991-0",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Pandemic-Related Changes in the Prevalence of Early Adolescent Alcohol and Drug Use, 2020-2021: Data From a Multisite Cohort Study.",
+      "doi": "10.1016/j.jadohealth.2023.02.040",
+      "date": "2023-05-16",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37191599/",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Development in uncertain contexts: An ecologically informed approach to understanding decision-making during adolescence",
+      "doi": "10.3758/s13415-023-01067-7",
+      "date": "2023-02-03",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.3758/s13415-023-01067-7",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Executive Network Activation Moderates the Association between Neighborhood Threats and Externalizing Behavior in Youth",
+      "doi": "10.1007/s10802-022-01003-2",
+      "date": "2023-01-27",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1007/s10802-022-01003-2",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Trajectories of Psychopathic Traits, Anxiety, and Violence Exposure Differentially Predict Antisociality in Legal System-Involved Youth",
+      "doi": "10.1007/s10802-022-00989-z",
+      "date": "2023-02-02",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1007/s10802-022-00989-z",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Family Well‐Being During the COVID ‐19 Pandemic: The Risks of Financial Insecurity and Coping",
+      "doi": "10.1111/jora.12776",
+      "date": "2022-06-24",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1111/jora.12776",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Classifying Conduct Disorder Using a Biopsychosocial Model and Machine Learning Method",
+      "doi": "10.1016/j.bpsc.2022.02.004",
+      "date": "2022-02-22",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.bpsc.2022.02.004",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Parental knowledge/monitoring and adolescent substance use: A causal relationship?",
+      "doi": "10.1037/hea0001245",
+      "date": "2023-12-01",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1037/hea0001245",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Distrust Moderates the Effect of Deviant Peer Affiliation on Increased Externalizing in Adolescents",
+      "doi": "10.1007/s10964-022-01640-2",
+      "date": "2022-05-31",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1007/s10964-022-01640-2",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Associations among Household and Neighborhood Socioeconomic Disadvantages, Resting-state Frontoamygdala Connectivity, and Internalizing Symptoms in Youth",
+      "doi": "10.1162/jocn_a_01826",
+      "date": "2022-02-01",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1162/jocn_a_01826",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Negative Impacts of Pandemic Induced At-Home Remote Learning Can Be Mitigated by Parental Involvement",
+      "doi": "10.3389/feduc.2022.804191",
+      "date": "2022-03-17",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.3389/feduc.2022.804191",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Cognitive–affective factors underlying disinhibitory disorders and legal implications",
+      "doi": "10.1038/s44159-022-00020-8",
+      "date": "2022-02-02",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1038/s44159-022-00020-8",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "The importance of an exaggerated attention bottleneck for understanding psychopathy",
+      "doi": "10.1016/j.tics.2022.01.001",
+      "date": "2022-02-01",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.tics.2022.01.001",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Parental Knowledge/Monitoring and Depressive Symptoms During Adolescence: Protective Factor or Spurious Association?",
+      "doi": "10.1007/s10802-021-00896-9",
+      "date": "2022-01-21",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1007/s10802-021-00896-9",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Longitudinal Evidence of a Vicious Cycle Between Nucleus Accumbens Microstructure and Childhood Weight Gain",
+      "doi": "10.1016/j.jadohealth.2022.01.002",
+      "date": "2022-03-02",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.jadohealth.2022.01.002",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "The role of perceived threats on mental health, social, and neurocognitive youth outcomes: A multicontextual, person-centered approach",
+      "doi": "10.1017/s095457942100184x",
+      "date": "2022-03-02",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1017/s095457942100184x",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Location matters: Regional variation in association of community burden of COVID-19 with caregiver and youth worry",
+      "doi": "10.1016/j.healthplace.2022.102885",
+      "date": "2022-08-09",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1016/j.healthplace.2022.102885",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "The effect of neuroscientific evidence on sentencing depends on how one conceives of reasons for incarceration",
+      "doi": "10.1371/journal.pone.0276237",
+      "date": "2022-11-02",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://doi.org/10.1371/journal.pone.0276237",
+      "matched": true
+    },
+    {
+      "person": "arielle-baskin-sommers",
+      "title": "Resource scarcity compromises explore-exploit decision-making",
+      "doi": "10.1016/j.jesp.2021.104254",
+      "date": "2021-11-23",
+      "reference": "https://modlab.yale.edu/publications",
+      "dateSource": "https://modlab.yale.edu/resource/download/162",
       "matched": true
     },
     {
@@ -2994,9 +3452,48 @@
           "reason": "OpenAlex created a separate author ID from a spelling variant. The PubMed record confirms the name and Berkeley affiliation."
         }
       ]
+    },
+    {
+      "label": "Baskin-Sommers bibliography before byline and publication-type corrections",
+      "corpusSha256": "9ad129780d85304c60ee6783b0f2e9237d9e5e6a1943711cb3bc999cdb729af6",
+      "audited": 10,
+      "matches": 326,
+      "denominator": 329,
+      "missing": [
+        {
+          "person": "arielle-baskin-sommers",
+          "title": "Shared and Distinct Alterations in Brain Structure of Youth With Internalizing or Externalizing Disorders: Findings From the ENIGMA Antisocial Behavior, ADHD, Major Depressive Disorder, and Anxiety Working Groups.",
+          "doi": "10.1016/j.biopsych.2025.08.003",
+          "date": "2025-08-12",
+          "reference": "https://modlab.yale.edu/publications",
+          "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40812743/",
+          "matched": false,
+          "reason": "The full published article has a verified Yale byline beyond the OpenAlex snapshot’s truncated authors. A similar conference abstract has a different DOI."
+        },
+        {
+          "person": "arielle-baskin-sommers",
+          "title": "Pandemic-Related Changes in the Prevalence of Early Adolescent Alcohol and Drug Use, 2020-2021: Data From a Multisite Cohort Study.",
+          "doi": "10.1016/j.jadohealth.2023.02.040",
+          "date": "2023-05-16",
+          "reference": "https://modlab.yale.edu/publications",
+          "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37191599/",
+          "matched": false,
+          "reason": "The earlier snapshot treated the registered journal DOI as a preprint. PubMed and the coauthor’s lab list confirm publication in the Journal of Adolescent Health."
+        },
+        {
+          "person": "daniel-taylor",
+          "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+          "doi": "",
+          "date": "2023-06-01",
+          "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+          "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+          "matched": false,
+          "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+        }
+      ]
     }
   ],
-  "corpusSha256": "a7eb9e75c86e50def532300f312f877aed2a433127d419cd03cafc7b9ff81380",
+  "corpusSha256": "eab56b5b5198a10e0188581371811813c826c134e21f1a1251c6cfda0d707acd",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",

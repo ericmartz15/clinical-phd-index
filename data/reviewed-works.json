@@ -1345,5 +1345,369 @@
       }
     ],
     "peerReview": "inferred"
+  },
+  {
+    "title": "Shared and Distinct Alterations in Brain Structure of Youth With Internalizing or Externalizing Disorders: Findings From the ENIGMA Antisocial Behavior, ADHD, Major Depressive Disorder, and Anxiety Working Groups.",
+    "doi": "10.1016/j.biopsych.2025.08.003",
+    "date": "2025-08-12",
+    "kind": "journal",
+    "venue": "Biological psychiatry",
+    "authorCount": 154,
+    "pmcid": "",
+    "people": {
+      "arielle-baskin-sommers": {
+        "position": 139,
+        "affiliations": [
+          "Yale University"
+        ],
+        "identityNote": "The full published article has a verified Yale byline beyond the OpenAlex snapshot’s truncated authors. A similar conference abstract has a different DOI. The publisher-deposited Crossref byline lists 154 individuals, with her at position 139. PubMed additionally indexes the working groups as one collective entry."
+      }
+    },
+    "issns": [
+      "1873-2402",
+      "0006-3223"
+    ],
+    "topics": [
+      "Child and Adolescent Psychosocial and Emotional Development",
+      "Neural and Behavioral Psychology Studies",
+      "Attention Deficit Hyperactivity Disorder"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2025-08-12",
+        "source": "PubMed",
+        "type": "published-online",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40812743/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "PubMed",
+        "id": "40812743",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40812743/"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1016/j.biopsych.2025.08.003",
+        "url": "https://modlab.yale.edu/publications"
+      },
+      {
+        "source": "OpenAlex",
+        "id": "W4413139760",
+        "url": "https://openalex.org/W4413139760"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1016/j.biopsych.2025.08.003",
+        "url": "https://doi.org/10.1016/j.biopsych.2025.08.003"
+      }
+    ],
+    "peerReview": "inferred"
+  },
+  {
+    "title": "Pandemic-Related Changes in the Prevalence of Early Adolescent Alcohol and Drug Use, 2020-2021: Data From a Multisite Cohort Study.",
+    "doi": "10.1016/j.jadohealth.2023.02.040",
+    "date": "2023-05-16",
+    "kind": "journal",
+    "venue": "The Journal of adolescent health : official publication of the Society for Adolescent Medicine",
+    "authorCount": 13,
+    "pmcid": "",
+    "people": {
+      "arielle-baskin-sommers": {
+        "position": 11,
+        "affiliations": [
+          "Yale University"
+        ],
+        "identityNote": "The earlier snapshot treated the registered journal DOI as a preprint. PubMed and the coauthor’s lab list confirm publication in the Journal of Adolescent Health."
+      }
+    },
+    "issns": [
+      "1879-1972",
+      "1054-139X"
+    ],
+    "topics": [
+      "Substance Abuse Treatment and Outcomes",
+      "COVID-19 and Mental Health",
+      "Smoking Behavior and Cessation"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2023-05-16",
+        "source": "PubMed",
+        "type": "published-online",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37191599/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "PubMed",
+        "id": "37191599",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37191599/"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1016/j.jadohealth.2023.02.040",
+        "url": "https://modlab.yale.edu/publications"
+      },
+      {
+        "source": "OpenAlex",
+        "id": "W4376642931",
+        "url": "https://openalex.org/W4376642931"
+      }
+    ],
+    "peerReview": "inferred"
+  },
+  {
+    "title": "Variation in moment-to-moment brain state engagement changes across development and contributes to individual differences in executive function",
+    "doi": "10.1016/j.neuron.2025.08.020",
+    "date": "2025-09-17",
+    "kind": "journal",
+    "venue": "Neuron",
+    "authorCount": 37,
+    "pmcid": "12483157",
+    "people": {
+      "arielle-baskin-sommers": {
+        "position": 35,
+        "affiliations": [
+          "Yale University"
+        ],
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "0896-6273",
+      "1097-4199"
+    ],
+    "topics": [
+      "Functional Brain Connectivity Studies",
+      "Neural dynamics and brain function",
+      "Neural and Behavioral Psychology Studies"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2025-09-17",
+        "source": "PubMed",
+        "type": "published-online",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40967219/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "PubMed",
+        "id": "40967219",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40967219/"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [],
+    "venueTier": "other",
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.02702702702702703,
+        "weighted": 0.02564102564102564,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      },
+      {
+        "person": "dylan-gee",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.02702702702702703,
+        "weighted": 0.02564102564102564,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
+  },
+  {
+    "title": "Advancing experimental models of complex decision environments to better understand risky behaviors.",
+    "doi": "10.1037/abn0001072",
+    "date": "2025-10-23",
+    "kind": "journal",
+    "venue": "Journal of Psychopathology and Clinical Science",
+    "authorCount": 3,
+    "pmcid": "",
+    "people": {
+      "arielle-baskin-sommers": {
+        "position": 3,
+        "affiliations": [
+          "Yale University"
+        ],
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "2769-7541",
+      "2769-755X"
+    ],
+    "topics": [
+      "Decision-Making and Behavioral Economics",
+      "Neural and Behavioral Psychology Studies",
+      "Substance Abuse Treatment and Outcomes"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2025-10-23",
+        "source": "PubMed",
+        "type": "published-online",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41129403/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "PubMed",
+        "id": "41129403",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41129403/"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [],
+    "venueTier": "top",
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.3333333333333333,
+        "weighted": 0.4,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
+  },
+  {
+    "title": "Bioethics and medical oversight in multi-site observational neuroimaging studies with children and adolescents: 10 years of ABCD experience",
+    "doi": "10.1016/j.dcn.2026.101784",
+    "date": "2026-07-23",
+    "kind": "journal",
+    "venue": "Developmental Cognitive Neuroscience",
+    "authorCount": 11,
+    "pmcid": "13476768",
+    "people": {
+      "arielle-baskin-sommers": {
+        "position": 2,
+        "affiliations": [
+          "Yale University"
+        ],
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "1878-9293",
+      "1878-9307"
+    ],
+    "topics": [
+      "Ethics in Clinical Research",
+      "Ethics and Legal Issues in Pediatric Healthcare",
+      "Ethics and bioethics in healthcare"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-07-23",
+        "source": "PubMed",
+        "type": "published-online",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42570410/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "PubMed",
+        "id": "42570410",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42570410/"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Child and adolescent"
+    ],
+    "venueTier": "other",
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.09090909090909091,
+        "weighted": 0.07692307692307693,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      },
+      {
+        "person": "dylan-gee",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.09090909090909091,
+        "weighted": 0.07692307692307693,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
+  },
+  {
+    "title": "The role of state social service spending in moderating mental health outcomes of community violence: A spatial meta-analysis",
+    "doi": "10.1016/j.socscimed.2026.119372",
+    "date": "2026-05-13",
+    "kind": "journal",
+    "venue": "Social Science & Medicine",
+    "authorCount": 8,
+    "pmcid": "",
+    "people": {
+      "arielle-baskin-sommers": {
+        "position": 8,
+        "affiliations": [
+          "Yale University"
+        ],
+        "coFirst": [],
+        "coLast": []
+      }
+    },
+    "issns": [
+      "0277-9536",
+      "1873-5347"
+    ],
+    "topics": [
+      "Crime Patterns and Interventions",
+      "Child Abuse and Trauma",
+      "Posttraumatic Stress Disorder Research"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-05-13",
+        "source": "PubMed",
+        "type": "published-online",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166877/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "PubMed",
+        "id": "42166877",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42166877/"
+      }
+    ],
+    "peerReview": "inferred",
+    "linkedDois": [],
+    "databaseMissing": false,
+    "subfields": [
+      "Trauma",
+      "Child and adolescent"
+    ],
+    "venueTier": "other",
+    "credit": [
+      {
+        "person": "arielle-baskin-sommers",
+        "program": "yale",
+        "current": true,
+        "fractional": 0.125,
+        "weighted": 0.2,
+        "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
+      }
+    ]
   }
 ]

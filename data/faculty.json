@@ -2344,41 +2344,23 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.98,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
+      "ids": [
+        "A5019401974"
       ],
-      "candidates": [
-        {
-          "id": "A5019401974",
-          "name": "Dillon Thomas Browne",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5138074881",
-          "name": "Dillon T. Browne",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "Official byline or public ORCID record and OpenAlex agree. Source: https://orcid.org/0000-0002-7445-6604"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "not run",
+      "crosschecks": {},
       "errors": {}
-    }
+    },
+    "orcid": "0000-0002-7445-6604",
+    "orcidSource": "https://orcid.org/0000-0002-7445-6604",
+    "lab": "https://uwaterloo.ca/familypsycle-lab/"
   },
   {
     "id": "allison-kelly",
@@ -2466,10 +2448,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -2534,10 +2516,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -2573,42 +2555,24 @@
       "ids": [
         "A5018108046"
       ],
-      "confidence": 0.98,
       "status": "resolved",
+      "confidence": 1,
       "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
-      ],
-      "candidates": [
-        {
-          "id": "A5018108046",
-          "name": "David A. Moscovitch",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5049116481",
-          "name": "David H. Moscovitch",
-          "confidence": 0,
-          "evidence": []
-        }
+        "Official byline or public ORCID record and OpenAlex agree. Source: https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch-et-al_scil-model_perspectives_2023.pdf"
       ]
     },
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
-    }
+    },
+    "orcid": "0000-0001-7488-6113",
+    "orcidSource": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch-et-al_scil-model_perspectives_2023.pdf"
   },
   {
     "id": "elizabeth-nilsen",
@@ -2685,10 +2649,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -2790,45 +2754,24 @@
       "ids": [
         "A5004017845"
       ],
-      "confidence": 0.98,
       "status": "resolved",
+      "confidence": 1,
       "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
-      ],
-      "candidates": [
-        {
-          "id": "A5004017845",
-          "name": "Christine L. Purdon",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5161041952",
-          "name": "Christine Purdon",
-          "confidence": 0.63,
-          "evidence": [
-            "Full name or documented name variant",
-            "Multiple research topic terms agree"
-          ]
-        }
+        "Official byline or public ORCID record and OpenAlex agree. Source: https://www.sciencedirect.com/science/article/pii/S0887618522000718"
       ]
     },
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
-    }
+    },
+    "orcid": "0000-0003-0941-6398",
+    "orcidSource": "https://www.sciencedirect.com/science/article/pii/S0887618522000718"
   },
   {
     "id": "uzma-rehman",

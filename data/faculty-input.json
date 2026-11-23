@@ -918,7 +918,10 @@
         ],
         "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
       }
-    ]
+    ],
+    "orcid": "0000-0002-7445-6604",
+    "orcidSource": "https://orcid.org/0000-0002-7445-6604",
+    "lab": "https://uwaterloo.ca/familypsycle-lab/"
   },
   {
     "id": "allison-kelly",
@@ -1000,7 +1003,9 @@
         "onRosterBy": "2014",
         "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
       }
-    ]
+    ],
+    "orcid": "0000-0001-7488-6113",
+    "orcidSource": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch-et-al_scil-model_perspectives_2023.pdf"
   },
   {
     "id": "elizabeth-nilsen",
@@ -1085,7 +1090,9 @@
         "onRosterBy": "2014",
         "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
       }
-    ]
+    ],
+    "orcid": "0000-0003-0941-6398",
+    "orcidSource": "https://www.sciencedirect.com/science/article/pii/S0887618522000718"
   },
   {
     "id": "uzma-rehman",

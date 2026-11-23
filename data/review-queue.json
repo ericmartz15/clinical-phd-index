@@ -331,39 +331,6 @@
       ]
     },
     {
-      "pid": "dillon-browne",
-      "ids": [],
-      "confidence": 0.98,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
-      ],
-      "candidates": [
-        {
-          "id": "A5019401974",
-          "name": "Dillon Thomas Browne",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5138074881",
-          "name": "Dillon T. Browne",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        }
-      ]
-    },
-    {
       "pid": "jonathan-oakman",
       "ids": [],
       "confidence": 0.8,
@@ -2959,6 +2926,76 @@
   "publicationCandidates": [
     {
       "source": "PubMed",
+      "person": "allison-kelly",
+      "id": "42534836",
+      "doi": "10.1136/bmjnph-2025-001480",
+      "title": "\"We treat the symptom, not the system\": a qualitative study exploring connections between food insecurity and disease-related malnutrition in Canada."
+    },
+    {
+      "source": "PubMed",
+      "person": "tara-mcauley",
+      "id": "32194647",
+      "doi": "",
+      "title": "Examining the Impact of Motivation on Working Memory Training in Youth With ADHD."
+    },
+    {
+      "source": "PubMed",
+      "person": "tara-mcauley",
+      "id": "27473334",
+      "doi": "10.1007/s10802-016-0189-x",
+      "title": "Clinical, Sociobiological, and Cognitive Predictors of ADHD Persistence in Children Followed Prospectively Over Time."
+    },
+    {
+      "source": "PubMed",
+      "person": "christine-purdon",
+      "id": "27664817",
+      "doi": "10.1016/j.jbtep.2016.03.005",
+      "title": "Stove checking behaviour in people with OCD vs. anxious controls."
+    },
+    {
+      "source": "PubMed",
+      "person": "christine-purdon",
+      "id": "26886575",
+      "doi": "10.1007/s00426-016-0756-3",
+      "title": "Intrusive thoughts: linking spontaneous mind wandering and OCD symptomatology."
+    },
+    {
+      "source": "PubMed",
+      "person": "uzma-rehman",
+      "id": "39824908",
+      "doi": "10.1038/s41598-025-85448-7",
+      "title": "Exploring technology acceptance of flight simulation training devices and augmented reality in general aviation pilot training."
+    },
+    {
+      "source": "PubMed",
+      "person": "uzma-rehman",
+      "id": "36059783",
+      "doi": "10.3389/fpsyg.2022.909875",
+      "title": "Investigating male gamers' behavioral intention to play PUBG: Insights from playful-consumption experiences."
+    },
+    {
+      "source": "PubMed",
+      "person": "uzma-rehman",
+      "id": "34842539",
+      "doi": "10.2196/30310",
+      "title": "Predicting Video Game Addiction Through the Dimensions of Consumer Video Game Engagement: Quantitative and Cross-sectional Study."
+    },
+    {
+      "source": "PubMed",
+      "person": "uzma-rehman",
+      "id": "33192855",
+      "doi": "10.3389/fpsyg.2020.570236",
+      "title": "Nuances of COVID-19 and Psychosocial Work Environment on Nurses' Wellbeing: The Mediating Role of Stress and Eustress in Lieu to JD-R Theory."
+    },
+    {
+      "source": "PubMed",
+      "person": "uzma-rehman",
+      "id": "32090111",
+      "doi": "10.1155/2020/7680960",
+      "title": "Malay Validation of Copenhagen Psychosocial Work Environment Questionnaire in Context of Second Generation Statistical Techniques."
+    },
+    {
+      "source": "PubMed",
       "person": "matthew-nock",
       "id": "40909806",
       "doi": "10.21203/rs.3.rs-7236847/v1",
@@ -3621,41 +3658,6 @@
       "id": "36993329",
       "doi": "10.21203/rs.3.rs-2682358/v1",
       "title": "The Influence of Pandemic-Related Worries During Pregnancy on Child Development at 12 Months."
-    },
-    {
-      "source": "PubMed",
-      "person": "uzma-rehman",
-      "id": "39824908",
-      "doi": "10.1038/s41598-025-85448-7",
-      "title": "Exploring technology acceptance of flight simulation training devices and augmented reality in general aviation pilot training."
-    },
-    {
-      "source": "PubMed",
-      "person": "uzma-rehman",
-      "id": "36059783",
-      "doi": "10.3389/fpsyg.2022.909875",
-      "title": "Investigating male gamers' behavioral intention to play PUBG: Insights from playful-consumption experiences."
-    },
-    {
-      "source": "PubMed",
-      "person": "uzma-rehman",
-      "id": "34842539",
-      "doi": "10.2196/30310",
-      "title": "Predicting Video Game Addiction Through the Dimensions of Consumer Video Game Engagement: Quantitative and Cross-sectional Study."
-    },
-    {
-      "source": "PubMed",
-      "person": "uzma-rehman",
-      "id": "33192855",
-      "doi": "10.3389/fpsyg.2020.570236",
-      "title": "Nuances of COVID-19 and Psychosocial Work Environment on Nurses' Wellbeing: The Mediating Role of Stress and Eustress in Lieu to JD-R Theory."
-    },
-    {
-      "source": "PubMed",
-      "person": "uzma-rehman",
-      "id": "32090111",
-      "doi": "10.1155/2020/7680960",
-      "title": "Malay Validation of Copenhagen Psychosocial Work Environment Questionnaire in Context of Second Generation Statistical Techniques."
     },
     {
       "source": "PubMed",

@@ -160,5 +160,17 @@
     "id": "10.1002/eat.24224",
     "reason": "Publisher labels this item a commentary. External peer review was not confirmed.",
     "evidence": "https://onlinelibrary.wiley.com/doi/10.1002/eat.24224"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1016/j.biopsych.2024.02.188",
+    "reason": "The publisher labels this a conference abstract. The full journal article has its own DOI.",
+    "evidence": "https://www.biologicalpsychiatryjournal.com/article/S0006-3223%2824%2900289-0/abstract"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1016/j.biopsych.2025.12.002",
+    "reason": "The research group lists this item as commentary. External peer review was not confirmed.",
+    "evidence": "https://modlab.yale.edu/publications"
   }
 ]

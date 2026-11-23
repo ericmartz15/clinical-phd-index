@@ -108,7 +108,12 @@ def merge(sources):
     for work in groups:
         work["databaseMissing"] = all(source["source"] in {"CV", "Lab"} for source in work["provenance"])
         work["subfields"] = subfields(work["title"], work["topics"])
-    return groups
+    # An indexed journal DOI can also appear on a misclassified repository record.
+    # Independently registered preprint DOIs remain distinct.
+    verified_journal_dois = {work["doi"] for work in groups if work["kind"] == "journal" and work["doi"]
+                             and any(source["source"] in {"Publisher", "Crossref", "PubMed"}
+                                     for source in work["provenance"])}
+    return [work for work in groups if work["kind"] != "preprint" or work["doi"] not in verified_journal_dois]
 
 
 def weight(n, position, first_positions=(), last_positions=(), cap=50):

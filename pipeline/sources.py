@@ -178,8 +178,12 @@ def oa_record(row, author, person):
     journals = [source for source in [primary, *locations] if source.get("type") == "journal"]
     kind = "preprint" if row.get("type") == "preprint" else "journal" if journals else None
     doi = doi_key(row.get("doi"))
-    if kind == "preprint" and not (doi.startswith("10.31234/") or any("psyarxiv" in source.get("display_name", "").lower() for source in locations)):
-        return None
+    if kind == "preprint":
+        is_psyarxiv = doi.startswith("10.31234/") if doi else any(
+            "psyarxiv" in source.get("display_name", "").lower() for source in locations
+        )
+        if not is_psyarxiv:
+            return None
     if not kind:
         return None
     date = row.get("publication_date") or ""

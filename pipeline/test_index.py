@@ -10,7 +10,7 @@ from collect import stage_publications
 from common import creditable_appointments, doi_key, merge, normalize, weight
 from directories import cpa_rows
 from rosters import Page
-from sources import Client, OA, SourceUnavailable, published_byline
+from sources import Client, OA, SourceUnavailable, oa_record, published_byline
 
 
 class ScoringTest(unittest.TestCase):
@@ -93,6 +93,18 @@ class DataTest(unittest.TestCase):
         self.assertEqual(article["date"], "2022-04-01")
         self.assertEqual(doi_key(publisher["doi"]), article["doi"])
         self.assertEqual(len(article["provenance"]), 2)
+
+    def test_verified_journal_doi_replaces_misclassified_preprint(self):
+        preprint = {"title": "A paper", "doi": "10.1234/example", "date": "2022-06-01", "kind": "preprint",
+                    "provenance": [{"source": "OpenAlex"}], "evidenceDates": [{"date": "2022-06-01", "type": "publication"}]}
+        journal = dict(preprint, kind="journal", provenance=[{"source": "PubMed"}],
+                       evidenceDates=[{"date": "2022-07-01", "type": "published-online"}])
+        self.assertEqual([(work["kind"], work["date"]) for work in merge([preprint, journal])],
+                         [("journal", "2022-07-01")])
+        row = {"title": preprint["title"], "doi": preprint["doi"], "type": "preprint",
+               "authorships": [{"author": {"id": "https://openalex.org/A123"}}],
+               "locations": [{"source": {"display_name": "PsyArXiv"}}]}
+        self.assertIsNone(oa_record(row, "A123", "faculty"))
 
     def test_no_small_sample_promotion(self):
         faculty = [{"id":"a","appointments":[{"role":"tenure-track","current":True}]}]
