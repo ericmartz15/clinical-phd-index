@@ -244,7 +244,7 @@ def main():
     parser.add_argument("--allow-partial", action="store_true")
     parser.add_argument("--skip-crosschecks", action="store_true")
     parser.add_argument("--previous-snapshot", type=Path,
-                        help="Retain prior evidence for unchanged faculty inputs during a primary-only refresh")
+                        help="Retain prior evidence for unchanged faculty inputs during a refresh")
     parser.add_argument("--refresh-program", action="append", default=[],
                         help="Refresh a program ID while carrying forward evidence for other unchanged faculty")
     parser.add_argument("--crosscheck-limit", type=int, help="Limit DOI lookups per author for diagnostics")
@@ -268,8 +268,8 @@ def main():
     independent = read(DATA / "reviewed-works.json", [])
     reference = read(DATA / "audit-references.json", {})
     previous = args.previous_snapshot
-    if previous and not args.skip_crosschecks:
-        parser.error("--previous-snapshot requires --skip-crosschecks")
+    if previous and not args.skip_crosschecks and not selected:
+        parser.error("A full refresh with --previous-snapshot requires at least one --refresh-program")
     records, faculty, queue = list(independent), [], []
     prior_people, reusable = {}, set()
     if previous:

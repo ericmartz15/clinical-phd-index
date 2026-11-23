@@ -7,7 +7,7 @@ on:
         options: [full, primary]
         default: full
       programs:
-        description: Space-separated program IDs for a targeted primary refresh
+        description: Space-separated program IDs for a targeted refresh
         type: string
         default: ''
       audit_stage:
@@ -48,17 +48,17 @@ jobs:
             args+=(--calibration-report data/calibration-report.json)
           fi
           if [[ "$RETRIEVAL" == primary ]]; then
+            args+=(--skip-crosschecks)
+          fi
+          if [[ "$RETRIEVAL" == primary || -n "$PROGRAMS" ]]; then
             prior="${{ runner.temp }}/previous-publication-evidence"
             mkdir -p "$prior"
             cp data/{faculty,publications,review-queue}.json "$prior/"
-            args+=(--skip-crosschecks --previous-snapshot "$prior")
+            args+=(--previous-snapshot "$prior")
             read -r -a selected <<< "$PROGRAMS"
             for program in "${selected[@]}"; do
               args+=("--refresh-program=$program")
             done
-          elif [[ -n "$PROGRAMS" ]]; then
-            echo 'Targeted program refreshes require primary retrieval.'
-            exit 1
           fi
           python pipeline/build.py --cache "${{ runner.temp }}/publication-cache" --network --audit-stage "$AUDIT_STAGE" --audit-seed "$AUDIT_SEED" --report-target "${{ github.server_url }}/${{ github.repository }}/issues/new" "${args[@]}"
       - uses: actions/upload-artifact@v4
