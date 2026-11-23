@@ -3071,5 +3071,597 @@
         "source": "https://www.bu.edu/psych/academics/phd/clinical/applying/"
       }
     ]
+  },
+  {
+    "id": "shannon-dorsey",
+    "name": "Shannon Dorsey",
+    "aliases": [
+      "Shannon M. Dorsey"
+    ],
+    "areas": [
+      "child trauma",
+      "implementation science",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "angela-fang",
+    "name": "Angela Fang",
+    "aliases": [
+      "Angela F. Fang"
+    ],
+    "areas": [
+      "anxiety",
+      "obsessive compulsive disorder",
+      "social cognition"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "jennifer-forsyth",
+    "name": "Jennifer Forsyth",
+    "aliases": [
+      "Jennifer K. Forsyth"
+    ],
+    "areas": [
+      "psychosis",
+      "schizophrenia",
+      "genetics"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "katherine-t-foster",
+    "name": "Katherine T. Foster",
+    "aliases": [
+      "Katherine Foster"
+    ],
+    "areas": [
+      "adolescent mental health",
+      "substance use",
+      "depression"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "william-george",
+    "name": "William George",
+    "aliases": [
+      "William H. George"
+    ],
+    "areas": [
+      "alcohol",
+      "substance use",
+      "sexual health"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "debrielle-t-jacques",
+    "name": "Debrielle T. Jacques",
+    "aliases": [
+      "Debrielle Jacques"
+    ],
+    "areas": [
+      "developmental psychopathology",
+      "adolescent development",
+      "family"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "jonathan-kanter",
+    "name": "Jonathan Kanter",
+    "aliases": [
+      "Jonathan W. Kanter"
+    ],
+    "areas": [
+      "depression",
+      "behavioral activation",
+      "social connection"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "lynn-fainsilber-katz",
+    "name": "Lynn Fainsilber Katz",
+    "aliases": [
+      "Lynn F. Katz",
+      "Lynn Katz"
+    ],
+    "areas": [
+      "child development",
+      "emotion regulation",
+      "family relationships"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "kevin-king",
+    "name": "Kevin King",
+    "aliases": [
+      "Kevin M. King"
+    ],
+    "areas": [
+      "adolescent substance use",
+      "research methods",
+      "alcohol"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "mary-larimer",
+    "name": "Mary Larimer",
+    "aliases": [
+      "Mary E. Larimer"
+    ],
+    "areas": [
+      "alcohol",
+      "substance use",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "liliana-lengua",
+    "name": "Liliana Lengua",
+    "aliases": [
+      "Liliana J. Lengua"
+    ],
+    "areas": [
+      "child development",
+      "temperament",
+      "resilience"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "priscilla-lui",
+    "name": "Priscilla Lui",
+    "aliases": [
+      "Priscilla P. Lui"
+    ],
+    "areas": [
+      "alcohol",
+      "health disparities",
+      "acculturation"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "lori-zoellner",
+    "name": "Lori Zoellner",
+    "aliases": [
+      "Lori A. Zoellner"
+    ],
+    "areas": [
+      "trauma",
+      "posttraumatic stress",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-174",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Washington",
+          "university of washington"
+        ],
+        "source": "https://psych.uw.edu/people/faculty?area=clinical"
+      }
+    ]
+  },
+  {
+    "id": "margaret-fields-olivieri",
+    "name": "Margaret Fields-Olivieri",
+    "aliases": [
+      "Margaret A. Fields-Olivieri",
+      "Margaret A. Olivieri"
+    ],
+    "areas": [
+      "language",
+      "child development",
+      "parenting"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ]
+  },
+  {
+    "id": "susan-p-keane",
+    "name": "Susan P. Keane",
+    "aliases": [
+      "Susan Keane"
+    ],
+    "areas": [
+      "child psychopathology",
+      "peer relationships",
+      "attention"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ]
+  },
+  {
+    "id": "rosemery-o-nelson-gray",
+    "name": "Rosemery O. Nelson-Gray",
+    "aliases": [
+      "Rosemery Nelson-Gray"
+    ],
+    "areas": [
+      "behavior therapy",
+      "personality",
+      "assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ]
+  },
+  {
+    "id": "danielle-weber",
+    "name": "Danielle Weber",
+    "aliases": [
+      "Danielle M. Weber"
+    ],
+    "areas": [
+      "couples",
+      "relationships",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ]
+  },
+  {
+    "id": "kari-m-eddington",
+    "name": "Kari M. Eddington",
+    "aliases": [
+      "Kari Eddington"
+    ],
+    "areas": [
+      "depression",
+      "emotion",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ]
+  },
+  {
+    "id": "michaeline-jensen",
+    "name": "Michaeline Jensen",
+    "aliases": [
+      "Michaeline D. Jensen"
+    ],
+    "areas": [
+      "adolescent mental health",
+      "relationships",
+      "digital media"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ]
+  },
+  {
+    "id": "julia-mendez",
+    "name": "Julia Mendez",
+    "aliases": [
+      "Julia L. Mendez"
+    ],
+    "areas": [
+      "family",
+      "child development",
+      "school readiness"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ]
+  },
+  {
+    "id": "suzanne-vrshek-schallhorn",
+    "name": "Suzanne Vrshek-Schallhorn",
+    "aliases": [
+      "Suzanne Schallhorn"
+    ],
+    "areas": [
+      "stress",
+      "depression",
+      "neuroendocrinology"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ]
+  },
+  {
+    "id": "blair-wisco",
+    "name": "Blair Wisco",
+    "aliases": [
+      "Blair E. Wisco"
+    ],
+    "areas": [
+      "trauma",
+      "posttraumatic stress",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "program-124",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of North Carolina Greensboro",
+          "university of north carolina at greensboro",
+          "university of north carolina greensboro",
+          "unc greensboro"
+        ],
+        "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+      }
+    ]
   }
 ]

@@ -5807,7 +5807,22 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://psy.uncg.edu/people-2/faculty-by-program/",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-23",
+      "scope": "Current Clinical Psychology roster from the department’s program-specific directory, excluding the academic professional clinic director.",
+      "sources": [],
+      "roleDecisions": [
+        {
+          "name": "Ilana S. Berman",
+          "label": "Academic professional clinic director",
+          "reason": "The department lists an academic professional appointment in clinical training.",
+          "source": "https://psy.uncg.edu/people-2/faculty-by-program/"
+        }
+      ]
+    }
   },
   {
     "id": "program-125",
@@ -8149,7 +8164,33 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://psych.uw.edu/people/faculty?area=clinical",
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-23",
+      "scope": "Current departmental faculty with Adult Clinical or Child Clinical advising areas were checked. Explicitly titled practice and clinical appointments require separate role decisions.",
+      "sources": [
+        {
+          "label": "Clinical PhD adult and child tracks",
+          "url": "https://psych.uw.edu/graduate/areas/clinical"
+        }
+      ],
+      "roleDecisions": [
+        {
+          "name": "Melissa Durland",
+          "label": "Professor of clinical practice",
+          "reason": "The directory lists a clinical practice appointment.",
+          "source": "https://psych.uw.edu/people/faculty?area=clinical"
+        },
+        {
+          "name": "Vibh Forsythe Cox",
+          "label": "Clinical associate professor",
+          "reason": "Research-track eligibility remains under review.",
+          "source": "https://psych.uw.edu/people/faculty?area=clinical"
+        }
+      ]
+    }
   },
   {
     "id": "program-175",
