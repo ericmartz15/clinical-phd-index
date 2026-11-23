@@ -239,5 +239,19 @@
     "evidence": [
       "The named researcher and listed ORCID agree with OpenAlex. Source: https://orcid.org/0000-0002-4883-1028"
     ]
+  },
+  "allison-harvey": {
+    "ids": [
+      "A5075976451",
+      "A5133029617",
+      "A5153012308"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "splitReview": true,
+    "evidence": [
+      "OpenAlex author and published Berkeley byline agree on the ORCID. Source: https://pubmed.ncbi.nlm.nih.gov/35079830/",
+      "The sole works on A5133029617 and A5153012308 have matching publisher or PubMed bylines reviewed by DOI. Other author fragments remain under review."
+    ]
   }
 }

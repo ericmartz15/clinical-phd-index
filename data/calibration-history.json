@@ -304,5 +304,64 @@
         "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
       }
     ]
+  },
+  {
+    "label": "Harvey CV check before DOI recovery",
+    "corpusSha256": "e3bef73750f7e6888462d9cdfb6f22a40e7de5d3de842c38325890b801ad268a",
+    "audited": 8,
+    "matches": 259,
+    "denominator": 264,
+    "missing": [
+      {
+        "person": "daniel-taylor",
+        "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+        "doi": "",
+        "date": "2023-06-01",
+        "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+        "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+        "matched": false,
+        "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+      },
+      {
+        "person": "allison-harvey",
+        "title": "The impact of the Memory Support Intervention on therapist memory for treatment contents.",
+        "doi": "10.1016/j.brat.2026.105104",
+        "date": "2026-06-26",
+        "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42385266",
+        "matched": false,
+        "reason": "OpenAlex assigns the publisher’s Allison G. Harvey byline to a coauthor’s OpenAlex ID and ORCID."
+      },
+      {
+        "person": "allison-harvey",
+        "title": "Therapist memory for treatment contents: Implications for patient outcomes.",
+        "doi": "10.1016/j.brat.2026.105037",
+        "date": "2026-04-06",
+        "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41955881",
+        "matched": false,
+        "reason": "OpenAlex assigns the byline to a second author ID with a single work. The author’s CV and PubMed journal byline confirm the match."
+      },
+      {
+        "person": "allison-harvey",
+        "title": "Maximizing benefits from evidence-based psychological treatments: Memory support and habit formation as key strategies.",
+        "doi": "10.1016/j.brat.2025.104767",
+        "date": "2025-05-13",
+        "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40398069",
+        "matched": false,
+        "reason": "OpenAlex attaches a different person’s ORCID to the sole byline and leaves its author ID empty. The faculty bibliography and publisher identify Allison G. Harvey."
+      },
+      {
+        "person": "allison-harvey",
+        "title": "Validation of the French version of the Sleep Inertia Questionnaire (SIQ) and its assessment in sleep disorders.",
+        "doi": "10.1016/j.sleep.2026.109287",
+        "date": "2026-09-26",
+        "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42849378",
+        "matched": false,
+        "reason": "OpenAlex created a separate author ID from a spelling variant. The PubMed record confirms the name and Berkeley affiliation."
+      }
+    ]
   }
 ]

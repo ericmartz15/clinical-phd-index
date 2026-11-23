@@ -13,6 +13,21 @@
       "splitReview": true
     },
     {
+      "pid": "allison-harvey",
+      "ids": [
+        "A5075976451",
+        "A5133029617",
+        "A5153012308"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "splitReview": true,
+      "evidence": [
+        "OpenAlex author and published Berkeley byline agree on the ORCID. Source: https://pubmed.ncbi.nlm.nih.gov/35079830/",
+        "The sole works on A5133029617 and A5153012308 have matching publisher or PubMed bylines reviewed by DOI. Other author fragments remain under review."
+      ]
+    },
+    {
       "pid": "mark-chen",
       "ids": [
         "A5071692667"
@@ -2317,6 +2332,628 @@
           "evidence": []
         }
       ]
+    },
+    {
+      "pid": "natalie-rosen",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5052680860",
+          "name": "Natalie O. Rosen",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5048168344",
+          "name": "Natalie S. Rosen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5070566949",
+          "name": "Natalie Rosen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5083779438",
+          "name": "Natalie Rosen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5106336274",
+          "name": "Natalie Rosen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "shannon-johnson",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5114626577",
+          "name": "Shannon A. Johnson",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5006445484",
+          "name": "Shannon L. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5057073884",
+          "name": "Shannon K. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5073351073",
+          "name": "Shannon Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5089247863",
+          "name": "Shannon B. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "christine-chambers",
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5048869980",
+          "name": "Christine T. Chambers",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5125297870",
+          "name": "Christine Chambers",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5036078727",
+          "name": "Christine Anne Chambers",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5078263624",
+          "name": "Christine Chambers",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5019702164",
+          "name": "Patrick J. Mcgrath ve Christine T. Chambers",
+          "confidence": 0.18,
+          "evidence": [
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "ellen-jopling",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5058345563",
+          "name": "Ellen N. Jopling",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5158452614",
+          "name": "Ellen Jopling",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "simon-sherry",
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5103131231",
+          "name": "Simon Sherry",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5158769723",
+          "name": "Simon Sherry",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5058327495",
+          "name": "Sherry Simon",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5147573413",
+          "name": "Sherry Simon",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5026001909",
+          "name": "S L Mills",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "pid": "sherry-stewart",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5013987116",
+          "name": "Stewart Sa",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5049366349",
+          "name": "Sherry H. Stewart",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5014558632",
+          "name": "Sherry M. Stewart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5103903816",
+          "name": "Sherry Stewart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5114250335",
+          "name": "Sherry Stewart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "molly-cairncross",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5080885901",
+          "name": "Molly Cairncross",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "alexander-chapman",
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5042419426",
+          "name": "Alexander L. Chapman",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5091157966",
+          "name": "Alex L. Chapman",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5000055173",
+          "name": "Alexander Chapman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5004126554",
+          "name": "Alexander Chapman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5010740491",
+          "name": "Alex Chapman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "rebecca-cobb",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5000846228",
+          "name": "Rebecca J. Cobb",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5016371649",
+          "name": "Rebecca Cobb",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5058223142",
+          "name": "Rebecca Cobb",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5062349910",
+          "name": "Rebecca Cobb",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5103948044",
+          "name": "Rebecca Cobb",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "david-cox",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5156619011",
+          "name": "David N. Cox",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5014043242",
+          "name": "David Alan Cox",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5017595704",
+          "name": "David G. Cox",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5026875445",
+          "name": "David N. Cox",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5087427052",
+          "name": "David E. Cox",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "marlene-moretti",
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5084640796",
+          "name": "Marlene M. Moretti",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5130691518",
+          "name": "Marlene Moretti",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5103625078",
+          "name": "Marlene Marie Moretti",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "angelina-polsinelli",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5011974531",
+          "name": "Angelina J. Polsinelli",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "allen-thornton",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5018971948",
+          "name": "Allen E. Thornton",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5137679171",
+          "name": "E. Thornton Allen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5028887336",
+          "name": "Allen L. Thornton",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5037690460",
+          "name": "Wesley A. Thornton",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5048471884",
+          "name": "Chad A. Steed",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "pid": "wendy-thornton",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5032778782",
+          "name": "Wendy Loken Thornton",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5076337183",
+          "name": "Wendy A. Thornton",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     }
   ],
   "publicationCandidates": [
@@ -3126,6 +3763,211 @@
     {
       "person": "giovanni-ramos",
       "doi": "10.1038/s44220-025-00467-7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "penny-corkum",
+      "doi": "10.1521/adhd.2017.25.3.1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "penny-corkum",
+      "doi": "10.5539/jedp.v13n2p95",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kevin-douglas",
+      "doi": "10.1037/vio0000313",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kevin-douglas",
+      "doi": "10.1037/per0000333",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kevin-douglas",
+      "doi": "10.1037/tam0000229",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kevin-douglas",
+      "doi": "10.1177/14773708251365065",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kevin-douglas",
+      "doi": "10.1037/tam0000247",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kevin-douglas",
+      "doi": "10.1037/tam0000270",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "stephen-hart",
+      "doi": "10.1037/lhb0000353",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "stephen-hart",
+      "doi": "10.1037/tam0000226",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "stephen-hart",
+      "doi": "10.1037/tam0000087",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "stephen-hart",
+      "doi": "10.1037/tam0000094",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1037/pas0000438",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1037/lhb0000250",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1080/13803395.2019.1644294",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1177/10731911211067535",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1177/0093854818760643",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1037/tam0000101",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1080/13854046.2022.2077237",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1037/tra0000593",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1177/0093854821997520",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1080/14999013.2022.2053000",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1080/14999013.2019.1707330",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1037/pro0000271",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1037/tam0000227",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1177/10731911251368062",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1080/14999013.2018.1552634",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1037/lhb0000247",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1016/j.copsyc.2023.101659",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1037/pas0001016",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1037/cap0000354",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1177/00938548241262490",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1016/j.ijlp.2024.101988",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1080/14999013.2016.1255281",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1177/0093854817745912",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1037/law0000459",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1080/14999013.2023.2243853",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1016/j.ijlp.2020.101643",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1177/14999013251356519",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1177/1476718x231186620",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "alicia-nijdam-jones",
+      "doi": "10.1177/14999013261484971",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -10551,6 +11393,11 @@
     {
       "person": "shirley-wang",
       "doi": "10.31234/osf.io/q2ezw",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "stephen-hart",
+      "doi": "",
       "issue": "Eligible appointment at publication unverified"
     },
     {

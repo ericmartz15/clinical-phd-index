@@ -1138,5 +1138,212 @@
         "appointmentSource": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf"
       }
     ]
+  },
+  {
+    "title": "The impact of the Memory Support Intervention on therapist memory for treatment contents.",
+    "doi": "10.1016/j.brat.2026.105104",
+    "date": "2026-06-26",
+    "kind": "journal",
+    "venue": "Behaviour Research and Therapy",
+    "authorCount": 4,
+    "pmcid": "",
+    "issns": [
+      "0005-7967",
+      "1873-622X"
+    ],
+    "people": {
+      "allison-harvey": {
+        "position": 4,
+        "affiliations": [
+          "University of California, Berkeley"
+        ],
+        "identityNote": "OpenAlex assigns the publisher’s Allison G. Harvey byline to a coauthor’s OpenAlex ID and ORCID."
+      }
+    },
+    "topics": [
+      "Psychotherapy Techniques and Applications",
+      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+      "Memory Processes and Influences"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-06-26",
+        "source": "PubMed",
+        "type": "published-online",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42385266"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7166012916",
+        "url": "https://openalex.org/W7166012916"
+      },
+      {
+        "source": "PubMed",
+        "id": "42385266",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42385266"
+      },
+      {
+        "source": "CV",
+        "id": "10.1016/j.brat.2026.105104",
+        "url": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx"
+      }
+    ],
+    "peerReview": "inferred"
+  },
+  {
+    "title": "Therapist memory for treatment contents: Implications for patient outcomes.",
+    "doi": "10.1016/j.brat.2026.105037",
+    "date": "2026-04-06",
+    "kind": "journal",
+    "venue": "Behaviour Research and Therapy",
+    "authorCount": 5,
+    "pmcid": "",
+    "issns": [
+      "0005-7967",
+      "1873-622X"
+    ],
+    "people": {
+      "allison-harvey": {
+        "position": 5,
+        "affiliations": [
+          "University of California, Berkeley"
+        ],
+        "identityNote": "OpenAlex assigns the byline to a second author ID with a single work. The author’s CV and PubMed journal byline confirm the match."
+      }
+    },
+    "topics": [
+      "Psychotherapy Techniques and Applications",
+      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+      "Memory Processes and Influences"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-04-06",
+        "source": "PubMed",
+        "type": "published-online",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41955881"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7150897471",
+        "url": "https://openalex.org/W7150897471"
+      },
+      {
+        "source": "PubMed",
+        "id": "41955881",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41955881"
+      },
+      {
+        "source": "CV",
+        "id": "10.1016/j.brat.2026.105037",
+        "url": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx"
+      }
+    ],
+    "peerReview": "inferred"
+  },
+  {
+    "title": "Maximizing benefits from evidence-based psychological treatments: Memory support and habit formation as key strategies.",
+    "doi": "10.1016/j.brat.2025.104767",
+    "date": "2025-05-13",
+    "kind": "journal",
+    "venue": "Behaviour Research and Therapy",
+    "authorCount": 1,
+    "pmcid": "",
+    "issns": [
+      "0005-7967",
+      "1873-622X"
+    ],
+    "people": {
+      "allison-harvey": {
+        "position": 1,
+        "affiliations": [
+          "University of California, Berkeley"
+        ],
+        "identityNote": "OpenAlex attaches a different person’s ORCID to the sole byline and leaves its author ID empty. The faculty bibliography and publisher identify Allison G. Harvey."
+      }
+    },
+    "topics": [
+      "Psychotherapy Techniques and Applications",
+      "Anxiety, Depression, Psychometrics, Treatment, Cognitive Processes",
+      "Digital Mental Health Interventions"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2025-05-13",
+        "source": "PubMed",
+        "type": "published-online",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40398069"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W4410315579",
+        "url": "https://openalex.org/W4410315579"
+      },
+      {
+        "source": "PubMed",
+        "id": "40398069",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40398069"
+      },
+      {
+        "source": "CV",
+        "id": "10.1016/j.brat.2025.104767",
+        "url": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx"
+      }
+    ],
+    "peerReview": "inferred"
+  },
+  {
+    "title": "Validation of the French version of the Sleep Inertia Questionnaire (SIQ) and its assessment in sleep disorders.",
+    "doi": "10.1016/j.sleep.2026.109287",
+    "date": "2026-09-26",
+    "kind": "journal",
+    "venue": "Sleep Medicine",
+    "authorCount": 11,
+    "pmcid": "",
+    "issns": [
+      "1389-9457",
+      "1878-5506"
+    ],
+    "people": {
+      "allison-harvey": {
+        "position": 8,
+        "affiliations": [
+          "University of California, Berkeley"
+        ],
+        "identityNote": "OpenAlex created a separate author ID from a spelling variant. The PubMed record confirms the name and Berkeley affiliation."
+      }
+    },
+    "topics": [
+      "Sleep and related disorders",
+      "Obstructive Sleep Apnea Research",
+      "Sleep and Wakefulness Research"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-09-26",
+        "source": "PubMed",
+        "type": "published-online",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42849378"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7214477652",
+        "url": "https://openalex.org/W7214477652"
+      },
+      {
+        "source": "PubMed",
+        "id": "42849378",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42849378"
+      }
+    ],
+    "peerReview": "inferred"
   }
 ]

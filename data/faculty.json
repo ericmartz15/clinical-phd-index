@@ -246,20 +246,24 @@
       }
     ],
     "orcid": "0000-0002-8609-0005",
-    "orcidSource": "https://vcresearch.berkeley.edu/faculty/allison-harvey",
+    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/35079830/",
     "lab": "https://harveysleeplab.berkeley.edu/",
     "identity": {
       "ids": [
-        "A5075976451"
+        "A5075976451",
+        "A5133029617",
+        "A5153012308"
       ],
-      "confidence": 1,
       "status": "resolved",
+      "confidence": 1,
+      "splitReview": true,
       "evidence": [
-        "ORCID match"
+        "OpenAlex author and published Berkeley byline agree on the ORCID. Source: https://pubmed.ncbi.nlm.nih.gov/35079830/",
+        "The sole works on A5133029617 and A5153012308 have matching publisher or PubMed bylines reviewed by DOI. Other author fragments remain under review."
       ]
     },
     "retrieval": {
-      "openAlex": "complete",
+      "openAlex": "partial",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
@@ -267,7 +271,8 @@
         "PsyArXiv": "not run"
       },
       "errors": {}
-    }
+    },
+    "cv": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx"
   },
   {
     "id": "michelle-craske",
@@ -11541,6 +11546,1505 @@
     },
     "retrieval": {
       "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "natalie-rosen",
+    "name": "Natalie Rosen",
+    "aliases": [
+      "Natalie O. Rosen"
+    ],
+    "areas": [
+      "sexual health",
+      "couples",
+      "pain"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5052680860",
+          "name": "Natalie O. Rosen",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5048168344",
+          "name": "Natalie S. Rosen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5070566949",
+          "name": "Natalie Rosen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5083779438",
+          "name": "Natalie Rosen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5106336274",
+          "name": "Natalie Rosen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "shannon-johnson",
+    "name": "Shannon Johnson",
+    "aliases": [
+      "Shannon A. Johnson"
+    ],
+    "areas": [
+      "neuropsychology",
+      "attention",
+      "neurodevelopment"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5114626577",
+          "name": "Shannon A. Johnson",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5006445484",
+          "name": "Shannon L. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5057073884",
+          "name": "Shannon K. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5073351073",
+          "name": "Shannon Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5089247863",
+          "name": "Shannon B. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "christine-chambers",
+    "name": "Christine Chambers",
+    "aliases": [
+      "Christine T. Chambers"
+    ],
+    "areas": [
+      "pediatric pain",
+      "knowledge translation",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5048869980",
+          "name": "Christine T. Chambers",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5125297870",
+          "name": "Christine Chambers",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5036078727",
+          "name": "Christine Anne Chambers",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5078263624",
+          "name": "Christine Chambers",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5019702164",
+          "name": "Patrick J. Mcgrath ve Christine T. Chambers",
+          "confidence": 0.18,
+          "evidence": [
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "penny-corkum",
+    "name": "Penny Corkum",
+    "aliases": [
+      "Penny V. Corkum"
+    ],
+    "areas": [
+      "pediatric sleep",
+      "attention",
+      "digital interventions"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5012169628"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5012169628",
+          "name": "Penny Violet Corkum",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "ellen-jopling",
+    "name": "Ellen Jopling",
+    "aliases": [
+      "Ellen N. Jopling"
+    ],
+    "areas": [
+      "developmental psychopathology",
+      "early adversity",
+      "stress"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": "2026-07-01",
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ],
+        "dateSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/news%26events/2026/06/29/dr__ellen_jopling_joins_dalhousie_with_banting_discovery_award.html"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5058345563",
+          "name": "Ellen N. Jopling",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5158452614",
+          "name": "Ellen Jopling",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "simon-sherry",
+    "name": "Simon Sherry",
+    "aliases": [
+      "Simon B. Sherry"
+    ],
+    "areas": [
+      "perfectionism",
+      "depression",
+      "eating disorders"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5103131231",
+          "name": "Simon Sherry",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5158769723",
+          "name": "Simon Sherry",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5058327495",
+          "name": "Sherry Simon",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5147573413",
+          "name": "Sherry Simon",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5026001909",
+          "name": "S L Mills",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "sherry-stewart",
+    "name": "Sherry Stewart",
+    "aliases": [
+      "Sherry H. Stewart"
+    ],
+    "areas": [
+      "addiction",
+      "anxiety",
+      "trauma"
+    ],
+    "appointments": [
+      {
+        "program": "dalhousie-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.dal.ca/faculty/science/psychology_neuroscience/programs/graduate-programs/clinical-psychology/clinical-faculty.html",
+        "roleSource": "https://medicine.dal.ca/departments/department-sites/psychiatry/our-people/faculty/sherry-stewart.html",
+        "affiliations": [
+          "Dalhousie University",
+          "Dalhousie University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5013987116",
+          "name": "Stewart Sa",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5049366349",
+          "name": "Sherry H. Stewart",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5014558632",
+          "name": "Sherry M. Stewart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5103903816",
+          "name": "Sherry Stewart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5114250335",
+          "name": "Sherry Stewart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "molly-cairncross",
+    "name": "Molly Cairncross",
+    "aliases": [
+      "Molly B. Cairncross"
+    ],
+    "areas": [
+      "concussion",
+      "neuropsychology",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5080885901",
+          "name": "Molly Cairncross",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "alexander-chapman",
+    "name": "Alexander Chapman",
+    "aliases": [
+      "Alex Chapman",
+      "Alexander L. Chapman"
+    ],
+    "areas": [
+      "borderline personality disorder",
+      "emotion regulation",
+      "self-injury"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5042419426",
+          "name": "Alexander L. Chapman",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5091157966",
+          "name": "Alex L. Chapman",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5000055173",
+          "name": "Alexander Chapman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5004126554",
+          "name": "Alexander Chapman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5010740491",
+          "name": "Alex Chapman",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "rebecca-cobb",
+    "name": "Rebecca Cobb",
+    "aliases": [
+      "Rebecca J. Cobb"
+    ],
+    "areas": [
+      "couples",
+      "relationships",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5000846228",
+          "name": "Rebecca J. Cobb",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5016371649",
+          "name": "Rebecca Cobb",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5058223142",
+          "name": "Rebecca Cobb",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5062349910",
+          "name": "Rebecca Cobb",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5103948044",
+          "name": "Rebecca Cobb",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "david-cox",
+    "name": "David Cox",
+    "aliases": [
+      "David N. Cox"
+    ],
+    "areas": [
+      "clinical assessment",
+      "psychotherapy",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5156619011",
+          "name": "David N. Cox",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5014043242",
+          "name": "David Alan Cox",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5017595704",
+          "name": "David G. Cox",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5026875445",
+          "name": "David N. Cox",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5087427052",
+          "name": "David E. Cox",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "kevin-douglas",
+    "name": "Kevin Douglas",
+    "aliases": [
+      "Kevin S. Douglas"
+    ],
+    "areas": [
+      "forensic psychology",
+      "violence risk",
+      "psychopathy"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5055295524"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5055295524",
+          "name": "Kevin S. Douglas",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5112420971",
+          "name": "ADAM J. E. BLANCHARD AND MELISSA C. HENDRY KEVIN S. DOUGLAS",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5162648740",
+          "name": "Kevin S. Douglas",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5023963995",
+          "name": "Kevin M. Douglas",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5079274534",
+          "name": "Kevin A. Douglas",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "stephen-hart",
+    "name": "Stephen Hart",
+    "aliases": [
+      "Steve Hart",
+      "Stephen D. Hart"
+    ],
+    "areas": [
+      "forensic psychology",
+      "violence risk",
+      "psychopathy"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5055395163"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5055395163",
+          "name": "Stephen D. Hart",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5109003455",
+          "name": "Stephen Hart",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5017627832",
+          "name": "Steven Hart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5025646817",
+          "name": "Stephen L. Hart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5029762077",
+          "name": "Steve Hart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "grace-iarocci",
+    "name": "Grace Iarocci",
+    "aliases": [],
+    "areas": [
+      "autism",
+      "development",
+      "child psychology"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5055822002"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5055822002",
+          "name": "Grace Iarocci",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "marlene-moretti",
+    "name": "Marlene Moretti",
+    "aliases": [
+      "Marlene M. Moretti"
+    ],
+    "areas": [
+      "developmental psychopathology",
+      "attachment",
+      "adolescent mental health"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5084640796",
+          "name": "Marlene M. Moretti",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5130691518",
+          "name": "Marlene Moretti",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5103625078",
+          "name": "Marlene Marie Moretti",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "angelina-polsinelli",
+    "name": "Angelina Polsinelli",
+    "aliases": [
+      "Angelina J. Polsinelli"
+    ],
+    "areas": [
+      "neuropsychology",
+      "dementia",
+      "informal caregiving"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5011974531",
+          "name": "Angelina J. Polsinelli",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "allen-thornton",
+    "name": "Allen Thornton",
+    "aliases": [
+      "Allen E. Thornton"
+    ],
+    "areas": [
+      "neuropsychology",
+      "cognitive assessment",
+      "brain health"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5018971948",
+          "name": "Allen E. Thornton",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5137679171",
+          "name": "E. Thornton Allen",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5028887336",
+          "name": "Allen L. Thornton",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5037690460",
+          "name": "Wesley A. Thornton",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5048471884",
+          "name": "Chad A. Steed",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "wendy-thornton",
+    "name": "Wendy Thornton",
+    "aliases": [
+      "Wendy L. Thornton"
+    ],
+    "areas": [
+      "neuropsychology",
+      "aging",
+      "cognition"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5032778782",
+          "name": "Wendy Loken Thornton",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5076337183",
+          "name": "Wendy A. Thornton",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "shannon-zaitsoff",
+    "name": "Shannon Zaitsoff",
+    "aliases": [
+      "Shannon L. Zaitsoff"
+    ],
+    "areas": [
+      "eating disorders",
+      "adolescent mental health",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5083197711"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5083197711",
+          "name": "Shannon L. Zaitsoff",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5162091222",
+          "name": "Shannon Zaitsoff",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "alicia-nijdam-jones",
+    "name": "Alicia Nijdam-Jones",
+    "aliases": [
+      "Alicia H. Nijdam-Jones"
+    ],
+    "areas": [
+      "forensic assessment",
+      "cultural safety",
+      "psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "simon-fraser-university",
+        "current": true,
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "source": "https://www.sfu.ca/psychology/about/areas-of-study/clinical-science.html",
+        "roleSource": "https://www.sfu.ca/psychology/about/people/current-faculty.html",
+        "affiliations": [
+          "Simon Fraser University",
+          "Simon Fraser University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5071664337"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5071664337",
+          "name": "Alicia Nijdam‐Jones",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5132706478",
+          "name": "Alicia Nijdam-Jones",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5143952201",
+          "name": "Jacomina Gerbrandij Alicia Nijdam-Jones",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   }

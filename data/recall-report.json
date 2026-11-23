@@ -7,8 +7,8 @@
     "2021-11-20",
     "2026-11-20"
   ],
-  "eligibleFaculty": 156,
-  "samplingFrame": 156,
+  "eligibleFaculty": 176,
+  "samplingFrame": 176,
   "excludedCalibration": [],
   "sample": [
     "aaron-fisher",
@@ -62,7 +62,7 @@
     "john-ruiz",
     "mark-chen"
   ],
-  "audited": 7,
+  "audited": 8,
   "unavailable": [
     "lara-ray",
     "vickie-m-mays",
@@ -95,7 +95,6 @@
     "hedy-kober",
     "charlene-muehlenhard",
     "matthew-grilli",
-    "allison-harvey",
     "lauren-c-ng",
     "stephen-hinshaw",
     "tera-fazzino",
@@ -108,10 +107,10 @@
     "sheri-johnson",
     "john-ruiz"
   ],
-  "matches": 200,
-  "denominator": 201,
+  "matches": 263,
+  "denominator": 264,
   "recall": null,
-  "diagnosticRecall": 0.9950248756218906,
+  "diagnosticRecall": 0.9962121212121212,
   "interval": null,
   "targetMet": false,
   "missing": [
@@ -1343,6 +1342,573 @@
       "matched": true
     },
     {
+      "person": "allison-harvey",
+      "title": "Innovative Approaches to Advancing Equitable Access to Insomnia Interventions",
+      "doi": "10.1007/s40675-026-00385-9",
+      "date": "2026-06-23",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1007/s40675-026-00385-9",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Optimizing a Transdiagnostic Sleep and Circadian Intervention for Autistic Young Adults: A Qualitative Study Using an Implementation Science Framework.",
+      "doi": "10.1080/15402002.2026.2658806",
+      "date": "2026-04-18",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41999360",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Patient outcomes and session dose in a randomized controlled trial of the Transdiagnostic Intervention for Sleep and Circadian Dysfunction: Influential factors and methodological considerations",
+      "doi": "10.1016/j.brat.2026.104987",
+      "date": "2026-02-17",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.brat.2026.104987",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "The impact of the Memory Support Intervention on therapist memory for treatment contents.",
+      "doi": "10.1016/j.brat.2026.105104",
+      "date": "2026-06-26",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42385266",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "The impact of memory support strategies on patient recall for treatment content in individuals with and without cognitive impairment",
+      "doi": "10.1080/13825585.2026.2672375",
+      "date": "2026-05-04",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1080/13825585.2026.2672375",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "A randomized trial of adapted versus standard versions the transdiagnostic intervention for sleep and circadian dysfunction (TSC) implemented via facilitation and delivered by community mental health providers using train-the-trainer",
+      "doi": "10.1186/s13012-025-01467-y",
+      "date": "2025-11-29",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1186/s13012-025-01467-y",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Therapist memory for treatment contents: Implications for patient outcomes.",
+      "doi": "10.1016/j.brat.2026.105037",
+      "date": "2026-04-06",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41955881",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Sleep Across the Pandemic in Norwegian University and College Students: A National Repeated Cross-Sectional Analysis (2010-2023).",
+      "doi": "10.1111/jsr.70312",
+      "date": "2026-02-19",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41711230",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Effects of a single session intervention on actigraphy-measured sleep for adolescents with insufficient and irregular sleep: A randomized controlled trial",
+      "doi": "10.1016/j.sleh.2025.12.008",
+      "date": "2026-01-19",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.sleh.2025.12.008",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Sleep diary-derived parameters and sleep measures mediate the efficacy of transdiagnostic sleep and circadian intervention for depression",
+      "doi": "10.1017/s0033291726103481",
+      "date": "2026-04-07",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1017/s0033291726103481",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "An Examination of Training Quality and Provider Outcomes Across Two Generations of Train-the-Trainer",
+      "doi": "10.1007/s10488-025-01463-w",
+      "date": "2025-08-21",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1007/s10488-025-01463-w",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Maximizing benefits from evidence-based psychological treatments: Memory support and habit formation as key strategies.",
+      "doi": "10.1016/j.brat.2025.104767",
+      "date": "2025-05-13",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40398069",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "A randomized trial of adapted versus standard versions of the Transdiagnostic Intervention for Sleep and Circadian Dysfunction implemented via facilitation and delivered by community mental health providers: improving the “fit” of psychological treatments by adapting to context",
+      "doi": "10.1186/s13012-025-01440-9",
+      "date": "2025-07-09",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1186/s13012-025-01440-9",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "A Pilot Trial for Midlife and Older Adults: Sleep and Circadian Treatment Plus Memory Support and Boosters.",
+      "doi": "10.1080/07317115.2025.2595027",
+      "date": "2025-11-29",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41316985",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Do the Memory Support Intervention and Improving Memory for Treatment Facilitate Behavior Change in Cognitive Therapy?",
+      "doi": "10.1007/s10608-025-10629-7",
+      "date": "2025-06-18",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1007/s10608-025-10629-7",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Predictors and moderators of cognitive therapy and behavior therapy for insomnia disorder",
+      "doi": "10.1016/j.sleep.2025.106611",
+      "date": "2025-05-29",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.sleep.2025.106611",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Let's kick that habit: An experiment of five habit-change strategies on habits and symptoms among adults with sleep problems",
+      "doi": "10.1016/j.jbtep.2025.102049",
+      "date": "2025-08-23",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.jbtep.2025.102049",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Targeted Sleep Enhancement Reduces Residual Anxiety Symptoms in Peri-Adolescents Previously Treated for Anxiety Disorders",
+      "doi": "10.1016/j.beth.2024.05.002",
+      "date": "2024-05-14",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.beth.2024.05.002",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Use and Effects of Therapist Memory Support Strategies in Cognitive Behavioral Therapy and Interpersonal Psychotherapy for Depression",
+      "doi": "10.1007/s10608-024-10569-8",
+      "date": "2025-03-18",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1007/s10608-024-10569-8",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "“So Many Other Things Improve” with Transdiagnostic Treatment for Sleep and Circadian Problems: Interviews with Community Providers on Treating Clients with Serious Mental Illness",
+      "doi": "10.1007/s10488-024-01410-1",
+      "date": "2024-09-09",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1007/s10488-024-01410-1",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "A sleep promotion program for insufficient sleep among adolescents: a pilot feasibility randomized controlled trial",
+      "doi": "10.5664/jcsm.11456",
+      "date": "2024-11-07",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.5664/jcsm.11456",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Actigraphy-Measured Sleep/Wake Characteristics Associated With Suicidal Ideation in Older Adults Who Have Depression and High Suicide Risk",
+      "doi": "10.4088/jcp.24m15522",
+      "date": "2025-07-14",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.4088/jcp.24m15522",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Using sleep to enhance exposure treatment for anxious children: A pilot study.",
+      "doi": "10.1111/bjc.12550",
+      "date": "2025-05-02",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40317759",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Feasibility and preliminary efficacy results for WePAP: A transdiagnostic, couples-based intervention to promote positive airway pressure adherence and patient and partner sleep health",
+      "doi": "10.1016/j.sleh.2025.08.006",
+      "date": "2025-10-28",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.sleh.2025.08.006",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "From loneliness to depression: A longitudinal diagnostic study among Norwegian university students",
+      "doi": "10.1007/s00127-025-02989-y",
+      "date": "2025-09-17",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1007/s00127-025-02989-y",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Development of a core outcome set for clinical trials of interventions to improve sleep in people with cognitive impairment‐the Sleep in Cognitive Impairment Core Outcome Set (SCICOS)",
+      "doi": "10.1002/alz.70890",
+      "date": "2025-11-06",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1002/alz.70890",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "State of the Science: The Transdiagnostic Intervention for Sleep and Circadian Dysfunction",
+      "doi": "10.1016/j.beth.2024.02.007",
+      "date": "2024-03-04",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.beth.2024.02.007",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "The Transdiagnostic Intervention for Sleep and Circadian Dysfunction (TranS-C) for serious mental illness in community mental health part 3: study protocol to evaluate sustainment in a hybrid type 2 effectiveness-implementation cluster-randomized trial",
+      "doi": "10.1186/s13063-023-07900-1",
+      "date": "2024-01-15",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1186/s13063-023-07900-1",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Transdiagnostic Sleep and Circadian Intervention in Youth: Long-Term Follow-Up of a Randomized Controlled Trial",
+      "doi": "10.1016/j.jaac.2024.05.001",
+      "date": "2024-05-07",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.jaac.2024.05.001",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Efficacy of the Transdiagnostic Intervention for Sleep and Circadian Dysfunction for Depression Symptoms and Sleep-Wake Disruption in Older and Younger Adults: Secondary Age-Stratified Analysis of a Randomized Controlled Trial",
+      "doi": "10.1016/j.jagp.2023.11.003",
+      "date": "2023-11-10",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.jagp.2023.11.003",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Sleep duration and mental health in young adults",
+      "doi": "10.1016/j.sleep.2024.01.021",
+      "date": "2024-01-28",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.sleep.2024.01.021",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Daily micropractice can augment single-session interventions: A randomized controlled trial of self-compassionate touch and examining their associations with habit formation in US college students",
+      "doi": "10.1016/j.brat.2024.104498",
+      "date": "2024-02-21",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.brat.2024.104498",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "An adapted transdiagnostic sleep and circadian intervention for adults with excess weight and suboptimal sleep health: pilot study results",
+      "doi": "10.1093/sleepadvances/zpae037",
+      "date": "2024-01-01",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1093/sleepadvances/zpae037",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Adapting and Evaluating the Feasibility and Acceptability of a Behavioral Intervention to Promote Sleep Health in Cardiac Rehabilitation",
+      "doi": "10.1080/15402002.2024.2386602",
+      "date": "2024-08-09",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1080/15402002.2024.2386602",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Integrating the Memory Support Intervention into the Transdiagnostic Intervention for Sleep and Circadian Dysfunction (TranS-C): can improving memory for treatment in midlife and older adults improve patient outcomes? Study protocol for a randomized controlled trial",
+      "doi": "10.1186/s13063-024-08468-0",
+      "date": "2024-10-03",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1186/s13063-024-08468-0",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Integrating habit science and learning theory to promote maintenance of behavior change: does adding text messages to a habit-based sleep health intervention (HABITs) improve outcomes for eveningness chronotype young adults? Study protocol for a randomized controlled trial",
+      "doi": "10.1186/s13063-024-08599-4",
+      "date": "2024-11-20",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1186/s13063-024-08599-4",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Improving Parent–Adolescent Conversation to Promote Adolescent Sleep Health Behavior Change: An Open Trial of the Parent Behavior Change Intervention",
+      "doi": "10.1016/j.beth.2024.10.004",
+      "date": "2024-10-21",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.beth.2024.10.004",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Twelve-month follow-up: Comparative efficacy of cognitive therapy, behavior therapy, and cognitive behavior therapy for patients with insomnia.",
+      "doi": "10.1037/ccp0000802",
+      "date": "2023-02-23",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1037/ccp0000802",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Serial Mediators of Memory Support Strategies Used With Cognitive Therapy for Depression: Improving Outcomes Through Patient Adherence and Treatment Skills",
+      "doi": "10.1016/j.beth.2022.07.012",
+      "date": "2022-08-05",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.beth.2022.07.012",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Patient Responsiveness to a Sleep and Circadian Intervention in a Sample of Adults With Serious Mental Illness",
+      "doi": "10.1016/j.beth.2022.07.009",
+      "date": "2022-08-02",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.beth.2022.07.009",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "The Transdiagnostic Intervention for Sleep and Circadian Dysfunction (TranS-C) for serious mental illness in community mental health part 2: study protocol for a hybrid type 2 effectiveness-implementation cluster-randomized trial using train-the-trainer",
+      "doi": "10.1186/s13063-023-07523-6",
+      "date": "2023-08-07",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1186/s13063-023-07523-6",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "The impact of module dosage on treatment response in a modular transdiagnostic intervention for sleep and circadian dysfunction (TranS-C)",
+      "doi": "10.1016/j.brat.2023.104368",
+      "date": "2023-07-05",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.brat.2023.104368",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Optimizing outcomes, mechanisms, and recall of Cognitive Therapy for depression: Dose of constructive memory support strategies",
+      "doi": "10.1016/j.brat.2023.104325",
+      "date": "2023-05-12",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.brat.2023.104325",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Development and preliminary validation of the treatment adherence rating scale",
+      "doi": "10.1016/j.jbtep.2022.101832",
+      "date": "2022-12-24",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.jbtep.2022.101832",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Therapist training in treating sleep problems: A survey study of clinical practice",
+      "doi": "10.1002/jclp.23511",
+      "date": "2023-03-14",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1002/jclp.23511",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Digital cognitive behaviour therapy for insomnia in individuals with self‐reported insomnia and chronic fatigue: A secondary analysis of a large scale randomized controlled trial",
+      "doi": "10.1111/jsr.13888",
+      "date": "2023-03-22",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1111/jsr.13888",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Report from a randomized control trial: improved alignment between circadian biology and sleep–wake behavior as a mechanism of depression symptom improvement in evening‐type adolescents with depressive symptoms",
+      "doi": "10.1111/jcpp.13880",
+      "date": "2023-08-17",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1111/jcpp.13880",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "The Transdiagnostic Intervention for Sleep and Circadian Dysfunction (TranS-C) for serious mental illness in community mental health part 1: study protocol for a hybrid type 2 effectiveness-implementation cluster-randomized trial",
+      "doi": "10.1186/s13063-023-07148-9",
+      "date": "2023-03-17",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1186/s13063-023-07148-9",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Cognitive Therapy-as-Usual versus Cognitive Therapy plus the Memory Support Intervention for adults with depression: 12-month outcomes and opportunities for improved efficacy in a secondary analysis of a randomized controlled trial",
+      "doi": "10.1016/j.brat.2023.104419",
+      "date": "2023-10-10",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.brat.2023.104419",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Treating sleep and circadian problems to promote mental health: perspectives on comorbidity, implementation science and behavior change",
+      "doi": "10.1093/sleep/zsac026",
+      "date": "2022-01-25",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1093/sleep/zsac026",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Measuring Memory for Treatment Using Patient Conceptualizations of Clinical Vignettes: A Pilot Psychometric Study in the Context of Cognitive Therapy for Depression",
+      "doi": "10.1007/s10608-022-10293-1",
+      "date": "2022-02-01",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1007/s10608-022-10293-1",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "The effect of the transdiagnostic sleep and circadian intervention (TranS-C) on actigraphic estimates of sleep and rest-activity rhythms in adolescents with an evening circadian preference",
+      "doi": "10.1016/j.sleh.2021.10.007",
+      "date": "2021-12-16",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.sleh.2021.10.007",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Network Intervention Analyses of cognitive therapy and behavior therapy for insomnia: Symptom specific effects and process measures",
+      "doi": "10.1016/j.brat.2022.104100",
+      "date": "2022-04-15",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.brat.2022.104100",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Digital cognitive behaviour therapy for insomnia (dCBT‐I): Chronotype moderation on intervention outcomes",
+      "doi": "10.1111/jsr.13572",
+      "date": "2022-02-27",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1111/jsr.13572",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "The Transdiagnostic Intervention for Sleep and Circadian Dysfunction (TranS-C) in Community Mental Health: Comorbidity and Use of Modules Under the Microscope",
+      "doi": "10.1016/j.cbpra.2022.03.007",
+      "date": "2022-04-21",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.cbpra.2022.03.007",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "A protocol for applying health equity-informed implementation science models and frameworks to adapt a sleep intervention for adolescents at risk for suicidal thoughts and behaviors",
+      "doi": "10.3389/fpubh.2022.971754",
+      "date": "2022-10-12",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.3389/fpubh.2022.971754",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Can integrating the Memory Support Intervention into cognitive therapy improve depression outcome? A randomized controlled trial",
+      "doi": "10.1016/j.brat.2022.104167",
+      "date": "2022-08-05",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://doi.org/10.1016/j.brat.2022.104167",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Transdiagnostic Sleep and Circadian Intervention for Adolescents Plus Text Messaging: Randomized Controlled Trial 12-month Follow-up.",
+      "doi": "10.1080/15374416.2021.1978295",
+      "date": "2021-12-22",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/34936528",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Memory and learning for sleep and circadian treatment in serious mental illness treated in a community mental health setting.",
+      "doi": "10.1016/j.brat.2021.104029",
+      "date": "2021-12-31",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/34995953",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Ecological Momentary Interventions (EMIs) and Just-in-Time Adaptive Interventions (JITAIs) for sleep and circadian health: A systematic review and meta-analysis.",
+      "doi": "10.1016/j.sleep.2026.109349",
+      "date": "2026-11-04",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42994167",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Validation of the French version of the Sleep Inertia Questionnaire (SIQ) and its assessment in sleep disorders.",
+      "doi": "10.1016/j.sleep.2026.109287",
+      "date": "2026-09-26",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42849378",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "Habit-formation strategies enhance long-term outcomes of a self-compassionate touch micropractice: a randomized controlled trial.",
+      "doi": "10.1038/s41598-026-63457-4",
+      "date": "2026-09-15",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42744837",
+      "matched": true
+    },
+    {
+      "person": "allison-harvey",
+      "title": "The transdiagnostic intervention for sleep and circadian dysfunction (TranS-C) in community mental health centers: Do provider-initiated ad hoc adaptations influence implementation and patient outcomes?",
+      "doi": "10.1037/ser0001055",
+      "date": "2026-08-10",
+      "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42574127",
+      "matched": true
+    },
+    {
       "person": "shirley-wang",
       "title": "Contra-hedonic functions of self-destructive behaviors in adolescents",
       "doi": "10.1002/eat.70111",
@@ -2244,9 +2810,68 @@
           "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
         }
       ]
+    },
+    {
+      "label": "Harvey CV check before DOI recovery",
+      "corpusSha256": "e3bef73750f7e6888462d9cdfb6f22a40e7de5d3de842c38325890b801ad268a",
+      "audited": 8,
+      "matches": 259,
+      "denominator": 264,
+      "missing": [
+        {
+          "person": "daniel-taylor",
+          "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+          "doi": "",
+          "date": "2023-06-01",
+          "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+          "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+          "matched": false,
+          "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+        },
+        {
+          "person": "allison-harvey",
+          "title": "The impact of the Memory Support Intervention on therapist memory for treatment contents.",
+          "doi": "10.1016/j.brat.2026.105104",
+          "date": "2026-06-26",
+          "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+          "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42385266",
+          "matched": false,
+          "reason": "OpenAlex assigns the publisher’s Allison G. Harvey byline to a coauthor’s OpenAlex ID and ORCID."
+        },
+        {
+          "person": "allison-harvey",
+          "title": "Therapist memory for treatment contents: Implications for patient outcomes.",
+          "doi": "10.1016/j.brat.2026.105037",
+          "date": "2026-04-06",
+          "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+          "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41955881",
+          "matched": false,
+          "reason": "OpenAlex assigns the byline to a second author ID with a single work. The author’s CV and PubMed journal byline confirm the match."
+        },
+        {
+          "person": "allison-harvey",
+          "title": "Maximizing benefits from evidence-based psychological treatments: Memory support and habit formation as key strategies.",
+          "doi": "10.1016/j.brat.2025.104767",
+          "date": "2025-05-13",
+          "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+          "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40398069",
+          "matched": false,
+          "reason": "OpenAlex attaches a different person’s ORCID to the sole byline and leaves its author ID empty. The faculty bibliography and publisher identify Allison G. Harvey."
+        },
+        {
+          "person": "allison-harvey",
+          "title": "Validation of the French version of the Sleep Inertia Questionnaire (SIQ) and its assessment in sleep disorders.",
+          "doi": "10.1016/j.sleep.2026.109287",
+          "date": "2026-09-26",
+          "reference": "https://psychology.berkeley.edu/sites/default/files/harvey_cv_2026.docx",
+          "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42849378",
+          "matched": false,
+          "reason": "OpenAlex created a separate author ID from a spelling variant. The PubMed record confirms the name and Berkeley affiliation."
+        }
+      ]
     }
   ],
-  "corpusSha256": "682c3b43084f287f031f2b69bdb81e31414f9d4994fe4af6b97725d7d8875e3b",
+  "corpusSha256": "513f176d4151d33bee9656255d4a330bd6747959853d8fbbfbce59fc7c1ab97b",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",

@@ -9,6 +9,7 @@ from build import audit, diagnostic_check
 from collect import stage_publications
 from common import creditable_appointments, doi_key, merge, normalize, weight
 from directories import cpa_rows
+from rosters import Page
 from sources import Client, OA, SourceUnavailable, published_byline
 
 
@@ -35,6 +36,24 @@ class ScoringTest(unittest.TestCase):
 
 
 class DataTest(unittest.TestCase):
+    def test_clinical_roster_accordion_and_affiliated_section(self):
+        page = Page("https://example.edu/graduate/clinical")
+        page.feed("""
+        <main>
+          <h1>Clinical Psychology</h1>
+          <a role="button" aria-controls="area" href="#area">Area Faculty</a>
+          <div id="area"><a href="/profile/jane-doe">Dr. Jane Doe</a></div>
+          <a role="button" aria-controls="admissions" href="#admissions">Admissions</a>
+          <div id="admissions"><a href="/profile/john-doe">John Doe</a></div>
+          <h2>Affiliated Faculty</h2>
+          <h3><a href="/profile/alex-doe">Alex Doe</a></h3>
+          <h2>Clinical Faculty</h2>
+          <h3><a href="/profile/lee-doe">Lee Doe</a></h3>
+        </main>
+        """)
+        self.assertEqual([(row["name"], row["section"]) for row in page.main_people],
+                         [("Jane Doe", "Area Faculty"), ("Lee Doe", "Clinical Faculty")])
+
     def test_openalex_budget_limit_leaves_later_requests_queued(self):
         url = OA + "/authors"
         error = HTTPError(url, 429, "Too Many Requests", {}, BytesIO(b'{"reason":"daily_budget"}'))
