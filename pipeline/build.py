@@ -142,13 +142,20 @@ def audit(faculty, works, references, seed, stage, start, end, excluded=(), fixe
     sample = random.Random(seed).sample(sampling_frame, min(50, len(sampling_frame))) if fixed_sample is None else fixed_sample
     if len(sample) != len(set(sample)) or not set(sample) <= set(sampling_frame):
         raise ValueError("The fixed audit sample contains duplicate or ineligible faculty.")
-    included = defaultdict(set)
+    indexed_dois, indexed_titles, titles_without_doi = defaultdict(set), defaultdict(set), defaultdict(set)
     for work in works:
         if work["kind"] != "journal" or not start <= work["date"] <= end:
             continue
+        if work["databaseMissing"]:
+            continue
+        doi = doi_key(work["doi"])
+        title_year = (normalize(work["title"]), work["date"][:4])
         for person in work["people"]:
-            if not work["databaseMissing"]:
-                included[person].update([doi_key(work["doi"]), normalize(work["title"]) + ":" + work["date"][:4]])
+            indexed_titles[person].add(title_year)
+            if doi:
+                indexed_dois[person].add(doi)
+            else:
+                titles_without_doi[person].add(title_year)
     rows, unavailable, missing = [], [], []
     matches = total = 0
     for pid in sample:
@@ -156,16 +163,21 @@ def audit(faculty, works, references, seed, stage, start, end, excluded=(), fixe
             unavailable.append(pid)
             continue
         person_ref = references[pid]
+        if person_ref.get("window") and person_ref["window"] != [start, end]:
+            unavailable.append(pid)
+            continue
         papers = person_ref.get("papers", [])
         for paper in papers:
             if paper.get("kind") != "journal" or not start <= paper["date"] <= end:
                 continue
-            keys = {doi_key(paper.get("doi")), normalize(paper["title"]) + ":" + paper["date"][:4]} - {""}
-            found = bool(keys & included[pid])
+            doi = doi_key(paper.get("doi"))
+            title_year = (normalize(paper["title"]), paper["date"][:4])
+            found = ((doi in indexed_dois[pid] or title_year in titles_without_doi[pid]) if doi
+                     else title_year in indexed_titles[pid])
             total += 1
             matches += found
             outcome = dict(person=pid, title=paper["title"], doi=paper.get("doi"), date=paper["date"],
-                           reference=person_ref.get("source"), matched=found)
+                           reference=person_ref.get("source"), dateSource=paper.get("dateSource"), matched=found)
             rows.append(outcome)
             if not found:
                 missing.append(dict(outcome, reason=paper.get("diagnosis") or "Diagnosis pending"))
@@ -259,24 +271,18 @@ def main():
     if previous and not args.skip_crosschecks:
         parser.error("--previous-snapshot requires --skip-crosschecks")
     records, faculty, queue = list(independent), [], []
-    prior_people = {}
+    prior_people, reusable = {}, set()
     if previous:
         prior_people = {person["id"]: person for person in read(previous / "faculty.json")}
-        unchanged = {person["id"] for person in faculty_input if person["id"] in prior_people and
+        reusable = {person["id"] for person in faculty_input if person["id"] in prior_people and
                      all(prior_people[person["id"]].get(key) == value for key, value in person.items()) and
                      (person["id"] not in reviewed or prior_people[person["id"]]["identity"] == reviewed[person["id"]]) and
                      (not args.network or
                       (not selected and person["id"] in reviewed) or
                       (selected and not any(a["program"] in selected for a in person["appointments"])))}
-        prior_people = {pid: prior_people[pid] for pid in unchanged}
-        for work in read(previous / "publications.json"):
-            retained = {pid: evidence for pid, evidence in work["people"].items() if pid in unchanged}
-            if retained and start <= work["date"] <= args.as_of:
-                records.append(dict(work, people=retained))
-        queue.extend(row for row in read(previous / "review-queue.json", {}).get("publicationCandidates", [])
-                     if row.get("person") in unchanged)
+    preserved = set(reusable)
     for person in faculty_input:
-        if person["id"] in prior_people:
+        if person["id"] in reusable:
             faculty.append(prior_people[person["id"]])
             continue
         result, works, review = pull_person(client, person, reviewed, start, args.as_of,
@@ -285,6 +291,17 @@ def main():
         faculty.append(result)
         records.extend(works)
         queue.extend(review)
+        prior_identity = prior_people.get(person["id"], {}).get("identity", {})
+        if (result["identity"]["status"] == "resolved" and prior_identity.get("status") == "resolved" and
+                set(prior_identity["ids"]) <= set(result["identity"]["ids"])):
+            preserved.add(person["id"])
+    if previous:
+        for work in read(previous / "publications.json"):
+            retained = {pid: evidence for pid, evidence in work["people"].items() if pid in preserved}
+            if retained and start <= work["date"] <= args.as_of:
+                records.append(dict(work, people=retained))
+        queue.extend(row for row in read(previous / "review-queue.json", {}).get("publicationCandidates", [])
+                     if row.get("person") in preserved and row not in queue)
     attribution = []
     exclusions = {(row["source"], row["id"]) for row in read(DATA / "reviewed-exclusions.json", [])}
     works = assign([work for work in merge(records) if not any(
@@ -305,6 +322,7 @@ def main():
                    sorted(excluded), audit_plan["sample"] if audit_plan else None)
     if audit_plan:
         report["frozenFrameSize"] = audit_plan["frameSize"]
+        report["calibrationHistory"] = read(DATA / "calibration-history.json", [])
     report["corpusSha256"] = sha256(json.dumps(sorted([
         (w.get("doi", ""), w["title"], w["date"], tuple(sorted(w["people"]))) for w in works
     ]), ensure_ascii=False).encode()).hexdigest()

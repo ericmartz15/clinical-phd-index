@@ -62,11 +62,10 @@
     "john-ruiz",
     "mark-chen"
   ],
-  "audited": 0,
+  "audited": 3,
   "unavailable": [
     "aaron-fisher",
     "lara-ray",
-    "jeffrey-girard",
     "vickie-m-mays",
     "john-allen",
     "tiffany-brown",
@@ -91,7 +90,6 @@
     "qing-zhou",
     "tyrone-cannon",
     "tara-mcauley",
-    "isaac-petersen",
     "dylan-gee",
     "gene-alexander",
     "tiffany-ho",
@@ -112,19 +110,988 @@
     "ayelet-meron-ruscio",
     "susan-lutgendorf",
     "sheri-johnson",
-    "john-ruiz",
-    "mark-chen"
+    "john-ruiz"
   ],
-  "matches": 0,
-  "denominator": 0,
+  "matches": 81,
+  "denominator": 81,
   "recall": null,
-  "diagnosticRecall": null,
+  "diagnosticRecall": 1.0,
   "interval": null,
   "targetMet": false,
   "missing": [],
-  "rows": [],
+  "rows": [
+    {
+      "person": "jeffrey-girard",
+      "title": "Infants’ facial input from 6 to 17 months rarely includes hypothesized expressive emotion prototypes",
+      "doi": "10.1038/s44271-026-00539-z",
+      "date": "2026-09-24",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://doi.org/10.1038/s44271-026-00539-z",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Computational Analysis of Expressive Behavior in Clinical Assessment",
+      "doi": "10.1146/annurev-clinpsy-081423-024140",
+      "date": "2026-05-07",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://doi.org/10.1146/annurev-clinpsy-081423-024140",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "How Influencers Grow: An Empirical Study and Future Research Agenda",
+      "doi": "10.1177/10949968251360683",
+      "date": "2025-12-10",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://doi.org/10.1177/10949968251360683",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Examining the Role of Insomnia in Maintaining Binge Eating and Restricting in United States Veterans",
+      "doi": "10.1002/erv.70067",
+      "date": "2025-12-13",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://doi.org/10.1002/erv.70067",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "<scp>LLA</scp>\n                    MADRS: Evaluating Open-Source LLMs on Real Clinical Interviews—To Reason or Not to Reason?",
+      "doi": "10.1162/tacl.a.741",
+      "date": "2026-07-01",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://doi.org/10.1162/tacl.a.741",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Narcissism From Every Angle: An Interpersonal Analysis of Narcissism in Young Adults",
+      "doi": "10.1177/10731911251356150",
+      "date": "2025-08-19",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://doi.org/10.1177/10731911251356150",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Sentiment Analysis of Naturalistic Speech Using Open-Weight Large Language Models",
+      "doi": "10.1007/s42761-025-00352-7",
+      "date": "2026-02-24",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42311810/",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Alcohol and emotion: Analyzing convergence between facially expressed and self-reported indices of emotion under alcohol intoxication.",
+      "doi": "10.1037/adb0001053",
+      "date": "2025-12-01",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://openalex.org/W4406215727",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Depressive symptoms among Hispanic Americans: Investigating the interplay of acculturation and demographics.",
+      "doi": "10.1037/lat0000266",
+      "date": "2024-07-25",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://doi.org/10.1037/lat0000266",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Dynamic and dyadic relationships between facial behavior, working alliance, and treatment outcomes during depression therapy.",
+      "doi": "10.1037/ccp0000980",
+      "date": "2025-11-01",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://openalex.org/W4415813510",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Individualized Machine-Learning-Based Clinical Assessment Recommendation System",
+      "doi": "10.1371/journal.pdig.0001022",
+      "date": "2025-09-25",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001022",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "The Effects of Alcohol in Groups of Heavy-Drinking Young Adults: A Multimodal Investigation of Alcohol Responses in a Laboratory Social Setting",
+      "doi": "10.1177/21677026251333784",
+      "date": "2025-06-07",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://doi.org/10.1177/21677026251333784",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "The role of hyper-palatable foods in energy intake measured using mobile food photography methodology",
+      "doi": "10.1016/j.eatbeh.2025.101983",
+      "date": "2025-04-01",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://openalex.org/W4409745015",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Transdiagnostic Modeling of Clinician-Rated Symptoms in Affective and Nonaffective Psychotic Disorders",
+      "doi": "10.1037/abn0000958",
+      "date": "2024-10-24",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39446623/",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Worth the weight: An examination of unstructured and structured data in graduate admissions.",
+      "doi": "10.1037/dec0000251",
+      "date": "2025-01-01",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://openalex.org/W4403945159",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Are within- and between-session changes in distress associated with treatment outcomes? Findings from two clinical trials of exposure for eating disorders",
+      "doi": "10.1016/j.brat.2024.104577",
+      "date": "2024-06-01",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://openalex.org/W4399258710",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Associations between transdiagnostic traits of psychopathology and hybrid posttraumatic stress disorder factors in a trauma‐exposed community sample",
+      "doi": "10.1002/jts.23023",
+      "date": "2024-03-01",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://openalex.org/W4392359507",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "It is the sentiment that counts: comparing sentiment analysis tools for estimating affective valence in dream reports",
+      "doi": "10.1093/sleep/zsae210",
+      "date": "2024-09-10",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://doi.org/10.1093/sleep/zsae210",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Sources of Environmental Reinforcement and Engagement in Health Risk Behaviors Among a General Population Sample of US Adults",
+      "doi": "10.3390/ijerph21111390",
+      "date": "2024-10-22",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://doi.org/10.3390/ijerph21111390",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Human and machine recognition of dynamic and static facial expressions: prototypicality, ambiguity, and complexity",
+      "doi": "10.3389/fpsyg.2023.1221081",
+      "date": "2023-09-12",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://doi.org/10.3389/fpsyg.2023.1221081",
+      "matched": true
+    },
+    {
+      "person": "jeffrey-girard",
+      "title": "Randomized trial of brief interpersonal psychotherapy and cognitive behavioral therapy for depression delivered both in-person and by telehealth",
+      "doi": "10.1016/j.jad.2023.04.092",
+      "date": "2023-04-28",
+      "reference": "https://affcom.ku.edu/publications.html",
+      "dateSource": "https://openalex.org/W4367316892",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Designing a cognitive behavioural programme adapted to meet the socio-emotional needs of children with developmental language disorder",
+      "doi": "10.1080/23735082.2026.2679285",
+      "date": "2026-06-05",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://doi.org/10.1080/23735082.2026.2679285",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "How often is “often”? Improving assessment of the externalizing spectrum using absolute frequency.",
+      "doi": "10.1037/pas0001441",
+      "date": "2026-04-01",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://openalex.org/W4416995105",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Studying Development of Psychopathology Using Changing Measures to Account for Heterotypic Continuity",
+      "doi": "10.1016/j.jaacop.2025.10.008",
+      "date": "2025-11-08",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://openalex.org/W4416026348",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Components of socioeconomic status differentially predict development of cool versus hot executive function in young children",
+      "doi": "10.1177/01650254251383697",
+      "date": "2025-10-26",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://doi.org/10.1177/01650254251383697",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Individual differences in language during childhood predict well-being in adolescence",
+      "doi": "10.1093/chidev/aacaf057",
+      "date": "2026-02-26",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://doi.org/10.1093/chidev/aacaf057",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Never … Often? Comparisons That Shape People's Likert‐Type Ratings of Behavior Frequencies",
+      "doi": "10.1002/bdm.70083",
+      "date": "2026-05-03",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://doi.org/10.1002/bdm.70083",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Reactive and control processes in the development of internalizing and externalizing problems across early childhood to adolescence",
+      "doi": "10.1017/s0954579424000713",
+      "date": "2024-04-08",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://doi.org/10.1017/s0954579424000713",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "The lifespan trajectories of brain activities related to conflict-driven cognitive control",
+      "doi": "10.1016/j.scib.2025.08.038",
+      "date": "2025-08-23",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://openalex.org/W4413452934",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Reexamining developmental continuity and discontinuity in the 21st century: Better aligning behaviors, functions, and mechanisms.",
+      "doi": "10.1037/dev0001657",
+      "date": "2024-11-01",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://openalex.org/W4387781601",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Adapting open science and pre‐registration to longitudinal research",
+      "doi": "10.1002/icd.2315",
+      "date": "2022-04-22",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://doi.org/10.1002/icd.2315",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Explaining Brain-Behavior Relations: Inhibitory Control as an Intermediate Phenotype Between the N2 ERP and the Externalizing Spectrum in Childhood",
+      "doi": "10.1007/s10802-023-01162-w",
+      "date": "2024-01-15",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://doi.org/10.1007/s10802-023-01162-w",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "A Developmentally Informed Systematic Review and Meta-Analysis of the Strength of General Psychopathology in Childhood and Adolescence",
+      "doi": "10.1007/s10567-023-00464-1",
+      "date": "2023-12-19",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://doi.org/10.1007/s10567-023-00464-1",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "The P3 ERP in Relation to General Versus Specific Psychopathology in Early Childhood",
+      "doi": "10.1007/s10802-023-01061-0",
+      "date": "2023-06-05",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://doi.org/10.1007/s10802-023-01061-0",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Creating a developmental scale to chart the development of psychopathology with different informants and measures across time.",
+      "doi": "10.1037/abn0000649",
+      "date": "2022-08-01",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://openalex.org/W4288384102",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Studying children's growth in self‐regulation using changing measures to account for heterotypic continuity: A Bayesian approach to developmental scaling",
+      "doi": "10.1111/desc.13280",
+      "date": "2022-06-09",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://doi.org/10.1111/desc.13280",
+      "matched": true
+    },
+    {
+      "person": "isaac-petersen",
+      "title": "Dynamics of Hierarchical Task Representations",
+      "doi": "10.1523/jneurosci.0233-22.2022",
+      "date": "2022-08-19",
+      "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+      "dateSource": "https://doi.org/10.1523/jneurosci.0233-22.2022",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Depression Symptom Network Reorganization Under Internet-Based Emotion Regulation Intervention: Evidence From a Large Real-World Cohort",
+      "doi": "10.1037/amp0001798",
+      "date": "2026-09-28",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1037/amp0001798",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "The role of adverse childhood experiences in the prospective link between sleep–affect spillover and anxiety symptoms: A daily diary study combined with panel data",
+      "doi": "10.1177/21677026261476613",
+      "date": "2026-11-11",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1177/21677026261476613",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Is the more the merrier? Affective outcomes of emotion polyregulation depend on the idiographic effective strategy ratio across cultures",
+      "doi": "10.1007/s42761-026-00398-1",
+      "date": "2026-08-15",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1007/s42761-026-00398-1",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "A prompt-based tutorial for large language model–assisted screening in systematic reviews and meta-analyses",
+      "doi": "10.1017/s0266462326104073",
+      "date": "2026-08-03",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1017/s0266462326104073",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "When good news falls short: Prospective role of positive belief updating in predicting post-trauma distress",
+      "doi": "10.1016/j.brat.2026.105137",
+      "date": "2026-08-18",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://openalex.org/W7203681095",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "From stress to strength: Temporal links between emotion regulation, perceived control, and positive affect",
+      "doi": "10.1007/s42761-026-00401-9",
+      "date": "2026-09-05",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1007/s42761-026-00401-9",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Better together? Polyregulation across interpersonal and intrapersonal strategies in civilian and veteran daily life",
+      "doi": "10.1080/02699931.2026.2713105",
+      "date": "2026-08-05",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1080/02699931.2026.2713105",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Emotion regulation flexibility in resilience and psychopathology: Status, challenges, and future directions",
+      "doi": "10.1037/cps0000326",
+      "date": "2026-09-01",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://openalex.org/W7165911742",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Emotion regulation flexibility and momentary psychopathology symptoms among trauma‐exposed veterans with and without posttraumatic stress disorder",
+      "doi": "10.1002/jts.70078",
+      "date": "2026-05-17",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1002/jts.70078",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Task-based interpretation flexibility predicts real-world emotion regulation variability",
+      "doi": "10.1038/s41598-026-47441-6",
+      "date": "2026-04-07",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1038/s41598-026-47441-6",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Variability is not flexibility: Emotion regulation switching predicts increased momentary distress when context is stable",
+      "doi": "10.1037/abn0001108",
+      "date": "2026-03-30",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41910550/",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Situational controllability moderates the link between cognitive reappraisal, but not problem solving, and momentary distress",
+      "doi": "10.1016/j.jad.2026.121501",
+      "date": "2026-02-23",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41740758/",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "When negative emotions stick together: Interconnectedness explains how emotion regulation strategies shape distress",
+      "doi": "10.1007/s10964-026-02366-1",
+      "date": "2026-05-30",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1007/s10964-026-02366-1",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Depressive symptom trajectories in suicide-bereaved individuals: A 24-year study from adolescence to adulthood",
+      "doi": "10.1017/s0954579425000355",
+      "date": "2025-05-22",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1017/s0954579425000355",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Comparing indices of emotion regulation variability across culturally diverse samples: Associations with negative affect",
+      "doi": "10.1007/s10608-025-10627-9",
+      "date": "2025-06-16",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1007/s10608-025-10627-9",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Emotion regulation repertoire moderates the association between sleep and depression: A daily diary study",
+      "doi": "10.1007/s10608-025-10638-6",
+      "date": "2025-07-14",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1007/s10608-025-10638-6",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Day-to-day dynamic coupling of affective symptoms in chinese mother–adolescent and father–adolescent dyads",
+      "doi": "10.1177/21677026251369840",
+      "date": "2025-11-06",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1177/21677026251369840",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Longitudinal impacts of adverse childhood experiences on multidimensional health outcomes: Predicting trajectories in mental, physical, and behavioral health",
+      "doi": "10.1016/j.chiabu.2023.106543",
+      "date": "2023-11-18",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37980177/",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Emotion regulation and mental health across cultures: A systematic review and meta-analysis",
+      "doi": "10.1038/s41562-025-02168-8",
+      "date": "2025-04-15",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1038/s41562-025-02168-8",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "An initial exploration of mechanisms contributing to higher suicidal ideation in bisexual+ compared to lesbian/gay individuals",
+      "doi": "10.1037/sgd0000834",
+      "date": "2025-04-07",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1037/sgd0000834",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "The associations between cognitive flexibility and suicidal thoughts and behaviors: A systematic review and meta-analysis",
+      "doi": "10.1007/s10608-025-10591-4",
+      "date": "2025-04-19",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1007/s10608-025-10591-4",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Navigating unmeasured confounding in nonexperimental psychological research: A practical guide to computing and interpreting e-value",
+      "doi": "10.1177/25152459251326571",
+      "date": "2025-04-14",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1177/25152459251326571",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Investigating risk profiles of smartphone activities and psychosocial factors in adolescents during the COVID ‐19 pandemic",
+      "doi": "10.1111/jora.13045",
+      "date": "2024-12-29",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1111/jora.13045",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Circuitry correlates of negative urgency and suicidality in schizophrenia spectrum disorders: A LASSO regression study",
+      "doi": "10.3389/fpsyt.2025.1678555",
+      "date": "2025-12-09",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.3389/fpsyt.2025.1678555",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Psychometric properties and factor structure of the arabic translation of the brief negative symptom scale",
+      "doi": "10.1159/000549173",
+      "date": "2025-10-23",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1159/000549173",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Motivation and regulatory flexibility: Testing the moderating role of optimism and coping self-efficacy",
+      "doi": "10.1016/j.paid.2025.113232",
+      "date": "2025-05-16",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://openalex.org/W4410386770",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Trajectories of psychopathology and sleep quality during a collective stressful event: The role of sexual minority identity, personality, and emotion regulation",
+      "doi": "10.1016/j.jpsychires.2025.04.044",
+      "date": "2025-04-23",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://openalex.org/W4409726369",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Trajectories of poststroke depression among older adults",
+      "doi": "10.1002/pmrj.13365",
+      "date": "2025-03-26",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1002/pmrj.13365",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Sleep bad, feel bad: Unpacking the role of exercise and socializing",
+      "doi": "10.1016/j.brat.2024.104652",
+      "date": "2024-11-12",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://openalex.org/W4404288223",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Expanding the scope of diverse contexts in affective science",
+      "doi": "10.1007/s42761-024-00261-1",
+      "date": "2024-08-28",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1007/s42761-024-00261-1",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Prospective trajectories of depression predict mortality in cancer patients",
+      "doi": "10.1007/s10865-024-00485-3",
+      "date": "2024-04-14",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1007/s10865-024-00485-3",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Emotion regulation flexibility and psychosis: A longitudinal study disentangling components of flexibility in psychosis‐proneness",
+      "doi": "10.1111/bjc.12443",
+      "date": "2023-10-17",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1111/bjc.12443",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Are there reciprocal interplays among Chinese adolescents’, fathers’, and mothers’ depression at the within-family level? A family systems perspective",
+      "doi": "10.1037/abn0000883",
+      "date": "2024-02-01",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://openalex.org/W4391242201",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Emotion regulation flexibility and momentary affect in two cultures",
+      "doi": "10.1038/s44220-024-00215-3",
+      "date": "2024-03-20",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1038/s44220-024-00215-3",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Resilience and disaster: Flexible adaptation in the face of uncertain threat",
+      "doi": "10.1146/annurev-psych-011123-024224",
+      "date": "2023-08-11",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://openalex.org/W4385754499",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Psychological distress and everyday discrimination among Chinese international students one year into COVID-19: A preregistered comparative study",
+      "doi": "10.1080/10615806.2022.2130268",
+      "date": "2022-10-18",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1080/10615806.2022.2130268",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Resilience to potential trauma and adversity through regulatory flexibility",
+      "doi": "10.1038/s44159-023-00233-5",
+      "date": "2023-09-19",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1038/s44159-023-00233-5",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Impact and centrality of attention dysregulation on cognition, anxiety, and low mood in adolescents",
+      "doi": "10.1038/s41598-023-34399-y",
+      "date": "2023-06-05",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1038/s41598-023-34399-y",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Components of emotion regulation flexibility and psychosis: The association between psychosis‐proneness and context sensitivity",
+      "doi": "10.1111/bjc.12395",
+      "date": "2022-09-29",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1111/bjc.12395",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Understanding posttraumatic stress trajectories in adolescent females: A strength-based machine learning approach examining risk and protective factors including online behaviors",
+      "doi": "10.1017/s0954579422000475",
+      "date": "2022-05-30",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1017/s0954579422000475",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Depression and PTSD in the aftermath of strict COVID-19 lockdowns: A cross-sectional and longitudinal network analysis",
+      "doi": "10.1080/20008066.2022.2115635",
+      "date": "2022-09-22",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1080/20008066.2022.2115635",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Domains of life satisfaction and perceived health and incidence of chronic illnesses and hospitalization: Evidence from a large population-based Chinese cohort",
+      "doi": "10.1186/s12889-022-14119-3",
+      "date": "2022-09-08",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://doi.org/10.1186/s12889-022-14119-3",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Psychopathology and resilience following strict COVID-19 lockdowns in Hubei, China: Examining person- and context-level predictors for longitudinal trajectories",
+      "doi": "10.1037/amp0000958",
+      "date": "2022-02-10",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35143231/",
+      "matched": true
+    },
+    {
+      "person": "mark-chen",
+      "title": "Sleep profiles as a longitudinal predictor for depression magnitude and variability following the onset of COVID-19",
+      "doi": "10.1016/j.jpsychires.2022.01.024",
+      "date": "2022-01-11",
+      "reference": "https://epiclab.fas.harvard.edu/all-publications",
+      "dateSource": "https://openalex.org/W4206327541",
+      "matched": true
+    }
+  ],
   "frozenFrameSize": 94,
-  "corpusSha256": "442ea2682b222aa27664f6a451f79217e967b18e07763e449f8097ac2267b737",
+  "calibrationHistory": [
+    {
+      "label": "November 20 publication snapshot",
+      "corpusSha256": "8136529c9bb4d846cc453d477bd1d3cabacf07545100d15698a90621bb020772",
+      "audited": 3,
+      "matches": 60,
+      "denominator": 81,
+      "missing": [
+        {
+          "person": "jeffrey-girard",
+          "title": "Infants’ facial input from 6 to 17 months rarely includes hypothesized expressive emotion prototypes",
+          "doi": "10.1038/s44271-026-00539-z",
+          "date": "2026-09-24",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://doi.org/10.1038/s44271-026-00539-z",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Computational Analysis of Expressive Behavior in Clinical Assessment",
+          "doi": "10.1146/annurev-clinpsy-081423-024140",
+          "date": "2026-05-07",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://doi.org/10.1146/annurev-clinpsy-081423-024140",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "How Influencers Grow: An Empirical Study and Future Research Agenda",
+          "doi": "10.1177/10949968251360683",
+          "date": "2025-12-10",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://doi.org/10.1177/10949968251360683",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Examining the Role of Insomnia in Maintaining Binge Eating and Restricting in United States Veterans",
+          "doi": "10.1002/erv.70067",
+          "date": "2025-12-13",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://doi.org/10.1002/erv.70067",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "<scp>LLA</scp>\n                    MADRS: Evaluating Open-Source LLMs on Real Clinical Interviews—To Reason or Not to Reason?",
+          "doi": "10.1162/tacl.a.741",
+          "date": "2026-07-01",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://doi.org/10.1162/tacl.a.741",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Narcissism From Every Angle: An Interpersonal Analysis of Narcissism in Young Adults",
+          "doi": "10.1177/10731911251356150",
+          "date": "2025-08-19",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://doi.org/10.1177/10731911251356150",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Sentiment Analysis of Naturalistic Speech Using Open-Weight Large Language Models",
+          "doi": "10.1007/s42761-025-00352-7",
+          "date": "2026-02-24",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42311810/",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Alcohol and emotion: Analyzing convergence between facially expressed and self-reported indices of emotion under alcohol intoxication.",
+          "doi": "10.1037/adb0001053",
+          "date": "2025-12-01",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://openalex.org/W4406215727",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Depressive symptoms among Hispanic Americans: Investigating the interplay of acculturation and demographics.",
+          "doi": "10.1037/lat0000266",
+          "date": "2024-07-25",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://doi.org/10.1037/lat0000266",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Dynamic and dyadic relationships between facial behavior, working alliance, and treatment outcomes during depression therapy.",
+          "doi": "10.1037/ccp0000980",
+          "date": "2025-11-01",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://openalex.org/W4415813510",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Individualized Machine-Learning-Based Clinical Assessment Recommendation System",
+          "doi": "10.1371/journal.pdig.0001022",
+          "date": "2025-09-25",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001022",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "The Effects of Alcohol in Groups of Heavy-Drinking Young Adults: A Multimodal Investigation of Alcohol Responses in a Laboratory Social Setting",
+          "doi": "10.1177/21677026251333784",
+          "date": "2025-06-07",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://doi.org/10.1177/21677026251333784",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "The role of hyper-palatable foods in energy intake measured using mobile food photography methodology",
+          "doi": "10.1016/j.eatbeh.2025.101983",
+          "date": "2025-04-01",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://openalex.org/W4409745015",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Transdiagnostic Modeling of Clinician-Rated Symptoms in Affective and Nonaffective Psychotic Disorders",
+          "doi": "10.1037/abn0000958",
+          "date": "2024-10-24",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39446623/",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Worth the weight: An examination of unstructured and structured data in graduate admissions.",
+          "doi": "10.1037/dec0000251",
+          "date": "2025-01-01",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://openalex.org/W4403945159",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Are within- and between-session changes in distress associated with treatment outcomes? Findings from two clinical trials of exposure for eating disorders",
+          "doi": "10.1016/j.brat.2024.104577",
+          "date": "2024-06-01",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://openalex.org/W4399258710",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Associations between transdiagnostic traits of psychopathology and hybrid posttraumatic stress disorder factors in a trauma‐exposed community sample",
+          "doi": "10.1002/jts.23023",
+          "date": "2024-03-01",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://openalex.org/W4392359507",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "It is the sentiment that counts: comparing sentiment analysis tools for estimating affective valence in dream reports",
+          "doi": "10.1093/sleep/zsae210",
+          "date": "2024-09-10",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://doi.org/10.1093/sleep/zsae210",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Sources of Environmental Reinforcement and Engagement in Health Risk Behaviors Among a General Population Sample of US Adults",
+          "doi": "10.3390/ijerph21111390",
+          "date": "2024-10-22",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://doi.org/10.3390/ijerph21111390",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Human and machine recognition of dynamic and static facial expressions: prototypicality, ambiguity, and complexity",
+          "doi": "10.3389/fpsyg.2023.1221081",
+          "date": "2023-09-12",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://doi.org/10.3389/fpsyg.2023.1221081",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        },
+        {
+          "person": "jeffrey-girard",
+          "title": "Randomized trial of brief interpersonal psychotherapy and cognitive behavioral therapy for depression delivered both in-person and by telehealth",
+          "doi": "10.1016/j.jad.2023.04.092",
+          "date": "2023-04-28",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://openalex.org/W4367316892",
+          "matched": false,
+          "reason": "No publication retrieval for this person because the author identity was still unresolved."
+        }
+      ]
+    },
+    {
+      "label": "November 23 primary refresh before DOI recovery",
+      "corpusSha256": "0c5bcd2d7bbf9eafa025492ab0eb8d07e08a4a3b3c1c946968863aab429ece09",
+      "audited": 3,
+      "matches": 80,
+      "denominator": 81,
+      "missing": [
+        {
+          "person": "jeffrey-girard",
+          "title": "Sentiment Analysis of Naturalistic Speech Using Open-Weight Large Language Models",
+          "doi": "10.1007/s42761-025-00352-7",
+          "date": "2026-02-24",
+          "reference": "https://affcom.ku.edu/publications.html",
+          "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42311810/",
+          "matched": false,
+          "reason": "The publication is indexed at its exact DOI, but the OpenAlex works-by-author endpoint omitted it despite the direct DOI record linking to the verified author."
+        }
+      ]
+    }
+  ],
+  "corpusSha256": "893606fbf97bbce82e45e59cd7a4c3098db259c254782cdc91ae58dc778b82ac",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",

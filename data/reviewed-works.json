@@ -749,5 +749,62 @@
       }
     ],
     "peerReview": "confirmed"
+  },
+  {
+    "title": "Sentiment Analysis of Naturalistic Speech Using Open-Weight Large Language Models",
+    "doi": "10.1007/s42761-025-00352-7",
+    "date": "2026-02-24",
+    "kind": "journal",
+    "venue": "Affective Science",
+    "authorCount": 5,
+    "pmcid": "13269563",
+    "people": {
+      "jeffrey-girard": {
+        "position": 1,
+        "affiliations": [
+          "University of Kansas"
+        ],
+        "identityNote": "The publication is indexed at its exact DOI, but the OpenAlex works-by-author endpoint omitted it despite the direct DOI record linking to the verified author."
+      }
+    },
+    "issns": [
+      "2662-2041",
+      "2662-205X"
+    ],
+    "topics": [
+      "Sentiment Analysis and Opinion Mining",
+      "Emotion and Mood Recognition",
+      "Mental Health via Writing"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2026-02-24",
+        "source": "OpenAlex",
+        "type": "publication"
+      },
+      {
+        "date": "2026-02-24",
+        "type": "online-first",
+        "source": "PubMed"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7131080691",
+        "url": "https://openalex.org/W7131080691"
+      },
+      {
+        "source": "Lab",
+        "id": "10.1007/s42761-025-00352-7",
+        "url": "https://affcom.ku.edu/publications.html"
+      },
+      {
+        "source": "PubMed",
+        "id": "42311810",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42311810/"
+      }
+    ],
+    "peerReview": "inferred"
   }
 ]

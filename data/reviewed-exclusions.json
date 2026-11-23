@@ -4,5 +4,17 @@
     "id": "W2948323237",
     "reason": "The publisher identifies this work as a newspaper article by the faculty member.",
     "evidence": "https://www.theguardian.com/us-news/2017/sep/14/donald-trump-alpha-male-chimpanzee-behavior"
+  },
+  {
+    "source": "OpenAlex",
+    "id": "W7214579710",
+    "reason": "Publisher classifies this item as commentary and OpenAlex classifies it as editorial. External peer review could not be confirmed.",
+    "evidence": "https://journals.sagepub.com/doi/10.1177/21677026251409757"
+  },
+  {
+    "source": "Crossref",
+    "id": "10.1177/21677026251409757",
+    "reason": "Publisher classifies this item as commentary and OpenAlex classifies it as editorial. External peer review could not be confirmed.",
+    "evidence": "https://journals.sagepub.com/doi/10.1177/21677026251409757"
   }
 ]

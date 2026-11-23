@@ -1,0 +1,704 @@
+{
+  "mark-chen": {
+    "source": "https://epiclab.fas.harvard.edu/all-publications",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "title": "Depression Symptom Network Reorganization Under Internet-Based Emotion Regulation Intervention: Evidence From a Large Real-World Cohort",
+        "doi": "10.1037/amp0001798",
+        "date": "2026-09-28",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1037/amp0001798"
+      },
+      {
+        "title": "The role of adverse childhood experiences in the prospective link between sleep–affect spillover and anxiety symptoms: A daily diary study combined with panel data",
+        "doi": "10.1177/21677026261476613",
+        "date": "2026-11-11",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/21677026261476613"
+      },
+      {
+        "title": "Is the more the merrier? Affective outcomes of emotion polyregulation depend on the idiographic effective strategy ratio across cultures",
+        "doi": "10.1007/s42761-026-00398-1",
+        "date": "2026-08-15",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s42761-026-00398-1"
+      },
+      {
+        "title": "A prompt-based tutorial for large language model–assisted screening in systematic reviews and meta-analyses",
+        "doi": "10.1017/s0266462326104073",
+        "date": "2026-08-03",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1017/s0266462326104073"
+      },
+      {
+        "title": "When good news falls short: Prospective role of positive belief updating in predicting post-trauma distress",
+        "doi": "10.1016/j.brat.2026.105137",
+        "date": "2026-08-18",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W7203681095"
+      },
+      {
+        "title": "From stress to strength: Temporal links between emotion regulation, perceived control, and positive affect",
+        "doi": "10.1007/s42761-026-00401-9",
+        "date": "2026-09-05",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s42761-026-00401-9"
+      },
+      {
+        "title": "Better together? Polyregulation across interpersonal and intrapersonal strategies in civilian and veteran daily life",
+        "doi": "10.1080/02699931.2026.2713105",
+        "date": "2026-08-05",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/02699931.2026.2713105"
+      },
+      {
+        "title": "Emotion regulation flexibility in resilience and psychopathology: Status, challenges, and future directions",
+        "doi": "10.1037/cps0000326",
+        "date": "2026-09-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W7165911742"
+      },
+      {
+        "title": "Emotion regulation flexibility and momentary psychopathology symptoms among trauma‐exposed veterans with and without posttraumatic stress disorder",
+        "doi": "10.1002/jts.70078",
+        "date": "2026-05-17",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/jts.70078"
+      },
+      {
+        "title": "Task-based interpretation flexibility predicts real-world emotion regulation variability",
+        "doi": "10.1038/s41598-026-47441-6",
+        "date": "2026-04-07",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s41598-026-47441-6"
+      },
+      {
+        "title": "Variability is not flexibility: Emotion regulation switching predicts increased momentary distress when context is stable",
+        "doi": "10.1037/abn0001108",
+        "date": "2026-03-30",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41910550/"
+      },
+      {
+        "title": "Situational controllability moderates the link between cognitive reappraisal, but not problem solving, and momentary distress",
+        "doi": "10.1016/j.jad.2026.121501",
+        "date": "2026-02-23",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41740758/"
+      },
+      {
+        "title": "When negative emotions stick together: Interconnectedness explains how emotion regulation strategies shape distress",
+        "doi": "10.1007/s10964-026-02366-1",
+        "date": "2026-05-30",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s10964-026-02366-1"
+      },
+      {
+        "title": "Depressive symptom trajectories in suicide-bereaved individuals: A 24-year study from adolescence to adulthood",
+        "doi": "10.1017/s0954579425000355",
+        "date": "2025-05-22",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1017/s0954579425000355"
+      },
+      {
+        "title": "Comparing indices of emotion regulation variability across culturally diverse samples: Associations with negative affect",
+        "doi": "10.1007/s10608-025-10627-9",
+        "date": "2025-06-16",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s10608-025-10627-9"
+      },
+      {
+        "title": "Emotion regulation repertoire moderates the association between sleep and depression: A daily diary study",
+        "doi": "10.1007/s10608-025-10638-6",
+        "date": "2025-07-14",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s10608-025-10638-6"
+      },
+      {
+        "title": "Day-to-day dynamic coupling of affective symptoms in chinese mother–adolescent and father–adolescent dyads",
+        "doi": "10.1177/21677026251369840",
+        "date": "2025-11-06",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/21677026251369840"
+      },
+      {
+        "title": "Longitudinal impacts of adverse childhood experiences on multidimensional health outcomes: Predicting trajectories in mental, physical, and behavioral health",
+        "doi": "10.1016/j.chiabu.2023.106543",
+        "date": "2023-11-18",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37980177/"
+      },
+      {
+        "title": "Emotion regulation and mental health across cultures: A systematic review and meta-analysis",
+        "doi": "10.1038/s41562-025-02168-8",
+        "date": "2025-04-15",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s41562-025-02168-8"
+      },
+      {
+        "title": "An initial exploration of mechanisms contributing to higher suicidal ideation in bisexual+ compared to lesbian/gay individuals",
+        "doi": "10.1037/sgd0000834",
+        "date": "2025-04-07",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1037/sgd0000834"
+      },
+      {
+        "title": "The associations between cognitive flexibility and suicidal thoughts and behaviors: A systematic review and meta-analysis",
+        "doi": "10.1007/s10608-025-10591-4",
+        "date": "2025-04-19",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s10608-025-10591-4"
+      },
+      {
+        "title": "Navigating unmeasured confounding in nonexperimental psychological research: A practical guide to computing and interpreting e-value",
+        "doi": "10.1177/25152459251326571",
+        "date": "2025-04-14",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/25152459251326571"
+      },
+      {
+        "title": "Investigating risk profiles of smartphone activities and psychosocial factors in adolescents during the COVID ‐19 pandemic",
+        "doi": "10.1111/jora.13045",
+        "date": "2024-12-29",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1111/jora.13045"
+      },
+      {
+        "title": "Circuitry correlates of negative urgency and suicidality in schizophrenia spectrum disorders: A LASSO regression study",
+        "doi": "10.3389/fpsyt.2025.1678555",
+        "date": "2025-12-09",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.3389/fpsyt.2025.1678555"
+      },
+      {
+        "title": "Psychometric properties and factor structure of the arabic translation of the brief negative symptom scale",
+        "doi": "10.1159/000549173",
+        "date": "2025-10-23",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1159/000549173"
+      },
+      {
+        "title": "Motivation and regulatory flexibility: Testing the moderating role of optimism and coping self-efficacy",
+        "doi": "10.1016/j.paid.2025.113232",
+        "date": "2025-05-16",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4410386770"
+      },
+      {
+        "title": "Trajectories of psychopathology and sleep quality during a collective stressful event: The role of sexual minority identity, personality, and emotion regulation",
+        "doi": "10.1016/j.jpsychires.2025.04.044",
+        "date": "2025-04-23",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4409726369"
+      },
+      {
+        "title": "Trajectories of poststroke depression among older adults",
+        "doi": "10.1002/pmrj.13365",
+        "date": "2025-03-26",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/pmrj.13365"
+      },
+      {
+        "title": "Sleep bad, feel bad: Unpacking the role of exercise and socializing",
+        "doi": "10.1016/j.brat.2024.104652",
+        "date": "2024-11-12",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4404288223"
+      },
+      {
+        "title": "Expanding the scope of diverse contexts in affective science",
+        "doi": "10.1007/s42761-024-00261-1",
+        "date": "2024-08-28",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s42761-024-00261-1"
+      },
+      {
+        "title": "Prospective trajectories of depression predict mortality in cancer patients",
+        "doi": "10.1007/s10865-024-00485-3",
+        "date": "2024-04-14",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s10865-024-00485-3"
+      },
+      {
+        "title": "Emotion regulation flexibility and psychosis: A longitudinal study disentangling components of flexibility in psychosis‐proneness",
+        "doi": "10.1111/bjc.12443",
+        "date": "2023-10-17",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1111/bjc.12443"
+      },
+      {
+        "title": "Are there reciprocal interplays among Chinese adolescents’, fathers’, and mothers’ depression at the within-family level? A family systems perspective",
+        "doi": "10.1037/abn0000883",
+        "date": "2024-02-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4391242201"
+      },
+      {
+        "title": "Emotion regulation flexibility and momentary affect in two cultures",
+        "doi": "10.1038/s44220-024-00215-3",
+        "date": "2024-03-20",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s44220-024-00215-3"
+      },
+      {
+        "title": "Resilience and disaster: Flexible adaptation in the face of uncertain threat",
+        "doi": "10.1146/annurev-psych-011123-024224",
+        "date": "2023-08-11",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4385754499"
+      },
+      {
+        "title": "Psychological distress and everyday discrimination among Chinese international students one year into COVID-19: A preregistered comparative study",
+        "doi": "10.1080/10615806.2022.2130268",
+        "date": "2022-10-18",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/10615806.2022.2130268"
+      },
+      {
+        "title": "Resilience to potential trauma and adversity through regulatory flexibility",
+        "doi": "10.1038/s44159-023-00233-5",
+        "date": "2023-09-19",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s44159-023-00233-5"
+      },
+      {
+        "title": "Impact and centrality of attention dysregulation on cognition, anxiety, and low mood in adolescents",
+        "doi": "10.1038/s41598-023-34399-y",
+        "date": "2023-06-05",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s41598-023-34399-y"
+      },
+      {
+        "title": "Components of emotion regulation flexibility and psychosis: The association between psychosis‐proneness and context sensitivity",
+        "doi": "10.1111/bjc.12395",
+        "date": "2022-09-29",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1111/bjc.12395"
+      },
+      {
+        "title": "Understanding posttraumatic stress trajectories in adolescent females: A strength-based machine learning approach examining risk and protective factors including online behaviors",
+        "doi": "10.1017/s0954579422000475",
+        "date": "2022-05-30",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1017/s0954579422000475"
+      },
+      {
+        "title": "Depression and PTSD in the aftermath of strict COVID-19 lockdowns: A cross-sectional and longitudinal network analysis",
+        "doi": "10.1080/20008066.2022.2115635",
+        "date": "2022-09-22",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/20008066.2022.2115635"
+      },
+      {
+        "title": "Domains of life satisfaction and perceived health and incidence of chronic illnesses and hospitalization: Evidence from a large population-based Chinese cohort",
+        "doi": "10.1186/s12889-022-14119-3",
+        "date": "2022-09-08",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1186/s12889-022-14119-3"
+      },
+      {
+        "title": "Psychopathology and resilience following strict COVID-19 lockdowns in Hubei, China: Examining person- and context-level predictors for longitudinal trajectories",
+        "doi": "10.1037/amp0000958",
+        "date": "2022-02-10",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35143231/"
+      },
+      {
+        "title": "Sleep profiles as a longitudinal predictor for depression magnitude and variability following the onset of COVID-19",
+        "doi": "10.1016/j.jpsychires.2022.01.024",
+        "date": "2022-01-11",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4206327541"
+      }
+    ],
+    "excluded": [
+      {
+        "reason": "The lab labels an additional article in press. No published journal version was confirmed by the cutoff.",
+        "title": "Comparing indices of mixed emotions: Associations with depression, anxiety, and stress in daily life"
+      },
+      {
+        "reason": "Online publication before the start of the audit window",
+        "count": 3
+      }
+    ]
+  },
+  "jeffrey-girard": {
+    "source": "https://affcom.ku.edu/publications.html",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "title": "Infants’ facial input from 6 to 17 months rarely includes hypothesized expressive emotion prototypes",
+        "doi": "10.1038/s44271-026-00539-z",
+        "date": "2026-09-24",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s44271-026-00539-z"
+      },
+      {
+        "title": "Computational Analysis of Expressive Behavior in Clinical Assessment",
+        "doi": "10.1146/annurev-clinpsy-081423-024140",
+        "date": "2026-05-07",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1146/annurev-clinpsy-081423-024140"
+      },
+      {
+        "title": "How Influencers Grow: An Empirical Study and Future Research Agenda",
+        "doi": "10.1177/10949968251360683",
+        "date": "2025-12-10",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/10949968251360683"
+      },
+      {
+        "title": "Examining the Role of Insomnia in Maintaining Binge Eating and Restricting in United States Veterans",
+        "doi": "10.1002/erv.70067",
+        "date": "2025-12-13",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/erv.70067"
+      },
+      {
+        "title": "<scp>LLA</scp>\n                    MADRS: Evaluating Open-Source LLMs on Real Clinical Interviews—To Reason or Not to Reason?",
+        "doi": "10.1162/tacl.a.741",
+        "date": "2026-07-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1162/tacl.a.741"
+      },
+      {
+        "title": "Narcissism From Every Angle: An Interpersonal Analysis of Narcissism in Young Adults",
+        "doi": "10.1177/10731911251356150",
+        "date": "2025-08-19",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/10731911251356150"
+      },
+      {
+        "title": "Sentiment Analysis of Naturalistic Speech Using Open-Weight Large Language Models",
+        "doi": "10.1007/s42761-025-00352-7",
+        "date": "2026-02-24",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42311810/",
+        "diagnosis": "The publication is indexed at its exact DOI, but the OpenAlex works-by-author endpoint omitted it despite the direct DOI record linking to the verified author."
+      },
+      {
+        "title": "Alcohol and emotion: Analyzing convergence between facially expressed and self-reported indices of emotion under alcohol intoxication.",
+        "doi": "10.1037/adb0001053",
+        "date": "2025-12-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4406215727"
+      },
+      {
+        "title": "Depressive symptoms among Hispanic Americans: Investigating the interplay of acculturation and demographics.",
+        "doi": "10.1037/lat0000266",
+        "date": "2024-07-25",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1037/lat0000266"
+      },
+      {
+        "title": "Dynamic and dyadic relationships between facial behavior, working alliance, and treatment outcomes during depression therapy.",
+        "doi": "10.1037/ccp0000980",
+        "date": "2025-11-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4415813510"
+      },
+      {
+        "title": "Individualized Machine-Learning-Based Clinical Assessment Recommendation System",
+        "doi": "10.1371/journal.pdig.0001022",
+        "date": "2025-09-25",
+        "kind": "journal",
+        "dateSource": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001022"
+      },
+      {
+        "title": "The Effects of Alcohol in Groups of Heavy-Drinking Young Adults: A Multimodal Investigation of Alcohol Responses in a Laboratory Social Setting",
+        "doi": "10.1177/21677026251333784",
+        "date": "2025-06-07",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/21677026251333784"
+      },
+      {
+        "title": "The role of hyper-palatable foods in energy intake measured using mobile food photography methodology",
+        "doi": "10.1016/j.eatbeh.2025.101983",
+        "date": "2025-04-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4409745015"
+      },
+      {
+        "title": "Transdiagnostic Modeling of Clinician-Rated Symptoms in Affective and Nonaffective Psychotic Disorders",
+        "doi": "10.1037/abn0000958",
+        "date": "2024-10-24",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39446623/"
+      },
+      {
+        "title": "Worth the weight: An examination of unstructured and structured data in graduate admissions.",
+        "doi": "10.1037/dec0000251",
+        "date": "2025-01-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4403945159"
+      },
+      {
+        "title": "Are within- and between-session changes in distress associated with treatment outcomes? Findings from two clinical trials of exposure for eating disorders",
+        "doi": "10.1016/j.brat.2024.104577",
+        "date": "2024-06-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4399258710"
+      },
+      {
+        "title": "Associations between transdiagnostic traits of psychopathology and hybrid posttraumatic stress disorder factors in a trauma‐exposed community sample",
+        "doi": "10.1002/jts.23023",
+        "date": "2024-03-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4392359507"
+      },
+      {
+        "title": "It is the sentiment that counts: comparing sentiment analysis tools for estimating affective valence in dream reports",
+        "doi": "10.1093/sleep/zsae210",
+        "date": "2024-09-10",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1093/sleep/zsae210"
+      },
+      {
+        "title": "Sources of Environmental Reinforcement and Engagement in Health Risk Behaviors Among a General Population Sample of US Adults",
+        "doi": "10.3390/ijerph21111390",
+        "date": "2024-10-22",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.3390/ijerph21111390"
+      },
+      {
+        "title": "Human and machine recognition of dynamic and static facial expressions: prototypicality, ambiguity, and complexity",
+        "doi": "10.3389/fpsyg.2023.1221081",
+        "date": "2023-09-12",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.3389/fpsyg.2023.1221081"
+      },
+      {
+        "title": "Randomized trial of brief interpersonal psychotherapy and cognitive behavioral therapy for depression delivered both in-person and by telehealth",
+        "doi": "10.1016/j.jad.2023.04.092",
+        "date": "2023-04-28",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4367316892"
+      }
+    ],
+    "excluded": [
+      {
+        "reason": "Lab lists the work as in press and links the preprint. No journal publication was confirmed by the cutoff.",
+        "title": "Evaluating Open-Weight Large Language Models for Structured Depression Assessment from Clinical Interviews"
+      },
+      {
+        "reason": "Publisher designates this item as an Introduction.",
+        "source": "https://doi.org/10.1080/10503307.2024.2445664",
+        "title": "From Intuition to Innovation: Empirical Illustrations of Multimodal Measurement in Psychotherapy Research"
+      },
+      {
+        "reason": "Conference papers, preprints and software are separate from journal articles."
+      },
+      {
+        "title": "Computational analysis of spoken language in acute psychosis and mania",
+        "doi": "10.1016/j.schres.2021.06.040",
+        "date": "2021-02-12",
+        "source": "https://openalex.org/W3161093913",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "title": "Weighting schemes and incomplete data: A generalized Bayesian framework for chance-corrected interrater agreement.",
+        "doi": "10.1037/met0000412",
+        "date": "2021-11-11",
+        "source": "https://doi.org/10.1037/met0000412",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "title": "A Bayesian multilevel analysis of the longitudinal associations between relationship quality and suicidal ideation and attempts among youth with bipolar disorder",
+        "doi": "10.1111/jcpp.13343",
+        "date": "2020-10-27",
+        "source": "https://doi.org/10.1111/jcpp.13343",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "title": "In the Eye of the Beholder: A Comprehensive Analysis of Stimulus Type, Perceiver, and Target in Physical Attractiveness Perceptions",
+        "doi": "10.1007/s10919-020-00350-2",
+        "date": "2021-01-09",
+        "source": "https://doi.org/10.1007/s10919-020-00350-2",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "title": "Reconsidering the Duchenne Smile: Formalizing and Testing Hypotheses About Eye Constriction and Positive Emotion",
+        "doi": "10.1007/s42761-020-00030-w",
+        "date": "2021-01-18",
+        "source": "https://doi.org/10.1007/s42761-020-00030-w",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "title": "Building Open Science Into Graduate Training in Clinical Psychology",
+        "doi": "10.1177/21677026251409757",
+        "reason": "SAGE classifies this work as an article commentary, and OpenAlex classifies it as an editorial. External peer review could not be confirmed.",
+        "source": "https://journals.sagepub.com/doi/10.1177/21677026251409757"
+      }
+    ]
+  },
+  "isaac-petersen": {
+    "source": "https://developmental-psychopathology.lab.uiowa.edu/publications",
+    "cv": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2026-11/Petersen-updated.pdf",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "title": "Designing a cognitive behavioural programme adapted to meet the socio-emotional needs of children with developmental language disorder",
+        "doi": "10.1080/23735082.2026.2679285",
+        "date": "2026-06-05",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/23735082.2026.2679285"
+      },
+      {
+        "title": "How often is “often”? Improving assessment of the externalizing spectrum using absolute frequency.",
+        "doi": "10.1037/pas0001441",
+        "date": "2026-04-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4416995105"
+      },
+      {
+        "title": "Studying Development of Psychopathology Using Changing Measures to Account for Heterotypic Continuity",
+        "doi": "10.1016/j.jaacop.2025.10.008",
+        "date": "2025-11-08",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4416026348"
+      },
+      {
+        "title": "Components of socioeconomic status differentially predict development of cool versus hot executive function in young children",
+        "doi": "10.1177/01650254251383697",
+        "date": "2025-10-26",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/01650254251383697"
+      },
+      {
+        "title": "Individual differences in language during childhood predict well-being in adolescence",
+        "doi": "10.1093/chidev/aacaf057",
+        "date": "2026-02-26",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1093/chidev/aacaf057"
+      },
+      {
+        "title": "Never … Often? Comparisons That Shape People's Likert‐Type Ratings of Behavior Frequencies",
+        "doi": "10.1002/bdm.70083",
+        "date": "2026-05-03",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/bdm.70083"
+      },
+      {
+        "title": "Reactive and control processes in the development of internalizing and externalizing problems across early childhood to adolescence",
+        "doi": "10.1017/s0954579424000713",
+        "date": "2024-04-08",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1017/s0954579424000713"
+      },
+      {
+        "title": "The lifespan trajectories of brain activities related to conflict-driven cognitive control",
+        "doi": "10.1016/j.scib.2025.08.038",
+        "date": "2025-08-23",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4413452934"
+      },
+      {
+        "title": "Reexamining developmental continuity and discontinuity in the 21st century: Better aligning behaviors, functions, and mechanisms.",
+        "doi": "10.1037/dev0001657",
+        "date": "2024-11-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4387781601"
+      },
+      {
+        "title": "Adapting open science and pre‐registration to longitudinal research",
+        "doi": "10.1002/icd.2315",
+        "date": "2022-04-22",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/icd.2315"
+      },
+      {
+        "title": "Explaining Brain-Behavior Relations: Inhibitory Control as an Intermediate Phenotype Between the N2 ERP and the Externalizing Spectrum in Childhood",
+        "doi": "10.1007/s10802-023-01162-w",
+        "date": "2024-01-15",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s10802-023-01162-w"
+      },
+      {
+        "title": "A Developmentally Informed Systematic Review and Meta-Analysis of the Strength of General Psychopathology in Childhood and Adolescence",
+        "doi": "10.1007/s10567-023-00464-1",
+        "date": "2023-12-19",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s10567-023-00464-1"
+      },
+      {
+        "title": "The P3 ERP in Relation to General Versus Specific Psychopathology in Early Childhood",
+        "doi": "10.1007/s10802-023-01061-0",
+        "date": "2023-06-05",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s10802-023-01061-0"
+      },
+      {
+        "title": "Creating a developmental scale to chart the development of psychopathology with different informants and measures across time.",
+        "doi": "10.1037/abn0000649",
+        "date": "2022-08-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4288384102"
+      },
+      {
+        "title": "Studying children's growth in self‐regulation using changing measures to account for heterotypic continuity: A Bayesian approach to developmental scaling",
+        "doi": "10.1111/desc.13280",
+        "date": "2022-06-09",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1111/desc.13280"
+      },
+      {
+        "title": "Dynamics of Hierarchical Task Representations",
+        "doi": "10.1523/jneurosci.0233-22.2022",
+        "date": "2022-08-19",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1523/jneurosci.0233-22.2022"
+      }
+    ],
+    "excluded": [
+      {
+        "reason": "Crossref and the university repository identify this item as a practice brief.",
+        "title": "Assessing externalizing behaviors in school-aged children: Implications for school and community providers",
+        "source": "https://doi.org/10.17077/rep.006639"
+      },
+      {
+        "reason": "Conference papers, preprints and software are separate from journal articles."
+      },
+      {
+        "title": "Creating a Developmental Scale to Account for Heterotypic Continuity in Development: A Simulation Study",
+        "doi": "10.1111/cdev.13433",
+        "date": "2021-01-25",
+        "source": "https://doi.org/10.1111/cdev.13433",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "title": "Heterotypic continuity of inhibitory control in early childhood: Evidence from four widely used measures.",
+        "doi": "10.1037/dev0001025",
+        "date": "2021-11-01",
+        "source": "https://openalex.org/W4200196104",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "title": "Language ability in the development of externalizing behavior problems in childhood.",
+        "doi": "10.1037/edu0000461",
+        "date": "2021-01-01",
+        "source": "https://openalex.org/W3001658307",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "title": "The development of theta and alpha neural oscillations from ages 3 to 24 years",
+        "doi": "10.1016/j.dcn.2021.100969",
+        "date": "2021-05-31",
+        "source": "https://openalex.org/W3171402261",
+        "reason": "Official publication date falls outside the audit window."
+      }
+    ]
+  }
+}

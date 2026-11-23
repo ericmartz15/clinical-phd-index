@@ -85,6 +85,22 @@ class DataTest(unittest.TestCase):
         self.assertIsNone(result["recall"])
         self.assertFalse(result["targetMet"])
 
+    def test_fixed_sample_rejects_a_conflicting_doi(self):
+        faculty = [{"id": pid, "appointments": [{"role": "tenure-track", "current": True}]} for pid in ["a", "b"]]
+        reference = {"b": {"complete": True, "papers": [
+            {"kind": "journal", "date": "2025-01-01", "title": "Same title", "doi": "10.1234/reference"}
+        ]}}
+        work = {"kind": "journal", "date": "2025-01-01", "title": "Same title", "doi": "10.1234/other",
+                "people": {"b": {}}, "databaseMissing": False}
+        result = audit(faculty, [work], reference, 13, "calibration", "2021-01-01", "2026-01-01",
+                       fixed_sample=["b"])
+        self.assertEqual(result["sample"], ["b"])
+        self.assertEqual(result["matches"], 0)
+        work["doi"] = ""
+        result = audit(faculty, [work], reference, 13, "calibration", "2021-01-01", "2026-01-01",
+                       fixed_sample=["b"])
+        self.assertEqual(result["matches"], 1)
+
     def test_diagnostic_uses_documented_doi_for_title_variants(self):
         work = {"kind": "journal", "title": "Published title", "date": "2025-01-01",
                 "people": {"a": {}}, "doi": "10.1234/example", "databaseMissing": False}

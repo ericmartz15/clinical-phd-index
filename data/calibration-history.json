@@ -1,0 +1,240 @@
+[
+  {
+    "label": "November 20 publication snapshot",
+    "corpusSha256": "8136529c9bb4d846cc453d477bd1d3cabacf07545100d15698a90621bb020772",
+    "audited": 3,
+    "matches": 60,
+    "denominator": 81,
+    "missing": [
+      {
+        "person": "jeffrey-girard",
+        "title": "Infants’ facial input from 6 to 17 months rarely includes hypothesized expressive emotion prototypes",
+        "doi": "10.1038/s44271-026-00539-z",
+        "date": "2026-09-24",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://doi.org/10.1038/s44271-026-00539-z",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Computational Analysis of Expressive Behavior in Clinical Assessment",
+        "doi": "10.1146/annurev-clinpsy-081423-024140",
+        "date": "2026-05-07",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://doi.org/10.1146/annurev-clinpsy-081423-024140",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "How Influencers Grow: An Empirical Study and Future Research Agenda",
+        "doi": "10.1177/10949968251360683",
+        "date": "2025-12-10",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://doi.org/10.1177/10949968251360683",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Examining the Role of Insomnia in Maintaining Binge Eating and Restricting in United States Veterans",
+        "doi": "10.1002/erv.70067",
+        "date": "2025-12-13",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://doi.org/10.1002/erv.70067",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "<scp>LLA</scp>\n                    MADRS: Evaluating Open-Source LLMs on Real Clinical Interviews—To Reason or Not to Reason?",
+        "doi": "10.1162/tacl.a.741",
+        "date": "2026-07-01",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://doi.org/10.1162/tacl.a.741",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Narcissism From Every Angle: An Interpersonal Analysis of Narcissism in Young Adults",
+        "doi": "10.1177/10731911251356150",
+        "date": "2025-08-19",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://doi.org/10.1177/10731911251356150",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Sentiment Analysis of Naturalistic Speech Using Open-Weight Large Language Models",
+        "doi": "10.1007/s42761-025-00352-7",
+        "date": "2026-02-24",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42311810/",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Alcohol and emotion: Analyzing convergence between facially expressed and self-reported indices of emotion under alcohol intoxication.",
+        "doi": "10.1037/adb0001053",
+        "date": "2025-12-01",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://openalex.org/W4406215727",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Depressive symptoms among Hispanic Americans: Investigating the interplay of acculturation and demographics.",
+        "doi": "10.1037/lat0000266",
+        "date": "2024-07-25",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://doi.org/10.1037/lat0000266",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Dynamic and dyadic relationships between facial behavior, working alliance, and treatment outcomes during depression therapy.",
+        "doi": "10.1037/ccp0000980",
+        "date": "2025-11-01",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://openalex.org/W4415813510",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Individualized Machine-Learning-Based Clinical Assessment Recommendation System",
+        "doi": "10.1371/journal.pdig.0001022",
+        "date": "2025-09-25",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001022",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "The Effects of Alcohol in Groups of Heavy-Drinking Young Adults: A Multimodal Investigation of Alcohol Responses in a Laboratory Social Setting",
+        "doi": "10.1177/21677026251333784",
+        "date": "2025-06-07",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://doi.org/10.1177/21677026251333784",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "The role of hyper-palatable foods in energy intake measured using mobile food photography methodology",
+        "doi": "10.1016/j.eatbeh.2025.101983",
+        "date": "2025-04-01",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://openalex.org/W4409745015",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Transdiagnostic Modeling of Clinician-Rated Symptoms in Affective and Nonaffective Psychotic Disorders",
+        "doi": "10.1037/abn0000958",
+        "date": "2024-10-24",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39446623/",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Worth the weight: An examination of unstructured and structured data in graduate admissions.",
+        "doi": "10.1037/dec0000251",
+        "date": "2025-01-01",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://openalex.org/W4403945159",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Are within- and between-session changes in distress associated with treatment outcomes? Findings from two clinical trials of exposure for eating disorders",
+        "doi": "10.1016/j.brat.2024.104577",
+        "date": "2024-06-01",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://openalex.org/W4399258710",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Associations between transdiagnostic traits of psychopathology and hybrid posttraumatic stress disorder factors in a trauma‐exposed community sample",
+        "doi": "10.1002/jts.23023",
+        "date": "2024-03-01",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://openalex.org/W4392359507",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "It is the sentiment that counts: comparing sentiment analysis tools for estimating affective valence in dream reports",
+        "doi": "10.1093/sleep/zsae210",
+        "date": "2024-09-10",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://doi.org/10.1093/sleep/zsae210",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Sources of Environmental Reinforcement and Engagement in Health Risk Behaviors Among a General Population Sample of US Adults",
+        "doi": "10.3390/ijerph21111390",
+        "date": "2024-10-22",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://doi.org/10.3390/ijerph21111390",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Human and machine recognition of dynamic and static facial expressions: prototypicality, ambiguity, and complexity",
+        "doi": "10.3389/fpsyg.2023.1221081",
+        "date": "2023-09-12",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://doi.org/10.3389/fpsyg.2023.1221081",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      },
+      {
+        "person": "jeffrey-girard",
+        "title": "Randomized trial of brief interpersonal psychotherapy and cognitive behavioral therapy for depression delivered both in-person and by telehealth",
+        "doi": "10.1016/j.jad.2023.04.092",
+        "date": "2023-04-28",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://openalex.org/W4367316892",
+        "matched": false,
+        "reason": "No publication retrieval for this person because the author identity was still unresolved."
+      }
+    ]
+  },
+  {
+    "label": "November 23 primary refresh before DOI recovery",
+    "corpusSha256": "0c5bcd2d7bbf9eafa025492ab0eb8d07e08a4a3b3c1c946968863aab429ece09",
+    "audited": 3,
+    "matches": 80,
+    "denominator": 81,
+    "missing": [
+      {
+        "person": "jeffrey-girard",
+        "title": "Sentiment Analysis of Naturalistic Speech Using Open-Weight Large Language Models",
+        "doi": "10.1007/s42761-025-00352-7",
+        "date": "2026-02-24",
+        "reference": "https://affcom.ku.edu/publications.html",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42311810/",
+        "matched": false,
+        "reason": "The publication is indexed at its exact DOI, but the OpenAlex works-by-author endpoint omitted it despite the direct DOI record linking to the verified author."
+      }
+    ]
+  }
+]

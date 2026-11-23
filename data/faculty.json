@@ -261,14 +261,12 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "queried",
-        "Crossref": "queried",
-        "Semantic Scholar": "incomplete",
-        "PsyArXiv": "queried"
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
       },
-      "errors": {
-        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -918,28 +916,26 @@
         "source": "https://psychology.yale.edu/research/clinical-psychology"
       }
     ],
+    "orcid": "0000-0001-6773-0508",
+    "orcidSource": "https://medicine.yale.edu/profile/arielle-baskin-sommers/",
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5020403439"
       ],
-      "candidates": [
-        {
-          "id": "A5020403439",
-          "name": "Arielle Ryan Baskin-sommers",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        }
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "The named researcher and listed ORCID agree with OpenAlex. Source: https://medicine.yale.edu/profile/arielle-baskin-sommers/"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -968,59 +964,28 @@
         "source": "https://psychology.yale.edu/research/clinical-psychology"
       }
     ],
+    "orcid": "0000-0002-5632-3154",
+    "orcidSource": "https://medicine.yale.edu/profile/tyrone-cannon/",
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5090423513"
       ],
-      "candidates": [
-        {
-          "id": "A5014967846",
-          "name": "TD Cannon",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5090423513",
-          "name": "Tyrone D. Cannon",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5161615135",
-          "name": "Tyrone D Cannon",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5161704366",
-          "name": "Tyrone D Cannon",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5044952492",
-          "name": "Tyrone H. Cannon",
-          "confidence": 0,
-          "evidence": []
-        }
-      ]
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "The named researcher and listed ORCID agree with OpenAlex. Source: https://medicine.yale.edu/profile/tyrone-cannon/",
+        "Additional candidate author IDs require paper-level review."
+      ],
+      "splitReview": true
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -1118,34 +1083,26 @@
         "dateSource": "https://psychology.yale.edu/sites/default/files/cv-joormann82014.pdf"
       }
     ],
+    "orcid": "0000-0002-5531-8513",
+    "orcidSource": "https://medicine.yale.edu/profile/jutta-joormann/",
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5007569759"
       ],
-      "candidates": [
-        {
-          "id": "A5007569759",
-          "name": "Jutta Joormann",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5035637625",
-          "name": "Helena J.V. Rutherford and Jutta Joormann",
-          "confidence": 0,
-          "evidence": []
-        }
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "The named researcher and listed ORCID agree with OpenAlex. Source: https://medicine.yale.edu/profile/jutta-joormann/"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -1175,6 +1132,10 @@
         "dateSource": "https://wti.yale.edu/profile/shirley-wang"
       }
     ],
+    "orcid": "0000-0002-8583-3014",
+    "orcidSource": "https://wti.yale.edu/profile/shirley-wang",
+    "cv": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
+    "lab": "https://ccslab.yale.edu/",
     "identity": {
       "ids": [
         "A5070892042"
@@ -1188,17 +1149,13 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "queried",
-        "Crossref": "queried",
-        "Semantic Scholar": "partial author discovery",
-        "PsyArXiv": "queried"
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
       },
       "errors": {}
-    },
-    "orcid": "0000-0002-8583-3014",
-    "orcidSource": "https://wti.yale.edu/profile/shirley-wang",
-    "cv": "https://drive.google.com/file/d/1XFWssgUUjhDphbVRModZgl3-_Q-igvRN/view",
-    "lab": "https://ccslab.yale.edu/"
+    }
   },
   {
     "id": "aaron-fisher",
@@ -1287,10 +1244,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "queried",
-        "Crossref": "partial author discovery",
-        "Semantic Scholar": "partial author discovery",
-        "PsyArXiv": "queried"
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
       },
       "errors": {}
     }
@@ -1361,8 +1318,10 @@
         {
           "id": "A5069206945",
           "name": "Hinshaw Stephen",
-          "confidence": 0,
-          "evidence": []
+          "confidence": 0.35,
+          "evidence": [
+            "Institution in OpenAlex affiliation history"
+          ]
         },
         {
           "id": "A5085178273",
@@ -1428,6 +1387,15 @@
           ]
         },
         {
+          "id": "A5135764114",
+          "name": "Sheri L Johnson",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
           "id": "A5005760020",
           "name": "Sheri Johnson",
           "confidence": 0.45,
@@ -1446,14 +1414,6 @@
         {
           "id": "A5041687162",
           "name": "Sverre Urnes Johnson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5071166212",
-          "name": "Sheri P. Johnson",
           "confidence": 0.45,
           "evidence": [
             "Full name or documented name variant"
@@ -1650,28 +1610,26 @@
         "dateSource": "https://psychology.berkeley.edu/sites/default/files/newsletter_s24.pdf"
       }
     ],
+    "orcid": "0000-0001-9893-1046",
+    "orcidSource": "https://medicine.yale.edu/profile/hedy-kober/",
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5005131042"
       ],
-      "candidates": [
-        {
-          "id": "A5005131042",
-          "name": "Hedy Kober",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "OpenAlex agrees with the named ORCID in the Yale profile, and the UC Berkeley department lists the current Clinical Science appointment. Source: https://medicine.yale.edu/profile/hedy-kober/"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -1702,6 +1660,7 @@
         "dateSource": "https://psychology.berkeley.edu/sites/default/files/newsletter_s24.pdf"
       }
     ],
+    "cv": "https://psychology.berkeley.edu/sites/default/files/ramos_cv_11.20.32_am.pdf",
     "identity": {
       "ids": [
         "A5053968801"
@@ -1763,8 +1722,7 @@
         "PsyArXiv": "not run"
       },
       "errors": {}
-    },
-    "cv": "https://psychology.berkeley.edu/sites/default/files/ramos_cv_11.20.32_am.pdf"
+    }
   },
   {
     "id": "jasmin-brooks-stephens",
@@ -5590,28 +5548,26 @@
         "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
       }
     ],
+    "orcid": "0000-0002-6038-331X",
+    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/40751038/",
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5056326051"
       ],
-      "candidates": [
-        {
-          "id": "A5056326051",
-          "name": "Tracy Kathleen Witte",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        }
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "The named researcher and listed ORCID agree with OpenAlex. Source: https://pubmed.ncbi.nlm.nih.gov/40751038/"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -6090,71 +6046,42 @@
         "program": "program-061",
         "role": "tenure-track",
         "current": true,
-        "start": null,
+        "start": "2020",
         "end": null,
         "affiliations": [
           "University of Kansas (Clinical Psychology PhD)",
           "university of kansas",
           "University of Kansas"
         ],
-        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty",
+        "dateSource": "https://affcom.ku.edu/people/staff/girard_cv.pdf"
       }
     ],
+    "orcid": "0000-0002-7359-3746",
+    "orcidSource": "https://orcid.org/0000-0002-7359-3746",
+    "cv": "https://affcom.ku.edu/people/staff/girard_cv.pdf",
+    "lab": "https://affcom.ku.edu/",
+    "publicationList": "https://affcom.ku.edu/publications.html",
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5078452888"
       ],
-      "candidates": [
-        {
-          "id": "A5078452888",
-          "name": "Jeffrey M. Girard",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5135741667",
-          "name": "Jeffrey Girard",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5008406879",
-          "name": "Jeffrey Girard",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5050414530",
-          "name": "Jeffrey S. Girard",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5066242046",
-          "name": "Jeffrey Girard",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
-      ]
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "The named researcher and listed ORCID agree with OpenAlex. Source: https://orcid.org/0000-0002-7359-3746",
+        "Additional candidate author IDs require paper-level review."
+      ],
+      "splitReview": true
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
