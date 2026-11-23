@@ -988,7 +988,73 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-23",
+      "scope": "Clinical Science Faculty directory reconciled with departmental appointment classifications. A joint or affiliated appointment listed under Clinical Faculty still needs track confirmation.",
+      "sources": [
+        "https://dornsife.usc.edu/psyc/faculty-affiliation/",
+        "https://dornsife.usc.edu/profile/emilio-valadez/",
+        "https://dornsife.usc.edu/profile/bruna-klein/"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Brittany Beasley",
+          "label": "Practice track",
+          "reason": "The department classifies this appointment as practice-track.",
+          "source": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+        },
+        {
+          "name": "Lauren Shapiro",
+          "label": "Practice track",
+          "reason": "The department classifies this appointment as practice-track.",
+          "source": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+        },
+        {
+          "name": "Steven Lopez",
+          "label": "Emeritus",
+          "reason": "The clinical science directory separates this appointment as emeritus.",
+          "source": "https://dornsife.usc.edu/psyc/clinical-faculty/"
+        },
+        {
+          "name": "Gayla Margolin",
+          "label": "Emeritus",
+          "reason": "The clinical science directory separates this appointment as emeritus.",
+          "source": "https://dornsife.usc.edu/psyc/clinical-faculty/"
+        },
+        {
+          "name": "Bruna Martins-Klein",
+          "label": "Appointment track under review",
+          "reason": "The clinical roster lists her under Clinical Faculty. The departmental directory places her among affiliated and joint appointments. Confirm the appointment track and primary unit.",
+          "source": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+        },
+        {
+          "name": "Susan Luczak",
+          "label": "Affiliated clinical faculty",
+          "reason": "The clinical science roster lists this faculty member under Affiliated Faculty.",
+          "source": "https://dornsife.usc.edu/psyc/clinical-faculty/"
+        },
+        {
+          "name": "Mara Mather",
+          "label": "Affiliated clinical faculty",
+          "reason": "The clinical science roster lists this faculty member under Affiliated Faculty.",
+          "source": "https://dornsife.usc.edu/psyc/clinical-faculty/"
+        },
+        {
+          "name": "Santiago Morales",
+          "label": "Affiliated clinical faculty",
+          "reason": "The clinical science roster lists this faculty member under Affiliated Faculty.",
+          "source": "https://dornsife.usc.edu/psyc/clinical-faculty/"
+        },
+        {
+          "name": "Amy West",
+          "label": "Affiliated clinical faculty",
+          "reason": "The clinical science roster lists this faculty member under Affiliated Faculty.",
+          "source": "https://dornsife.usc.edu/psyc/clinical-faculty/"
+        }
+      ]
+    }
   },
   {
     "id": "program-022",

@@ -3989,5 +3989,252 @@
         "roleSource": "https://scholars.duke.edu/person/zucke001"
       }
     ]
+  },
+  {
+    "id": "christopher-beam",
+    "name": "Christopher Beam",
+    "aliases": [
+      "Chris Beam",
+      "Christopher R. Beam"
+    ],
+    "areas": [
+      "cognitive aging",
+      "behavior genetics",
+      "dementia"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ]
+  },
+  {
+    "id": "gerald-davison",
+    "name": "Gerald Davison",
+    "aliases": [
+      "Gerald C. Davison"
+    ],
+    "areas": [
+      "cognitive behavioral therapy",
+      "assessment",
+      "clinical decision making"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ]
+  },
+  {
+    "id": "iony-ezawa",
+    "name": "Iony Ezawa",
+    "aliases": [
+      "Iony D. Ezawa"
+    ],
+    "areas": [
+      "depression",
+      "cognitive behavioral therapy",
+      "digital intervention"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ]
+  },
+  {
+    "id": "duke-han",
+    "name": "Duke Han",
+    "aliases": [
+      "S. Duke Han",
+      "Sang Duke Han"
+    ],
+    "areas": [
+      "neuropsychology",
+      "cognitive aging",
+      "financial decision making"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ]
+  },
+  {
+    "id": "stanley-huey-jr",
+    "name": "Stanley Huey Jr.",
+    "aliases": [
+      "Stanley Huey",
+      "Stanley J. Huey Jr."
+    ],
+    "areas": [
+      "child and adolescent psychotherapy",
+      "juvenile justice",
+      "cultural adaptation"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ]
+  },
+  {
+    "id": "katharina-kircanski",
+    "name": "Katharina Kircanski",
+    "aliases": [
+      "Kat Kircanski"
+    ],
+    "areas": [
+      "pediatric anxiety",
+      "affective neuroscience",
+      "mood disorders"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ]
+  },
+  {
+    "id": "darby-saxbe",
+    "name": "Darby Saxbe",
+    "aliases": [
+      "Darby E. Saxbe"
+    ],
+    "areas": [
+      "family environments",
+      "neuroendocrinology",
+      "development"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ]
+  },
+  {
+    "id": "jonathan-stange",
+    "name": "Jonathan Stange",
+    "aliases": [
+      "Jonathan P. Stange"
+    ],
+    "areas": [
+      "mood disorders",
+      "suicide",
+      "ambulatory assessment"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/"
+      }
+    ]
+  },
+  {
+    "id": "emilio-valadez",
+    "name": "Emilio Valadez",
+    "aliases": [
+      "Emilio A. Valadez"
+    ],
+    "areas": [
+      "early adversity",
+      "anxiety",
+      "developmental neuroimaging"
+    ],
+    "appointments": [
+      {
+        "program": "usc",
+        "role": "tenure-track",
+        "current": true,
+        "start": "2025",
+        "end": null,
+        "affiliations": [
+          "University of Southern California",
+          "university of southern california"
+        ],
+        "source": "https://dornsife.usc.edu/psyc/clinical-faculty/",
+        "roleSource": "https://dornsife.usc.edu/psyc/faculty-affiliation/",
+        "dateSource": "https://dornsife.usc.edu/profile/emilio-valadez/"
+      }
+    ]
   }
 ]
