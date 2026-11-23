@@ -903,5 +903,567 @@
         "reason": "Online publication before the audit window."
       }
     ]
+  },
+  "daniel-taylor": {
+    "source": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "title": "Psychometric Validation and Evaluation of the Sleep Need Questionnaire",
+        "doi": "10.17241/smr.2026.03699",
+        "date": "2026-09-30",
+        "kind": "journal",
+        "dateSource": "https://www.sleepmedres.org/DOIx.php?id=10.17241/smr.2026.03699"
+      },
+      {
+        "title": "Problematic cannabis use in student athletes and non-athletes: associations with mental health",
+        "doi": "10.5114/hpr/221106",
+        "date": "2026-07-06",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.5114/hpr/221106"
+      },
+      {
+        "title": "Sleep health profiles of young adult college students: A latent profile analysis",
+        "doi": "10.1016/j.jpsychires.2026.06.040",
+        "date": "2026-06-26",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W7166113040"
+      },
+      {
+        "title": "Design and Recruitment for the Comparative Effectiveness of Zolpidem/Trazodone and Cognitive Behavioral Therapy for Insomnia (COZI) Study in Rural Adults",
+        "doi": "10.1080/15402002.2026.2678881",
+        "date": "2026-06-05",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/15402002.2026.2678881"
+      },
+      {
+        "title": "Predicting next-day suicidal urges, depression, and PTSD symptoms using ecological momentary assessments and passive sensing of sleep among military service members and veterans",
+        "doi": "10.1016/j.jad.2026.121692",
+        "date": "2026-03-25",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W7140277553"
+      },
+      {
+        "title": "A pilot feasibility randomized clinical trial of a culturally adapted accelerated group treatment for posttraumatic stress, insomnia, and nightmares in firefighters.",
+        "doi": "10.1037/tra0002090",
+        "date": "2026-01-19",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W7124941914"
+      },
+      {
+        "title": "Stress and cardiovascular disease: Testing a vigilance pathway in two contemporary theories.",
+        "doi": "10.1037/hea0001615",
+        "date": "2026-06-08",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42258290/"
+      },
+      {
+        "title": "Comorbidity of Nightmares in U.S. Military Personnel With Insomnia, Obstructive Sleep Apnea, or Co-Morbid Insomnia and Obstructive Sleep Apnea",
+        "doi": "10.1093/milmed/usag249",
+        "date": "2026-07-02",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42391041/"
+      },
+      {
+        "title": "The Development and Evaluation of a Web-Based Training Program for Cognitive Behavioral Therapy for Nightmares: CBTNightmares.org",
+        "doi": "10.1093/milmed/usaf385",
+        "date": "2025-08-14",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1093/milmed/usaf385"
+      },
+      {
+        "title": "Rates and correlates of nightmares and insomnia in active duty military service members pre- and postdeployment.",
+        "doi": "10.1037/tra0002244",
+        "date": "2026-09-28",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1037/tra0002244"
+      },
+      {
+        "title": "Treatment Development Report of an Intensive Group Treatment for Posttraumatic Stress, Insomnia, and Nightmares Adapted to Firefighter Culture",
+        "doi": "10.1016/j.cbpra.2025.10.003",
+        "date": "2025-10-10",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4415100128"
+      },
+      {
+        "title": "Longitudinal associations of sleep midpoint and sleep midpoint variability with the mental health of young adult college students",
+        "doi": "10.1080/07420528.2026.2671355",
+        "date": "2026-05-15",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W7161230313"
+      },
+      {
+        "title": "Longitudinal Associations of Step Count on Mental Health and Sleep of Young Adult College Students",
+        "doi": "10.1080/15402002.2026.2673896",
+        "date": "2026-05-15",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/15402002.2026.2673896"
+      },
+      {
+        "title": "Accuracy of the Athlete Psychological Strain Questionnaire (APSQ) compared to common screening tools for mental health disorders",
+        "doi": "10.1136/bjsports-2025-110185",
+        "date": "2025-11-15",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4416243530"
+      },
+      {
+        "title": "Brief Cognitive Behavioral Therapy for Suicidal Military Personnel and Veterans",
+        "doi": "10.1001/jamapsychiatry.2025.2850",
+        "date": "2025-10-08",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4414938360"
+      },
+      {
+        "title": "Psychometric Evaluation of the Weekly Version of the PTSD Checklist for DSM-5",
+        "doi": "10.1177/10731911251321929",
+        "date": "2025-03-12",
+        "kind": "journal",
+        "dateSource": "https://journals.sagepub.com/doi/10.1177/10731911251321929"
+      },
+      {
+        "title": "An Initial Examination of Couple Therapy for PTSD Outcomes Among Black/African American Adults: Findings from an Uncontrolled Trial with Military Dyads",
+        "doi": "10.3390/bs15040537",
+        "date": "2025-04-16",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.3390/bs15040537"
+      },
+      {
+        "title": "Comparison of multimodal delivery of cognitive behavioral therapy for insomnia in middle-aged adults: a randomized clinical trial design and methodology",
+        "doi": "10.1017/slp.2025.2",
+        "date": "2025-03-07",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1017/slp.2025.2",
+        "diagnosis": "OpenAlex indexes the DOI, but the verified ORCID on the raw byline has no linked author ID. The author-ID query omitted the paper."
+      },
+      {
+        "title": "Sleep–wake dynamics in veteran–service dog dyads: an exploration of overnight concordance",
+        "doi": "10.1093/sleep/zsaf177",
+        "date": "2025-06-28",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4411757411"
+      },
+      {
+        "title": "Pilot outcomes and exploration of treatment mechanisms using a culturally adapted version of the unified protocol for transdiagnostic treatment of emotional disorders to improve mental health symptoms, alcohol misuse, functional outcomes, and sleep quality in emergency responders",
+        "doi": "10.3389/frhs.2025.1452976",
+        "date": "2025-06-16",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.3389/frhs.2025.1452976"
+      },
+      {
+        "title": "An Expert Consensus Statement for Implementing Cognitive Behavioral Therapy for Nightmares in Adults",
+        "doi": "10.1080/15402002.2024.2437634",
+        "date": "2025-01-15",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/15402002.2024.2437634"
+      },
+      {
+        "title": "From innovation to implementation: Artificial intelligence in cognitive behaviour therapy training and supervision",
+        "doi": "10.1016/j.brat.2025.104945",
+        "date": "2025-12-31",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W7117666068"
+      },
+      {
+        "title": "CBTI web implementation outcomes: one-year follow up",
+        "doi": "10.1080/16506073.2024.2442371",
+        "date": "2025-01-14",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4406360350"
+      },
+      {
+        "title": "Rates of Sleep Disorders Based on a Structured Clinical Interview in US Active-Duty Military Personnel with Acute Suicide Risk",
+        "doi": "10.1080/15402002.2025.2499136",
+        "date": "2025-04-29",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4409924004"
+      },
+      {
+        "title": "The influence of service dog partnerships on perceived and objective sleep quality for military veterans with PTSD",
+        "doi": "10.3389/frsle.2024.1432919",
+        "date": "2024-09-04",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.3389/frsle.2024.1432919"
+      },
+      {
+        "title": "Sleep disorder symptoms and suicidal urges among US Marines seeking suicide treatment: Findings from an intensive daily assessment study",
+        "doi": "10.1016/j.jpsychires.2024.08.040",
+        "date": "2024-08-27",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4401922196"
+      },
+      {
+        "title": "Study protocol and rationale for a pilot randomized clinical trial comparing processing of positive memories technique with supportive counseling for PTSD",
+        "doi": "10.1016/j.cct.2024.107455",
+        "date": "2024-01-21",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4391060592"
+      },
+      {
+        "title": "Project Sandman: A Quasi-Experimental Evaluation of a Group-Based Brief Sleep Intervention in Air Force Technical Training",
+        "doi": "10.1080/15402002.2024.2386606",
+        "date": "2024-07-31",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/15402002.2024.2386606"
+      },
+      {
+        "title": "Psychometric Evaluation of the Insomnia Severity Index in U.S. College Students",
+        "doi": "10.1016/j.beth.2024.02.003",
+        "date": "2024-02-29",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4392300925"
+      },
+      {
+        "title": "Irregular sleep is linked to poorer mental health: A pooled analysis of eight studies",
+        "doi": "10.1016/j.sleh.2024.03.004",
+        "date": "2024-05-03",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4396625217"
+      },
+      {
+        "title": "Sex differences in US military personnel with insomnia, obstructive sleep apnea, or comorbid insomnia and obstructive sleep apnea",
+        "doi": "10.5664/jcsm.10774",
+        "date": "2023-08-16",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4385851327"
+      },
+      {
+        "title": "Psychometric Evaluation of the Insomnia Severity Index in Nurses",
+        "doi": "10.1080/15402002.2024.2362370",
+        "date": "2024-06-13",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/15402002.2024.2362370"
+      },
+      {
+        "title": "Cardiovascular risk, social vigilance, and stress profiles of male law enforcement officers versus civilians",
+        "doi": "10.1177/20551029241244723",
+        "date": "2024-04-04",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/20551029241244723"
+      },
+      {
+        "title": "DSM-5 criterion-a-based trauma types in service members and veterans seeking treatment for posttraumatic stress disorder.",
+        "doi": "10.1037/tra0001537",
+        "date": "2024-10-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4383301762"
+      },
+      {
+        "title": "Alcohol Use Predicts Longer But More Fragmented Sleep: A Daily Diary Study of Alcohol, Sleep, and PTSD in Nurses",
+        "doi": "10.1007/s12529-024-10308-z",
+        "date": "2024-07-08",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s12529-024-10308-z"
+      },
+      {
+        "title": "Using a frequentist and Bayesian approach to examine video game usage, substance use, and sleep among college students",
+        "doi": "10.1111/jsr.13844",
+        "date": "2023-02-22",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4321600240"
+      },
+      {
+        "title": "Intraindividual variability in sleep duration and college degree attainment",
+        "doi": "10.1080/07420528.2023.2256845",
+        "date": "2023-09-18",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/07420528.2023.2256845"
+      },
+      {
+        "title": "A non-pharmacological multi-modal therapy to improve sleep and cognition and reduce mild cognitive impairment risk: Design and methodology of a randomized clinical trial",
+        "doi": "10.1016/j.cct.2023.107275",
+        "date": "2023-06-26",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4382051663"
+      },
+      {
+        "title": "Mean affect and affect variability may interact to predict inflammation",
+        "doi": "10.1016/j.bbi.2023.01.008",
+        "date": "2023-01-18",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4317380829"
+      },
+      {
+        "title": "Investigating sleep, stress, and mood dynamics via temporal network analysis",
+        "doi": "10.1016/j.sleep.2023.01.007",
+        "date": "2023-01-16",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4316372444"
+      },
+      {
+        "title": "Impact of morally injurious traumatic event exposure on cognitive processing therapy outcomes among Veterans and service members",
+        "doi": "10.3138/jmvfh-2022-0048",
+        "date": "2023-03-13",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4324028421"
+      },
+      {
+        "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+        "doi": "",
+        "date": "2023-06-01",
+        "kind": "journal",
+        "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+        "diagnosis": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+      },
+      {
+        "title": "Self-reported sleep problems in active-duty US Army personnel receiving posttraumatic stress disorder treatment in group or individual formats: secondary analysis of a randomized clinical trial",
+        "doi": "10.5664/jcsm.10584",
+        "date": "2023-03-29",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4361284327"
+      },
+      {
+        "title": "A comparison of the CAPS-5 and PCL-5 to assess PTSD in military and veteran treatment-seeking samples",
+        "doi": "10.1080/20008066.2023.2222608",
+        "date": "2023-06-23",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/20008066.2023.2222608"
+      },
+      {
+        "title": "A meta-analysis of the associations between insufficient sleep duration and antibody response to vaccination",
+        "doi": "10.1016/j.cub.2023.02.017",
+        "date": "2023-03-01",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4324101824"
+      },
+      {
+        "title": "Psychometric Properties of the Self-Injurious Thoughts and Behaviors Interview–Short Form Among U.S. Active Duty Military Service Members and Veterans",
+        "doi": "10.1177/10731911221143979",
+        "date": "2023-01-16",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4316464108"
+      },
+      {
+        "title": "Treatment of comorbid sleep disorders and posttraumatic stress disorder in U.S. active duty military personnel: A pilot randomized clinical trial",
+        "doi": "10.1002/jts.22939",
+        "date": "2023-06-15",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1002/jts.22939"
+      },
+      {
+        "title": "Internal consistency reliability of mental health questionnaires in college student athletes",
+        "doi": "10.1136/bjsports-2021-105136",
+        "date": "2023-03-06",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1136/bjsports-2021-105136"
+      },
+      {
+        "title": "Daily reactivity to stress and sleep disturbances: unique risk factors for insomnia",
+        "doi": "10.1093/sleep/zsac256",
+        "date": "2022-10-27",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1093/sleep/zsac256"
+      },
+      {
+        "title": "Aerobic exercise improves sleep in U. S. active duty service members following brief treatment for posttraumatic stress disorder symptoms",
+        "doi": "10.3389/fpsyg.2023.1249543",
+        "date": "2023-09-15",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4386836215"
+      },
+      {
+        "title": "Digital phenotyping to improve prediction of suicidal urges in treatment: Study protocol",
+        "doi": "10.1016/j.avb.2022.101733",
+        "date": "2022-02-07",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4210908276"
+      },
+      {
+        "title": "Racial/ethnic variations in inflammatory markers: exploring the role of sleep duration and sleep efficiency",
+        "doi": "10.1007/s10865-022-00357-8",
+        "date": "2022-08-27",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s10865-022-00357-8"
+      },
+      {
+        "title": "Within-person associations of optimistic and pessimistic expectations with momentary stress, affect, and ambulatory blood pressure",
+        "doi": "10.1080/10615806.2022.2142574",
+        "date": "2022-11-13",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/10615806.2022.2142574"
+      },
+      {
+        "title": "Sleep and Mental Health in Athletes",
+        "doi": "10.1007/s40675-022-00240-7",
+        "date": "2022-12-07",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s40675-022-00240-7"
+      },
+      {
+        "title": "Secondary individual outcomes following multicouple group therapy for posttraumatic stress disorder: An uncontrolled pilot study with military dyads",
+        "doi": "10.1002/jts.22729",
+        "date": "2021-11-20",
+        "kind": "journal",
+        "dateSource": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jts.22729"
+      },
+      {
+        "title": "How much does sleep vary from night‐to‐night? A quantitative summary of intraindividual variability in sleep by age, gender, and racial/ethnic identity across eight‐pooled datasets",
+        "doi": "10.1111/jsr.13680",
+        "date": "2022-07-10",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1111/jsr.13680"
+      },
+      {
+        "title": "Sleep disorder symptoms are associated with greater posttraumatic stress and anger symptoms in US Army service members seeking treatment for posttraumatic stress disorder",
+        "doi": "10.5664/jcsm.9926",
+        "date": "2022-02-25",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4214722827"
+      },
+      {
+        "title": "A comprehensive evaluation of insomnia, obstructive sleep apnea and comorbid insomnia and obstructive sleep apnea in US military personnel",
+        "doi": "10.1093/sleep/zsac203",
+        "date": "2022-08-25",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4293103945"
+      },
+      {
+        "title": "The association between race- and ethnicity-related stressors and sleep: the role of rumination and anxiety sensitivity",
+        "doi": "10.1093/sleep/zsac117",
+        "date": "2022-05-26",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4281645895"
+      },
+      {
+        "title": "A preliminary investigation of the role of intraindividual sleep variability in substance use treatment outcomes",
+        "doi": "10.1016/j.addbeh.2022.107315",
+        "date": "2022-03-24",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4221135542"
+      },
+      {
+        "title": "Characterizing Patterns of Nurses’ Daily Sleep Health: a Latent Profile Analysis",
+        "doi": "10.1007/s12529-021-10048-4",
+        "date": "2022-01-05",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s12529-021-10048-4"
+      },
+      {
+        "title": "Shift Work Disorder Index: initial validation and psychosocial associations in a sample of nurses",
+        "doi": "10.5664/jcsm.10108",
+        "date": "2022-06-15",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4282968532"
+      },
+      {
+        "title": "Web-based provider training of cognitive behavioral therapy of insomnia: engagement rates, knowledge acquisition, and provider acceptability",
+        "doi": "10.1080/16506073.2021.1996453",
+        "date": "2022-01-31",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/16506073.2021.1996453"
+      },
+      {
+        "title": "Testing the role of aerobic exercise in the treatment of posttraumatic stress disorder (PTSD) symptoms in U.S. active duty military personnel: a pilot study",
+        "doi": "10.1080/16506073.2021.2001689",
+        "date": "2022-01-10",
+        "kind": "journal",
+        "dateSource": "https://openalex.org/W4205526791"
+      }
+    ],
+    "excluded": [
+      {
+        "title": "Leaning in to Address Sleep Disturbances and Sleep Disorders in Department of Defense and Defense Health Agency",
+        "doi": "10.1093/milmed/usab529",
+        "source": "https://academic.oup.com/milmed/issue/187/5-6?browseBy=volume",
+        "reason": "The publisher lists this item as a letter."
+      },
+      {
+        "doi": "10.1080/07448481.2021.1904951",
+        "date": "2021-04-08",
+        "source": "https://doi.org/10.1080/07448481.2021.1904951",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1111/jsr.13506",
+        "date": "2021-10-19",
+        "source": "https://doi.org/10.1111/jsr.13506",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1016/j.addbeh.2021.106981",
+        "date": "2021-05-06",
+        "source": "https://openalex.org/W3159847814",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1016/j.conctc.2021.100752",
+        "date": "2021-02-17",
+        "source": "https://openalex.org/W3132134682",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1002/jclp.23142",
+        "date": "2021-04-19",
+        "source": "https://doi.org/10.1002/jclp.23142",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.5664/jcsm.9200",
+        "date": "2021-03-05",
+        "source": "https://openalex.org/W3133950729",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1002/da.23167",
+        "date": "2021-05-19",
+        "source": "https://onlinelibrary.wiley.com/doi/full/10.1002/da.23167",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1093/sleep/zsaa254",
+        "date": "2020-11-27",
+        "source": "https://doi.org/10.1093/sleep/zsaa254",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1002/smi.3048",
+        "date": "2021-03-29",
+        "source": "https://doi.org/10.1002/smi.3048",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1016/j.sleh.2020.11.009",
+        "date": "2021-01-14",
+        "source": "https://openalex.org/W3118558639",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.5664/jcsm.9206",
+        "date": "2021-03-08",
+        "source": "https://openalex.org/W3135290992",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1016/j.cct.2021.106583",
+        "date": "2021-09-29",
+        "source": "https://openalex.org/W3203982916",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1007/s12529-020-09889-2",
+        "date": "2020-06-03",
+        "source": "https://openalex.org/W3032161292",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1093/milmed/usaa359",
+        "date": "2021-01-25",
+        "source": "https://doi.org/10.1093/milmed/usaa359",
+        "reason": "Official publication date falls outside the audit window."
+      },
+      {
+        "doi": "10.1080/08870446.2020.1805450",
+        "date": "2020-08-14",
+        "source": "https://doi.org/10.1080/08870446.2020.1805450",
+        "reason": "Official publication date falls outside the audit window."
+      }
+    ],
+    "supplementarySources": [
+      "https://orcid.org/0000-0003-3433-2516",
+      "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/"
+    ]
   }
 }

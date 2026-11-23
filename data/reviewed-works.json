@@ -806,5 +806,94 @@
       }
     ],
     "peerReview": "inferred"
+  },
+  {
+    "title": "Comparison of multimodal delivery of cognitive behavioral therapy for insomnia in middle-aged adults: a randomized clinical trial design and methodology",
+    "doi": "10.1017/slp.2025.2",
+    "date": "2025-03-07",
+    "kind": "journal",
+    "venue": "Research Directions: Sleep Psychology",
+    "authorCount": 10,
+    "pmcid": "",
+    "people": {
+      "daniel-taylor": {
+        "position": 10,
+        "affiliations": [
+          "University of Arizona"
+        ],
+        "identityNote": "The publisher byline, faculty CV and verified ORCID identify this author. OpenAlex offers the ORCID on the byline with an empty author ID."
+      }
+    },
+    "issns": [
+      "2752-9479"
+    ],
+    "topics": [
+      "Sleep and related disorders",
+      "Digital Mental Health Interventions",
+      "Obstructive Sleep Apnea Research"
+    ],
+    "evidenceDates": [
+      {
+        "date": "2025-03-07",
+        "type": "published-online",
+        "source": "Crossref"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W4408238825",
+        "url": "https://openalex.org/W4408238825"
+      },
+      {
+        "source": "Crossref",
+        "id": "10.1017/slp.2025.2",
+        "url": "https://doi.org/10.1017/slp.2025.2"
+      },
+      {
+        "source": "CV",
+        "id": "10.1017/slp.2025.2",
+        "url": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf"
+      }
+    ],
+    "peerReview": "inferred"
+  },
+  {
+    "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+    "doi": "",
+    "date": "2023-06-01",
+    "kind": "journal",
+    "venue": "Annual Review of CyberTherapy and Telemedicine",
+    "authorCount": 6,
+    "pmcid": "",
+    "people": {
+      "daniel-taylor": {
+        "position": 6,
+        "affiliations": [
+          "University of Arizona"
+        ],
+        "identityNote": "The faculty CV and University of Texas Health Science Center bibliography identify the researcher. The journal issue supplies the published byline."
+      }
+    },
+    "issns": [
+      "1554-8716"
+    ],
+    "topics": [],
+    "evidenceDates": [
+      {
+        "date": "2023-06-01",
+        "type": "publication",
+        "source": "University bibliography",
+        "url": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "CV",
+        "id": "daniel-taylor-parsons-2023-arctt-21-164",
+        "url": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf"
+      }
+    ],
+    "peerReview": "confirmed"
   }
 ]

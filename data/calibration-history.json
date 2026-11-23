@@ -236,5 +236,34 @@
         "reason": "The publication is indexed at its exact DOI, but the OpenAlex works-by-author endpoint omitted it despite the direct DOI record linking to the verified author."
       }
     ]
+  },
+  {
+    "label": "Taylor CV check before DOI recovery",
+    "corpusSha256": "26ec5374b0ae3026e33c18570fecc922eb0145e05041a770ebc1a4b15ba752e3",
+    "audited": 5,
+    "matches": 165,
+    "denominator": 167,
+    "missing": [
+      {
+        "person": "daniel-taylor",
+        "title": "Comparison of multimodal delivery of cognitive behavioral therapy for insomnia in middle-aged adults: a randomized clinical trial design and methodology",
+        "doi": "10.1017/slp.2025.2",
+        "date": "2025-03-07",
+        "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+        "dateSource": "https://doi.org/10.1017/slp.2025.2",
+        "matched": false,
+        "reason": "OpenAlex indexes the DOI, but the verified ORCID on the raw byline has no linked author ID. The author-ID query omitted the paper."
+      },
+      {
+        "person": "daniel-taylor",
+        "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+        "doi": "",
+        "date": "2023-06-01",
+        "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+        "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+        "matched": false,
+        "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+      }
+    ]
   }
 ]

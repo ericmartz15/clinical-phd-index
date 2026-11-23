@@ -7,8 +7,8 @@
     "2021-11-20",
     "2026-11-20"
   ],
-  "eligibleFaculty": 136,
-  "samplingFrame": 136,
+  "eligibleFaculty": 147,
+  "samplingFrame": 147,
   "excludedCalibration": [],
   "sample": [
     "aaron-fisher",
@@ -62,7 +62,7 @@
     "john-ruiz",
     "mark-chen"
   ],
-  "audited": 4,
+  "audited": 5,
   "unavailable": [
     "aaron-fisher",
     "lara-ray",
@@ -82,7 +82,6 @@
     "bengi-baran",
     "jennifer-tackett",
     "arielle-baskin-sommers",
-    "daniel-taylor",
     "matthew-w-mosconi",
     "paula-j-fite",
     "denise-a-chavira",
@@ -111,13 +110,24 @@
     "sheri-johnson",
     "john-ruiz"
   ],
-  "matches": 103,
-  "denominator": 103,
+  "matches": 166,
+  "denominator": 167,
   "recall": null,
-  "diagnosticRecall": 1.0,
+  "diagnosticRecall": 0.9940119760479041,
   "interval": null,
   "targetMet": false,
-  "missing": [],
+  "missing": [
+    {
+      "person": "daniel-taylor",
+      "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+      "doi": "",
+      "date": "2023-06-01",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+      "matched": false,
+      "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+    }
+  ],
   "rows": [
     {
       "person": "jeffrey-girard",
@@ -306,6 +316,582 @@
       "date": "2023-04-28",
       "reference": "https://affcom.ku.edu/publications.html",
       "dateSource": "https://openalex.org/W4367316892",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Psychometric Validation and Evaluation of the Sleep Need Questionnaire",
+      "doi": "10.17241/smr.2026.03699",
+      "date": "2026-09-30",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://www.sleepmedres.org/DOIx.php?id=10.17241/smr.2026.03699",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Problematic cannabis use in student athletes and non-athletes: associations with mental health",
+      "doi": "10.5114/hpr/221106",
+      "date": "2026-07-06",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.5114/hpr/221106",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Sleep health profiles of young adult college students: A latent profile analysis",
+      "doi": "10.1016/j.jpsychires.2026.06.040",
+      "date": "2026-06-26",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W7166113040",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Design and Recruitment for the Comparative Effectiveness of Zolpidem/Trazodone and Cognitive Behavioral Therapy for Insomnia (COZI) Study in Rural Adults",
+      "doi": "10.1080/15402002.2026.2678881",
+      "date": "2026-06-05",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1080/15402002.2026.2678881",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Predicting next-day suicidal urges, depression, and PTSD symptoms using ecological momentary assessments and passive sensing of sleep among military service members and veterans",
+      "doi": "10.1016/j.jad.2026.121692",
+      "date": "2026-03-25",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W7140277553",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "A pilot feasibility randomized clinical trial of a culturally adapted accelerated group treatment for posttraumatic stress, insomnia, and nightmares in firefighters.",
+      "doi": "10.1037/tra0002090",
+      "date": "2026-01-19",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W7124941914",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Stress and cardiovascular disease: Testing a vigilance pathway in two contemporary theories.",
+      "doi": "10.1037/hea0001615",
+      "date": "2026-06-08",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42258290/",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Comorbidity of Nightmares in U.S. Military Personnel With Insomnia, Obstructive Sleep Apnea, or Co-Morbid Insomnia and Obstructive Sleep Apnea",
+      "doi": "10.1093/milmed/usag249",
+      "date": "2026-07-02",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42391041/",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "The Development and Evaluation of a Web-Based Training Program for Cognitive Behavioral Therapy for Nightmares: CBTNightmares.org",
+      "doi": "10.1093/milmed/usaf385",
+      "date": "2025-08-14",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1093/milmed/usaf385",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Rates and correlates of nightmares and insomnia in active duty military service members pre- and postdeployment.",
+      "doi": "10.1037/tra0002244",
+      "date": "2026-09-28",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1037/tra0002244",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Treatment Development Report of an Intensive Group Treatment for Posttraumatic Stress, Insomnia, and Nightmares Adapted to Firefighter Culture",
+      "doi": "10.1016/j.cbpra.2025.10.003",
+      "date": "2025-10-10",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4415100128",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Longitudinal associations of sleep midpoint and sleep midpoint variability with the mental health of young adult college students",
+      "doi": "10.1080/07420528.2026.2671355",
+      "date": "2026-05-15",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W7161230313",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Longitudinal Associations of Step Count on Mental Health and Sleep of Young Adult College Students",
+      "doi": "10.1080/15402002.2026.2673896",
+      "date": "2026-05-15",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1080/15402002.2026.2673896",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Accuracy of the Athlete Psychological Strain Questionnaire (APSQ) compared to common screening tools for mental health disorders",
+      "doi": "10.1136/bjsports-2025-110185",
+      "date": "2025-11-15",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4416243530",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Brief Cognitive Behavioral Therapy for Suicidal Military Personnel and Veterans",
+      "doi": "10.1001/jamapsychiatry.2025.2850",
+      "date": "2025-10-08",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4414938360",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Psychometric Evaluation of the Weekly Version of the PTSD Checklist for DSM-5",
+      "doi": "10.1177/10731911251321929",
+      "date": "2025-03-12",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://journals.sagepub.com/doi/10.1177/10731911251321929",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "An Initial Examination of Couple Therapy for PTSD Outcomes Among Black/African American Adults: Findings from an Uncontrolled Trial with Military Dyads",
+      "doi": "10.3390/bs15040537",
+      "date": "2025-04-16",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.3390/bs15040537",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Comparison of multimodal delivery of cognitive behavioral therapy for insomnia in middle-aged adults: a randomized clinical trial design and methodology",
+      "doi": "10.1017/slp.2025.2",
+      "date": "2025-03-07",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1017/slp.2025.2",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Sleep–wake dynamics in veteran–service dog dyads: an exploration of overnight concordance",
+      "doi": "10.1093/sleep/zsaf177",
+      "date": "2025-06-28",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4411757411",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Pilot outcomes and exploration of treatment mechanisms using a culturally adapted version of the unified protocol for transdiagnostic treatment of emotional disorders to improve mental health symptoms, alcohol misuse, functional outcomes, and sleep quality in emergency responders",
+      "doi": "10.3389/frhs.2025.1452976",
+      "date": "2025-06-16",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.3389/frhs.2025.1452976",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "An Expert Consensus Statement for Implementing Cognitive Behavioral Therapy for Nightmares in Adults",
+      "doi": "10.1080/15402002.2024.2437634",
+      "date": "2025-01-15",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1080/15402002.2024.2437634",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "From innovation to implementation: Artificial intelligence in cognitive behaviour therapy training and supervision",
+      "doi": "10.1016/j.brat.2025.104945",
+      "date": "2025-12-31",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W7117666068",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "CBTI web implementation outcomes: one-year follow up",
+      "doi": "10.1080/16506073.2024.2442371",
+      "date": "2025-01-14",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4406360350",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Rates of Sleep Disorders Based on a Structured Clinical Interview in US Active-Duty Military Personnel with Acute Suicide Risk",
+      "doi": "10.1080/15402002.2025.2499136",
+      "date": "2025-04-29",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4409924004",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "The influence of service dog partnerships on perceived and objective sleep quality for military veterans with PTSD",
+      "doi": "10.3389/frsle.2024.1432919",
+      "date": "2024-09-04",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.3389/frsle.2024.1432919",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Sleep disorder symptoms and suicidal urges among US Marines seeking suicide treatment: Findings from an intensive daily assessment study",
+      "doi": "10.1016/j.jpsychires.2024.08.040",
+      "date": "2024-08-27",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4401922196",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Study protocol and rationale for a pilot randomized clinical trial comparing processing of positive memories technique with supportive counseling for PTSD",
+      "doi": "10.1016/j.cct.2024.107455",
+      "date": "2024-01-21",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4391060592",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Project Sandman: A Quasi-Experimental Evaluation of a Group-Based Brief Sleep Intervention in Air Force Technical Training",
+      "doi": "10.1080/15402002.2024.2386606",
+      "date": "2024-07-31",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1080/15402002.2024.2386606",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Psychometric Evaluation of the Insomnia Severity Index in U.S. College Students",
+      "doi": "10.1016/j.beth.2024.02.003",
+      "date": "2024-02-29",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4392300925",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Irregular sleep is linked to poorer mental health: A pooled analysis of eight studies",
+      "doi": "10.1016/j.sleh.2024.03.004",
+      "date": "2024-05-03",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4396625217",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Sex differences in US military personnel with insomnia, obstructive sleep apnea, or comorbid insomnia and obstructive sleep apnea",
+      "doi": "10.5664/jcsm.10774",
+      "date": "2023-08-16",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4385851327",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Psychometric Evaluation of the Insomnia Severity Index in Nurses",
+      "doi": "10.1080/15402002.2024.2362370",
+      "date": "2024-06-13",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1080/15402002.2024.2362370",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Cardiovascular risk, social vigilance, and stress profiles of male law enforcement officers versus civilians",
+      "doi": "10.1177/20551029241244723",
+      "date": "2024-04-04",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1177/20551029241244723",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "DSM-5 criterion-a-based trauma types in service members and veterans seeking treatment for posttraumatic stress disorder.",
+      "doi": "10.1037/tra0001537",
+      "date": "2024-10-01",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4383301762",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Alcohol Use Predicts Longer But More Fragmented Sleep: A Daily Diary Study of Alcohol, Sleep, and PTSD in Nurses",
+      "doi": "10.1007/s12529-024-10308-z",
+      "date": "2024-07-08",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1007/s12529-024-10308-z",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Using a frequentist and Bayesian approach to examine video game usage, substance use, and sleep among college students",
+      "doi": "10.1111/jsr.13844",
+      "date": "2023-02-22",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4321600240",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Intraindividual variability in sleep duration and college degree attainment",
+      "doi": "10.1080/07420528.2023.2256845",
+      "date": "2023-09-18",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1080/07420528.2023.2256845",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "A non-pharmacological multi-modal therapy to improve sleep and cognition and reduce mild cognitive impairment risk: Design and methodology of a randomized clinical trial",
+      "doi": "10.1016/j.cct.2023.107275",
+      "date": "2023-06-26",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4382051663",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Mean affect and affect variability may interact to predict inflammation",
+      "doi": "10.1016/j.bbi.2023.01.008",
+      "date": "2023-01-18",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4317380829",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Investigating sleep, stress, and mood dynamics via temporal network analysis",
+      "doi": "10.1016/j.sleep.2023.01.007",
+      "date": "2023-01-16",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4316372444",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Impact of morally injurious traumatic event exposure on cognitive processing therapy outcomes among Veterans and service members",
+      "doi": "10.3138/jmvfh-2022-0048",
+      "date": "2023-03-13",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4324028421",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+      "doi": "",
+      "date": "2023-06-01",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+      "matched": false
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Self-reported sleep problems in active-duty US Army personnel receiving posttraumatic stress disorder treatment in group or individual formats: secondary analysis of a randomized clinical trial",
+      "doi": "10.5664/jcsm.10584",
+      "date": "2023-03-29",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4361284327",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "A comparison of the CAPS-5 and PCL-5 to assess PTSD in military and veteran treatment-seeking samples",
+      "doi": "10.1080/20008066.2023.2222608",
+      "date": "2023-06-23",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1080/20008066.2023.2222608",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "A meta-analysis of the associations between insufficient sleep duration and antibody response to vaccination",
+      "doi": "10.1016/j.cub.2023.02.017",
+      "date": "2023-03-01",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4324101824",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Psychometric Properties of the Self-Injurious Thoughts and Behaviors Interview–Short Form Among U.S. Active Duty Military Service Members and Veterans",
+      "doi": "10.1177/10731911221143979",
+      "date": "2023-01-16",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4316464108",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Treatment of comorbid sleep disorders and posttraumatic stress disorder in U.S. active duty military personnel: A pilot randomized clinical trial",
+      "doi": "10.1002/jts.22939",
+      "date": "2023-06-15",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1002/jts.22939",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Internal consistency reliability of mental health questionnaires in college student athletes",
+      "doi": "10.1136/bjsports-2021-105136",
+      "date": "2023-03-06",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1136/bjsports-2021-105136",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Daily reactivity to stress and sleep disturbances: unique risk factors for insomnia",
+      "doi": "10.1093/sleep/zsac256",
+      "date": "2022-10-27",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1093/sleep/zsac256",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Aerobic exercise improves sleep in U. S. active duty service members following brief treatment for posttraumatic stress disorder symptoms",
+      "doi": "10.3389/fpsyg.2023.1249543",
+      "date": "2023-09-15",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4386836215",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Digital phenotyping to improve prediction of suicidal urges in treatment: Study protocol",
+      "doi": "10.1016/j.avb.2022.101733",
+      "date": "2022-02-07",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4210908276",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Racial/ethnic variations in inflammatory markers: exploring the role of sleep duration and sleep efficiency",
+      "doi": "10.1007/s10865-022-00357-8",
+      "date": "2022-08-27",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1007/s10865-022-00357-8",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Within-person associations of optimistic and pessimistic expectations with momentary stress, affect, and ambulatory blood pressure",
+      "doi": "10.1080/10615806.2022.2142574",
+      "date": "2022-11-13",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1080/10615806.2022.2142574",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Sleep and Mental Health in Athletes",
+      "doi": "10.1007/s40675-022-00240-7",
+      "date": "2022-12-07",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1007/s40675-022-00240-7",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Secondary individual outcomes following multicouple group therapy for posttraumatic stress disorder: An uncontrolled pilot study with military dyads",
+      "doi": "10.1002/jts.22729",
+      "date": "2021-11-20",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jts.22729",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "How much does sleep vary from night‐to‐night? A quantitative summary of intraindividual variability in sleep by age, gender, and racial/ethnic identity across eight‐pooled datasets",
+      "doi": "10.1111/jsr.13680",
+      "date": "2022-07-10",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1111/jsr.13680",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Sleep disorder symptoms are associated with greater posttraumatic stress and anger symptoms in US Army service members seeking treatment for posttraumatic stress disorder",
+      "doi": "10.5664/jcsm.9926",
+      "date": "2022-02-25",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4214722827",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "A comprehensive evaluation of insomnia, obstructive sleep apnea and comorbid insomnia and obstructive sleep apnea in US military personnel",
+      "doi": "10.1093/sleep/zsac203",
+      "date": "2022-08-25",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4293103945",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "The association between race- and ethnicity-related stressors and sleep: the role of rumination and anxiety sensitivity",
+      "doi": "10.1093/sleep/zsac117",
+      "date": "2022-05-26",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4281645895",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "A preliminary investigation of the role of intraindividual sleep variability in substance use treatment outcomes",
+      "doi": "10.1016/j.addbeh.2022.107315",
+      "date": "2022-03-24",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4221135542",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Characterizing Patterns of Nurses’ Daily Sleep Health: a Latent Profile Analysis",
+      "doi": "10.1007/s12529-021-10048-4",
+      "date": "2022-01-05",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1007/s12529-021-10048-4",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Shift Work Disorder Index: initial validation and psychosocial associations in a sample of nurses",
+      "doi": "10.5664/jcsm.10108",
+      "date": "2022-06-15",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4282968532",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Web-based provider training of cognitive behavioral therapy of insomnia: engagement rates, knowledge acquisition, and provider acceptability",
+      "doi": "10.1080/16506073.2021.1996453",
+      "date": "2022-01-31",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://doi.org/10.1080/16506073.2021.1996453",
+      "matched": true
+    },
+    {
+      "person": "daniel-taylor",
+      "title": "Testing the role of aerobic exercise in the treatment of posttraumatic stress disorder (PTSD) symptoms in U.S. active duty military personnel: a pilot study",
+      "doi": "10.1080/16506073.2021.2001689",
+      "date": "2022-01-10",
+      "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+      "dateSource": "https://openalex.org/W4205526791",
       "matched": true
     },
     {
@@ -1286,9 +1872,38 @@
           "reason": "The publication is indexed at its exact DOI, but the OpenAlex works-by-author endpoint omitted it despite the direct DOI record linking to the verified author."
         }
       ]
+    },
+    {
+      "label": "Taylor CV check before DOI recovery",
+      "corpusSha256": "26ec5374b0ae3026e33c18570fecc922eb0145e05041a770ebc1a4b15ba752e3",
+      "audited": 5,
+      "matches": 165,
+      "denominator": 167,
+      "missing": [
+        {
+          "person": "daniel-taylor",
+          "title": "Comparison of multimodal delivery of cognitive behavioral therapy for insomnia in middle-aged adults: a randomized clinical trial design and methodology",
+          "doi": "10.1017/slp.2025.2",
+          "date": "2025-03-07",
+          "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+          "dateSource": "https://doi.org/10.1017/slp.2025.2",
+          "matched": false,
+          "reason": "OpenAlex indexes the DOI, but the verified ORCID on the raw byline has no linked author ID. The author-ID query omitted the paper."
+        },
+        {
+          "person": "daniel-taylor",
+          "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+          "doi": "",
+          "date": "2023-06-01",
+          "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+          "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+          "matched": false,
+          "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+        }
+      ]
     }
   ],
-  "corpusSha256": "6e532b1085d3b0cac47ca682669950ccbea81940f67647269d99e4cffe2e80cb",
+  "corpusSha256": "62380ba9ec75c03a9b5b5ad493b31d50a398bf2bc4b8df80caf950390e699b6f",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",

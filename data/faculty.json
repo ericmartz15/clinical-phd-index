@@ -10139,5 +10139,784 @@
       },
       "errors": {}
     }
+  },
+  {
+    "id": "gary-bennett",
+    "name": "Gary Bennett",
+    "aliases": [
+      "Gary G. Bennett"
+    ],
+    "areas": [
+      "obesity",
+      "health disparities",
+      "digital interventions"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/gary.bennett"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5043030144",
+          "name": "Gary G. Bennett",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5113501872",
+          "name": "Gary G. Bennett",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5103637756",
+          "name": "Gary B. Bennett",
+          "confidence": 0.53,
+          "evidence": [
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5030014550",
+          "name": "Gary Bennett",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5055193789",
+          "name": "Gary L. Bennett",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "melanie-bonner",
+    "name": "Melanie Bonner",
+    "aliases": [
+      "Melanie Jean Bonner",
+      "Melanie J. Bonner"
+    ],
+    "areas": [
+      "pediatric neuropsychology",
+      "child health",
+      "cognitive interventions"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/melanie.bonner"
+      }
+    ],
+    "orcid": "0009-0002-8015-364X",
+    "orcidSource": "https://scholars.duke.edu/person/melanie.bonner",
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5072291892",
+          "name": "Melanie Bonner",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5111972306",
+          "name": "Melanie J. Bonner",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "karen-appleyard-carmody",
+    "name": "Karen Appleyard Carmody",
+    "aliases": [
+      "Karen Appleyard",
+      "Karen A. Carmody"
+    ],
+    "areas": [
+      "early childhood",
+      "trauma",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/karen.appleyard"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5068772646",
+          "name": "Karen Appleyard Carmody",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5008095512",
+          "name": "Sergio Guzmán García Sanclemente",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "avshalom-caspi",
+    "name": "Avshalom Caspi",
+    "aliases": [
+      "A. Caspi"
+    ],
+    "areas": [
+      "developmental psychopathology",
+      "genetics",
+      "mental health"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/avshalom.caspi"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5102449642"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5102449642",
+          "name": "Avshalom Caspi",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5026594853",
+          "name": "Avshalom Caspi",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5089427854",
+          "name": "A. Caspi",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5160505857",
+          "name": "Avshalom Caspi",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5163122146",
+          "name": "Avshalom Caspi",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "david-goldston",
+    "name": "David Goldston",
+    "aliases": [
+      "David B. Goldston"
+    ],
+    "areas": [
+      "suicide prevention",
+      "adolescent mental health",
+      "substance use"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/david.goldston"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5031178393"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5031178393",
+          "name": "David B. Goldston",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5106060308",
+          "name": "David Goldston",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5106554380",
+          "name": "David Goldston",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "terrie-moffitt",
+    "name": "Terrie Moffitt",
+    "aliases": [
+      "Terrie E. Moffitt"
+    ],
+    "areas": [
+      "developmental psychopathology",
+      "antisocial behavior",
+      "aging"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/terrie.moffitt"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5081542021",
+          "name": "Terrie E. Moffitt",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5083464236",
+          "name": "E. Moffitt Terrie",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "eve-puffer",
+    "name": "Eve Puffer",
+    "aliases": [
+      "Eve S. Puffer"
+    ],
+    "areas": [
+      "global mental health",
+      "parenting",
+      "implementation"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/eve.puffer"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5054078364"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5054078364",
+          "name": "Eve S. Puffer",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "zachary-rosenthal",
+    "name": "Zachary Rosenthal",
+    "aliases": [
+      "Mark Zachary Rosenthal",
+      "M. Zachary Rosenthal"
+    ],
+    "areas": [
+      "misophonia",
+      "emotion regulation",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/rosen025"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5044990494",
+          "name": "Mark Zachary Rosenthal",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5120892067",
+          "name": "Zachary Rosenthal",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5069174188",
+          "name": "Zachary P. Rosenthal",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5097017754",
+          "name": "Zachary M. Rosenthal",
+          "confidence": 0.35,
+          "evidence": [
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5020196337",
+          "name": "Zachary C. Rosenthal",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "moria-smoski",
+    "name": "Moria Smoski",
+    "aliases": [
+      "Moria J. Smoski"
+    ],
+    "areas": [
+      "depression",
+      "emotion regulation",
+      "interventions"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/moria.smoski"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5021040823"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5021040823",
+          "name": "Moria J. Smoski",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "timothy-strauman",
+    "name": "Timothy Strauman",
+    "aliases": [
+      "Timothy J. Strauman"
+    ],
+    "areas": [
+      "depression",
+      "self-regulation",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "tenure-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/tjstraum"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5046804713"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5046804713",
+          "name": "Timothy J. Strauman",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "nancy-zucker",
+    "name": "Nancy Zucker",
+    "aliases": [
+      "Nancy L. Zucker"
+    ],
+    "areas": [
+      "eating disorders",
+      "interoception",
+      "pediatric mental health"
+    ],
+    "appointments": [
+      {
+        "program": "duke",
+        "role": "research-track",
+        "current": true,
+        "start": null,
+        "end": null,
+        "affiliations": [
+          "Duke University",
+          "duke university"
+        ],
+        "source": "https://psychandneuro.duke.edu/graduate/clinical",
+        "roleSource": "https://scholars.duke.edu/person/zucke001"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5011184300"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5011184300",
+          "name": "Nancy L. Zucker",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5022995690",
+          "name": "Nancy Zucker Boswell",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5042791079",
+          "name": "Nancy B. Zucker",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
   }
 ]
