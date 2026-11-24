@@ -13394,10 +13394,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -13463,10 +13463,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -13526,10 +13526,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -13619,10 +13619,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -13656,64 +13656,26 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.98,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
+      "ids": [
+        "A5029026589"
       ],
-      "candidates": [
-        {
-          "id": "A5029026589",
-          "name": "Matthew D. Johnson",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5074630479",
-          "name": "Matthew D. Johnson",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5101509874",
-          "name": "Matthew Johnson",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5003756148",
-          "name": "Matthew B. Johnson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5030387003",
-          "name": "Matthew W. Johnson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "Binghamton CV lists the journal articles on marital satisfaction (10.1037/0022-006x.73.1.15), newlywed marriage (10.1037/a0017578), and healthy marriage policy (10.1037/a0027743), all assigned to A5029026589.",
+        "https://www.binghamton.edu/psychology/docs/cv/mjohnson.cv.pdf",
+        "A5074630479 belongs to a University of Alberta researcher with a different ORCID, 0000-0001-9440-4839, confirmed by the publisher of 10.1080/00380253.2026.2710116. A5101509874 is a machine learning author with a different ORCID.",
+        "https://doi.org/10.1080/00380253.2026.2710116"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
+      },
       "errors": {}
     }
   },
@@ -13772,10 +13734,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -13843,10 +13805,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -13880,60 +13842,27 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5044028106"
       ],
-      "candidates": [
-        {
-          "id": "A5044028106",
-          "name": "Richard E. Mattson",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5004263035",
-          "name": "Richard H. Mattson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5008406400",
-          "name": "Richard Mattson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5041056194",
-          "name": "Richard L. Mattson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5062064152",
-          "name": "Richard K. Mattson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "Binghamton CV lists two studies assigned to A5044028106, on convergent and divergent validity of gambling measures (10.1037/0893-164x.20.1.75 and 10.1007/s10899-006-9021-9). The author record carries the full name Richard E. Mattson and Binghamton affiliation.",
+        "https://www.binghamton.edu/psychology/docs/cv/rmattson.cv.pdf"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {}
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -14019,12 +13948,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -14089,12 +14020,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -14152,12 +14085,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -14191,61 +14126,118 @@
     ],
     "cv": "https://www.binghamton.edu/psychology/docs/cv/slynn.cv.pdf",
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5001847113",
+        "A5111920415"
       ],
-      "candidates": [
-        {
-          "id": "A5001847113",
-          "name": "Steven Jay Lynn",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5111920415",
-          "name": "Steven Jay Lynn",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5032714022",
-          "name": "Steven Walton Lynn",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5112796921",
-          "name": "Steven J. Lynn",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5161225868",
-          "name": "Steven Jay Lynn",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "Both OpenAlex author records carry ORCID 0000-0002-4493-7810. A5001847113 indexes the dissociation review listed by Binghamton (10.1016/j.cpr.2019.101755). A5111920415 indexes the hypnosis review for which PubMed provides the Binghamton affiliation (10.1080/00207140008410050).",
+        "https://www.binghamton.edu/apps/directory/person/profile/slynn",
+        "https://pubmed.ncbi.nlm.nih.gov/10769986/",
+        "A5161225868 is a chapter-only split. The chapter belongs to Dreaming Reality, a Harvard University Press book, and falls outside the journal ranking. The mixed A5112796921 has no corroborating ORCID or institution and remains excluded from automatic attribution.",
+        "https://doi.org/10.4159/9780674299559-014"
       ]
     },
     "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
+    }
+  },
+  {
+    "id": "joshua-buckholtz",
+    "name": "Joshua W. Buckholtz",
+    "aliases": [
+      "Joshua William Buckholtz",
+      "Joshua Buckholtz"
+    ],
+    "source": "https://profiles.stanford.edu/joshua-buckholtz",
+    "cv": "https://cap.stanford.edu/profiles/viewCV?facultyId=304224&name=Joshua_Buckholtz",
+    "orcid": "0000-0002-9418-8686",
+    "areas": [
+      "psychopathology",
+      "cognitive neuroscience",
+      "impulsivity"
+    ],
+    "appointments": [
+      {
+        "program": "harvard",
+        "role": "tenure-track",
+        "start": "2011",
+        "end": "2021",
+        "current": false,
+        "source": "https://www.psychology.fas.harvard.edu/files/psych/files/clinical_psychology_handbook_aug_19_2020.pdf#page=4",
+        "dateSource": "https://cap.stanford.edu/profiles/viewCV?facultyId=304224&name=Joshua_Buckholtz",
+        "affiliations": [
+          "Harvard University",
+          "Harvard University Faculty of Arts and Sciences"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
       "openAlex": "unresolved",
-      "errors": {}
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "katie-mclaughlin",
+    "name": "Katie A. McLaughlin",
+    "aliases": [
+      "Katie McLaughlin",
+      "Kate McLaughlin"
+    ],
+    "source": "https://psychology.fas.harvard.edu/people/kate-mclaughlin",
+    "cv": "https://sdlab.fas.harvard.edu/sites/g/files/omnuum5291/files/sdlab/files/mclaughlin_cv_6_2024.pdf",
+    "orcid": "0000-0002-1362-2410",
+    "areas": [
+      "child mental health",
+      "adversity",
+      "neurodevelopment"
+    ],
+    "appointments": [
+      {
+        "program": "harvard",
+        "role": "tenure-track",
+        "start": "2018",
+        "end": "2023",
+        "current": false,
+        "source": "https://www.psychology.fas.harvard.edu/files/psych/files/clinical_psychology_handbook_aug_19_2020.pdf#page=4",
+        "dateSource": "https://sdlab.fas.harvard.edu/sites/g/files/omnuum5291/files/sdlab/files/mclaughlin_cv_6_2024.pdf",
+        "affiliations": [
+          "Harvard University",
+          "Harvard University Faculty of Arts and Sciences"
+        ]
+      }
+    ],
+    "lab": "https://sdlab.fas.harvard.edu/",
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
     }
   }
 ]

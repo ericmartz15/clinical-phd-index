@@ -260,6 +260,17 @@ def main():
     client = Client(args.cache, args.network)
     venues = read(DATA / "venues.json")
     programs = read(DATA / "programs.json")
+    eligible_programs = {program["id"] for program in programs
+                         if program["eligibility"] in {"directory eligible", "active"}}
+    if args.audit_stage == "holdout":
+        incomplete_rosters = [
+            program["id"] for program in programs
+            if program["id"] in eligible_programs
+            and program.get("currentRosterReview", {}).get("status") != "complete"
+        ]
+        if incomplete_rosters:
+            parser.error(f"The release audit needs a verified sampling frame. "
+                         f"{len(incomplete_rosters)} eligible programs still need current roster verification.")
     selected = set(args.refresh_program)
     if selected and (not args.previous_snapshot or selected - {program["id"] for program in programs}):
         parser.error("--refresh-program requires an existing snapshot and valid program IDs")
@@ -313,15 +324,22 @@ def main():
     calibration = read(args.calibration_report, {}) if args.calibration_report else {}
     diagnostic = read(DATA / "audit-diagnostic.json")
     checks = read(DATA / "audit-diagnostic-checks.json", [])
-    excluded = set(calibration.get("sample", [])) if calibration.get("stage") == "calibration" else set()
+    excluded = set()
     if args.audit_stage == "holdout":
-        if calibration.get("audited") != 50 or calibration.get("stage") != "calibration":
-            parser.error("The holdout requires a completed 50-faculty calibration report.")
+        if calibration.get("stage") != "calibration":
+            parser.error("Supply the archived calibration report to identify previously reviewed faculty.")
+        excluded.update(set(calibration["sample"]) - set(calibration["unavailable"]))
         excluded.update(item["person"] for item in [diagnostic, *checks] if item)
     audit_plan = read(DATA / "calibration-plan.json") if args.audit_stage == "calibration" else None
     seed = audit_plan["seed"] if audit_plan else args.audit_seed
     start_audit, end_audit = audit_plan["window"] if audit_plan else [ago(5), args.as_of]
-    report = audit(faculty, works, reference, seed, args.audit_stage, start_audit, end_audit,
+    audit_faculty = faculty
+    if args.audit_stage == "holdout":
+        audit_faculty = [
+            dict(person, appointments=[a for a in person["appointments"] if a["program"] in eligible_programs])
+            for person in faculty
+        ]
+    report = audit(audit_faculty, works, reference, seed, args.audit_stage, start_audit, end_audit,
                    sorted(excluded), audit_plan["sample"] if audit_plan else None)
     if audit_plan:
         report["frozenFrameSize"] = audit_plan["frameSize"]
@@ -342,7 +360,7 @@ def main():
         p["facultyCount"] = len(linked)
         p["retrievalComplete"] = len(linked & indexed)
         p["rankable"] = (report["targetMet"] and roster_coverage[p["id"]] and bool(linked) and
-                         linked <= indexed and linked <= crosschecked and p["eligibility"] in {"directory eligible", "active"})
+                         linked <= indexed and linked <= crosschecked and p["id"] in eligible_programs)
         if p["rankable"]:
             rankable.append(p["id"])
     snapshot = dict(asOf=args.as_of, start=start, programs=programs, faculty=faculty, works=works, venues=venues,

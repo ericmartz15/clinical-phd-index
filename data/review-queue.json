@@ -2888,172 +2888,28 @@
       ]
     },
     {
-      "pid": "matthew-d-johnson",
+      "pid": "joshua-buckholtz",
       "ids": [],
-      "confidence": 0.98,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
-      ],
-      "candidates": [
-        {
-          "id": "A5029026589",
-          "name": "Matthew D. Johnson",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5074630479",
-          "name": "Matthew D. Johnson",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5101509874",
-          "name": "Matthew Johnson",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5003756148",
-          "name": "Matthew B. Johnson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5030387003",
-          "name": "Matthew W. Johnson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
-      ]
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
     },
     {
-      "pid": "richard-mattson",
+      "pid": "katie-mclaughlin",
       "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
-      ],
-      "candidates": [
-        {
-          "id": "A5044028106",
-          "name": "Richard E. Mattson",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5004263035",
-          "name": "Richard H. Mattson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5008406400",
-          "name": "Richard Mattson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5041056194",
-          "name": "Richard L. Mattson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5062064152",
-          "name": "Richard K. Mattson",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
-      ]
-    },
-    {
-      "pid": "steven-jay-lynn",
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
-      ],
-      "candidates": [
-        {
-          "id": "A5001847113",
-          "name": "Steven Jay Lynn",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5111920415",
-          "name": "Steven Jay Lynn",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5032714022",
-          "name": "Steven Walton Lynn",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5112796921",
-          "name": "Steven J. Lynn",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5161225868",
-          "name": "Steven Jay Lynn",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
-      ]
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
     }
   ],
   "publicationCandidates": [
+    {
+      "source": "PubMed",
+      "person": "nadine-mastroleo",
+      "id": "37180491",
+      "doi": "10.1080/16066359.2021.2021401",
+      "title": "Discussion of alcohol consequences during a brief motivational intervention session: Comparing those who do and do not increase readiness to change."
+    },
     {
       "source": "PubMed",
       "person": "dillon-browne",
@@ -4164,6 +4020,11 @@
       "issue": "Eligible appointment at publication unverified"
     },
     {
+      "person": "steven-jay-lynn",
+      "doi": "10.1016/j.jbtep.2025.102051",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
       "person": "nadine-mastroleo",
       "doi": "10.1037/adb0000470",
       "issue": "Eligible appointment at publication unverified"
@@ -4176,6 +4037,11 @@
     {
       "person": "nadine-mastroleo",
       "doi": "10.1080/10437797.2026.2710645",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1016/j.jbtep.2025.102032",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -4335,11 +4201,6 @@
     },
     {
       "person": "emily-l-zale",
-      "doi": "10.1146/annurev-clinpsy-050718-095440",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "emily-l-zale",
       "doi": "10.1007/s12028-018-0641-6",
       "issue": "Eligible appointment at publication unverified"
     },
@@ -4431,6 +4292,91 @@
     {
       "person": "emily-l-zale",
       "doi": "10.1016/j.ctim.2018.10.016",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1016/j.concog.2024.103730",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.3389/fpsyg.2024.1388347",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1111/lcrp.12272",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1037/cns0000278",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1016/j.paid.2025.113181",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1080/00224499.2025.2485285",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1111/lcrp.1_12273",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1037/cns0000367",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1037/cns0000416",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1080/00207144.2025.2508407",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1037/cns0000371",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1111/lcrp.2_12274",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1111/lcrp.4_12272",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1080/00207144.2025.2508404",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1111/lcrp.1_12276",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1037/cns0000477",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "steven-jay-lynn",
+      "doi": "10.1177/02762366261492677",
       "issue": "Eligible appointment at publication unverified"
     },
     {
