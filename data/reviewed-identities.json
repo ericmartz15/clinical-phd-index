@@ -372,5 +372,81 @@
       "A5161225868 is a chapter-only split. The chapter belongs to Dreaming Reality, a Harvard University Press book, and falls outside the journal ranking. The mixed A5112796921 has no corroborating ORCID or institution and remains excluded from automatic attribution.",
       "https://doi.org/10.4159/9780674299559-014"
     ]
+  },
+  "tiffany-brown": {
+    "ids": [
+      "A5013900147",
+      "A5147623582"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "The author ORCID 0000-0002-7349-7228 is on confirmed papers. A5147623582 contains one publication with an Auburn byline, 10.1016/j.bodyim.2026.102168.",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11864894/",
+      "https://pubmed.ncbi.nlm.nih.gov/42623981/",
+      "A5072494979 combines Auburn eating-disorder bylines with a University of Otago researcher. Claim checks for the remaining Auburn works are queued individually. A5138124821 has no in-window journal or preprint records.",
+      "https://pubmed.ncbi.nlm.nih.gov/34002530/"
+    ],
+    "splitReview": true
+  },
+  "travis-evans": {
+    "ids": [
+      "A5075264630"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "The lab and author profile agree on social affect and cognitive neuroscience, and the published paper records Travis Clark Evans’s ORCID 0000-0002-0858-7905.",
+      "https://cla.auburn.edu/directory/travis-evans/",
+      "https://www.bu.edu/ballab/pubs/DeGutis22023.pdf"
+    ]
+  },
+  "april-smith": {
+    "ids": [
+      "A5073015702",
+      "A5138545142"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "Publisher bylines document both ORCIDs for the Auburn faculty member. Wiley provides 0000-0003-0832-0028 and the APA article provides 0009-0006-8758-7685. Records are linked to the same faculty member and deduplicated by DOI.",
+      "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/eat.23973",
+      "https://www.apa.org/pubs/journals/releases/dev-dev0002219.pdf"
+    ]
+  },
+  "elizabeth-brestan-knight": {
+    "ids": [
+      "A5025990120",
+      "A5072099551"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "A5025990120 indexes the parent-child interaction work described by Auburn’s research lab. Wiley confirms A5072099551’s in-window Eyberg Child Behavior Inventory study names the Auburn researcher. The older Elizabeth V. Brestan record A5057913903 has no works in the scoring window.",
+      "https://webhome.auburn.edu/~brestev/",
+      "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jpr.12365"
+    ]
+  },
+  "john-michael-falligant": {
+    "ids": [
+      "A5025347316"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "PubMed provides both the Auburn affiliation and John Michael Falligant’s ORCID 0000-0002-0062-9074.",
+      "https://pubmed.ncbi.nlm.nih.gov/39353871/"
+    ]
+  },
+  "richard-macatee": {
+    "ids": [
+      "A5047023097"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "Wiley provides both the Auburn affiliation and Richard J. Macatee’s ORCID 0000-0001-8135-7762.",
+      "https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13423"
+    ]
   }
 }
