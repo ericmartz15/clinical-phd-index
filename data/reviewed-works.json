@@ -1845,5 +1845,56 @@
       }
     ],
     "peerReview": "confirmed"
+  },
+  {
+    "title": "Why parents permit their children to play high-risk sports: An exploratory study",
+    "doi": "10.1080/21622965.2026.2716161",
+    "date": "2026-08-18",
+    "kind": "journal",
+    "venue": "Applied Neuropsychology: Child",
+    "authorCount": 3,
+    "pmcid": "",
+    "issns": [
+      "2162-2965",
+      "2162-2973"
+    ],
+    "topics": [
+      "Sports injuries and prevention",
+      "Sport Psychology and Performance"
+    ],
+    "people": {
+      "richard-wise": {
+        "position": 1,
+        "affiliations": [
+          "University of North Dakota"
+        ],
+        "identityNote": "The publisher verifies Richard A. Wise at UND. Credit this DOI individually because its OpenAlex author profile also includes another Richard Wise."
+      }
+    },
+    "evidenceDates": [
+      {
+        "date": "2026-08-18",
+        "source": "Publisher",
+        "type": "published-online"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "OpenAlex",
+        "id": "W7203668010",
+        "url": "https://openalex.org/W7203668010"
+      },
+      {
+        "source": "PubMed",
+        "id": "42611977",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42611977/"
+      },
+      {
+        "source": "Publisher",
+        "id": "10.1080/21622965.2026.2716161",
+        "url": "https://doi.org/10.1080/21622965.2026.2716161"
+      }
+    ],
+    "peerReview": "inferred"
   }
 ]

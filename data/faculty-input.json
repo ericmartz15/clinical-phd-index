@@ -7181,8 +7181,21 @@
           "University of North Dakota"
         ],
         "dateSource": "https://arts-sciences.und.edu/academics/psychology/_files/docs/2430-und-psychology-newsletter.pdf"
+      },
+      {
+        "program": "program-158",
+        "role": "tenure-track",
+        "start": "2020",
+        "end": "2023",
+        "current": false,
+        "source": "https://www.shsu.edu/academics/psychology-and-philosophy/psychology/doctoral-program/documents/cvs/BenemannCV.Oct2022.pdf",
+        "dateSource": "https://webapps.und.edu/uploads/profile-uploads/47808/russell-tiffany_curriculum-vita.pdf",
+        "affiliations": [
+          "Sam Houston State University"
+        ]
       }
-    ]
+    ],
+    "cv": "https://webapps.und.edu/uploads/profile-uploads/47808/russell-tiffany_curriculum-vita.pdf"
   },
   {
     "id": "richard-wise",
@@ -7199,14 +7212,16 @@
       {
         "program": "program-126",
         "role": "tenure-track",
-        "start": null,
+        "start": "2005",
         "end": null,
         "current": true,
         "source": "https://arts-sciences.und.edu/academics/psychology/clinical/faculty.html",
         "affiliations": [
           "University of North Dakota"
-        ]
+        ],
+        "dateSource": "https://webapps.und.edu/uploads/profile-uploads/1842/wise-richard_curriculum-vita.pdf"
       }
-    ]
+    ],
+    "cv": "https://webapps.und.edu/uploads/profile-uploads/1842/wise-richard_curriculum-vita.pdf"
   }
 ]
