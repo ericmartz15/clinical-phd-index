@@ -164,6 +164,9 @@ def audit(faculty, works, references, seed, stage, start, end, excluded=(), fixe
             unavailable.append(pid)
             continue
         person_ref = references[pid]
+        if stage == "holdout" and (not person_ref.get("source") or person_ref.get("window") != [start, end]):
+            unavailable.append(pid)
+            continue
         if person_ref.get("window") and person_ref["window"] != [start, end]:
             unavailable.append(pid)
             continue
@@ -202,6 +205,7 @@ def audit(faculty, works, references, seed, stage, start, end, excluded=(), fixe
     validation = stage == "holdout" and bool(excluded) and len(sample) == 50 and audited == 50 and recall is not None
     return dict(status="measured" if validation else "pending", stage=stage, target=.95, seed=seed,
                 window=[start, end], eligibleFaculty=len(cohort), samplingFrame=len(sampling_frame),
+                samplingFrameSha256=sha256(json.dumps(sampling_frame).encode()).hexdigest(),
                 excludedCalibration=list(excluded), sample=sample, audited=audited,
                 unavailable=unavailable, matches=matches, denominator=total, recall=recall if validation else None,
                 diagnosticRecall=recall, interval=interval if validation else None, targetMet=validation and recall >= .95,
@@ -252,6 +256,8 @@ def main():
     parser.add_argument("--audit-seed", type=int, default=291756)
     parser.add_argument("--audit-stage", choices=("calibration", "holdout"), default="calibration")
     parser.add_argument("--calibration-report", type=Path, help="Exclude the calibration sample from the holdout frame")
+    parser.add_argument("--holdout-plan", type=Path, default=DATA / "holdout-plan.json",
+                        help="Create or reuse the fixed independent audit sample and window")
     parser.add_argument("--report-target", default="")
     args = parser.parse_args()
     now = date.fromisoformat(args.as_of)
@@ -333,7 +339,8 @@ def main():
             parser.error("Supply the archived calibration report to identify previously reviewed faculty.")
         excluded.update(set(calibration["sample"]) - set(calibration["unavailable"]))
         excluded.update(item["person"] for item in [diagnostic, *checks] if item)
-    audit_plan = read(DATA / "calibration-plan.json") if args.audit_stage == "calibration" else None
+    audit_plan = (read(DATA / "calibration-plan.json") if args.audit_stage == "calibration" else
+                  read(args.holdout_plan, {}))
     seed = audit_plan["seed"] if audit_plan else args.audit_seed
     start_audit, end_audit = audit_plan["window"] if audit_plan else [ago(5), args.as_of]
     audit_faculty = faculty
@@ -344,7 +351,17 @@ def main():
         ]
     report = audit(audit_faculty, works, reference, seed, args.audit_stage, start_audit, end_audit,
                    sorted(excluded), audit_plan["sample"] if audit_plan else None)
-    if audit_plan:
+    if args.audit_stage == "holdout":
+        if len(report["sample"]) != 50:
+            parser.error("The independent audit needs 50 distinct faculty in the sampling frame.")
+        plan = dict(seed=seed, window=[start_audit, end_audit], sample=report["sample"],
+                    frameSize=report["samplingFrame"], frameSha256=report["samplingFrameSha256"], excluded=sorted(excluded))
+        if audit_plan and plan != audit_plan:
+            parser.error("The persisted audit plan and current sampling frame disagree. Review roster and pilot changes before drawing a replacement sample.")
+        if not audit_plan:
+            write(args.holdout_plan, plan)
+        report["frozenFrameSize"] = plan["frameSize"]
+    elif audit_plan:
         report["frozenFrameSize"] = audit_plan["frameSize"]
         report["calibrationHistory"] = read(DATA / "calibration-history.json", [])
     report["corpusSha256"] = sha256(json.dumps(sorted([

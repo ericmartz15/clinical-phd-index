@@ -139,13 +139,18 @@ class DataTest(unittest.TestCase):
 
     def test_no_small_sample_promotion(self):
         faculty = [{"id":"a","appointments":[{"role":"tenure-track","current":True}]}]
-        refs = {"a":{"complete":True,"papers":[{"kind":"journal","date":"2025-01-01","title":"Paper"}]}}
+        refs = {"a":{"complete":True, "source":"Independent reference",
+                     "window":["2021-01-01","2026-01-01"],
+                     "papers":[{"kind":"journal","date":"2025-01-01","title":"Paper"}]}}
         works = [{"kind":"journal","date":"2025-01-01","title":"Paper","doi":"",
                   "people":{"a":{}}, "databaseMissing":False}]
         result = audit(faculty, works, refs, 13, "holdout", "2021-01-01", "2026-01-01")
         self.assertEqual(result["diagnosticRecall"], 1)
         self.assertIsNone(result["recall"])
         self.assertFalse(result["targetMet"])
+        del refs["a"]["source"]
+        result = audit(faculty, works, refs, 13, "holdout", "2021-01-01", "2026-01-01")
+        self.assertEqual(result["unavailable"], ["a"])
 
     def test_fixed_sample_rejects_a_conflicting_doi(self):
         faculty = [{"id": pid, "appointments": [{"role": "tenure-track", "current": True}]} for pid in ["a", "b"]]

@@ -72,3 +72,4 @@ jobs:
             data/publications.json
             data/review-queue.json
             data/recall-report.json
+            data/holdout-plan.json
