@@ -5394,5 +5394,34 @@
       }
     ],
     "lab": "https://sdlab.fas.harvard.edu/"
+  },
+  {
+    "id": "erik-woody",
+    "name": "Erik Z. Woody",
+    "aliases": [
+      "Erik Woody"
+    ],
+    "orcid": "0000-0002-5093-3488",
+    "orcidSource": "https://www.apa.org/pubs/journals/features/cns-cns0000267.pdf",
+    "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program",
+    "areas": [
+      "hypnosis",
+      "clinical assessment",
+      "interpersonal processes"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": "1981",
+        "end": "2017-04-30",
+        "current": false,
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program",
+        "dateSource": "https://uwaterloo.ca/retirees-association/sites/default/files/uploads/documents/wattimes_fall2017_accessible.pdf",
+        "affiliations": [
+          "University of Waterloo"
+        ]
+      }
+    ]
   }
 ]
