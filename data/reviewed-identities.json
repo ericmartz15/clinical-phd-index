@@ -661,5 +661,128 @@
       "https://journals.sagepub.com/doi/abs/10.1089/cap.2022.0063",
       "https://www.biorxiv.org/content/10.64898/2026.10.08.755024v1"
     ]
+  },
+  "susan-holtzman": {
+    "ids": [
+      "A5046463911"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psych.ok.ubc.ca/about/contact/susan-holtzman/",
+      "The publisher full text gives ORCID 0000-0002-1530-1653 and the UBC Okanagan affiliation, consistent with the official profile.",
+      "https://dspace.library.uvic.ca/bitstreams/8fe05bf1-37c5-47fc-bca4-3f003e77ee8d/download"
+    ]
+  },
+  "zach-walsh": {
+    "ids": [
+      "A5112603217",
+      "A5061335380"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psych.ok.ubc.ca/about/contact/zach-walsh/",
+      "Publisher bylines and the UBC CV corroborate both profiles. A5135868143 has only DOI 10.1037/e504062026-001, whose byline and publication type could not be verified. It remains in split-profile review.",
+      "https://doi.org/10.1016/j.drugpo.2017.01.011",
+      "https://onlinelibrary.wiley.com/doi/full/10.1111/ijcp.13871",
+      "https://fass-psych.cms.ok.ubc.ca/wp-content/uploads/sites/118/2021/07/ZWalshCV0521.pdf"
+    ],
+    "splitReview": true
+  },
+  "jeremy-grant": {
+    "ids": [
+      "A5007129839"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.osu.edu/people/grant.866",
+      "The Ohio State clinical handbook documents prior Wayne State clinical neuropsychology training. The publisher gives the Wayne State affiliation and full byline Jeremy G. Grant.",
+      "https://psychology.osu.edu/sites/default/files/2024-10/2024-2025-Clinical-Handbook_1.pdf",
+      "https://doi.org/10.1016/j.msard.2023.104916"
+    ]
+  },
+  "jasmeet-hayes": {
+    "ids": [
+      "A5012271236",
+      "A5107852675"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.osu.edu/people/hayes.1075",
+      "Independent publisher records identify Jasmeet P. Hayes at Ohio State for both profiles.",
+      "https://doi.org/10.3389/fpsyt.2019.00133",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC13718888/"
+    ]
+  },
+  "scott-hayes": {
+    "ids": [
+      "A5073716549"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.osu.edu/people/hayes.1074",
+      "The publisher byline and Ohio State profile corroborate the full name Scott M. Hayes and joint work with the Ohio State research collaborators.",
+      "https://doi.org/10.3389/fpsyt.2019.00133"
+    ]
+  },
+  "ruchika-prakash": {
+    "ids": [
+      "A5057390952"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.osu.edu/people/prakash.30",
+      "The publisher full text corroborates the Ohio State affiliation and name expansion Ruchika Shaurya Prakash. Ohio State also lists the matching research.",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8517620/",
+      "https://doi.org/10.1007/s41465-018-0115-y"
+    ]
+  },
+  "megan-renna": {
+    "ids": [
+      "A5015765374"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.osu.edu/people/renna.4",
+      "Publisher records and the Ohio State faculty bibliography corroborate Megan E. Renna and the research on stress and immune outcomes.",
+      "https://doi.org/10.1177/1745691621989243",
+      "https://doi.org/10.3389/fpsyg.2017.00098"
+    ]
+  },
+  "joshua-smyth": {
+    "ids": [
+      "A5086017069",
+      "A5135489302",
+      "A5123976166"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.osu.edu/people/smyth.88",
+      "The Ohio State faculty profile agrees with the primary profile’s ecological momentary assessment work. The publisher bylines name Joshua M. Smyth and Ohio State in both split profiles.",
+      "https://doi.org/10.1093/jpepsy/jsx078",
+      "https://www.nature.com/articles/s41562-026-02427-2.pdf",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12836308/"
+    ]
+  },
+  "matt-southward": {
+    "ids": [
+      "A5030618865"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.osu.edu/people/southward.6",
+      "The Ohio State CV confirms the published name Matthew W. Southward, cross-listed publications and the Ohio State appointment starting in 2024.",
+      "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/8/128116/files/2026/06/Southward-CV-6.3.26.pdf",
+      "https://doi.org/10.1016/j.cpr.2020.101852",
+      "https://doi.org/10.1177/2167702618769560"
+    ]
   }
 }

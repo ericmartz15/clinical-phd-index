@@ -6536,7 +6536,7 @@
       {
         "program": "university-of-british-columbia-okanagan-campus",
         "role": "tenure-track",
-        "start": null,
+        "start": "2009",
         "end": null,
         "current": true,
         "source": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf",
@@ -6544,9 +6544,12 @@
           "University of British Columbia Okanagan",
           "University of British Columbia – Okanagan Campus",
           "University of British Columbia"
-        ]
+        ],
+        "dateSource": "https://fass-psych.cms.ok.ubc.ca/wp-content/uploads/sites/118/2021/07/ZWalshCV0521.pdf"
       }
-    ]
+    ],
+    "cv": "https://fass-psych.cms.ok.ubc.ca/wp-content/uploads/sites/118/2021/07/ZWalshCV0521.pdf",
+    "lab": "https://blogs.ubc.ca/walshlab/"
   },
   {
     "id": "michael-woodworth",
@@ -6630,8 +6633,10 @@
   },
   {
     "id": "jeremy-grant",
-    "name": "Jeremy Grant",
-    "aliases": [],
+    "name": "Jeremy G. Grant",
+    "aliases": [
+      "Jeremy Grant"
+    ],
     "source": "https://psychology.osu.edu/people/grant.866",
     "areas": [
       "neuropsychology",
@@ -6806,16 +6811,18 @@
       {
         "program": "program-132",
         "role": "tenure-track",
-        "start": null,
+        "start": "2024",
         "end": null,
         "current": true,
         "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
         "affiliations": [
           "The Ohio State University",
           "Ohio State University"
-        ]
+        ],
+        "dateSource": "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/8/128116/files/2026/06/Southward-CV-6.3.26.pdf"
       }
-    ]
+    ],
+    "cv": "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/8/128116/files/2026/06/Southward-CV-6.3.26.pdf"
   },
   {
     "id": "daniel-strunk",
