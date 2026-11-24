@@ -2575,12 +2575,10 @@
       "crosschecks": {
         "PubMed": "queried",
         "Crossref": "queried",
-        "Semantic Scholar": "incomplete",
+        "Semantic Scholar": "partial author discovery",
         "PsyArXiv": "queried"
       },
-      "errors": {
-        "Semantic Scholar": "Connection failed for api.semanticscholar.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -2693,6 +2691,8 @@
         "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
       }
     ],
+    "orcid": "0000-0003-3489-9942",
+    "orcidSource": "https://journals.sagepub.com/doi/10.1177/03057356261449273",
     "identity": {
       "ids": [
         "A5104831838"
@@ -2704,12 +2704,15 @@
       ]
     },
     "retrieval": {
-      "openAlex": "not run",
-      "crosschecks": {},
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
+      },
       "errors": {}
-    },
-    "orcid": "0000-0003-3489-9942",
-    "orcidSource": "https://journals.sagepub.com/doi/10.1177/03057356261449273"
+    }
   },
   {
     "id": "christine-purdon",
@@ -2755,10 +2758,12 @@
       "crosschecks": {
         "PubMed": "queried",
         "Crossref": "queried",
-        "Semantic Scholar": "partial author discovery",
+        "Semantic Scholar": "incomplete",
         "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -2849,10 +2854,12 @@
       "crosschecks": {
         "PubMed": "queried",
         "Crossref": "partial author discovery",
-        "Semantic Scholar": "partial author discovery",
+        "Semantic Scholar": "incomplete",
         "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -13009,12 +13016,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -13045,6 +13054,9 @@
         ]
       }
     ],
+    "orcid": "0000-0002-6718-9683",
+    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/31883424/",
+    "lab": "https://www.ohsu.edu/school-of-medicine/psychiatry-research/mood-disorder-investigations-throughout-neurodevelopment",
     "identity": {
       "ids": [
         "A5091149788"
@@ -13056,13 +13068,17 @@
       ]
     },
     "retrieval": {
-      "openAlex": "not run",
-      "crosschecks": {},
-      "errors": {}
-    },
-    "orcid": "0000-0002-6718-9683",
-    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/31883424/",
-    "lab": "https://www.ohsu.edu/school-of-medicine/psychiatry-research/mood-disorder-investigations-throughout-neurodevelopment"
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
+    }
   },
   {
     "id": "jennifer-loftis",
@@ -13093,6 +13109,8 @@
       }
     ],
     "lab": "https://www.ohsu.edu/school-of-medicine/psychoneuroimmunology-lab",
+    "orcid": "0000-0003-1773-9365",
+    "orcidSource": "https://journals.sagepub.com/doi/10.1177/10870547251397701",
     "identity": {
       "ids": [
         "A5073950799"
@@ -13104,12 +13122,17 @@
       ]
     },
     "retrieval": {
-      "openAlex": "not run",
-      "crosschecks": {},
-      "errors": {}
-    },
-    "orcid": "0000-0003-1773-9365",
-    "orcidSource": "https://journals.sagepub.com/doi/10.1177/10870547251397701"
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
+    }
   },
   {
     "id": "suzanne-h-mitchell",
@@ -13155,12 +13178,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -13250,12 +13275,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -13287,6 +13314,8 @@
       }
     ],
     "lab": "https://www.ohsu.edu/advancing-research-pediatric-pain-lab/about-us",
+    "orcid": "0000-0001-8672-068X",
+    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/32915020/",
     "identity": {
       "ids": [
         "A5101883319"
@@ -13298,11 +13327,16 @@
       ]
     },
     "retrieval": {
-      "openAlex": "not run",
-      "crosschecks": {},
-      "errors": {}
-    },
-    "orcid": "0000-0001-8672-068X",
-    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/32915020/"
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
+    }
   }
 ]

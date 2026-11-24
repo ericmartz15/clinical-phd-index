@@ -62,7 +62,7 @@
     "john-ruiz",
     "mark-chen"
   ],
-  "audited": 11,
+  "audited": 12,
   "unavailable": [
     "lara-ray",
     "vickie-m-mays",
@@ -90,7 +90,6 @@
     "gene-alexander",
     "tiffany-ho",
     "michelle-craske",
-    "david-moscovitch",
     "hedy-kober",
     "charlene-muehlenhard",
     "matthew-grilli",
@@ -104,10 +103,10 @@
     "sheri-johnson",
     "john-ruiz"
   ],
-  "matches": 352,
-  "denominator": 353,
+  "matches": 368,
+  "denominator": 370,
   "recall": null,
-  "diagnosticRecall": 0.9971671388101983,
+  "diagnosticRecall": 0.9945945945945946,
   "interval": null,
   "targetMet": false,
   "missing": [
@@ -120,6 +119,16 @@
       "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
       "matched": false,
       "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "How Could MDMA Enhance CBT for Social Anxiety Disorder?",
+      "doi": "",
+      "date": "2025-07",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://www.abct.org/latest-news/the-behavior-therapist-july-2025/",
+      "matched": false,
+      "reason": "ABCT publishes the article in its peer-reviewed July 2025 issue. A matching DOI or bibliographic database record was not found. The publisher specifies the issue month."
     }
   ],
   "rows": [
@@ -1796,6 +1805,159 @@
       "reference": "https://developmental-psychopathology.lab.uiowa.edu/publications",
       "dateSource": "https://doi.org/10.1523/jneurosci.0233-22.2022",
       "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Effects of Imagery Rescripting on Trait Anxiety and Core Beliefs: A Pilot Study Comparing the Current Self and a Supportive Other as Intervening Agents",
+      "doi": "10.1007/s10608-026-10764-9",
+      "date": "2026-07-04",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1007/s10608-026-10764-9",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Does valence of autobiographical memories change during imagery rescripting for anxiety?",
+      "doi": "10.1037/mac0000250",
+      "date": "2025-10-06",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1037/mac0000250",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Positive social autobiographical memory recall enhances positive affect, self-esteem, and social reward seeking after exclusion in individuals with high social anxiety.",
+      "doi": "10.1037/mac0000234",
+      "date": "2025-06-16",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1037/mac0000234",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Targeting schema change in social anxiety via autobiographical memory reconstruction",
+      "doi": "10.1080/02699931.2024.2433516",
+      "date": "2024-12-02",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1080/02699931.2024.2433516",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Effects of social anxiety and self‐schemas on the impact and meaningfulness of positive versus negative social autobiographical memories",
+      "doi": "10.1111/bjc.12504",
+      "date": "2024-09-16",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1111/bjc.12504",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Identifying analogue samples of individuals with clinically significant social anxiety: Updating and combining cutoff scores on the Social Phobia Inventory and Sheehan Disability Scale.",
+      "doi": "10.1037/pas0001328",
+      "date": "2024-06-20",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1037/pas0001328",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Vulnerabilities in social anxiety: Integrating intra- and interpersonal perspectives",
+      "doi": "10.1016/j.cpr.2024.102415",
+      "date": "2024-03-11",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1016/j.cpr.2024.102415",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Predictors of Excessive Reassurance Seeking in Social Anxiety",
+      "doi": "10.1007/s10608-024-10473-1",
+      "date": "2024-02-23",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1007/s10608-024-10473-1",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Hooking the Self Onto the Past: How Positive Autobiographical Memory Retrieval Benefits People With Social Anxiety",
+      "doi": "10.1177/21677026231195792",
+      "date": "2023-11-15",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1177/21677026231195792",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Neurocognitive Model of Schema-Congruent and -Incongruent Learning in Clinical Disorders: Application to Social Anxiety and Beyond",
+      "doi": "10.1177/17456916221141351",
+      "date": "2023-02-16",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1177/17456916221141351",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Just do something: An experimental investigation of brief interventions for reducing the negative impact of post-event processing in social anxiety disorder",
+      "doi": "10.1016/j.janxdis.2023.102744",
+      "date": "2023-07-16",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1016/j.janxdis.2023.102744",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Positive emotional reactivity to pleasant social and nonsocial stimuli in social anxiety disorder.",
+      "doi": "10.1037/emo0001143",
+      "date": "2022-09-15",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1037/emo0001143",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Social anxiety inhibits needs repair following exclusion in both relational and non-relational reward contexts: The mediating role of positive affect",
+      "doi": "10.1016/j.brat.2023.104270",
+      "date": "2023-01-29",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1016/j.brat.2023.104270",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Concurrent and prospective associations between negative social-evaluative beliefs, safety behaviours, and symptoms during and following cognitive behavioural group therapy for social anxiety disorder",
+      "doi": "10.1016/j.brat.2023.104253",
+      "date": "2023-01-11",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/36669272/",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "The impact of particular safety behaviours on perceived likeability and authenticity during interpersonal interactions in social anxiety disorder",
+      "doi": "10.1017/s1352465822000492",
+      "date": "2022-11-15",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1017/s1352465822000492",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "Impacts of imagery-enhanced versus verbally-based cognitive behavioral group therapy on psychophysiological parameters in social anxiety disorder: Results from a randomized-controlled trial",
+      "doi": "10.1016/j.brat.2022.104131",
+      "date": "2022-06-07",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://doi.org/10.1016/j.brat.2022.104131",
+      "matched": true
+    },
+    {
+      "person": "david-moscovitch",
+      "title": "How Could MDMA Enhance CBT for Social Anxiety Disorder?",
+      "doi": "",
+      "date": "2025-07",
+      "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+      "dateSource": "https://www.abct.org/latest-news/the-behavior-therapist-july-2025/",
+      "matched": false
     },
     {
       "person": "allison-harvey",
@@ -3708,7 +3870,7 @@
       ]
     }
   ],
-  "corpusSha256": "a6ec3cfe560b75dedd68b4f54862b870ac6d7dde31f36b4cba3c16b0856254d4",
+  "corpusSha256": "91a351049f82b24dd7faa7601b5ff5b62870deeed5498915c7526510e4771185",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",

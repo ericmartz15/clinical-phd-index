@@ -3356,5 +3356,216 @@
       "https://pubmed.ncbi.nlm.nih.gov/42647479/"
     ],
     "note": "The August 2026 CV was checked against publisher and PubMed evidence through the cutoff. Four papers listed as in press or under review were verified as published in the window."
+  },
+  "david-moscovitch": {
+    "source": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "title": "Effects of Imagery Rescripting on Trait Anxiety and Core Beliefs: A Pilot Study Comparing the Current Self and a Supportive Other as Intervening Agents",
+        "doi": "10.1007/s10608-026-10764-9",
+        "date": "2026-07-04",
+        "dateSource": "https://doi.org/10.1007/s10608-026-10764-9",
+        "kind": "journal"
+      },
+      {
+        "title": "Does valence of autobiographical memories change during imagery rescripting for anxiety?",
+        "doi": "10.1037/mac0000250",
+        "date": "2025-10-06",
+        "dateSource": "https://doi.org/10.1037/mac0000250",
+        "kind": "journal"
+      },
+      {
+        "title": "Positive social autobiographical memory recall enhances positive affect, self-esteem, and social reward seeking after exclusion in individuals with high social anxiety.",
+        "doi": "10.1037/mac0000234",
+        "date": "2025-06-16",
+        "dateSource": "https://doi.org/10.1037/mac0000234",
+        "kind": "journal"
+      },
+      {
+        "title": "Targeting schema change in social anxiety via autobiographical memory reconstruction",
+        "doi": "10.1080/02699931.2024.2433516",
+        "date": "2024-12-02",
+        "dateSource": "https://doi.org/10.1080/02699931.2024.2433516",
+        "kind": "journal"
+      },
+      {
+        "title": "Effects of social anxiety and self‐schemas on the impact and meaningfulness of positive versus negative social autobiographical memories",
+        "doi": "10.1111/bjc.12504",
+        "date": "2024-09-16",
+        "dateSource": "https://doi.org/10.1111/bjc.12504",
+        "kind": "journal"
+      },
+      {
+        "title": "Identifying analogue samples of individuals with clinically significant social anxiety: Updating and combining cutoff scores on the Social Phobia Inventory and Sheehan Disability Scale.",
+        "doi": "10.1037/pas0001328",
+        "date": "2024-06-20",
+        "dateSource": "https://doi.org/10.1037/pas0001328",
+        "kind": "journal"
+      },
+      {
+        "title": "Vulnerabilities in social anxiety: Integrating intra- and interpersonal perspectives",
+        "doi": "10.1016/j.cpr.2024.102415",
+        "date": "2024-03-11",
+        "dateSource": "https://doi.org/10.1016/j.cpr.2024.102415",
+        "kind": "journal"
+      },
+      {
+        "title": "Predictors of Excessive Reassurance Seeking in Social Anxiety",
+        "doi": "10.1007/s10608-024-10473-1",
+        "date": "2024-02-23",
+        "dateSource": "https://doi.org/10.1007/s10608-024-10473-1",
+        "kind": "journal"
+      },
+      {
+        "title": "Hooking the Self Onto the Past: How Positive Autobiographical Memory Retrieval Benefits People With Social Anxiety",
+        "doi": "10.1177/21677026231195792",
+        "date": "2023-11-15",
+        "dateSource": "https://doi.org/10.1177/21677026231195792",
+        "kind": "journal"
+      },
+      {
+        "title": "Neurocognitive Model of Schema-Congruent and -Incongruent Learning in Clinical Disorders: Application to Social Anxiety and Beyond",
+        "doi": "10.1177/17456916221141351",
+        "date": "2023-02-16",
+        "dateSource": "https://doi.org/10.1177/17456916221141351",
+        "kind": "journal"
+      },
+      {
+        "title": "Just do something: An experimental investigation of brief interventions for reducing the negative impact of post-event processing in social anxiety disorder",
+        "doi": "10.1016/j.janxdis.2023.102744",
+        "date": "2023-07-16",
+        "dateSource": "https://doi.org/10.1016/j.janxdis.2023.102744",
+        "kind": "journal"
+      },
+      {
+        "title": "Positive emotional reactivity to pleasant social and nonsocial stimuli in social anxiety disorder.",
+        "doi": "10.1037/emo0001143",
+        "date": "2022-09-15",
+        "dateSource": "https://doi.org/10.1037/emo0001143",
+        "kind": "journal"
+      },
+      {
+        "title": "Social anxiety inhibits needs repair following exclusion in both relational and non-relational reward contexts: The mediating role of positive affect",
+        "doi": "10.1016/j.brat.2023.104270",
+        "date": "2023-01-29",
+        "dateSource": "https://doi.org/10.1016/j.brat.2023.104270",
+        "kind": "journal"
+      },
+      {
+        "title": "Concurrent and prospective associations between negative social-evaluative beliefs, safety behaviours, and symptoms during and following cognitive behavioural group therapy for social anxiety disorder",
+        "doi": "10.1016/j.brat.2023.104253",
+        "date": "2023-01-11",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/36669272/",
+        "kind": "journal"
+      },
+      {
+        "title": "The impact of particular safety behaviours on perceived likeability and authenticity during interpersonal interactions in social anxiety disorder",
+        "doi": "10.1017/s1352465822000492",
+        "date": "2022-11-15",
+        "dateSource": "https://doi.org/10.1017/s1352465822000492",
+        "kind": "journal"
+      },
+      {
+        "title": "Impacts of imagery-enhanced versus verbally-based cognitive behavioral group therapy on psychophysiological parameters in social anxiety disorder: Results from a randomized-controlled trial",
+        "doi": "10.1016/j.brat.2022.104131",
+        "date": "2022-06-07",
+        "dateSource": "https://doi.org/10.1016/j.brat.2022.104131",
+        "kind": "journal"
+      },
+      {
+        "title": "How Could MDMA Enhance CBT for Social Anxiety Disorder?",
+        "doi": "",
+        "date": "2025-07",
+        "kind": "journal",
+        "dateSource": "https://www.abct.org/latest-news/the-behavior-therapist-july-2025/",
+        "diagnosis": "ABCT publishes the article in its peer-reviewed July 2025 issue. A matching DOI or bibliographic database record was not found. The publisher specifies the issue month."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "Updating the self: A mechanistic roadmap for effective treatment of adults with social anxiety disorder",
+        "reason": "The bibliography lists an edited book chapter.",
+        "source": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf"
+      },
+      {
+        "title": "Imagery-enhanced v. verbally-based group cognitive behavior therapy for social anxiety disorder: a randomized clinical trial",
+        "doi": "10.1017/s0033291720003001",
+        "date": "2020-09-11",
+        "source": "https://doi.org/10.1017/s0033291720003001",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "Reconnecting in the Face of Exclusion: Individuals with High Social Anxiety May Feel the Push of Social Pain, but not the Pull of Social Rewards",
+        "doi": "10.1007/s10608-021-10263-z",
+        "date": "2021-08-17",
+        "source": "https://doi.org/10.1007/s10608-021-10263-z",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "The moderating effects of reported pre-pandemic social anxiety, symptom impairment, and current stressors on mental health and affiliative adjustment during the first wave of the COVID-19 pandemic",
+        "doi": "10.1080/10615806.2021.1946518",
+        "date": "2021-06-29",
+        "source": "https://doi.org/10.1080/10615806.2021.1946518",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "None the wiser: Year-long longitudinal study on effects of adversity on wisdom",
+        "doi": "10.1177/08902070211014057",
+        "date": "2021-05-17",
+        "source": "https://doi.org/10.1177/08902070211014057",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "Effects of mask-wearing on social anxiety: an exploratory review",
+        "doi": "10.1080/10615806.2021.1929936",
+        "date": "2021-06-01",
+        "source": "https://doi.org/10.1080/10615806.2021.1929936",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "Social Anxiety and the Generation of Positivity During Dyadic Interaction: Curiosity and Authenticity Are the Keys to Success",
+        "doi": "10.1016/j.beth.2021.03.011",
+        "date": "2021-03-31",
+        "source": "https://doi.org/10.1016/j.beth.2021.03.011",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "Imagery Rescripting of Painful Memories in Social Anxiety Disorder: A Qualitative Analysis of Needs Fulfillment and Memory Updating",
+        "doi": "10.1007/s10608-020-10149-6",
+        "date": "2020-09-19",
+        "source": "https://doi.org/10.1007/s10608-020-10149-6",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "Fears of receiving compassion from others predict safety behaviour use in social anxiety disorder over and above fears of negative self-portrayal",
+        "doi": "10.1016/j.janxdis.2021.102387",
+        "date": "2021-03-23",
+        "source": "https://doi.org/10.1016/j.janxdis.2021.102387",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "Social pain and the role of imagined social consequences: Why personal adverse experiences elicit social pain, with or without explicit relational devaluation",
+        "doi": "10.1016/j.jesp.2021.104121",
+        "date": "2021-03-06",
+        "source": "https://doi.org/10.1016/j.jesp.2021.104121",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1093/med-psych/9780197507407.003.0015",
+        "title": "Pathways from adversity to wisdom",
+        "reason": "The bibliography lists an edited book chapter.",
+        "source": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf"
+      }
+    ],
+    "supplementarySources": [
+      "https://www.abct.org/latest-news/the-behavior-therapist-july-2025/",
+      "https://www.abct.org/journals/the-behavior-therapist-journal/the-behavior-therapist-journal-submissions-information/"
+    ],
+    "note": "The August 2026 bibliography was reviewed by DOI and publisher issue. An affiliation-constrained PubMed search through the fixed November cutoff identified no additional articles."
   }
 }
