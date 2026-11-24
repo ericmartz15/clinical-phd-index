@@ -235,7 +235,7 @@ function initializeProgram() {
       <p>${[person.lab && ["Lab",person.lab],person.cv && ["CV",person.cv],person.publicationList && ["Lab bibliography",person.publicationList],person.orcid && ["ORCID","https://orcid.org/"+person.orcid]]
         .filter(Boolean).map(([label,url])=>`<a href="${escapeHtml(url)}">${label} ↗</a>`).join(" · ")}</p>
       <ol class="publication-list">${works.map(work => `<li><a href="${escapeHtml(publicationUrl(work))}">${escapeHtml(work.title)}</a>
-        <span>${escapeHtml(work.date)} · ${escapeHtml(work.venue)}${work.kind === "preprint" ? " · Preprint" : ""}</span>
+        <span>${escapeHtml(work.datePrecision === "month" ? work.date.slice(0, 7) : work.date)} · ${escapeHtml(work.venue)}${work.kind === "preprint" ? " · Preprint" : ""}${work.databaseMissing ? " · Database record unverified" : ""}</span>
         <span>${work.credit.some(c => c.person === person.id && c.program === program.id) ? "Eligible appointment matched" : "Program attribution pending or ineligible"} · ${work.provenance.map(p => `<a href="${escapeHtml(p.url)}">${escapeHtml(p.source)}</a>`).join(", ")}</span></li>`).join("")}</ol>`;
     people.append(section);
   }

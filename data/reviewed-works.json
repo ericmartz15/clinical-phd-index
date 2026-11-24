@@ -1807,5 +1807,43 @@
       }
     ],
     "peerReview": "confirmed"
+  },
+  {
+    "title": "How Could MDMA Enhance CBT for Social Anxiety Disorder?",
+    "doi": "",
+    "date": "2025-07-01",
+    "datePrecision": "month",
+    "kind": "journal",
+    "venue": "The Behavior Therapist",
+    "authorCount": 3,
+    "pmcid": "",
+    "people": {
+      "david-moscovitch": {
+        "position": 3,
+        "affiliations": [
+          "University of Waterloo"
+        ],
+        "identityNote": "The faculty bibliography and the publisher’s issue record confirm the byline."
+      }
+    },
+    "issns": [],
+    "topics": [],
+    "evidenceDates": [
+      {
+        "date": "2025-07-01",
+        "type": "publication",
+        "precision": "month",
+        "source": "Publisher issue",
+        "url": "https://www.abct.org/latest-news/the-behavior-therapist-july-2025/"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "CV",
+        "id": "david-moscovitch-tbt-2025-48-5-636",
+        "url": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf"
+      }
+    ],
+    "peerReview": "confirmed"
   }
 ]

@@ -379,7 +379,7 @@ def main():
     write(DATA / "recall-report.json", report)
     write(DATA / "review-queue.json", dict(authorIdentities=backlog, publicationCandidates=queue, attribution=attribution))
     csv_export(DATA / "faculty.csv", faculty, ["id", "name", "aliases", "areas", "lab", "cv", "orcid", "appointments", "identity", "retrieval"])
-    csv_export(DATA / "publications.csv", works, ["title", "doi", "date", "kind", "venue", "venueTier", "subfields", "authorCount", "provenance", "credit", "databaseMissing"])
+    csv_export(DATA / "publications.csv", works, ["title", "doi", "date", "datePrecision", "kind", "venue", "venueTier", "subfields", "authorCount", "provenance", "credit", "databaseMissing"])
     (ROOT / "publication-data.js").write_text("const publicationData = " +
         json.dumps(snapshot, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
     print(f"{len(programs)} programs, {len(faculty)} reviewed faculty records, {len(works)} works, {len(rankable)} publishable rankings.")
