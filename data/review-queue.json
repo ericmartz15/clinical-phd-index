@@ -2733,6 +2733,367 @@
           "evidence": []
         }
       ]
+    },
+    {
+      "pid": "katherine-dixon-gordon",
+      "ids": [
+        "A5047387351"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://www.umass.edu/psychological-brain-sciences/about/directory/katherine-dixon-gordon",
+        "Publisher metadata gives the UMass Amherst affiliation on 10.1002/jts.22330. The journal record for 10.1159/000525102 confirms ORCID 0000-0002-6962-3121.",
+        "https://doi.org/10.1002/jts.22330",
+        "https://doi.org/10.1159/000525102",
+        "A5003976447 has one meeting record, DOI 10.1016/j.biopsych.2026.03.829. A5032304904 has one unlinked title. Both need work-level review."
+      ],
+      "splitReview": true
+    },
+    {
+      "pid": "annelise-madison",
+      "ids": [
+        "A5022389963"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://lsa.umich.edu/psych/people/faculty/annelism.html",
+        "The Michigan lab bibliography links the vaccine-response work and the OSU training affiliation. These match the publication and OpenAlex identity.",
+        "https://sites.lsa.umich.edu/pni/wp-content/uploads/sites/1325/2024/12/16.-Psychological-and-behavioral-predictors-of-vaccine-responsiveness-Considerations-for-COVID-19-1.pdf",
+        "https://rcgd.isr.umich.edu/2025/10/01/annelise-madison/",
+        "A5134608106 groups registrations and an abstract with the same name. Its bylines need work-level review."
+      ],
+      "splitReview": true
+    },
+    {
+      "pid": "susan-holtzman",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5046463911",
+          "name": "Susan Holtzman",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "zach-walsh",
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5061335380",
+          "name": "Zachary Walsh",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5112603217",
+          "name": "Zach Walsh",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5135868143",
+          "name": "Zach Walsh",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5027867055",
+          "name": "Zachary H. Walsh",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5034897961",
+          "name": "Zach Walsh",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "jeremy-grant",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5007129839",
+          "name": "Jeremy G. Grant",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5034024611",
+          "name": "Jeremy L. Grant",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5080021020",
+          "name": "Jeremy Grant",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5113438873",
+          "name": "Jeremy Grant",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5001822184",
+          "name": "Jacquelyn Grant",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "pid": "jasmeet-hayes",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5012271236",
+          "name": "Jasmeet Pannu Hayes",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5107852675",
+          "name": "Jasmeet P. Hayes",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "scott-hayes",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5073716549",
+          "name": "Scott M. Hayes",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5005230317",
+          "name": "Scott Hayes",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5073605248",
+          "name": "Scott A. Hayes",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5103170623",
+          "name": "Scott Hayes",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5103589290",
+          "name": "Scott Hayes",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "ruchika-prakash",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5057390952",
+          "name": "Ruchika Shaurya Prakash",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5095056915",
+          "name": "Pawan Prakash Ruchika Saini",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    {
+      "pid": "megan-renna",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5015765374",
+          "name": "Megan E. Renna",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "joshua-smyth",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5086017069",
+          "name": "Joshua Morrison Smyth",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5123976166",
+          "name": "Joshua M Smyth",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5135489302",
+          "name": "Joshua Smyth",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5019920506",
+          "name": "Joshua W. Smyth",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "matt-southward",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5030618865",
+          "name": "Matthew W. Southward",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
     }
   ],
   "publicationCandidates": [
@@ -3969,6 +4330,3386 @@
     {
       "person": "giovanni-ramos",
       "doi": "10.1038/s44220-025-00467-7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/pst0000246",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1097/hrp.0000000000000219",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/cou0000364",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1016/j.cbpra.2020.01.003",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1521/ijct.2017.10.3.187",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/pst0000371",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/ccp0000676",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/ccp0000644",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/tep0000157",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/pst0000200",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/int0000194",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1111/cpsp.12340",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/pst0000437",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/pst0000458",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/int0000303",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/cps0000072",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/int0000374",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.53841/bpspsr.2020.1.65.54",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/pri0000313",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/pri0000326",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-constantino",
+      "doi": "10.1037/pri0000332",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1080/00332747.2022.2092828",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1073/pnas.2215434120",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1017/s0033291719002034",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1001/jamanetworkopen.2021.0591",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "shirley-wang",
+      "doi": "10.1001/jamanetworkopen.2021.0591",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1016/j.genhosppsych.2018.09.011",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1016/j.brat.2018.11.016",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1016/j.jad.2018.02.033",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.2471/blt.19.237107",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "shirley-wang",
+      "doi": "10.2471/blt.19.237107",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1037/abn0000828",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1016/j.brat.2024.104574",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "shirley-wang",
+      "doi": "10.1016/j.brat.2024.104574",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1192/bjp.2021.97",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1016/j.jad.2017.06.029",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1111/jcpp.12769",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1007/s42761-021-00058-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "shirley-wang",
+      "doi": "10.1007/s42761-021-00058-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1016/j.beth.2021.05.003",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1037/pas0000580",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1177/2167702621991804",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1037/pas0001288",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1001/jamanetworkopen.2024.40510",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1071/ah16189",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1037/ccp0000978",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.3389/fpsyt.2024.1434499",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1017/s0033291720000501",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1016/j.genhosppsych.2022.12.005",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "shirley-wang",
+      "doi": "10.1016/j.genhosppsych.2022.12.005",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1002/hbm.25723",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.2196/58409",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1111/sltb.13087",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1177/21677026251349809",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1111/sltb.12920",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1097/hrp.0000000000000351",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1016/j.biopsych.2020.02.906",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.38105/spr.qy2iibrk72",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1038/s44220-025-00384-9",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.1016/j.psychres.2024.115740",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.31234/osf.io/vf2bc",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.31234/osf.io/xzu5f_v2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.31234/osf.io/xzu5f",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-coppersmith",
+      "doi": "10.31234/osf.io/vf2bc_v2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "katherine-dixon-gordon",
+      "doi": "10.1037/vio0000263",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "katherine-dixon-gordon",
+      "doi": "10.1037/per0000334",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "katherine-dixon-gordon",
+      "doi": "10.1037/cap0000297",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "katherine-dixon-gordon",
+      "doi": "10.1080/13811118.2020.1811182",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "katherine-dixon-gordon",
+      "doi": "10.1037/sah0000636",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1177/0886260518777001",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1037/tra0000218",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1177/0886260518760005",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1007/s10896-018-9957-4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1177/0886260519844280",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1080/10926771.2018.1494652",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.26633/rpsp.2018.39",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1037/ort0000577",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1037/trm0000440",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1177/0886260519877938",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1891/1946-6560.10.2.164",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1037/tra0001488",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1007/s10826-017-0787-4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1891/0886-6708.v33.i3.504",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1891/1946-6560.10.1.59",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1891/0886-6708.vv-d-16-00013",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maria-galano",
+      "doi": "10.1016/j.jaac.2018.09.285",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "adam-grabell",
+      "doi": "10.1007/s10802-017-0286-5",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "adam-grabell",
+      "doi": "10.1007/s10802-016-0228-7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "adam-grabell",
+      "doi": "10.31234/osf.io/9h28v_v1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-mcdermott",
+      "doi": "10.1111/cdev.12717",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "elsbeth-neil",
+      "doi": "10.1016/j.childyouth.2019.104472",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "elsbeth-neil",
+      "doi": "10.1177/25161032221079325",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "elsbeth-neil",
+      "doi": "10.1177/2516103220908043",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "elsbeth-neil",
+      "doi": "10.1111/cfs.12724",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "elsbeth-neil",
+      "doi": "10.1016/j.childyouth.2023.107267",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "elsbeth-neil",
+      "doi": "10.1136/bmjopen-2023-075093",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "elsbeth-neil",
+      "doi": "10.1177/03085759241295782",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "elsbeth-neil",
+      "doi": "10.1136/bmjopen-2021-058424",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "elsbeth-neil",
+      "doi": "10.12968/cypn.2022.2.31",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1016/j.drugalcdep.2018.05.020",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1016/j.drugpo.2018.03.011",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1080/16066359.2017.1315410",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1080/16066359.2019.1622003",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1080/10826084.2021.1937225",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1037/adb0000998",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1007/s40429-024-00603-w",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1177/0022042619890837",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.15288/jsad.2017.78.134",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1016/j.jadohealth.2022.09.029",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "samuel-meisel",
+      "doi": "10.1016/j.jadohealth.2022.09.029",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1080/10826084.2018.1555256",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1177/00332941211028998",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1186/s41235-020-00260-3",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1007/s12144-017-9761-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1016/j.drugalcdep.2020.108263",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1016/j.jsat.2021.108308",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1037/pha0000693",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "samuel-meisel",
+      "doi": "10.1037/pha0000693",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1080/15374416.2024.2395267",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1016/j.paid.2019.01.015",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1016/j.drugalcdep.2023.111006",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "samuel-meisel",
+      "doi": "10.1016/j.drugalcdep.2023.111006",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1016/j.addbeh.2018.06.021",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1016/j.josat.2023.209232",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "samuel-meisel",
+      "doi": "10.1016/j.josat.2023.209232",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1037/adb0001070",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.26828/cannabis/2025/000286",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1080/10826084.2025.2533980",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1177/10731911241240618",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.26828/cannabis/2022.01.001",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1177/00220426231226221",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1080/02791072.2024.2413984",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1111/jora.70083",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1177/21677026251377090",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jamie-parnes",
+      "doi": "10.1037/abn0001181",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aaron-fisher",
+      "doi": "10.1176/appi.neuropsych.17080173",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-ready",
+      "doi": "10.1037/pas0000479",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-ready",
+      "doi": "10.1037/rep0000311",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-ready",
+      "doi": "10.1037/neu0000743",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-ready",
+      "doi": "10.1037/pas0000696",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000354",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000367",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000388",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1080/87568225.2019.1601048",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/cdp0000293",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/aap0000214",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000369",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1093/sw/swaa007",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000393",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000389",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000384",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000394",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000416",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000427",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000429",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/hum0000434",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/lat0000324",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1037/aap0000274",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.31234/osf.io/3ntu8",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.22235/cp.v19i2.4624",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "edward-chang",
+      "doi": "10.1086/740321",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "zachary-cohen",
+      "doi": "10.1017/s0033291718001708",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "patricia-deldin",
+      "doi": "10.1093/ije/dyx229",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "patricia-deldin",
+      "doi": "10.1111/psyp.12758",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "patricia-deldin",
+      "doi": "10.33425/2641-4317.1127",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "patricia-deldin",
+      "doi": "10.1016/j.biopsych.2017.02.186",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "patricia-deldin",
+      "doi": "10.1016/j.biopsych.2020.02.957",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "patricia-deldin",
+      "doi": "10.1016/j.biopsych.2021.02.595",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "patricia-deldin",
+      "doi": "10.31234/osf.io/xjek8_v1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "ashley-gearhardt",
+      "doi": "10.1037/adb0000325",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "ashley-gearhardt",
+      "doi": "10.1037/adb0000365",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "luke-hyde",
+      "doi": "10.1037/adb0000365",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1037/adb0000365",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "ashley-gearhardt",
+      "doi": "10.1037/adb0000544",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "ashley-gearhardt",
+      "doi": "10.1037/abn0000758",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "ashley-gearhardt",
+      "doi": "10.14300/mnnc.2020.15001",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebekah-huber",
+      "doi": "10.1038/s41593-021-00867-9",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1016/j.nicl.2017.01.014",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1016/j.copsyc.2017.07.037",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1192/bjp.bp.116.181503",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1111/cdep.12222",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebekah-huber",
+      "doi": "10.1016/j.drugalcdep.2021.108946",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "luke-hyde",
+      "doi": "10.1016/s2215-0366(24)00187-1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1016/j.bpsc.2017.06.005",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1111/jcpp.12666",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "luke-hyde",
+      "doi": "10.1037/per0000308",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1037/per0000308",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1037/abn0000302",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1016/j.neuroimage.2018.05.079",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1017/s003329171800137x",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "luke-hyde",
+      "doi": "10.1037/dev0000600",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1111/sode.12313",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1111/jcpp.12931",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1521/pedi_2017_31_314",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "luke-hyde",
+      "doi": "10.1037/pas0000719",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "rebecca-waller",
+      "doi": "10.1037/pas0000719",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "luke-hyde",
+      "doi": "10.1016/j.jaac.2026.07.1085",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.cobeha.2019.01.011",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1177/1745691621989243",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1177/0963721420949521",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1002/pon.5986",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.biopsych.2023.10.014",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1038/s41380-021-01077-2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.arr.2023.102096",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2020.11.012",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1002/pon.5615",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1007/s10865-020-00192-9",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.psyneuen.2020.104708",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1097/psy.0000000000000647",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.psyneuen.2022.105989",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.psyneuen.2020.104839",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.psyneuen.2021.105288",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2021.11.012",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.psyneuen.2021.105575",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1080/10615806.2020.1839733",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.biopsycho.2023.108500",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1093/gerona/glad276",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.psyneuen.2021.105132",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.psyneuen.2020.104866",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1093/ajcn/nqaa085",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1177/09567976211031225",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.psyneuen.2020.104864",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.semcdb.2020.12.009",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.3390/cancers15174414",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbih.2021.100357",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1007/s12529-022-10115-4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1097/j.pain.0000000000002894",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2024.04.019",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2025.01.001",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.psyneuen.2022.105763",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1097/psy.0000000000001179",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1007/s11764-020-00977-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1097/psy.0000000000001162",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1037/hea0001301",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1093/abm/kaaf009",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2021.02.023",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2022.09.021",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.jad.2023.09.008",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1007/s11764-019-00815-4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1371/journal.pone.0283849",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.cpnec.2024.100246",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1093/cdn/nzac055.001",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2021.08.175",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2021.08.121",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2022.07.099",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2022.07.098",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2024.01.087",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2024.01.167",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.1016/j.bbi.2024.12.058",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "annelise-madison",
+      "doi": "10.31234/osf.io/qysa2_v1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "donna-nagata",
+      "doi": "10.1037/aap0000088",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "donna-nagata",
+      "doi": "10.1037/aap0000359",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "donna-nagata",
+      "doi": "10.1037/aap0000186",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "donna-nagata",
+      "doi": "10.1037/ort0000605",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sheryl-olson",
+      "doi": "10.1037/fam0000360",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sheryl-olson",
+      "doi": "10.1017/s0954579418001323",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sheryl-olson",
+      "doi": "10.1037/fam0000581",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sheryl-olson",
+      "doi": "10.31234/osf.io/xu657",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sheryl-olson",
+      "doi": "10.1016/j.jaac.2019.07.710",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "leah-richmond-rakerd",
+      "doi": "10.1001/jamanetworkopen.2020.3221",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "leah-richmond-rakerd",
+      "doi": "10.1001/jamanetworkopen.2019.13123",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "leah-richmond-rakerd",
+      "doi": "10.1037/adb0000304",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "leah-richmond-rakerd",
+      "doi": "10.1016/j.jaac.2019.07.005",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "leah-richmond-rakerd",
+      "doi": "10.1176/appi.ajp.2018.18060740",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "leah-richmond-rakerd",
+      "doi": "10.1038/s41562-019-0810-4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "leah-richmond-rakerd",
+      "doi": "10.1111/cdev.13329",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "leah-richmond-rakerd",
+      "doi": "10.1016/j.jaac.2018.07.903",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "leah-richmond-rakerd",
+      "doi": "10.1017/s0033291718001034",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "leah-richmond-rakerd",
+      "doi": "10.1111/jcpp.13224",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1017/s0033291722001301",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1037/ccp0000377",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1007/s10508-018-1169-8",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1016/j.jaac.2018.09.431",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1016/j.psychres.2020.112788",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1016/j.comppsych.2017.02.003",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1016/j.brat.2018.12.012",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1007/s40501-019-00187-7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1002/aur.2228",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1016/j.drugalcdep.2017.01.008",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1111/jcpp.12698",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1037/sah0000166",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1037/per0000387",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "craig-rodriguez-seijas",
+      "doi": "10.1037/pas0000771",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000258",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1146/annurev-clinpsy-081219-093304",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/wps.20566",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/1745691618810696",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/09637214211044109",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000276",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/ccp0000452",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/pmh.1408",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/wps.20730",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1080/00273171.2019.1640103",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1146/annurev-clinpsy-102419-125032",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/wps.20844",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/per.2311",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pspa0000134",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/2167702618797105",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pas0000685",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1159/000507589",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/17456916211008407",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1017/s0033291721001902",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pro0000071",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/bul0000387",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.copsyc.2017.10.001",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.jpsychores.2020.110211",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000434",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/1073191120971848",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/met0000192",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1080/00223891.2018.1465431",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000272",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000286",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pspp0000463",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pspp0000370",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1111/jopy.12593",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/amp0001087",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/hea0000763",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000486",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1080/00273171.2019.1616526",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000184",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pas0000578",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pas0000617",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/10731911211015309",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.comppsych.2017.06.014",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jeffrey-girard",
+      "doi": "10.1016/j.comppsych.2017.06.014",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1027/1015-5759/a000626",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000741",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.3758/s13428-017-0915-5",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jeffrey-girard",
+      "doi": "10.3758/s13428-017-0915-5",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/int0000156",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kelsie-forbush",
+      "doi": "10.1037/int0000156",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.jrp.2020.103964",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pas0000625",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pas0000718",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000451",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000533",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1093/sleep/zsab088",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/0956797619864530",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/21677026221078309",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1038/s44159-021-00004-0",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pspp0000400",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/per.2286",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000460",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/wps.20659",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.brat.2021.104012",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000596",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1521/pedi_2019_33_374",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jeffrey-girard",
+      "doi": "10.1521/pedi_2019_33_374",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000313",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/per.2277",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pas0000717",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1097/yco.0000000000000463",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1080/15298868.2019.1627241",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/10731911211008254",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/xge0000969",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/0963721421990353",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000216",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.copsyc.2021.03.007",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/1073191118766412",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1017/s0033291718002295",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/gps.5254",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/da.22595",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1017/s0033291720004791",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/1073191118798916",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jeffrey-girard",
+      "doi": "10.1177/1073191118798916",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1111/spc3.12649",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/ccp0000472",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1093/abm/kaac024",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000289",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000347",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000363",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000291",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000317",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pas0000505",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.cobeha.2017.08.004",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000469",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.bbi.2022.05.001",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/emo0001022",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1017/s0033291719002563",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "katherine-t-foster",
+      "doi": "10.1017/s0033291719002563",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1111/jopy.12671",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000737",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/21677026211013507",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.jpsychires.2022.01.060",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000720",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/10731911221143343",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/21677026221144256",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1159/000507590",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pas0001210",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000496",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1007/s42761-022-00117-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/21677026221083859",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1097/psy.0000000000001264",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1007/s42761-020-00017-7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/21677026211056686",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000532",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1371/journal.pone.0243588",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000610",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000526",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1093/abm/kaac004",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1521/pedi_2020_34_465",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.avb.2017.03.002",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1007/s10802-016-0256-3",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.bbi.2017.12.011",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pas0000338",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jeffrey-girard",
+      "doi": "10.1037/pas0000338",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.jrp.2017.03.001",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1097/psy.0000000000000627",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000373",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.bbi.2018.06.013",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1097/psy.0000000000000928",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.jrp.2019.05.011",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.3758/s13428-020-01469-2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1521/pedi_2018_32_345",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/pas0000967",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1111/jopy.12633",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1080/00273171.2021.1886897",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/10731911221146515",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/wps.21044",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/hea0000884",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/2167702618813989",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000625",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/gps.4869",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000552",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1111/acem.13406",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jeffrey-girard",
+      "doi": "10.1111/acem.13406",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1093/jpepsy/jsaa058",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/2167702618815464",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1093/abm/kaab027",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1111/psyp.13741",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1007/s42761-021-00098-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000785",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1001/jamapsychiatry.2022.2733",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1093/jpepsy/jsac054",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/abn0000426",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1521/pedi.2022.36.3.320",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.jad.2023.02.034",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1111/jopy.12641",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.amp.2020.11.015",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000487",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/08902070211012918",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1111/jsr.13297",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1111/acer.15056",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1111/jopy.12716",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000302",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/08902070221145766",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/amp0001172",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1007/s12529-020-09855-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1177/2167702619865227",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1093/sleep/zsaa056.816",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1037/per0000540",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/6hqzj",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/w5huz",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/hvk5p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/kdg68",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/e2nuz",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/nyqst",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/nxbyd",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/5zcth",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/hwj9r",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/d3nk9",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/jb8z4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kelsie-forbush",
+      "doi": "10.31234/osf.io/jb8z4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/r46ky",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/4nstw",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/ke6qn",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/54ztk",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/rzgmu",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/h7ftm",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/tf5sc",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/cfsma",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/f8ags",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/7nk9t",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "kevin-king",
+      "doi": "10.31234/osf.io/g58we_v2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/tv7r9",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/fncjg",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/ncpy3",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/u2zdv",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/n4aym",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/keh4w",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/m69ys",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/dw2k6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/hqpt7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jeffrey-girard",
+      "doi": "10.31234/osf.io/hqpt7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/qjz34",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/z6qpc",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/bvwxs",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/m9nxz",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1016/j.fjpsy.2019.10.158",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1093/sleep/zsaa056.248",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/gq6ms",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/fpq2v",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/wm95k",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/p42k5",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.31234/osf.io/wm95k_v1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.dhjo.2020.100989",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.appet.2020.105038",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1186/s40337-023-00826-8",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.appet.2024.107343",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1093/arclin/acx038",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.appet.2020.104688",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1080/15388220.2021.1879099",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.23927",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.23932",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.actpsy.2017.11.017",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2022.08.012",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.appet.2023.106510",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2022.10.005",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.eatbeh.2021.101476",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1186/s40337-022-00545-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1080/13803395.2019.1646711",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2023.05.003",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.beth.2022.01.008",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2023.04.011",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.24278",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2022.09.013",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2023.04.003",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2023.03.006",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.24012",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.24017",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2024.101697",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.23904",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2024.101698",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.appet.2024.107728",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.24292",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1177/1178638819840036",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1007/s40519-022-01448-w",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.appet.2023.106512",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1177/10731911211004741",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.appet.2021.105580",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.3389/fpsyg.2018.00358",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1007/s12529-021-09959-z",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2023.101627",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1007/s40519-023-01578-9",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.eatbeh.2024.101899",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1186/s40337-023-00884-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1186/s40337-024-01159-w",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.appet.2024.107672",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2024.101811",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.24381",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1007/s10508-024-02962-x",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2024.101808",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.eatbeh.2025.102011",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.24322",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.dhjo.2019.100837",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/jclp.23123",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.23800",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.appet.2022.106061",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.24026",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/jclp.23657",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.jcbs.2023.07.004",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.24249",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1007/s12144-021-01919-w",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.appet.2025.107966",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1080/07448481.2023.2245912",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2024.101789",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.foodqual.2024.105303",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.orcp.2022.12.002",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1177/10731911241247483",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1037/men0000496",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2024.101806",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.23993",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1007/s10826-024-02859-2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2025.101857",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.24563",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1093/arclin/acx103",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.dhjo.2019.100882",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1037/sah0000322",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.24066",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1352/1934-9556-58.3.241",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1007/s11469-023-01212-w",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1093/arclin/acae065",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/jclp.23706",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1177/1179173x18825075",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1080/23279095.2022.2088289",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1016/j.bodyim.2023.101671",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1080/03623319.2021.1949549",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1353/mpq.2023.a939861",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "10.1002/eat.24327",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-graham-lopresti",
+      "doi": "10.1037/trm0000259",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-martinez",
+      "doi": "10.1080/07448481.2020.1754221",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-graham-lopresti",
+      "doi": "10.1016/j.cbpra.2016.12.003",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1080/15374416.2016.1247358",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1016/j.jaac.2017.03.018",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1002/jclp.22941",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1037/ccp0000702",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "bruce-chorpita",
+      "doi": "10.1037/ccp0000702",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "martha-tompson",
+      "doi": "10.1037/ccp0000702",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1080/15374416.2018.1458314",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1080/08995605.2020.1754122",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1002/jclp.22706",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1080/23794925.2017.1290511",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1037/fsh0000297",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1007/s10862-018-9711-5",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1016/j.janxdis.2020.102260",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1007/s10862-021-09893-0",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1037/cps0000370",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-langer",
+      "doi": "10.1037/cps0000393",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-martinez",
+      "doi": "10.1037/tep0000255",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-martinez",
+      "doi": "10.1007/s12671-022-01826-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-martinez",
+      "doi": "10.1177/0020764019858651",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-martinez",
+      "doi": "10.1186/s13063-022-07012-2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1001/jamanetworkopen.2022.46912",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1080/02791072.2019.1674428",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1080/02791072.2019.1643053",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1177/0269881121997099",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1016/j.addbeh.2024.108046",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1080/02791072.2020.1870778",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1080/16066359.2022.2160871",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1080/02791072.2018.1511877",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1007/s00213-018-4848-1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.26828/cannabis/2022.02.02",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1016/j.addbeh.2023.107812",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1080/02791072.2020.1853284",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1177/02698811231214060",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1080/14659891.2021.2006341",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1016/j.addbeh.2021.106852",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1037/adb0000718",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1016/j.addbeh.2020.106658",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1177/00221678231194798",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1080/02791072.2025.2537040",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1093/milmed/usad216",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.26828/cannabis.2019.02.003",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1177/1534650120952883",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1556/2054.2021.00165",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1556/2054.2020.00117",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1080/14659891.2020.1821807",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.26828/cannabis/2022.02.003",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.26828/cannabis/2022.02.004",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1016/j.drugalcdep.2023.110469",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maha-mian",
+      "doi": "10.1016/j.drugalcdep.2024.111805",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-odor",
+      "doi": "10.1089/cap.2022.0063",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-odor",
+      "doi": "10.1007/s10578-022-01401-z",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-odor",
+      "doi": "10.1007/s10802-021-00828-7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-odor",
+      "doi": "10.1089/cap.2024.0129",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-odor",
+      "doi": "10.1016/j.jaac.2019.08.412",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-odor",
+      "doi": "10.1016/j.jaac.2020.07.629",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-odor",
+      "doi": "10.1016/j.jaac.2023.07.921",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-odor",
+      "doi": "10.4088/pcc.23f03662",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-odor",
+      "doi": "10.1016/j.comppsych.2024.152551",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sukanya-ray",
+      "doi": "10.1177/09731342231215559",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maya-libben",
+      "doi": "10.18103/mra.v10i8.2967",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-woodworth",
+      "doi": "10.1177/0093854816683423",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.6004/jnccn.2019.0048",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.1007/s11695-023-06913-8",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.6004/jnccn.2023.0026",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.1158/2159-8290.cd-19-1130",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.6004/jnccn.2026.0018",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.1007/s00508-023-02270-9",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.6004/jnccn.2021.7076",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.3389/fpsyg.2025.1558236",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.1037/hea0000717",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.1037/amp0000309",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.1007/s00508-023-02273-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.1017/s1478951523000779",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.1016/s1879-4068(19)31267-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "10.1016/j.jtho.2023.09.710",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-cheavens",
+      "doi": "10.1037/per0000380",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-strunk",
+      "doi": "10.1037/per0000380",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-cheavens",
+      "doi": "10.1037/per0000566",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1001/jamapsychiatry.2020.4364",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1016/s2215-0366(21)00077-8",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-strunk",
+      "doi": "10.1037/ccp0000594",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1007/s10608-018-9979-5",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1037/ccp0000392",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-strunk",
+      "doi": "10.1037/ccp0000463",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1002/jclp.22955",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1080/16506073.2021.1970799",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1007/s10608-021-10254-0",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-strunk",
+      "doi": "10.1176/appi.psychotherapy.20180028",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1080/16506073.2021.1875039",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1080/10503307.2020.1780510",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1007/s10608-020-10119-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1016/j.beth.2021.02.007",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "iony-ezawa",
+      "doi": "10.1007/s41811-021-00117-7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "daniel-strunk",
+      "doi": "10.1176/appi.focus.26024120",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -6553,22 +10294,12 @@
     },
     {
       "person": "rebekah-huber",
-      "doi": "10.1038/s41593-021-00867-9",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebekah-huber",
       "doi": "10.1038/s41398-020-0741-x",
       "issue": "Eligible appointment at publication unverified"
     },
     {
       "person": "rebekah-huber",
       "doi": "10.1038/s41380-021-01373-x",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebekah-huber",
-      "doi": "10.1016/j.drugalcdep.2021.108946",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -7278,66 +11009,6 @@
     },
     {
       "person": "iony-ezawa",
-      "doi": "10.1001/jamapsychiatry.2020.4364",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
-      "doi": "10.1016/s2215-0366(21)00077-8",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
-      "doi": "10.1007/s10608-018-9979-5",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
-      "doi": "10.1037/ccp0000392",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
-      "doi": "10.1080/16506073.2021.1970799",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
-      "doi": "10.1007/s10608-021-10254-0",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
-      "doi": "10.1002/jclp.22955",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
-      "doi": "10.1080/16506073.2021.1875039",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
-      "doi": "10.1080/10503307.2020.1780510",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
-      "doi": "10.1007/s10608-020-10119-y",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
-      "doi": "10.1016/j.beth.2021.02.007",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
-      "doi": "10.1007/s41811-021-00117-7",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "iony-ezawa",
       "doi": "10.1037/pri0000290",
       "issue": "Eligible appointment at publication unverified"
     },
@@ -7619,11 +11290,6 @@
     {
       "person": "allison-harvey",
       "doi": "10.15453/2168-6408.2322",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "aaron-fisher",
-      "doi": "10.1176/appi.neuropsych.17080173",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -8403,11 +12069,6 @@
     },
     {
       "person": "zachary-cohen",
-      "doi": "10.1017/s0033291718001708",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "zachary-cohen",
       "doi": "10.1017/s2045796021000342",
       "issue": "Eligible appointment at publication unverified"
     },
@@ -8878,11 +12539,6 @@
     },
     {
       "person": "katherine-t-foster",
-      "doi": "10.1017/s0033291719002563",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "katherine-t-foster",
       "doi": "10.1017/s0033291717003361",
       "issue": "Eligible appointment at publication unverified"
     },
@@ -9114,11 +12770,6 @@
     {
       "person": "kevin-king",
       "doi": "10.31234/osf.io/5w4ap_v1",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "kevin-king",
-      "doi": "10.31234/osf.io/g58we_v2",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -9433,22 +13084,7 @@
     },
     {
       "person": "shirley-wang",
-      "doi": "10.1001/jamanetworkopen.2021.0591",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "shirley-wang",
       "doi": "10.1177/2167702621993857",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "shirley-wang",
-      "doi": "10.1016/j.brat.2024.104574",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "shirley-wang",
-      "doi": "10.1007/s42761-021-00058-6",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -9459,11 +13095,6 @@
     {
       "person": "shirley-wang",
       "doi": "10.1002/eat.24005",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "shirley-wang",
-      "doi": "10.1016/j.genhosppsych.2022.12.005",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -10423,77 +14054,7 @@
     },
     {
       "person": "rebecca-waller",
-      "doi": "10.1016/j.nicl.2017.01.014",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1016/j.copsyc.2017.07.037",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1111/cdep.12222",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1016/j.bpsc.2017.06.005",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1111/jcpp.12666",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1037/per0000308",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1037/abn0000302",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1016/j.neuroimage.2018.05.079",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1017/s003329171800137x",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1037/adb0000365",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1111/sode.12313",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
       "doi": "10.1037/per0000303",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1111/jcpp.12931",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1521/pedi_2017_31_314",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "rebecca-waller",
-      "doi": "10.1037/pas0000719",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -10704,16 +14265,6 @@
     {
       "person": "bruce-chorpita",
       "doi": "10.1080/15374416.2021.1955367",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "bruce-chorpita",
-      "doi": "10.1037/ccp0000702",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "martha-tompson",
-      "doi": "10.1037/ccp0000702",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -11152,11 +14703,6 @@
       "issue": "Eligible appointment at publication unverified"
     },
     {
-      "person": "rebecca-waller",
-      "doi": "10.1192/bjp.bp.116.181503",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
       "person": "bengi-baran",
       "doi": "10.1093/sleep/zsw013",
       "issue": "Eligible appointment at publication unverified"
@@ -11338,17 +14884,7 @@
     },
     {
       "person": "kelsie-forbush",
-      "doi": "10.1037/int0000156",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "kelsie-forbush",
       "doi": "10.1097/psy.0000000000001105",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "kelsie-forbush",
-      "doi": "10.31234/osf.io/jb8z4",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -11583,11 +15119,6 @@
     },
     {
       "person": "samuel-meisel",
-      "doi": "10.1016/j.jadohealth.2022.09.029",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "samuel-meisel",
       "doi": "10.1017/s0954579420001637",
       "issue": "Eligible appointment at publication unverified"
     },
@@ -11678,22 +15209,7 @@
     },
     {
       "person": "samuel-meisel",
-      "doi": "10.1037/pha0000693",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "samuel-meisel",
-      "doi": "10.1016/j.drugalcdep.2023.111006",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "samuel-meisel",
       "doi": "10.1037/adb0000400",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "samuel-meisel",
-      "doi": "10.1016/j.josat.2023.209232",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -13313,11 +16829,6 @@
     },
     {
       "person": "shirley-wang",
-      "doi": "10.2471/blt.19.237107",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "shirley-wang",
       "doi": "10.1186/s40337-022-00706-7",
       "issue": "Eligible appointment at publication unverified"
     },
@@ -13503,42 +17014,12 @@
     },
     {
       "person": "jeffrey-girard",
-      "doi": "10.1016/j.comppsych.2017.06.014",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "jeffrey-girard",
-      "doi": "10.3758/s13428-017-0915-5",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "jeffrey-girard",
-      "doi": "10.1521/pedi_2019_33_374",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "jeffrey-girard",
-      "doi": "10.1177/1073191118798916",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "jeffrey-girard",
       "doi": "10.1016/j.adolescence.2017.09.006",
       "issue": "Eligible appointment at publication unverified"
     },
     {
       "person": "jeffrey-girard",
       "doi": "10.1016/j.brat.2019.103477",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "jeffrey-girard",
-      "doi": "10.1037/pas0000338",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "jeffrey-girard",
-      "doi": "10.1111/acem.13406",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -13569,11 +17050,6 @@
     {
       "person": "jeffrey-girard",
       "doi": "10.31234/osf.io/7csfj",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "jeffrey-girard",
-      "doi": "10.31234/osf.io/hqpt7",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -14399,6 +17875,36 @@
     {
       "person": "erik-woody",
       "doi": "10.1037/cns0000229",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "katherine-dixon-gordon",
+      "doi": "",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "elsbeth-neil",
+      "doi": "",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "wesley-barnhart",
+      "doi": "",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "maya-libben",
+      "doi": "",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "barbara-andersen",
+      "doi": "",
       "issue": "Eligible appointment at publication unverified"
     },
     {
