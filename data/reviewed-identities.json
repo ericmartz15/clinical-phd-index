@@ -333,5 +333,44 @@
     "evidence": [
       "Publisher or PubMed byline and OpenAlex agree on the ORCID. Source: https://pubmed.ncbi.nlm.nih.gov/32915020/"
     ]
+  },
+  "matthew-d-johnson": {
+    "ids": [
+      "A5029026589"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "Binghamton CV lists the journal articles on marital satisfaction (10.1037/0022-006x.73.1.15), newlywed marriage (10.1037/a0017578), and healthy marriage policy (10.1037/a0027743), all assigned to A5029026589.",
+      "https://www.binghamton.edu/psychology/docs/cv/mjohnson.cv.pdf",
+      "A5074630479 belongs to a University of Alberta researcher with a different ORCID, 0000-0001-9440-4839, confirmed by the publisher of 10.1080/00380253.2026.2710116. A5101509874 is a machine learning author with a different ORCID.",
+      "https://doi.org/10.1080/00380253.2026.2710116"
+    ]
+  },
+  "richard-mattson": {
+    "ids": [
+      "A5044028106"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "Binghamton CV lists two studies assigned to A5044028106, on convergent and divergent validity of gambling measures (10.1037/0893-164x.20.1.75 and 10.1007/s10899-006-9021-9). The author record carries the full name Richard E. Mattson and Binghamton affiliation.",
+      "https://www.binghamton.edu/psychology/docs/cv/rmattson.cv.pdf"
+    ]
+  },
+  "steven-jay-lynn": {
+    "ids": [
+      "A5001847113",
+      "A5111920415"
+    ],
+    "confidence": 1,
+    "status": "resolved",
+    "evidence": [
+      "Both OpenAlex author records carry ORCID 0000-0002-4493-7810. A5001847113 indexes the dissociation review listed by Binghamton (10.1016/j.cpr.2019.101755). A5111920415 indexes the hypnosis review for which PubMed provides the Binghamton affiliation (10.1080/00207140008410050).",
+      "https://www.binghamton.edu/apps/directory/person/profile/slynn",
+      "https://pubmed.ncbi.nlm.nih.gov/10769986/",
+      "A5161225868 is a chapter-only split. The chapter belongs to Dreaming Reality, a Harvard University Press book, and falls outside the journal ranking. The mixed A5112796921 has no corroborating ORCID or institution and remains excluded from automatic attribution.",
+      "https://doi.org/10.4159/9780674299559-014"
+    ]
   }
 }
