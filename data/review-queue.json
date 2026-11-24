@@ -2886,6 +2886,171 @@
           "evidence": []
         }
       ]
+    },
+    {
+      "pid": "matthew-d-johnson",
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5029026589",
+          "name": "Matthew D. Johnson",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5074630479",
+          "name": "Matthew D. Johnson",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5101509874",
+          "name": "Matthew Johnson",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5003756148",
+          "name": "Matthew B. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5030387003",
+          "name": "Matthew W. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "richard-mattson",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5044028106",
+          "name": "Richard E. Mattson",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5004263035",
+          "name": "Richard H. Mattson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5008406400",
+          "name": "Richard Mattson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5041056194",
+          "name": "Richard L. Mattson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5062064152",
+          "name": "Richard K. Mattson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    {
+      "pid": "steven-jay-lynn",
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5001847113",
+          "name": "Steven Jay Lynn",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5111920415",
+          "name": "Steven Jay Lynn",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5032714022",
+          "name": "Steven Walton Lynn",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5112796921",
+          "name": "Steven J. Lynn",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5161225868",
+          "name": "Steven Jay Lynn",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     }
   ],
   "publicationCandidates": [
@@ -3996,6 +4161,276 @@
     {
       "person": "giovanni-ramos",
       "doi": "10.1038/s44220-025-00467-7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "nadine-mastroleo",
+      "doi": "10.1037/adb0000470",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "nadine-mastroleo",
+      "doi": "10.1007/s12440-016-0040-2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "nadine-mastroleo",
+      "doi": "10.1080/10437797.2026.2710645",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1093/abm/kaaa039",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1111/jopy.12492",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1016/j.sleep.2022.05.010",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1016/j.cjca.2017.05.008",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1016/j.jadohealth.2016.12.026",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1371/journal.pone.0264709",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1080/10253890.2019.1579793",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "mark-hatzenbuehler",
+      "doi": "10.1080/10253890.2019.1579793",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1016/s2352-4642(22)00278-4",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1371/journal.pone.0268899",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1016/j.sleh.2021.02.007",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1136/jech-2023-220726",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1089/g4h.2019.0008",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1136/bmjopen-2019-030339",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1542/peds.2017-1026j",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1016/j.psyneuen.2019.104509",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1037/hea0000790",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1521/jscp.2023.42.4.323",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1136/bmjpo-2019-000568",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1038/s41366-020-0527-5",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.2196/13335",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1097/dbp.0000000000000818",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1371/journal.pone.0268210",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1136/jech-2022-219228",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1177/02654075221122059",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1111/pedi.13315",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.2196/16261",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1007/s10286-024-01063-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1016/j.sleep.2017.11.635",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "10.1016/j.sleep.2017.11.636",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "raymond-g-romanczyk",
+      "doi": "10.1037/bar0000217",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1146/annurev-clinpsy-050718-095440",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1007/s12028-018-0641-6",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.2106/jbjs.17.01159",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1037/abn0000353",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1007/s11999.0000000000000086",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1007/s12160-017-9877-1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.2147/jpr.s222448",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1097/ccm.0000000000002988",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1037/pha0000127",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1016/j.drugalcdep.2018.01.037",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1097/corr.0000000000000694",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.2147/jpr.s172733",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.2196/11008",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1016/j.genhosppsych.2018.02.012",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1007/s11060-017-2720-5",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1016/j.addbeh.2018.11.040",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1037/pha0000218",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1016/j.jhsa.2018.06.118",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jessica-powers",
+      "doi": "10.1007/s40615-022-01419-y",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "emily-l-zale",
+      "doi": "10.1016/j.ctim.2018.10.016",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -7865,11 +8300,6 @@
     },
     {
       "person": "mark-hatzenbuehler",
-      "doi": "10.1080/10253890.2019.1579793",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "mark-hatzenbuehler",
       "doi": "10.1542/peds.2022-058316",
       "issue": "Eligible appointment at publication unverified"
     },
@@ -11725,11 +12155,6 @@
     },
     {
       "person": "jessica-powers",
-      "doi": "10.1007/s40615-022-01419-y",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "jessica-powers",
       "doi": "10.1037/pha0000692",
       "issue": "Eligible appointment at publication unverified"
     },
@@ -11881,6 +12306,11 @@
     {
       "person": "shirley-wang",
       "doi": "10.31234/osf.io/q2ezw",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "jennifer-j-mcgrath",
+      "doi": "",
       "issue": "Eligible appointment at publication unverified"
     },
     {

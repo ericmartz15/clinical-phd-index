@@ -13338,5 +13338,914 @@
         "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
       }
     }
+  },
+  {
+    "id": "christina-balderrama-durbin",
+    "name": "Christina Balderrama-Durbin",
+    "aliases": [
+      "Christina G. Balderrama-Durbin"
+    ],
+    "areas": [
+      "couples",
+      "trauma",
+      "posttraumatic stress"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2015",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5075537931"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5075537931",
+          "name": "Christina M. Balderrama‐Durbin",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "meredith-e-coles",
+    "name": "Meredith E. Coles",
+    "aliases": [
+      "Meredith Coles"
+    ],
+    "areas": [
+      "obsessive-compulsive disorder",
+      "anxiety",
+      "sleep"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2003",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5064762138"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5064762138",
+          "name": "Meredith E. Coles",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5012771958",
+          "name": "J. Coles Meredith",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "brandon-gibb",
+    "name": "Brandon Gibb",
+    "aliases": [
+      "Brandon E. Gibb"
+    ],
+    "areas": [
+      "depression",
+      "child psychopathology",
+      "cognitive vulnerability"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2003",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5054201550"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5054201550",
+          "name": "Brandon E. Gibb",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "jennifer-gillis-mattson",
+    "name": "Jennifer Gillis Mattson",
+    "aliases": [
+      "Jennifer Gillis",
+      "Jennifer M. Gillis"
+    ],
+    "areas": [
+      "autism",
+      "early intervention",
+      "development"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2012",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5043121362"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5043121362",
+          "name": "Jennifer Gillis Mattson",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5025124637",
+          "name": "Jennifer L. Gillis",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5109423079",
+          "name": "Jennifer Gillis",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5006565876",
+          "name": "Jennifer Storey Gillis",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5022968122",
+          "name": "Jennifer Cai Gillis",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "matthew-d-johnson",
+    "name": "Matthew D. Johnson",
+    "aliases": [
+      "Matthew Johnson"
+    ],
+    "areas": [
+      "couple relationships",
+      "marriage",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "1999",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5029026589",
+          "name": "Matthew D. Johnson",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5074630479",
+          "name": "Matthew D. Johnson",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5101509874",
+          "name": "Matthew Johnson",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5003756148",
+          "name": "Matthew B. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5030387003",
+          "name": "Matthew W. Johnson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "mark-lenzenweger",
+    "name": "Mark Lenzenweger",
+    "aliases": [
+      "Mark F. Lenzenweger"
+    ],
+    "areas": [
+      "personality disorders",
+      "psychopathology",
+      "schizotypy"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2001",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5082020804"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5082020804",
+          "name": "Mark F. Lenzenweger",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "nadine-mastroleo",
+    "name": "Nadine Mastroleo",
+    "aliases": [
+      "Nadine R. Mastroleo"
+    ],
+    "areas": [
+      "alcohol",
+      "substance use",
+      "brief interventions"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5002867775"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5002867775",
+          "name": "Nadine R. Mastroleo",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5162050446",
+          "name": "Nadine Mastroleo",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "richard-mattson",
+    "name": "Richard Mattson",
+    "aliases": [
+      "Richard E. Mattson"
+    ],
+    "areas": [
+      "couples",
+      "relationships",
+      "psychological assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2012",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5044028106",
+          "name": "Richard E. Mattson",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5004263035",
+          "name": "Richard H. Mattson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5008406400",
+          "name": "Richard Mattson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5041056194",
+          "name": "Richard L. Mattson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5062064152",
+          "name": "Richard K. Mattson",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "jennifer-j-mcgrath",
+    "name": "Jennifer J. McGrath",
+    "aliases": [
+      "Jennifer McGrath"
+    ],
+    "areas": [
+      "pediatric health",
+      "stress",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2024",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5091152548"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5091152548",
+          "name": "Jennifer J. McGrath",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5031982476",
+          "name": "Jennifer Mcgrath",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5108750902",
+          "name": "Jennifer L. McGrath",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5045388115",
+          "name": "JENNIFER L. McGRATH",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5075327496",
+          "name": "Jennifer Irving McGrath",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "raymond-g-romanczyk",
+    "name": "Raymond G. Romanczyk",
+    "aliases": [
+      "Raymond Romanczyk"
+    ],
+    "areas": [
+      "autism",
+      "behavioral assessment",
+      "development"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5091825850"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5091825850",
+          "name": "Raymond G. Romanczyk",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5095944109",
+          "name": "Raymond Romanczyk",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "emily-l-zale",
+    "name": "Emily L. Zale",
+    "aliases": [
+      "Emily Zale"
+    ],
+    "areas": [
+      "chronic pain",
+      "substance use",
+      "behavioral health"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2019",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5087909873"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5087909873",
+          "name": "Emily L. Zale",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "steven-jay-lynn",
+    "name": "Steven Jay Lynn",
+    "aliases": [
+      "Steven J. Lynn",
+      "Steven Lynn"
+    ],
+    "areas": [
+      "hypnosis",
+      "dissociation",
+      "clinical science"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "1996",
+        "end": "2024-03-29",
+        "current": false,
+        "source": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ],
+    "cv": "https://www.binghamton.edu/psychology/docs/cv/slynn.cv.pdf",
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5001847113",
+          "name": "Steven Jay Lynn",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5111920415",
+          "name": "Steven Jay Lynn",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5032714022",
+          "name": "Steven Walton Lynn",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5112796921",
+          "name": "Steven J. Lynn",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5161225868",
+          "name": "Steven Jay Lynn",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
   }
 ]

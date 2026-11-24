@@ -217,13 +217,14 @@ function initializeProgram() {
   $("program-badges").innerHTML = statusBadges(program);
   $("report-link").href = "report.html?id=" + encodeURIComponent(program.id);
   const links = [["Program source", program.programUrl], ["Faculty roster source", program.rosterUrl],
-    ...(program.currentRosterReview?.sources || []).map(({label, url}) => [label, url]),
+    ...(program.currentRosterReview?.sources || []).map(source =>
+      typeof source === "string" ? ["Additional roster evidence", source] : [source.label, source.url]),
     ["PhD track evidence", program.degreeSource],
     ...(program.directoryHistory || []).map(row => [row.directory + " historical listing (" + row.data.asOf.slice(0, 4) + ")", row.data.source]),
     ...Object.entries(program.statuses).map(([name, detail]) => [name + " · " + detail.label, detail.source])];
   $("program-sources").innerHTML = links.filter(([, url]) => url).map(([label, url]) =>
     `<a href="${escapeHtml(url)}">${escapeHtml(label)} ↗</a>`).join("");
-  const faculty = data.faculty.filter(person => person.appointments.some(a => a.program === key));
+  const faculty = data.faculty.filter(person => person.appointments.some(a => a.program === program.id));
   const people = $("faculty-list");
   if (!faculty.length) people.innerHTML = "<p>Faculty verification is pending for this program.</p>";
   for (const person of faculty) {
@@ -235,7 +236,7 @@ function initializeProgram() {
         .filter(Boolean).map(([label,url])=>`<a href="${escapeHtml(url)}">${label} ↗</a>`).join(" · ")}</p>
       <ol class="publication-list">${works.map(work => `<li><a href="${escapeHtml(publicationUrl(work))}">${escapeHtml(work.title)}</a>
         <span>${escapeHtml(work.date)} · ${escapeHtml(work.venue)}${work.kind === "preprint" ? " · Preprint" : ""}</span>
-        <span>${work.credit.some(c => c.person === person.id && c.program === key) ? "Eligible appointment matched" : "Program attribution pending or ineligible"} · ${work.provenance.map(p => `<a href="${escapeHtml(p.url)}">${escapeHtml(p.source)}</a>`).join(", ")}</span></li>`).join("")}</ol>`;
+        <span>${work.credit.some(c => c.person === person.id && c.program === program.id) ? "Eligible appointment matched" : "Program attribution pending or ineligible"} · ${work.provenance.map(p => `<a href="${escapeHtml(p.url)}">${escapeHtml(p.source)}</a>`).join(", ")}</span></li>`).join("")}</ol>`;
     people.append(section);
   }
   const otherFaculty = (program.currentRosterReview?.roleDecisions || []).filter(person => person.label);
