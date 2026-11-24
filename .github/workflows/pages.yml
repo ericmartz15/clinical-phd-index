@@ -38,6 +38,8 @@ jobs:
           for attempt in {1..8}; do
             if gh api "repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?name=github-pages" |
               jq --exit-status --arg id "$ARTIFACT_ID" 'any(.artifacts[]; (.id | tostring) == $id and .expired == false)' > /dev/null; then
+              # The deployment service can lag behind the Actions REST listing.
+              sleep 15
               exit 0
             fi
             sleep 5
