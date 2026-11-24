@@ -283,5 +283,55 @@
     "evidence": [
       "Official byline or public ORCID record and OpenAlex agree. Source: https://www.sciencedirect.com/science/article/pii/S0887618522000718"
     ]
+  },
+  "jonathan-oakman": {
+    "ids": [
+      "A5104831838"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "Publisher or PubMed byline and OpenAlex agree on the ORCID. Source: https://journals.sagepub.com/doi/10.1177/03057356261449273"
+    ]
+  },
+  "jessica-powers": {
+    "ids": [
+      "A5046440614"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "Publisher or PubMed byline and OpenAlex agree on the ORCID. Source: https://pubmed.ncbi.nlm.nih.gov/42647479/"
+    ]
+  },
+  "rebekah-huber": {
+    "ids": [
+      "A5091149788"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "Publisher or PubMed byline and OpenAlex agree on the ORCID. Source: https://pubmed.ncbi.nlm.nih.gov/31883424/"
+    ]
+  },
+  "jennifer-loftis": {
+    "ids": [
+      "A5073950799"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "Publisher or PubMed byline and OpenAlex agree on the ORCID. Source: https://journals.sagepub.com/doi/10.1177/10870547251397701"
+    ]
+  },
+  "anna-c-wilson": {
+    "ids": [
+      "A5101883319"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "Publisher or PubMed byline and OpenAlex agree on the ORCID. Source: https://pubmed.ncbi.nlm.nih.gov/32915020/"
+    ]
   }
 }

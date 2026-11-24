@@ -331,41 +331,6 @@
       ]
     },
     {
-      "pid": "jonathan-oakman",
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
-      ],
-      "candidates": [
-        {
-          "id": "A5104831838",
-          "name": "Jonathan M. Oakman",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5098485047",
-          "name": "and why they don't work better Jonathan M. Oakman Why our treatments work",
-          "confidence": 0.18,
-          "evidence": [
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5078217918",
-          "name": "Jonathan E. Oakman",
-          "confidence": 0,
-          "evidence": []
-        }
-      ]
-    },
-    {
       "pid": "howard-s-adelman",
       "ids": [],
       "confidence": 0.8,
@@ -2926,6 +2891,20 @@
   "publicationCandidates": [
     {
       "source": "PubMed",
+      "person": "dillon-browne",
+      "id": "42252379",
+      "doi": "10.1007/s11414-026-10004-8",
+      "title": "Use of and Barriers to Mental Health Services for Youth with Physical-Mental Multimorbidity: A Nationally Representative Study."
+    },
+    {
+      "source": "PubMed",
+      "person": "dillon-browne",
+      "id": "32675108",
+      "doi": "",
+      "title": "Supporting patient and clinician mental health during COVID-19: Via trauma-informed interdisciplinary systems."
+    },
+    {
+      "source": "PubMed",
       "person": "allison-kelly",
       "id": "42534836",
       "doi": "10.1136/bmjnph-2025-001480",
@@ -3765,6 +3744,46 @@
     {
       "person": "giovanni-ramos",
       "doi": "10.1038/s44220-025-00467-7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "dillon-browne",
+      "doi": "10.1016/j.jadohealth.2018.03.012",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "dillon-browne",
+      "doi": "10.1002/jts.22240",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "dillon-browne",
+      "doi": "10.1371/journal.pone.0175023",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "dillon-browne",
+      "doi": "10.1037/edu0000202",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "dillon-browne",
+      "doi": "10.1037/dev0000493",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "dillon-browne",
+      "doi": "10.1007/s10802-017-0309-2",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "dillon-browne",
+      "doi": "10.1037/dev0000506",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "zachary-cohen",
+      "doi": "10.1192/bjo.2021.4",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -5260,11 +5279,6 @@
     {
       "person": "zachary-cohen",
       "doi": "10.1016/j.beth.2020.10.001",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "zachary-cohen",
-      "doi": "10.1192/bjo.2021.4",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -11124,11 +11138,6 @@
     },
     {
       "person": "jessica-powers",
-      "doi": "10.1093/ntr/ntag089",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "jessica-powers",
       "doi": "10.1080/02791072.2022.2075713",
       "issue": "Eligible appointment at publication unverified"
     },
@@ -11265,6 +11274,201 @@
     {
       "person": "shirley-wang",
       "doi": "10.31234/osf.io/q2ezw",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "amy-holley",
+      "doi": "10.1097/ajp.0000000000000668",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "amy-holley",
+      "doi": "10.1542/hpeds.2022-007027",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "suzanne-h-mitchell",
+      "doi": "10.31234/osf.io/3re82_v1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.1542/hpeds.2019-0206",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.1542/hpeds.2022-006645",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.1037/fsh0000395",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.1037/fsh0000406",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.1093/jpepsy/jsaa067",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.1542/hpeds.2021-006248",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db23-673-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db22-1008-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db18-805-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db20-748-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db21-2-or",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db21-555-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db22-632-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db22-284-or",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db22-285-or",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db23-727-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db23-53-lb",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.1007/s12440-016-0042-0",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.1007/s12440-018-0075-7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db18-214-or",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db18-881-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db19-202-or",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db20-747-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db20-746-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db20-745-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db19-842-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db22-631-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db23-54-lb",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db23-160-or",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db25-56-or",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db25-59-or",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db25-55-or",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db25-677-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db25-60-or",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db26-1600-p",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-wagner",
+      "doi": "10.2337/db26-1580-p",
       "issue": "Eligible appointment at publication unverified"
     },
     {

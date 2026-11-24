@@ -2333,16 +2333,21 @@
       {
         "program": "university-of-waterloo",
         "role": "tenure-track",
-        "start": null,
+        "start": "2018",
         "end": null,
         "current": true,
         "affiliations": [
           "University of Waterloo",
           "University of Waterloo"
         ],
-        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "dateSource": "https://uwaterloo.ca/psychology/profiles/dillon-browne",
+        "supplementaryDateSource": "https://orcid.org/0000-0002-7445-6604"
       }
     ],
+    "orcid": "0000-0002-7445-6604",
+    "orcidSource": "https://orcid.org/0000-0002-7445-6604",
+    "lab": "https://uwaterloo.ca/familypsycle-lab/",
     "identity": {
       "ids": [
         "A5019401974"
@@ -2354,13 +2359,15 @@
       ]
     },
     "retrieval": {
-      "openAlex": "not run",
-      "crosschecks": {},
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
+      },
       "errors": {}
-    },
-    "orcid": "0000-0002-7445-6604",
-    "orcidSource": "https://orcid.org/0000-0002-7445-6604",
-    "lab": "https://uwaterloo.ca/familypsycle-lab/"
+    }
   },
   {
     "id": "allison-kelly",
@@ -2551,6 +2558,8 @@
         "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
       }
     ],
+    "orcid": "0000-0001-7488-6113",
+    "orcidSource": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch-et-al_scil-model_perspectives_2023.pdf",
     "identity": {
       "ids": [
         "A5018108046"
@@ -2565,14 +2574,14 @@
       "openAlex": "complete",
       "crosschecks": {
         "PubMed": "queried",
-        "Crossref": "partial author discovery",
-        "Semantic Scholar": "partial author discovery",
+        "Crossref": "queried",
+        "Semantic Scholar": "incomplete",
         "PsyArXiv": "queried"
       },
-      "errors": {}
-    },
-    "orcid": "0000-0001-7488-6113",
-    "orcidSource": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch-et-al_scil-model_perspectives_2023.pdf"
+      "errors": {
+        "Semantic Scholar": "Connection failed for api.semanticscholar.org"
+      }
+    }
   },
   {
     "id": "elizabeth-nilsen",
@@ -2685,43 +2694,22 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5104831838"
       ],
-      "candidates": [
-        {
-          "id": "A5104831838",
-          "name": "Jonathan M. Oakman",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5098485047",
-          "name": "and why they don't work better Jonathan M. Oakman Why our treatments work",
-          "confidence": 0.18,
-          "evidence": [
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5078217918",
-          "name": "Jonathan E. Oakman",
-          "confidence": 0,
-          "evidence": []
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "Publisher or PubMed byline and OpenAlex agree on the ORCID. Source: https://journals.sagepub.com/doi/10.1177/03057356261449273"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "not run",
+      "crosschecks": {},
       "errors": {}
-    }
+    },
+    "orcid": "0000-0003-3489-9942",
+    "orcidSource": "https://journals.sagepub.com/doi/10.1177/03057356261449273"
   },
   {
     "id": "christine-purdon",
@@ -2750,6 +2738,8 @@
         "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
       }
     ],
+    "orcid": "0000-0003-0941-6398",
+    "orcidSource": "https://www.sciencedirect.com/science/article/pii/S0887618522000718",
     "identity": {
       "ids": [
         "A5004017845"
@@ -2764,14 +2754,12 @@
       "openAlex": "complete",
       "crosschecks": {
         "PubMed": "queried",
-        "Crossref": "partial author discovery",
+        "Crossref": "queried",
         "Semantic Scholar": "partial author discovery",
         "PsyArXiv": "queried"
       },
       "errors": {}
-    },
-    "orcid": "0000-0003-0941-6398",
-    "orcidSource": "https://www.sciencedirect.com/science/article/pii/S0887618522000718"
+    }
   },
   {
     "id": "uzma-rehman",
@@ -6162,70 +6150,25 @@
         "program": "program-061",
         "role": "tenure-track",
         "current": true,
-        "start": null,
+        "start": "2025",
         "end": null,
         "affiliations": [
           "University of Kansas (Clinical Psychology PhD)",
           "university of kansas",
           "University of Kansas"
         ],
-        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty",
+        "dateSource": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf"
       }
     ],
     "identity": {
       "ids": [
         "A5046440614"
       ],
-      "confidence": 0.98,
       "status": "resolved",
+      "confidence": 1,
       "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
-      ],
-      "candidates": [
-        {
-          "id": "A5046440614",
-          "name": "Jessica M. Powers",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5042728422",
-          "name": "Jessica Powers",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5047970707",
-          "name": "Jessica Davis Powers",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5057735153",
-          "name": "Jessica Powers",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5087464353",
-          "name": "Jessica Powers",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
+        "Publisher or PubMed byline and OpenAlex agree on the ORCID. Source: https://pubmed.ncbi.nlm.nih.gov/42647479/"
       ]
     },
     "retrieval": {
@@ -6237,7 +6180,11 @@
         "PsyArXiv": "not run"
       },
       "errors": {}
-    }
+    },
+    "orcid": "0000-0002-5161-7540",
+    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/42647479/",
+    "cv": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+    "lab": "https://pathlab.ku.edu/"
   },
   {
     "id": "melisa-rempfer",
@@ -12991,5 +12938,371 @@
       },
       "errors": {}
     }
+  },
+  {
+    "id": "amy-holley",
+    "name": "Amy Holley",
+    "aliases": [
+      "Amy L. Holley"
+    ],
+    "areas": [
+      "pediatric pain",
+      "sleep",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://www.ohsu.edu/people/amy-holley-phd",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ],
+    "lab": "https://www.ohsu.edu/advancing-research-pediatric-pain-lab/about-us",
+    "identity": {
+      "ids": [
+        "A5034975123"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5034975123",
+          "name": "Amy Lewandowski Holley",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5047223388",
+          "name": "Amy Holley",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5097133902",
+          "name": "Amy E Holley-Cribbin",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "rebekah-huber",
+    "name": "Rebekah Huber",
+    "aliases": [
+      "Rebekah S. Huber"
+    ],
+    "areas": [
+      "youth suicide prevention",
+      "mood disorders",
+      "mobile assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://www.ohsu.edu/people/rebekah-huber-phd",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5091149788"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "Publisher or PubMed byline and OpenAlex agree on the ORCID. Source: https://pubmed.ncbi.nlm.nih.gov/31883424/"
+      ]
+    },
+    "retrieval": {
+      "openAlex": "not run",
+      "crosschecks": {},
+      "errors": {}
+    },
+    "orcid": "0000-0002-6718-9683",
+    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/31883424/",
+    "lab": "https://www.ohsu.edu/school-of-medicine/psychiatry-research/mood-disorder-investigations-throughout-neurodevelopment"
+  },
+  {
+    "id": "jennifer-loftis",
+    "name": "Jennifer Loftis",
+    "aliases": [
+      "Jennifer M. Loftis"
+    ],
+    "areas": [
+      "substance use",
+      "mood disorders",
+      "neuropsychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://www.ohsu.edu/school-of-medicine/psychoneuroimmunology-lab/faculty-and-staff",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ],
+    "lab": "https://www.ohsu.edu/school-of-medicine/psychoneuroimmunology-lab",
+    "identity": {
+      "ids": [
+        "A5073950799"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "Publisher or PubMed byline and OpenAlex agree on the ORCID. Source: https://journals.sagepub.com/doi/10.1177/10870547251397701"
+      ]
+    },
+    "retrieval": {
+      "openAlex": "not run",
+      "crosschecks": {},
+      "errors": {}
+    },
+    "orcid": "0000-0003-1773-9365",
+    "orcidSource": "https://journals.sagepub.com/doi/10.1177/10870547251397701"
+  },
+  {
+    "id": "suzanne-h-mitchell",
+    "name": "Suzanne H. Mitchell",
+    "aliases": [
+      "Suzanne Mitchell"
+    ],
+    "areas": [
+      "decision-making",
+      "addiction",
+      "reward valuation"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://orcid.org/0000-0002-0225-7200",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ],
+    "lab": "https://www.ohsu.edu/school-of-medicine/translational-neuroeconomics-lab",
+    "orcid": "0000-0002-0225-7200",
+    "orcidSource": "https://orcid.org/0000-0002-0225-7200",
+    "identity": {
+      "ids": [
+        "A5089969316"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "ORCID match"
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "david-wagner",
+    "name": "David Wagner",
+    "aliases": [
+      "David V. Wagner"
+    ],
+    "areas": [
+      "pediatric chronic illness",
+      "implementation science",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://www.ohsu.edu/doernbecher/novel-interventions-childrens-healthcare-nich",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5083730303"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5083730303",
+          "name": "David V. Wagner",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5032189949",
+          "name": "David D. Wagner",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5036224704",
+          "name": "David L. Wagner",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5062174672",
+          "name": "David Wagner",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5080099109",
+          "name": "David M. Wagner",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "anna-c-wilson",
+    "name": "Anna C. Wilson",
+    "aliases": [
+      "Anna Wilson"
+    ],
+    "areas": [
+      "pediatric chronic pain",
+      "families",
+      "health psychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "roleSource": "https://www.ohsu.edu/people/anna-c-wilson-phd",
+        "affiliations": [
+          "Oregon Health & Science University (Clinical Psychology PhD)",
+          "oregon health science university",
+          "oregon health and science university",
+          "ohsu"
+        ]
+      }
+    ],
+    "lab": "https://www.ohsu.edu/advancing-research-pediatric-pain-lab/about-us",
+    "identity": {
+      "ids": [
+        "A5101883319"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "Publisher or PubMed byline and OpenAlex agree on the ORCID. Source: https://pubmed.ncbi.nlm.nih.gov/32915020/"
+      ]
+    },
+    "retrieval": {
+      "openAlex": "not run",
+      "crosschecks": {},
+      "errors": {}
+    },
+    "orcid": "0000-0001-8672-068X",
+    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/32915020/"
   }
 ]

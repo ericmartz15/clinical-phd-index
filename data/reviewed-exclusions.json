@@ -172,5 +172,17 @@
     "id": "10.1016/j.biopsych.2025.12.002",
     "reason": "The research group lists this item as commentary. External peer review was not confirmed.",
     "evidence": "https://modlab.yale.edu/publications"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1093/ntr/ntaf220",
+    "reason": "The journal labels this item a commentary. External peer review could not be confirmed.",
+    "evidence": "https://doi.org/10.1093/ntr/ntaf220"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1016/j.jaac.2021.12.003",
+    "reason": "PubMed indexes this DOI as an editorial. External peer review was not confirmed.",
+    "evidence": "https://pubmed.ncbi.nlm.nih.gov/34921907/"
   }
 ]

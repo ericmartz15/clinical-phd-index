@@ -7,8 +7,8 @@
     "2021-11-20",
     "2026-11-20"
   ],
-  "eligibleFaculty": 176,
-  "samplingFrame": 176,
+  "eligibleFaculty": 182,
+  "samplingFrame": 182,
   "excludedCalibration": [],
   "sample": [
     "aaron-fisher",
@@ -62,7 +62,7 @@
     "john-ruiz",
     "mark-chen"
   ],
-  "audited": 10,
+  "audited": 11,
   "unavailable": [
     "lara-ray",
     "vickie-m-mays",
@@ -97,7 +97,6 @@
     "lauren-c-ng",
     "stephen-hinshaw",
     "tera-fazzino",
-    "jessica-powers",
     "vijay-mittal",
     "lee-ryan",
     "ayelet-meron-ruscio",
@@ -105,10 +104,10 @@
     "sheri-johnson",
     "john-ruiz"
   ],
-  "matches": 328,
-  "denominator": 329,
+  "matches": 352,
+  "denominator": 353,
   "recall": null,
-  "diagnosticRecall": 0.9969604863221885,
+  "diagnosticRecall": 0.9971671388101983,
   "interval": null,
   "targetMet": false,
   "missing": [
@@ -2690,6 +2689,222 @@
       "matched": true
     },
     {
+      "person": "jessica-powers",
+      "title": "Behavioral activation for smoking cessation may improve bodily pain in adults with lifetime major depressive disorder",
+      "doi": "10.1016/j.jad.2026.121834",
+      "date": "2026-04-21",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42025640/",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "The Role of Sleep Impairment in Associations Between Pain and Nicotine/Tobacco Dependence in Wave 6 of the Population Assessment of Tobacco and Health (PATH) Study",
+      "doi": "10.1080/10826084.2025.2561919",
+      "date": "2025-10-10",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41071199/",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Prevalence of Tobacco Use in Adults With Chronic Pain: Results From the National Health Interview Survey 2014–2023",
+      "doi": "10.1016/j.amepre.2025.108251",
+      "date": "2025-12-26",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41456621/",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Pain is Associated with E-Cigarette Use and Dependence in Young Adults: Findings from Wave 7 (2022–2023) of the Population Assessment of Tobacco and Health (PATH) Study",
+      "doi": "10.1007/s12529-025-10396-5",
+      "date": "2025-10-03",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41044447/",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "A scoping review of pain and tobacco use among cancer survivors",
+      "doi": "10.1093/abm/kaaf075",
+      "date": "2025-10-13",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1093/abm/kaaf075",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Web-Based Pain Coping Skills Training (PCST) for Managing Aromatase Inhibitor-Associated Arthralgia in Breast Cancer Survivors: Randomized Controlled Trial Protocol",
+      "doi": "10.1016/j.cct.2024.107780",
+      "date": "2024-12-18",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1016/j.cct.2024.107780",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Relationship between pain and nonopioid substance use in two national samples of cancer survivors",
+      "doi": "10.1002/cncr.35701",
+      "date": "2025-02-10",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1002/cncr.35701",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Prevalence of Tobacco and Poly-Tobacco Use as a Function of Sexual Orientation Identity and Sex",
+      "doi": "10.1093/ntr/ntae292",
+      "date": "2024-12-04",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1093/ntr/ntae292",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Use and co-use of tobacco and cannabis before, during, and after pregnancy: A longitudinal analysis of waves 1–5 of the Population Assessment of Tobacco and Health (PATH) study.",
+      "doi": "10.1037/adb0001004",
+      "date": "2024-11-01",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1037/adb0001004",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Awareness of the potential consequences of alcohol consumption in the context of chronic pain and prescription opioid use",
+      "doi": "10.1080/00952990.2024.2375515",
+      "date": "2024-07-30",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1080/00952990.2024.2375515",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Initial validation of the expectancies for Benzodiazepine Analgesia Scale.",
+      "doi": "10.1037/pha0000692",
+      "date": "2024-06-01",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1037/pha0000692",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Pain is associated with exclusive use and co-use of tobacco and cannabis: Findings from Wave 5 (2018–2019) of the Population Assessment of Tobacco and Health Study",
+      "doi": "10.1016/j.addbeh.2023.107814",
+      "date": "2023-07-24",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1016/j.addbeh.2023.107814",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Initial Validation of the Intentions to Co-Use Alcohol and Opioids Scale",
+      "doi": "10.1080/02791072.2022.2075713",
+      "date": "2022-05-15",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1080/02791072.2022.2075713",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Pain as a causal motivator of alcohol consumption: Associations with gender and race.",
+      "doi": "10.1037/abn0000792",
+      "date": "2023-01-01",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1037/abn0000792",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Benzodiazepine Use and Dependence in Relation to Chronic Pain Intensity and Pain Catastrophizing",
+      "doi": "10.1016/j.jpain.2022.09.019",
+      "date": "2022-10-12",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1016/j.jpain.2022.09.019",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Longitudinal Associations Between Pain and Use of Cigarettes and E-cigarettes in the Population Assessment of Tobacco and Health (PATH) Study",
+      "doi": "10.1093/ntr/ntac197",
+      "date": "2022-08-15",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1093/ntr/ntac197",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Pain and Menthol Use Are Related to Greater Nicotine Dependence Among Black Adults Who Smoke Cigarettes at Wave 5 (2018–2019) of the Population Assessment of Tobacco and Health (PATH) Study",
+      "doi": "10.1007/s40615-022-01419-y",
+      "date": "2022-09-28",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1007/s40615-022-01419-y",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Family History of Alcohol Use Disorder as a Predictor of Endogenous Pain Modulation Among Moderate to Heavy Drinkers",
+      "doi": "10.1016/j.jpain.2021.12.005",
+      "date": "2021-12-30",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1016/j.jpain.2021.12.005",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Pain Intensity, Emotion Dysregulation, and Hazardous Drinking Among Adults With Chronic Pain",
+      "doi": "10.15288/jsad.2022.83.223",
+      "date": "2022-03-01",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.15288/jsad.2022.83.223",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Brief Report: Expectancies for alcohol analgesia are associated with greater alcohol use among moderate‐to‐heavy drinkers without chronic pain",
+      "doi": "10.1111/ajad.13245",
+      "date": "2021-12-06",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1111/ajad.13245",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Impact of prepregnancy menthol cigarette use on smoking cessation across pregnancy and postpartum: a longitudinal analysis of the Population Assessment of Tobacco and Health (PATH) Study",
+      "doi": "10.1093/ntr/ntag089",
+      "date": "2026-05-07",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1093/ntr/ntag089",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Characterizing Alcohol Use and Expectancies for Alcohol Analgesia Among Breast Cancer Survivors With Arthralgia",
+      "doi": "10.1002/pon.70517",
+      "date": "2026-06-01",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://doi.org/10.1002/pon.70517",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Prevalence of nicotine, alcohol, and cannabis use disorders among adults with chronic pain: Protocol for a systematic review and meta-analysis",
+      "doi": "10.1371/journal.pone.0356365",
+      "date": "2026-08-26",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42647479/",
+      "matched": true
+    },
+    {
+      "person": "jessica-powers",
+      "title": "Associations between PTSD symptom clusters and multi-region pain in young adults with chronic pain",
+      "doi": "10.1007/s10865-026-00714-x",
+      "date": "2026-10-03",
+      "reference": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42829427/",
+      "matched": true
+    },
+    {
       "person": "mark-chen",
       "title": "Depression Symptom Network Reorganization Under Internet-Based Emotion Regulation Intervention: Evidence From a Large Real-World Cohort",
       "doi": "10.1037/amp0001798",
@@ -3493,7 +3708,7 @@
       ]
     }
   ],
-  "corpusSha256": "eab56b5b5198a10e0188581371811813c826c134e21f1a1251c6cfda0d707acd",
+  "corpusSha256": "a6ec3cfe560b75dedd68b4f54862b870ac6d7dde31f36b4cba3c16b0856254d4",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",

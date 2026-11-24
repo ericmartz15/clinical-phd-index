@@ -909,14 +909,16 @@
       {
         "program": "university-of-waterloo",
         "role": "tenure-track",
-        "start": null,
+        "start": "2018",
         "end": null,
         "current": true,
         "affiliations": [
           "University of Waterloo",
           "University of Waterloo"
         ],
-        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology",
+        "dateSource": "https://uwaterloo.ca/psychology/profiles/dillon-browne",
+        "supplementaryDateSource": "https://orcid.org/0000-0002-7445-6604"
       }
     ],
     "orcid": "0000-0002-7445-6604",
@@ -1062,7 +1064,9 @@
         "onRosterBy": "2014",
         "dateSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program"
       }
-    ]
+    ],
+    "orcid": "0000-0003-3489-9942",
+    "orcidSource": "https://journals.sagepub.com/doi/10.1177/03057356261449273"
   },
   {
     "id": "christine-purdon",
@@ -2333,16 +2337,21 @@
         "program": "program-061",
         "role": "tenure-track",
         "current": true,
-        "start": null,
+        "start": "2025",
         "end": null,
         "affiliations": [
           "University of Kansas (Clinical Psychology PhD)",
           "university of kansas",
           "University of Kansas"
         ],
-        "source": "https://psychology.ku.edu/clinical-psychology-faculty"
+        "source": "https://psychology.ku.edu/clinical-psychology-faculty",
+        "dateSource": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf"
       }
-    ]
+    ],
+    "orcid": "0000-0002-5161-7540",
+    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/42647479/",
+    "cv": "https://psychology.ku.edu/sites/psychology/files/attached-files/J_Powers_CV_0.pdf",
+    "lab": "https://pathlab.ku.edu/"
   },
   {
     "id": "melisa-rempfer",
@@ -4844,7 +4853,10 @@
           "ohsu"
         ]
       }
-    ]
+    ],
+    "orcid": "0000-0002-6718-9683",
+    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/31883424/",
+    "lab": "https://www.ohsu.edu/school-of-medicine/psychiatry-research/mood-disorder-investigations-throughout-neurodevelopment"
   },
   {
     "id": "jennifer-loftis",
@@ -4874,7 +4886,9 @@
         ]
       }
     ],
-    "lab": "https://www.ohsu.edu/school-of-medicine/psychoneuroimmunology-lab"
+    "lab": "https://www.ohsu.edu/school-of-medicine/psychoneuroimmunology-lab",
+    "orcid": "0000-0003-1773-9365",
+    "orcidSource": "https://journals.sagepub.com/doi/10.1177/10870547251397701"
   },
   {
     "id": "suzanne-h-mitchell",
@@ -4965,6 +4979,8 @@
         ]
       }
     ],
-    "lab": "https://www.ohsu.edu/advancing-research-pediatric-pain-lab/about-us"
+    "lab": "https://www.ohsu.edu/advancing-research-pediatric-pain-lab/about-us",
+    "orcid": "0000-0001-8672-068X",
+    "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/32915020/"
   }
 ]
