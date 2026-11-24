@@ -5629,7 +5629,7 @@
   },
   {
     "id": "daniel-coppersmith",
-    "name": "Daniel C. Coppersmith",
+    "name": "Daniel D. L. Coppersmith",
     "aliases": [
       "Daniel Coppersmith"
     ],
@@ -5643,7 +5643,7 @@
       {
         "program": "program-074",
         "role": "tenure-track",
-        "start": null,
+        "start": "2025",
         "end": null,
         "current": true,
         "source": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
@@ -5651,7 +5651,8 @@
           "University of Massachusetts Amherst",
           "university of massachusetts amherst",
           "umass amherst"
-        ]
+        ],
+        "dateSource": "https://www.umass.edu/psychological-brain-sciences/news/pbs-welcomes-daniel-coppersmith-assistant-professor"
       }
     ]
   },
@@ -6120,7 +6121,7 @@
       {
         "program": "program-081",
         "role": "tenure-track",
-        "start": null,
+        "start": "2020",
         "end": null,
         "current": true,
         "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
@@ -6128,7 +6129,8 @@
           "University of Michigan",
           "university of michigan ann arbor",
           "university of michigan"
-        ]
+        ],
+        "dateSource": "https://lsa.umich.edu/content/dam/michigan-lsa/people-update/cv/crseijas-09052023-144027-CVRodriguez-SeijasforWebsite9-5-2023.pdf"
       }
     ]
   },
@@ -6178,7 +6180,7 @@
       {
         "program": "program-081",
         "role": "tenure-track",
-        "start": null,
+        "start": "2016",
         "end": null,
         "current": true,
         "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
@@ -6186,7 +6188,8 @@
           "University of Michigan",
           "university of michigan ann arbor",
           "university of michigan"
-        ]
+        ],
+        "dateSource": "https://prod.lsa.umich.edu/content/dam/michigan-lsa/people-update/cv/lzahodne-12042024-195903-ZahodneCV.pdf"
       }
     ]
   },
@@ -6384,7 +6387,7 @@
   },
   {
     "id": "sarah-odor",
-    "name": "Sarah A. O'Dor",
+    "name": "Sarah L. O'Dor",
     "aliases": [
       "Sarah O'Dor"
     ],
@@ -6407,7 +6410,8 @@
           "suffolk university"
         ]
       }
-    ]
+    ],
+    "orcid": "0000-0001-6141-1266"
   },
   {
     "id": "sukanya-ray",

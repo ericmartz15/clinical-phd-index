@@ -448,5 +448,218 @@
       "Wiley provides both the Auburn affiliation and Richard J. Macatee’s ORCID 0000-0001-8135-7762.",
       "https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13423"
     ]
+  },
+  "katherine-dixon-gordon": {
+    "ids": [
+      "A5047387351"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.umass.edu/psychological-brain-sciences/about/directory/katherine-dixon-gordon",
+      "Publisher metadata gives the UMass Amherst affiliation on 10.1002/jts.22330. The journal record for 10.1159/000525102 confirms ORCID 0000-0002-6962-3121.",
+      "https://doi.org/10.1002/jts.22330",
+      "https://doi.org/10.1159/000525102",
+      "A5003976447 has one meeting record, DOI 10.1016/j.biopsych.2026.03.829. A5032304904 has one unlinked title. Both need work-level review."
+    ],
+    "splitReview": true
+  },
+  "jamie-parnes": {
+    "ids": [
+      "A5040062291"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.umass.edu/psychological-brain-sciences/about/directory/jamie-parnes",
+      "The UMass CV corroborates Colorado State University and the work listed under the publisher ORCID 0000-0001-8792-0894.",
+      "https://doi.org/10.1080/16066359.2017.1315410",
+      "https://www.umass.edu/psychological-brain-sciences/sites/default/files/2026-03/Jamie%20Parnes%20CV%20%28March%202026%29.pdf"
+    ]
+  },
+  "maureen-perry-jenkins": {
+    "ids": [
+      "A5054305326",
+      "A5079359448"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.umass.edu/psychological-brain-sciences/about/directory/maureen-perry-jenkins",
+      "The publisher supplies the UMass affiliation and ORCID 0000-0003-3798-996X for the first profile. PubMed confirms the UMass affiliation and full name for the second profile on DOI 10.1093/geronb/gby105.",
+      "https://doi.org/10.1111/jomf.12636",
+      "https://pubmed.ncbi.nlm.nih.gov/30219866/"
+    ]
+  },
+  "rebecca-ready": {
+    "ids": [
+      "A5035781040"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.umass.edu/psychological-brain-sciences/about/directory/rebecca-ready",
+      "Two publisher deposits corroborate Rebecca E. Ready as a coauthor with the UMass Amherst Department of Psychological and Brain Sciences affiliation.",
+      "https://doi.org/10.3233/jhd-190364",
+      "https://doi.org/10.1002/mds.27908"
+    ]
+  },
+  "edward-chang": {
+    "ids": [
+      "A5088490618"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://lsa.umich.edu/psych/people/faculty/changec.html",
+      "Publisher deposits confirm Edward C. Chang and the University of Michigan affiliation.",
+      "https://doi.org/10.1093/sw/swy052",
+      "https://doi.org/10.1080/17439760.2019.1579358"
+    ]
+  },
+  "patricia-deldin": {
+    "ids": [
+      "A5032519886"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://lsa.umich.edu/psych/people/faculty/pjdeldin.html",
+      "The Psychological Medicine article links Patricia Deldin to the University of Michigan. The article DOI is on the selected OpenAlex profile.",
+      "https://doi.org/10.1017/s0033291718001708"
+    ]
+  },
+  "luke-hyde": {
+    "ids": [
+      "A5013490744"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://lsa.umich.edu/psych/people/faculty/lukehyde.html",
+      "The eLife byline identifies Luke W. Hyde of the University of Michigan Department of Psychology.",
+      "https://doi.org/10.7554/elife.72904"
+    ]
+  },
+  "annelise-madison": {
+    "ids": [
+      "A5022389963"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://lsa.umich.edu/psych/people/faculty/annelism.html",
+      "The Michigan lab bibliography links the vaccine-response work and the OSU training affiliation. These match the publication and OpenAlex identity.",
+      "https://sites.lsa.umich.edu/pni/wp-content/uploads/sites/1325/2024/12/16.-Psychological-and-behavioral-predictors-of-vaccine-responsiveness-Considerations-for-COVID-19-1.pdf",
+      "https://rcgd.isr.umich.edu/2025/10/01/annelise-madison/",
+      "A5134608106 groups registrations and an abstract with the same name. Its bylines need work-level review."
+    ],
+    "splitReview": true
+  },
+  "donna-nagata": {
+    "ids": [
+      "A5084796707"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://lsa.umich.edu/psych/people/faculty/nagata.html",
+      "The Annual Review article confirms Donna K. Nagata and the University of Michigan affiliation.",
+      "https://doi.org/10.1146/annurev-clinpsy-080822-044522",
+      "https://doi.org/10.1177/0192513x18783465"
+    ]
+  },
+  "sheryl-olson": {
+    "ids": [
+      "A5030706432"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://lsa.umich.edu/psych/people/faculty/slolson.html",
+      "PubMed and the publisher give the full name and University of Michigan affiliation for the self-regulation journal article.",
+      "https://pubmed.ncbi.nlm.nih.gov/32919326/",
+      "https://doi.org/10.1016/j.jecp.2020.104972"
+    ]
+  },
+  "leah-richmond-rakerd": {
+    "ids": [
+      "A5016964370"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://lsa.umich.edu/psych/people/faculty/leahrr.html",
+      "JAMA Psychiatry confirms the University of Michigan affiliation and full name. Earlier affiliations on the matching work bylines are consistent with the CV.",
+      "https://doi.org/10.1001/jamapsychiatry.2021.4377",
+      "https://sites.lsa.umich.edu/richmond-rakerd-lab/wp-content/uploads/sites/830/2022/01/richmond-rakerd_cv_19jan2022.pdf"
+    ]
+  },
+  "craig-rodriguez-seijas": {
+    "ids": [
+      "A5004293349",
+      "A5109786878"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://lsa.umich.edu/psych/people/faculty/crseijas.html",
+      "A publisher record confirms the University of Michigan affiliation and ORCID 0000-0003-4595-6658. The Michigan faculty bibliography corroborates the second profile via DOI 10.1037/abn0000941.",
+      "https://doi.org/10.1177/1073191120961833",
+      "https://doi.org/10.1037/abn0000941"
+    ]
+  },
+  "matthew-jerram": {
+    "ids": [
+      "A5087734975"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.suffolk.edu/academics/faculty/j/e/matthew-jerram",
+      "Publisher records identify Matthew W. Jerram at Suffolk University and carry ORCID 0000-0003-2432-4395.",
+      "https://doi.org/10.1177/10778012241254852",
+      "https://doi.org/10.1037/cns0000304"
+    ]
+  },
+  "jennifer-martinez": {
+    "ids": [
+      "A5062898558"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.suffolk.edu/academics/faculty/j/e/jennifer-martinez",
+      "Publisher metadata and the Suffolk lab confirm Jennifer H. Martinez. The earlier UMass Boston affiliation agrees with the PhD history in the clinical handbook.",
+      "https://doi.org/10.1080/07448481.2020.1754221",
+      "https://sites.suffolk.edu/martinezlab/about-dr-martinez/"
+    ]
+  },
+  "sukanya-ray": {
+    "ids": [
+      "A5032061965"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.suffolk.edu/academics/faculty/r/a/sukanya-ray",
+      "Publisher deposits identify Sukanya Ray with Suffolk University on two independent publications.",
+      "https://doi.org/10.1177/10538259221122738",
+      "https://doi.org/10.1080/03630242.2020.1801554"
+    ]
+  },
+  "sarah-odor": {
+    "ids": [
+      "A5067249466",
+      "A5134588916"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.suffolk.edu/academics/faculty/s/a/sarah-odor",
+      "Suffolk lists the 2022 journal article under O’Dor’s profile. Its publisher gives ORCID 0000-0001-6141-1266, corresponding to the first profile. The second profile includes a preprint with the current Suffolk affiliation.",
+      "https://journals.sagepub.com/doi/abs/10.1089/cap.2022.0063",
+      "https://www.biorxiv.org/content/10.64898/2026.10.08.755024v1"
+    ]
   }
 }
