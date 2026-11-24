@@ -203,7 +203,7 @@ function saveBlob(filename, content, type) {
 
 function initializeProgram() {
   const key = new URLSearchParams(location.search).get("id");
-  const program = data.programs.find(p => p.id === key);
+  const program = data.programs.find(p => p.id === key || p.legacyIds?.includes(key));
   if (!program) {
     $("program-title").textContent = "Program unavailable";
     return;

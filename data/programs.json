@@ -5002,7 +5002,7 @@
     "state": "NY",
     "location": "NY",
     "region": "Northeast",
-    "programUrl": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/admission.html",
+    "programUrl": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/index.html",
     "country": "US",
     "eligibility": "directory eligible",
     "degree": "PhD",
@@ -5016,11 +5016,38 @@
         "source": "https://accreditation.apa.org/public-notice-programs-database",
         "asOf": "2026-05-18",
         "directoryData": true
+      },
+      "PCSAS": {
+        "label": "Accredited",
+        "source": "https://pcsas.org/pcsas-accredited-programs/",
+        "asOf": "2026-11-19"
       }
     },
     "programmeAliases": [
-      "Binghamton University, SUNY"
-    ]
+      "Binghamton University, SUNY",
+      "Binghamton University"
+    ],
+    "legacyIds": [
+      "binghamton-university"
+    ],
+    "rosterUrl": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-23",
+      "scope": "The Clinical Psychology PhD roster separates Faculty, Affiliated Faculty and Emeritus Faculty. The clinical handbook corroborates dated appointments. The lecturer appointment is recorded in the role decisions.",
+      "sources": [
+        "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf",
+        "https://www.binghamton.edu/psychology/people/"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Thomas Harding",
+          "label": "Lecturer and clinic director",
+          "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+          "reason": "The current roster lists a lecturer appointment centered on the clinic and training. This appointment is outside the requested research and tenure-track scope."
+        }
+      ]
+    }
   },
   {
     "id": "program-105",
@@ -9078,28 +9105,6 @@
     ],
     "rosterUrl": "https://www.mcgill.ca/psychology/people-0/faculty-0",
     "rosterReview": "pending"
-  },
-  {
-    "id": "binghamton-university",
-    "name": "Binghamton University",
-    "state": "",
-    "location": "United States",
-    "region": "United States",
-    "country": "US",
-    "eligibility": "directory eligible",
-    "degree": "PhD",
-    "affiliations": [
-      "Binghamton University"
-    ],
-    "statuses": {
-      "PCSAS": {
-        "label": "Accredited",
-        "source": "https://pcsas.org/pcsas-accredited-programs/",
-        "asOf": "2026-11-19"
-      }
-    },
-    "programmeAliases": [],
-    "programUrl": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/index.html"
   },
   {
     "id": "the-ohio-state-university-idd-program",

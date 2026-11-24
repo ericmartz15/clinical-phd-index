@@ -4982,5 +4982,354 @@
     "lab": "https://www.ohsu.edu/advancing-research-pediatric-pain-lab/about-us",
     "orcid": "0000-0001-8672-068X",
     "orcidSource": "https://pubmed.ncbi.nlm.nih.gov/32915020/"
+  },
+  {
+    "id": "christina-balderrama-durbin",
+    "name": "Christina Balderrama-Durbin",
+    "aliases": [
+      "Christina G. Balderrama-Durbin"
+    ],
+    "areas": [
+      "couples",
+      "trauma",
+      "posttraumatic stress"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2015",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ]
+  },
+  {
+    "id": "meredith-e-coles",
+    "name": "Meredith E. Coles",
+    "aliases": [
+      "Meredith Coles"
+    ],
+    "areas": [
+      "obsessive-compulsive disorder",
+      "anxiety",
+      "sleep"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2003",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ]
+  },
+  {
+    "id": "brandon-gibb",
+    "name": "Brandon Gibb",
+    "aliases": [
+      "Brandon E. Gibb"
+    ],
+    "areas": [
+      "depression",
+      "child psychopathology",
+      "cognitive vulnerability"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2003",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ]
+  },
+  {
+    "id": "jennifer-gillis-mattson",
+    "name": "Jennifer Gillis Mattson",
+    "aliases": [
+      "Jennifer Gillis",
+      "Jennifer M. Gillis"
+    ],
+    "areas": [
+      "autism",
+      "early intervention",
+      "development"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2012",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ]
+  },
+  {
+    "id": "matthew-d-johnson",
+    "name": "Matthew D. Johnson",
+    "aliases": [
+      "Matthew Johnson"
+    ],
+    "areas": [
+      "couple relationships",
+      "marriage",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "1999",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ]
+  },
+  {
+    "id": "mark-lenzenweger",
+    "name": "Mark Lenzenweger",
+    "aliases": [
+      "Mark F. Lenzenweger"
+    ],
+    "areas": [
+      "personality disorders",
+      "psychopathology",
+      "schizotypy"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2001",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ]
+  },
+  {
+    "id": "nadine-mastroleo",
+    "name": "Nadine Mastroleo",
+    "aliases": [
+      "Nadine R. Mastroleo"
+    ],
+    "areas": [
+      "alcohol",
+      "substance use",
+      "brief interventions"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "richard-mattson",
+    "name": "Richard Mattson",
+    "aliases": [
+      "Richard E. Mattson"
+    ],
+    "areas": [
+      "couples",
+      "relationships",
+      "psychological assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2012",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ]
+  },
+  {
+    "id": "jennifer-j-mcgrath",
+    "name": "Jennifer J. McGrath",
+    "aliases": [
+      "Jennifer McGrath"
+    ],
+    "areas": [
+      "pediatric health",
+      "stress",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2024",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ]
+  },
+  {
+    "id": "raymond-g-romanczyk",
+    "name": "Raymond G. Romanczyk",
+    "aliases": [
+      "Raymond Romanczyk"
+    ],
+    "areas": [
+      "autism",
+      "behavioral assessment",
+      "development"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "emily-l-zale",
+    "name": "Emily L. Zale",
+    "aliases": [
+      "Emily Zale"
+    ],
+    "areas": [
+      "chronic pain",
+      "substance use",
+      "behavioral health"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "2019",
+        "end": null,
+        "current": true,
+        "source": "https://www.binghamton.edu/psychology/graduate/clinical-psychology/faculty-by-area-of-study.html",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ]
+  },
+  {
+    "id": "steven-jay-lynn",
+    "name": "Steven Jay Lynn",
+    "aliases": [
+      "Steven J. Lynn",
+      "Steven Lynn"
+    ],
+    "areas": [
+      "hypnosis",
+      "dissociation",
+      "clinical science"
+    ],
+    "appointments": [
+      {
+        "program": "program-104",
+        "role": "tenure-track",
+        "start": "1996",
+        "end": "2024-03-29",
+        "current": false,
+        "source": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf",
+        "affiliations": [
+          "Binghamton University, SUNY",
+          "Binghamton University",
+          "binghamton university",
+          "state university of new york at binghamton"
+        ],
+        "dateSource": "https://www.binghamton.edu/psychology/documents/student_guide_8_17_25.pdf"
+      }
+    ],
+    "cv": "https://www.binghamton.edu/psychology/docs/cv/slynn.cv.pdf"
   }
 ]
