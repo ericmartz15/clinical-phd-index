@@ -5331,5 +5331,68 @@
       }
     ],
     "cv": "https://www.binghamton.edu/psychology/docs/cv/slynn.cv.pdf"
+  },
+  {
+    "id": "joshua-buckholtz",
+    "name": "Joshua W. Buckholtz",
+    "aliases": [
+      "Joshua William Buckholtz",
+      "Joshua Buckholtz"
+    ],
+    "source": "https://profiles.stanford.edu/joshua-buckholtz",
+    "cv": "https://cap.stanford.edu/profiles/viewCV?facultyId=304224&name=Joshua_Buckholtz",
+    "orcid": "0000-0002-9418-8686",
+    "areas": [
+      "psychopathology",
+      "cognitive neuroscience",
+      "impulsivity"
+    ],
+    "appointments": [
+      {
+        "program": "harvard",
+        "role": "tenure-track",
+        "start": "2011",
+        "end": "2021",
+        "current": false,
+        "source": "https://www.psychology.fas.harvard.edu/files/psych/files/clinical_psychology_handbook_aug_19_2020.pdf#page=4",
+        "dateSource": "https://cap.stanford.edu/profiles/viewCV?facultyId=304224&name=Joshua_Buckholtz",
+        "affiliations": [
+          "Harvard University",
+          "Harvard University Faculty of Arts and Sciences"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "katie-mclaughlin",
+    "name": "Katie A. McLaughlin",
+    "aliases": [
+      "Katie McLaughlin",
+      "Kate McLaughlin"
+    ],
+    "source": "https://psychology.fas.harvard.edu/people/kate-mclaughlin",
+    "cv": "https://sdlab.fas.harvard.edu/sites/g/files/omnuum5291/files/sdlab/files/mclaughlin_cv_6_2024.pdf",
+    "orcid": "0000-0002-1362-2410",
+    "areas": [
+      "child mental health",
+      "adversity",
+      "neurodevelopment"
+    ],
+    "appointments": [
+      {
+        "program": "harvard",
+        "role": "tenure-track",
+        "start": "2018",
+        "end": "2023",
+        "current": false,
+        "source": "https://www.psychology.fas.harvard.edu/files/psych/files/clinical_psychology_handbook_aug_19_2020.pdf#page=4",
+        "dateSource": "https://sdlab.fas.harvard.edu/sites/g/files/omnuum5291/files/sdlab/files/mclaughlin_cv_6_2024.pdf",
+        "affiliations": [
+          "Harvard University",
+          "Harvard University Faculty of Arts and Sciences"
+        ]
+      }
+    ],
+    "lab": "https://sdlab.fas.harvard.edu/"
   }
 ]

@@ -3580,12 +3580,26 @@
           "label": "Associate senior lecturer",
           "reason": "Harvard’s handbook lists Shingleton as core faculty. The department classifies her appointment as non-ladder. The index limits publication credit to tenure-track and research-track faculty.",
           "source": "https://psychology.fas.harvard.edu/people/rebecca-shingleton-0"
+        },
+        {
+          "name": "John R. Weisz",
+          "label": "Historical core appointment under review",
+          "reason": "Harvard’s 2020 and 2023 handbooks list Weisz as core clinical faculty. His present research professorship is listed separately from the current core roster, and the clinical-track end date is unverified.",
+          "source": "https://grad.psychology.fas.harvard.edu/sites/g/files/omnuum9606/files/psych-grad/files/clinical_psychology_handbook_october_31_2023.pdf#page=4"
         }
       ],
       "sources": [
         {
           "label": "Clinical Psychology Handbook, p. 4",
           "url": "https://psychology.fas.harvard.edu/sites/g/files/omnuum9601/files/2025-09/CLINICAL%20PSYCHOLOGY%20HANDBOOK%20September%2025%202025.pdf#page=4"
+        },
+        {
+          "label": "Clinical Psychology Handbook, August 2020, p. 4",
+          "url": "https://www.psychology.fas.harvard.edu/files/psych/files/clinical_psychology_handbook_aug_19_2020.pdf#page=4"
+        },
+        {
+          "label": "Clinical Psychology Handbook, October 2023, p. 4",
+          "url": "https://grad.psychology.fas.harvard.edu/sites/g/files/omnuum9606/files/psych-grad/files/clinical_psychology_handbook_october_31_2023.pdf#page=4"
         }
       ]
     }
