@@ -784,5 +784,20 @@
       "https://doi.org/10.1016/j.cpr.2020.101852",
       "https://doi.org/10.1177/2167702618769560"
     ]
+  },
+  "susanne-duvall": {
+    "ids": [
+      "A5064730618"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.ohsu.edu/people/susanne-w-duvall-phd-abpp-cn",
+      "https://www.ohsu.edu/school-of-medicine/psychiatry-research/research-faculty",
+      "https://www.ohsu.edu/sites/default/files/2021-09/I.D.1.2.4%20CPP%20Program%20Guidelines%209-8-2021%20Approved.pdf",
+      "The official clinical PhD roster and psychiatry research faculty directory confirm the current role. The 2021 handbook lists Duvall as program associate director by then. Springer and SAGE records corroborate the full byline and Oregon Health & Science University affiliation.",
+      "https://doi.org/10.1007/s10803-019-03933-1",
+      "https://openalex.org/W3033763359"
+    ]
   }
 }

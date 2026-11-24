@@ -6857,8 +6857,8 @@
     "rosterUrl": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
     "currentRosterReview": {
       "status": "partial",
-      "asOf": "2026-11-23",
-      "scope": "The program separates Core and Associate faculty. Six Core appointments with substantial documented research roles are listed. Five named Core appointments need additional track evidence.",
+      "asOf": "2026-11-24",
+      "scope": "The program separates core and associate faculty. Seven current core appointments have corroborated research roles. Four named core appointments need additional track evidence.",
       "sources": [
         "https://www.ohsu.edu/school-of-medicine/psychology",
         "https://www.ohsu.edu/people/amy-holley-phd",
@@ -6867,20 +6867,17 @@
         "https://orcid.org/0000-0002-0225-7200",
         "https://www.ohsu.edu/doernbecher/novel-interventions-childrens-healthcare-nich",
         "https://www.ohsu.edu/people/anna-c-wilson-phd",
-        "https://www.ohsu.edu/sites/default/files/2021-03/OHSU%20Consumer%20Information%20Disclosure.pdf"
+        "https://www.ohsu.edu/sites/default/files/2021-03/OHSU%20Consumer%20Information%20Disclosure.pdf",
+        "https://www.ohsu.edu/people/susanne-w-duvall-phd-abpp-cn",
+        "https://www.ohsu.edu/school-of-medicine/psychiatry-research/research-faculty",
+        "https://www.ohsu.edu/sites/default/files/2021-09/I.D.1.2.4%20CPP%20Program%20Guidelines%209-8-2021%20Approved.pdf"
       ],
       "roleDecisions": [
         {
           "name": "Shanna Cooper",
           "label": "Appointment track under review",
-          "reason": "Verify track for a clinical neuropsychology appointment with research participation.",
-          "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty"
-        },
-        {
-          "name": "Susanne W. Duvall",
-          "label": "Appointment track under review",
-          "reason": "Verify track for an associate director and clinical neuropsychologist appointment.",
-          "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty"
+          "reason": "The official profile documents clinical and forensic assessment, multiple research collaborations and a study neuropsychologist role. The appointment track remains unconfirmed.",
+          "source": "https://www.ohsu.edu/people/shanna-cooper-phd-abpp-cn"
         },
         {
           "name": "Darren M. Janzen",
@@ -6891,14 +6888,14 @@
         {
           "name": "Leeza Maron",
           "label": "Appointment track under review",
-          "reason": "Verify track for the division director and clinical neuropsychologist appointment.",
-          "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty"
+          "reason": "The 2021 handbook establishes the role of program director by that year. The current research appointment track remains unconfirmed.",
+          "source": "https://www.ohsu.edu/people/leeza-maron-phd"
         },
         {
           "name": "Dorianne Wright",
           "label": "Appointment track under review",
-          "reason": "Verify track for a psychiatry appointment described through clinical service, instruction, and supervision.",
-          "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty"
+          "reason": "The OHSU profile documents clinical service, supervision, teaching, and prior research. It does not specify the current appointment track.",
+          "source": "https://www.ohsu.edu/people/dorianne-wright-phd"
         },
         {
           "name": "Sara Walker",
@@ -10147,7 +10144,7 @@
     "region": "Canada",
     "country": "CA",
     "eligibility": "active",
-    "degree": "Doctorate to verify",
+    "degree": "PhD",
     "affiliations": [
       "University of Waterloo"
     ],
@@ -10167,7 +10164,7 @@
       "scope": "Published clinical core roster in the CPA-accredited doctoral track.",
       "roleDecisions": []
     },
-    "degreeSource": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology"
+    "degreeSource": "https://uwaterloo.ca/clinical-psychology-phd-program/"
   },
   {
     "id": "university-of-western-ontario",

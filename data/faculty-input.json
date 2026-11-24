@@ -6851,5 +6851,36 @@
         ]
       }
     ]
+  },
+  {
+    "id": "susanne-duvall",
+    "name": "Susanne W. Duvall",
+    "aliases": [
+      "Susanne Duvall"
+    ],
+    "source": "https://www.ohsu.edu/people/susanne-w-duvall-phd-abpp-cn",
+    "areas": [
+      "neuropsychology",
+      "autism",
+      "executive function",
+      "pediatric neuro-oncology"
+    ],
+    "orcid": "0000-0002-7202-6555",
+    "orcidSource": "https://openalex.org/W2919344018",
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "affiliations": [
+          "Oregon Health & Science University",
+          "Oregon Health and Science University",
+          "OHSU"
+        ]
+      }
+    ]
   }
 ]

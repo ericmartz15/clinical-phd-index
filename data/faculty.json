@@ -16538,27 +16538,25 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5046463911"
       ],
-      "candidates": [
-        {
-          "id": "A5046463911",
-          "name": "Susan Holtzman",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://psych.ok.ubc.ca/about/contact/susan-holtzman/",
+        "The publisher full text gives ORCID 0000-0002-1530-1653 and the UBC Okanagan affiliation, consistent with the official profile.",
+        "https://dspace.library.uvic.ca/bitstreams/8fe05bf1-37c5-47fc-bca4-3f003e77ee8d/download"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -16701,7 +16699,7 @@
       {
         "program": "university-of-british-columbia-okanagan-campus",
         "role": "tenure-track",
-        "start": null,
+        "start": "2009",
         "end": null,
         "current": true,
         "source": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf",
@@ -16709,68 +16707,36 @@
           "University of British Columbia Okanagan",
           "University of British Columbia – Okanagan Campus",
           "University of British Columbia"
-        ]
+        ],
+        "dateSource": "https://fass-psych.cms.ok.ubc.ca/wp-content/uploads/sites/118/2021/07/ZWalshCV0521.pdf"
       }
     ],
+    "cv": "https://fass-psych.cms.ok.ubc.ca/wp-content/uploads/sites/118/2021/07/ZWalshCV0521.pdf",
+    "lab": "https://blogs.ubc.ca/walshlab/",
     "identity": {
-      "ids": [],
-      "confidence": 0.98,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
+      "ids": [
+        "A5112603217",
+        "A5061335380"
       ],
-      "candidates": [
-        {
-          "id": "A5061335380",
-          "name": "Zachary Walsh",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5112603217",
-          "name": "Zach Walsh",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5135868143",
-          "name": "Zach Walsh",
-          "confidence": 0.63,
-          "evidence": [
-            "Full name or documented name variant",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5027867055",
-          "name": "Zachary H. Walsh",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5034897961",
-          "name": "Zach Walsh",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
-      ]
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://psych.ok.ubc.ca/about/contact/zach-walsh/",
+        "Publisher bylines and the UBC CV corroborate both profiles. A5135868143 has only DOI 10.1037/e504062026-001, whose byline and publication type could not be verified. It remains in split-profile review.",
+        "https://doi.org/10.1016/j.drugpo.2017.01.011",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/ijcp.13871",
+        "https://fass-psych.cms.ok.ubc.ca/wp-content/uploads/sites/118/2021/07/ZWalshCV0521.pdf"
+      ],
+      "splitReview": true
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -17017,8 +16983,10 @@
   },
   {
     "id": "jeremy-grant",
-    "name": "Jeremy Grant",
-    "aliases": [],
+    "name": "Jeremy G. Grant",
+    "aliases": [
+      "Jeremy Grant"
+    ],
     "source": "https://psychology.osu.edu/people/grant.866",
     "areas": [
       "neuropsychology",
@@ -17041,57 +17009,26 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5007129839"
       ],
-      "candidates": [
-        {
-          "id": "A5007129839",
-          "name": "Jeremy G. Grant",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5034024611",
-          "name": "Jeremy L. Grant",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5080021020",
-          "name": "Jeremy Grant",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5113438873",
-          "name": "Jeremy Grant",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5001822184",
-          "name": "Jacquelyn Grant",
-          "confidence": 0,
-          "evidence": []
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://psychology.osu.edu/people/grant.866",
+        "The Ohio State clinical handbook documents prior Wayne State clinical neuropsychology training. The publisher gives the Wayne State affiliation and full byline Jeremy G. Grant.",
+        "https://psychology.osu.edu/sites/default/files/2024-10/2024-2025-Clinical-Handbook_1.pdf",
+        "https://doi.org/10.1016/j.msard.2023.104916"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -17122,36 +17059,27 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5012271236",
+        "A5107852675"
       ],
-      "candidates": [
-        {
-          "id": "A5012271236",
-          "name": "Jasmeet Pannu Hayes",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5107852675",
-          "name": "Jasmeet P. Hayes",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://psychology.osu.edu/people/hayes.1075",
+        "Independent publisher records identify Jasmeet P. Hayes at Ohio State for both profiles.",
+        "https://doi.org/10.3389/fpsyt.2019.00133",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13718888/"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -17182,59 +17110,25 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5073716549"
       ],
-      "candidates": [
-        {
-          "id": "A5073716549",
-          "name": "Scott M. Hayes",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5005230317",
-          "name": "Scott Hayes",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5073605248",
-          "name": "Scott A. Hayes",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5103170623",
-          "name": "Scott Hayes",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5103589290",
-          "name": "Scott Hayes",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://psychology.osu.edu/people/hayes.1074",
+        "The publisher byline and Ohio State profile corroborate the full name Scott M. Hayes and joint work with the Ohio State research collaborators.",
+        "https://doi.org/10.3389/fpsyt.2019.00133"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -17265,33 +17159,26 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5057390952"
       ],
-      "candidates": [
-        {
-          "id": "A5057390952",
-          "name": "Ruchika Shaurya Prakash",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5095056915",
-          "name": "Pawan Prakash Ruchika Saini",
-          "confidence": 0,
-          "evidence": []
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://psychology.osu.edu/people/prakash.30",
+        "The publisher full text corroborates the Ohio State affiliation and name expansion Ruchika Shaurya Prakash. Ohio State also lists the matching research.",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8517620/",
+        "https://doi.org/10.1007/s41465-018-0115-y"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -17322,27 +17209,26 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5015765374"
       ],
-      "candidates": [
-        {
-          "id": "A5015765374",
-          "name": "Megan E. Renna",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://psychology.osu.edu/people/renna.4",
+        "Publisher records and the Ohio State faculty bibliography corroborate Megan E. Renna and the research on stress and immune outcomes.",
+        "https://doi.org/10.1177/1745691621989243",
+        "https://doi.org/10.3389/fpsyg.2017.00098"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -17373,53 +17259,29 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5086017069",
+        "A5135489302",
+        "A5123976166"
       ],
-      "candidates": [
-        {
-          "id": "A5086017069",
-          "name": "Joshua Morrison Smyth",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5123976166",
-          "name": "Joshua M Smyth",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5135489302",
-          "name": "Joshua Smyth",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5019920506",
-          "name": "Joshua W. Smyth",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://psychology.osu.edu/people/smyth.88",
+        "The Ohio State faculty profile agrees with the primary profile’s ecological momentary assessment work. The publisher bylines name Joshua M. Smyth and Ohio State in both split profiles.",
+        "https://doi.org/10.1093/jpepsy/jsx078",
+        "https://www.nature.com/articles/s41562-026-02427-2.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12836308/"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -17440,38 +17302,40 @@
       {
         "program": "program-132",
         "role": "tenure-track",
-        "start": null,
+        "start": "2024",
         "end": null,
         "current": true,
         "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
         "affiliations": [
           "The Ohio State University",
           "Ohio State University"
-        ]
+        ],
+        "dateSource": "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/8/128116/files/2026/06/Southward-CV-6.3.26.pdf"
       }
     ],
+    "cv": "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/8/128116/files/2026/06/Southward-CV-6.3.26.pdf",
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5030618865"
       ],
-      "candidates": [
-        {
-          "id": "A5030618865",
-          "name": "Matthew W. Southward",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://psychology.osu.edu/people/southward.6",
+        "The Ohio State CV confirms the published name Matthew W. Southward, cross-listed publications and the Ohio State appointment starting in 2024.",
+        "https://bpb-us-w2.wpmucdn.com/u.osu.edu/dist/8/128116/files/2026/06/Southward-CV-6.3.26.pdf",
+        "https://doi.org/10.1016/j.cpr.2020.101852",
+        "https://doi.org/10.1177/2167702618769560"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -17565,6 +17429,64 @@
         "PsyArXiv": "not run"
       },
       "errors": {}
+    }
+  },
+  {
+    "id": "susanne-duvall",
+    "name": "Susanne W. Duvall",
+    "aliases": [
+      "Susanne Duvall"
+    ],
+    "source": "https://www.ohsu.edu/people/susanne-w-duvall-phd-abpp-cn",
+    "areas": [
+      "neuropsychology",
+      "autism",
+      "executive function",
+      "pediatric neuro-oncology"
+    ],
+    "orcid": "0000-0002-7202-6555",
+    "orcidSource": "https://openalex.org/W2919344018",
+    "appointments": [
+      {
+        "program": "program-138",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty",
+        "affiliations": [
+          "Oregon Health & Science University",
+          "Oregon Health and Science University",
+          "OHSU"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5064730618"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://www.ohsu.edu/people/susanne-w-duvall-phd-abpp-cn",
+        "https://www.ohsu.edu/school-of-medicine/psychiatry-research/research-faculty",
+        "https://www.ohsu.edu/sites/default/files/2021-09/I.D.1.2.4%20CPP%20Program%20Guidelines%209-8-2021%20Approved.pdf",
+        "The official clinical PhD roster and psychiatry research faculty directory confirm the current role. The 2021 handbook lists Duvall as program associate director by then. Springer and SAGE records corroborate the full byline and Oregon Health & Science University affiliation.",
+        "https://doi.org/10.1007/s10803-019-03933-1",
+        "https://openalex.org/W3033763359"
+      ]
+    },
+    "retrieval": {
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {
+        "OpenAlex": "No cached response for api.openalex.org"
+      }
     }
   }
 ]
