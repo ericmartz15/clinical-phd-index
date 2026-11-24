@@ -5598,5 +5598,840 @@
         ]
       }
     ]
+  },
+  {
+    "id": "michael-constantino",
+    "name": "Michael J. Constantino",
+    "aliases": [
+      "Michael Constantino"
+    ],
+    "source": "https://www.umass.edu/psychological-brain-sciences/about/directory/michael-constantino",
+    "areas": [
+      "psychotherapy",
+      "treatment outcomes",
+      "clinical supervision"
+    ],
+    "appointments": [
+      {
+        "program": "program-074",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
+        "affiliations": [
+          "University of Massachusetts Amherst",
+          "university of massachusetts amherst",
+          "umass amherst"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "daniel-coppersmith",
+    "name": "Daniel C. Coppersmith",
+    "aliases": [
+      "Daniel Coppersmith"
+    ],
+    "source": "https://www.umass.edu/psychological-brain-sciences/about/directory/daniel-coppersmith",
+    "areas": [
+      "suicide",
+      "ecological momentary assessment",
+      "digital mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-074",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
+        "affiliations": [
+          "University of Massachusetts Amherst",
+          "university of massachusetts amherst",
+          "umass amherst"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "katherine-dixon-gordon",
+    "name": "Katherine L. Dixon-Gordon",
+    "aliases": [
+      "Katie Dixon-Gordon",
+      "Katherine Dixon-Gordon"
+    ],
+    "source": "https://www.umass.edu/psychological-brain-sciences/about/directory/katherine-dixon-gordon",
+    "areas": [
+      "emotion regulation",
+      "borderline personality disorder",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-074",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
+        "affiliations": [
+          "University of Massachusetts Amherst",
+          "university of massachusetts amherst",
+          "umass amherst"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maria-galano",
+    "name": "Maria M. Galano",
+    "aliases": [
+      "Maria Galano"
+    ],
+    "source": "https://www.umass.edu/psychological-brain-sciences/about/directory/maria-m-galano",
+    "areas": [
+      "trauma",
+      "interpersonal violence",
+      "child mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-074",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
+        "affiliations": [
+          "University of Massachusetts Amherst",
+          "university of massachusetts amherst",
+          "umass amherst"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "adam-grabell",
+    "name": "Adam S. Grabell",
+    "aliases": [
+      "Adam Grabell"
+    ],
+    "source": "https://www.umass.edu/psychological-brain-sciences/about/directory/adam-grabell",
+    "areas": [
+      "emotion regulation",
+      "child development",
+      "developmental psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-074",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
+        "affiliations": [
+          "University of Massachusetts Amherst",
+          "university of massachusetts amherst",
+          "umass amherst"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jennifer-mcdermott",
+    "name": "Jennifer M. McDermott",
+    "aliases": [
+      "Jennifer McDermott"
+    ],
+    "source": "https://www.umass.edu/psychological-brain-sciences/about/directory/jennifer-m-mcdermott",
+    "areas": [
+      "child development",
+      "developmental neuroscience",
+      "self regulation"
+    ],
+    "appointments": [
+      {
+        "program": "program-074",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
+        "affiliations": [
+          "University of Massachusetts Amherst",
+          "university of massachusetts amherst",
+          "umass amherst"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elsbeth-neil",
+    "name": "Elsbeth Neil",
+    "aliases": [
+      "Beth Neil"
+    ],
+    "source": "https://www.umass.edu/psychological-brain-sciences/about/directory/elsbeth-neil",
+    "areas": [
+      "adoption",
+      "child welfare",
+      "family relationships"
+    ],
+    "appointments": [
+      {
+        "program": "program-074",
+        "role": "tenure-track",
+        "start": "2025",
+        "end": null,
+        "current": true,
+        "source": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
+        "affiliations": [
+          "University of Massachusetts Amherst",
+          "university of massachusetts amherst",
+          "umass amherst"
+        ],
+        "dateSource": "https://www.umass.edu/ruddchair/faculty"
+      }
+    ]
+  },
+  {
+    "id": "jamie-parnes",
+    "name": "Jamie E. Parnes",
+    "aliases": [
+      "Jamie Parnes"
+    ],
+    "source": "https://www.umass.edu/psychological-brain-sciences/about/directory/jamie-parnes",
+    "areas": [
+      "cannabis",
+      "substance use",
+      "minority stress"
+    ],
+    "appointments": [
+      {
+        "program": "program-074",
+        "role": "tenure-track",
+        "start": "2026",
+        "end": null,
+        "current": true,
+        "source": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
+        "affiliations": [
+          "University of Massachusetts Amherst",
+          "university of massachusetts amherst",
+          "umass amherst"
+        ],
+        "dateSource": "https://www.umass.edu/psychological-brain-sciences/sites/default/files/2026-03/Jamie%20Parnes%20CV%20%28March%202026%29.pdf"
+      }
+    ]
+  },
+  {
+    "id": "maureen-perry-jenkins",
+    "name": "Maureen Perry-Jenkins",
+    "aliases": [],
+    "source": "https://www.umass.edu/psychological-brain-sciences/about/directory/maureen-perry-jenkins",
+    "areas": [
+      "family relationships",
+      "parenthood",
+      "mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-074",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
+        "affiliations": [
+          "University of Massachusetts Amherst",
+          "university of massachusetts amherst",
+          "umass amherst"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rebecca-ready",
+    "name": "Rebecca E. Ready",
+    "aliases": [
+      "Rebecca Ready"
+    ],
+    "source": "https://www.umass.edu/psychological-brain-sciences/about/directory/rebecca-ready",
+    "areas": [
+      "neuropsychology",
+      "aging",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "program-074",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
+        "affiliations": [
+          "University of Massachusetts Amherst",
+          "university of massachusetts amherst",
+          "umass amherst"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "edward-chang",
+    "name": "Edward C. Chang",
+    "aliases": [
+      "Edward Chang"
+    ],
+    "source": "https://lsa.umich.edu/psych/people/faculty/changec.html",
+    "areas": [
+      "culture",
+      "personality",
+      "psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-081",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+        "affiliations": [
+          "University of Michigan",
+          "university of michigan ann arbor",
+          "university of michigan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "patricia-deldin",
+    "name": "Patricia J. Deldin",
+    "aliases": [
+      "Patricia Deldin"
+    ],
+    "source": "https://lsa.umich.edu/psych/people/faculty/pjdeldin.html",
+    "areas": [
+      "depression",
+      "cognition",
+      "neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "program-081",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+        "affiliations": [
+          "University of Michigan",
+          "university of michigan ann arbor",
+          "university of michigan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ashley-gearhardt",
+    "name": "Ashley N. Gearhardt",
+    "aliases": [
+      "Ashley Gearhardt"
+    ],
+    "source": "https://lsa.umich.edu/psych/people/faculty/agearhar.html",
+    "areas": [
+      "addiction",
+      "eating behavior",
+      "adolescence"
+    ],
+    "appointments": [
+      {
+        "program": "program-081",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+        "affiliations": [
+          "University of Michigan",
+          "university of michigan ann arbor",
+          "university of michigan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "luke-hyde",
+    "name": "Luke W. Hyde",
+    "aliases": [
+      "Luke Hyde"
+    ],
+    "source": "https://lsa.umich.edu/psych/people/faculty/lukehyde.html",
+    "areas": [
+      "developmental psychopathology",
+      "neuroscience",
+      "family"
+    ],
+    "appointments": [
+      {
+        "program": "program-081",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+        "affiliations": [
+          "University of Michigan",
+          "university of michigan ann arbor",
+          "university of michigan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "annelise-madison",
+    "name": "Annelise A. Madison",
+    "aliases": [
+      "Annelise Madison"
+    ],
+    "source": "https://lsa.umich.edu/psych/people/faculty/annelism.html",
+    "areas": [
+      "aging",
+      "psychopathology",
+      "social relationships"
+    ],
+    "appointments": [
+      {
+        "program": "program-081",
+        "role": "tenure-track",
+        "start": "2025",
+        "end": null,
+        "current": true,
+        "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+        "affiliations": [
+          "University of Michigan",
+          "university of michigan ann arbor",
+          "university of michigan"
+        ],
+        "dateSource": "https://rcgd.isr.umich.edu/2025/10/01/annelise-madison/"
+      }
+    ]
+  },
+  {
+    "id": "donna-nagata",
+    "name": "Donna K. Nagata",
+    "aliases": [
+      "Donna Nagata"
+    ],
+    "source": "https://lsa.umich.edu/psych/people/faculty/nagata.html",
+    "areas": [
+      "culture",
+      "trauma",
+      "family"
+    ],
+    "appointments": [
+      {
+        "program": "program-081",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+        "affiliations": [
+          "University of Michigan",
+          "university of michigan ann arbor",
+          "university of michigan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sheryl-olson",
+    "name": "Sheryl L. Olson",
+    "aliases": [
+      "Sheryl Olson"
+    ],
+    "source": "https://lsa.umich.edu/psych/people/faculty/slolson.html",
+    "areas": [
+      "developmental psychopathology",
+      "self regulation",
+      "family"
+    ],
+    "appointments": [
+      {
+        "program": "program-081",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+        "affiliations": [
+          "University of Michigan",
+          "university of michigan ann arbor",
+          "university of michigan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leah-richmond-rakerd",
+    "name": "Leah S. Richmond-Rakerd",
+    "aliases": [
+      "Leah Richmond-Rakerd"
+    ],
+    "source": "https://lsa.umich.edu/psych/people/faculty/leahrr.html",
+    "areas": [
+      "developmental psychopathology",
+      "population health",
+      "genetics"
+    ],
+    "appointments": [
+      {
+        "program": "program-081",
+        "role": "tenure-track",
+        "start": "2020",
+        "end": null,
+        "current": true,
+        "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+        "affiliations": [
+          "University of Michigan",
+          "university of michigan ann arbor",
+          "university of michigan"
+        ],
+        "dateSource": "https://sites.lsa.umich.edu/richmond-rakerd-lab/wp-content/uploads/sites/830/2022/01/richmond-rakerd_cv_19jan2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": "craig-rodriguez-seijas",
+    "name": "Craig Rodriguez-Seijas",
+    "aliases": [],
+    "source": "https://lsa.umich.edu/psych/people/faculty/crseijas.html",
+    "areas": [
+      "psychopathology",
+      "minority stress",
+      "quantitative methods"
+    ],
+    "appointments": [
+      {
+        "program": "program-081",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+        "affiliations": [
+          "University of Michigan",
+          "university of michigan ann arbor",
+          "university of michigan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aidan-wright",
+    "name": "Aidan G. C. Wright",
+    "aliases": [
+      "Aidan Wright",
+      "Aidan G.C. Wright"
+    ],
+    "source": "https://lsa.umich.edu/psych/people/faculty/aidangcw.html",
+    "areas": [
+      "personality",
+      "psychopathology",
+      "quantitative methods"
+    ],
+    "appointments": [
+      {
+        "program": "program-081",
+        "role": "tenure-track",
+        "start": "2023",
+        "end": null,
+        "current": true,
+        "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+        "affiliations": [
+          "University of Michigan",
+          "university of michigan ann arbor",
+          "university of michigan"
+        ],
+        "dateSource": "https://regents.umich.edu/files/meetings/12-23/2023-12-IV-1.pdf"
+      }
+    ]
+  },
+  {
+    "id": "laura-zahodne",
+    "name": "Laura B. Zahodne",
+    "aliases": [
+      "Laura Zahodne"
+    ],
+    "source": "https://lsa.umich.edu/psych/people/faculty/lzahodne.html",
+    "areas": [
+      "cognitive aging",
+      "neuropsychology",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-081",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+        "affiliations": [
+          "University of Michigan",
+          "university of michigan ann arbor",
+          "university of michigan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wesley-barnhart",
+    "name": "Wesley R. Barnhart",
+    "aliases": [
+      "Wesley Barnhart"
+    ],
+    "source": "https://www.suffolk.edu/academics/faculty/b/a/barnhart-wesley",
+    "areas": [
+      "eating disorders",
+      "body image",
+      "minority stress"
+    ],
+    "appointments": [
+      {
+        "program": "program-076",
+        "role": "tenure-track",
+        "start": "2025",
+        "end": null,
+        "current": true,
+        "source": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en",
+        "affiliations": [
+          "Suffolk University",
+          "suffolk university"
+        ],
+        "dateSource": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/2025-2026-clinical-program-manual-final-10125.pdf?hash=563077E59960F7EA813705AD6C610018146F68CC&la=en"
+      }
+    ]
+  },
+  {
+    "id": "jessica-graham-lopresti",
+    "name": "Jessica Graham-LoPresti",
+    "aliases": [
+      "Jessica LoPresti",
+      "Jessica R. Graham",
+      "Jessica R. Graham-LoPresti"
+    ],
+    "source": "https://www.suffolk.edu/academics/faculty/l/o/jessica-lopresti",
+    "areas": [
+      "racism",
+      "mental health disparities",
+      "access to care"
+    ],
+    "appointments": [
+      {
+        "program": "program-076",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en",
+        "affiliations": [
+          "Suffolk University",
+          "suffolk university"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "matthew-jerram",
+    "name": "Matthew W. Jerram",
+    "aliases": [
+      "Matthew Jerram"
+    ],
+    "source": "https://www.suffolk.edu/academics/faculty/j/e/matthew-jerram",
+    "areas": [
+      "dissociation",
+      "affective neuroscience",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "program-076",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en",
+        "affiliations": [
+          "Suffolk University",
+          "suffolk university"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "david-langer",
+    "name": "David A. Langer",
+    "aliases": [
+      "David Langer"
+    ],
+    "source": "https://www.suffolk.edu/academics/faculty/l/a/david-langer",
+    "areas": [
+      "child mental health",
+      "psychotherapy",
+      "shared decision making"
+    ],
+    "appointments": [
+      {
+        "program": "program-076",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en",
+        "affiliations": [
+          "Suffolk University",
+          "suffolk university"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gabrielle-liverant",
+    "name": "Gabrielle I. Liverant",
+    "aliases": [
+      "Gabrielle Liverant"
+    ],
+    "source": "https://www.suffolk.edu/academics/faculty/l/i/gabrielle-liverant",
+    "areas": [
+      "depression",
+      "anxiety",
+      "reward learning"
+    ],
+    "appointments": [
+      {
+        "program": "program-076",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en",
+        "affiliations": [
+          "Suffolk University",
+          "suffolk university"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jennifer-martinez",
+    "name": "Jennifer H. Martinez",
+    "aliases": [
+      "Jennifer Martinez"
+    ],
+    "source": "https://www.suffolk.edu/academics/faculty/j/e/jennifer-martinez",
+    "areas": [
+      "mindfulness",
+      "anxiety",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-076",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en",
+        "affiliations": [
+          "Suffolk University",
+          "suffolk university"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maha-mian",
+    "name": "Maha N. Mian",
+    "aliases": [
+      "Maha Mian"
+    ],
+    "source": "https://www.suffolk.edu/academics/faculty/m/a/maha-n-mian",
+    "areas": [
+      "substance use",
+      "harm reduction",
+      "cannabis"
+    ],
+    "appointments": [
+      {
+        "program": "program-076",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en",
+        "affiliations": [
+          "Suffolk University",
+          "suffolk university"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sarah-odor",
+    "name": "Sarah A. O'Dor",
+    "aliases": [
+      "Sarah O'Dor"
+    ],
+    "source": "https://www.suffolk.edu/academics/faculty/s/a/sarah-odor",
+    "areas": [
+      "neuropsychology",
+      "child clinical psychology",
+      "psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-076",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en",
+        "affiliations": [
+          "Suffolk University",
+          "suffolk university"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sukanya-ray",
+    "name": "Sukanya Ray",
+    "aliases": [],
+    "source": "https://www.suffolk.edu/academics/faculty/r/a/sukanya-ray",
+    "areas": [
+      "health disparities",
+      "body image",
+      "resilience"
+    ],
+    "appointments": [
+      {
+        "program": "program-076",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en",
+        "affiliations": [
+          "Suffolk University",
+          "suffolk university"
+        ]
+      }
+    ]
   }
 ]

@@ -1509,6 +1509,9 @@
           "asOf": "2024-10-19"
         }
       }
+    ],
+    "rosterSourceLeads": [
+      "https://www.udel.edu/academics/colleges/cas/units/departments/psychological-and-brain-sciences/graduate-programs/clinical-science-concentration/"
     ]
   },
   {
@@ -1918,6 +1921,10 @@
           "asOf": "2024-10-19"
         }
       }
+    ],
+    "rosterSourceLeads": [
+      "https://psychology.fsu.edu/graduate/programs/clinical-psychology",
+      "https://psychology.fsu.edu/sites/g/files/upcbnu4181/files/2023-07/Clinical%20Area%20Guidelines_May2025v4.0.pdf"
     ]
   },
   {
@@ -3754,7 +3761,38 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research",
+    "rosterReview": "pending",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-24",
+      "scope": "The clinical area names twelve core members. Ten hold regular professorial appointments.",
+      "sources": [
+        {
+          "label": "Core faculty roster",
+          "url": "https://www.umass.edu/psychological-brain-sciences/research/clinical-psychology-research"
+        },
+        {
+          "label": "Department faculty titles",
+          "url": "https://www.umass.edu/psychological-brain-sciences/faculty"
+        }
+      ],
+      "roleDecisions": [
+        {
+          "name": "Christopher Martell",
+          "label": "Clinic director and lecturer",
+          "reason": "The department identifies the appointment as a lectureship.",
+          "source": "https://www.umass.edu/psychological-brain-sciences/about/directory/christopher-martell"
+        },
+        {
+          "name": "Rebecca Stowe",
+          "label": "Senior lecturer",
+          "reason": "UMass identifies Stowe as a senior lecturer.",
+          "source": "https://www.umass.edu/student-life/stonewall/allied-staff-faculty"
+        }
+      ]
+    }
   },
   {
     "id": "program-075",
@@ -3801,6 +3839,10 @@
           "asOf": "2024-10-19"
         }
       }
+    ],
+    "rosterSourceLeads": [
+      "https://www.umb.edu/academics/program-finder/clinical-psychology-phd/fullwidth/",
+      "https://www.umb.edu/media/umassboston/content-assets/documents/program-handbooks/CLINICAL-HANDBOOK---FALL-2023.pdf"
     ]
   },
   {
@@ -3847,6 +3889,46 @@
           "asOf": "2024-10-19"
         }
       }
+    ],
+    "rosterUrl": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en",
+    "rosterReview": "pending",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-24",
+      "scope": "The 2026–27 clinical doctoral manual lists ten core members, including one clinical practice appointment. Nine faculty hold regular professorial appointments.",
+      "sources": [
+        {
+          "label": "Clinical doctoral manual for 2026–27, pp. 8–9",
+          "url": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en"
+        },
+        {
+          "label": "Current department directory",
+          "url": "https://www.suffolk.edu/cas/degrees-programs/psychology/faculty-and-staff"
+        }
+      ],
+      "roleDecisions": [
+        {
+          "name": "Ummul Kathawalla",
+          "label": "Clinical practice appointment",
+          "reason": "The doctoral manual identifies a clinical practice appointment and clinical training coordination.",
+          "source": "https://www.suffolk.edu/academics/faculty/u/m/ummul-kiram-kathawalla"
+        },
+        {
+          "name": "Sarah Schwartz",
+          "label": "Associated faculty",
+          "reason": "The 2026–27 manual lists an associated role. The 2025–26 manual lists her as core. The exact appointment transition date is undetermined.",
+          "source": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en"
+        },
+        {
+          "name": "Lance Swenson",
+          "label": "Associated faculty",
+          "reason": "The 2026–27 manual lists an associated role.",
+          "source": "https://www.suffolk.edu/-/media/suffolk/documents/cas/degrees-programs/psychology/doctoral-student-resources/clinical-program-manual-pdf.pdf?hash=D3020789A26C12EF07EB98BBC2AA1500005FEA2D&la=en"
+        }
+      ]
+    },
+    "rosterSourceLeads": [
+      "https://www.suffolk.edu/cas/degrees-programs/psychology/faculty-and-staff"
     ]
   },
   {
@@ -4088,6 +4170,31 @@
           "asOf": "2024-10-19"
         }
       }
+    ],
+    "rosterUrl": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
+    "rosterReview": "pending",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-24",
+      "scope": "Michigan lists eleven tenured or tenure-track faculty in the Clinical Science area and publishes separate affiliate, lecturer, and emeritus lists.",
+      "sources": [
+        {
+          "label": "Clinical Science tenured and tenure-track faculty",
+          "url": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html"
+        },
+        {
+          "label": "Affiliated faculty",
+          "url": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-affiliated-faculty.directory.html"
+        },
+        {
+          "label": "Research laboratories",
+          "url": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-labs---research.html"
+        }
+      ],
+      "roleDecisions": []
+    },
+    "rosterSourceLeads": [
+      "https://prod.lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html"
     ]
   },
   {
@@ -6434,6 +6541,9 @@
           "asOf": "2024-10-19"
         }
       }
+    ],
+    "rosterSourceLeads": [
+      "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology/clinical-program-handbook"
     ]
   },
   {
@@ -6674,6 +6784,9 @@
           "asOf": "2024-10-19"
         }
       }
+    ],
+    "rosterSourceLeads": [
+      "https://cas.uoregon.edu/directory/psychology-faculty"
     ]
   },
   {
@@ -8139,6 +8252,9 @@
           "asOf": "2024-10-19"
         }
       }
+    ],
+    "rosterSourceLeads": [
+      "https://www.uvm.edu/d10-files/documents/2026-10/Clinical-Psychology-Program-Blue-Binder-2026_0.pdf"
     ]
   },
   {
@@ -9694,7 +9810,10 @@
     },
     "programmeAliases": [],
     "programUrl": "https://psych.ubc.ca/graduate/research-streams/clinical/",
-    "degreeSource": "https://psych.ubc.ca/graduate/research-streams/clinical/program-admission-details/"
+    "degreeSource": "https://psych.ubc.ca/graduate/research-streams/clinical/program-admission-details/",
+    "rosterSourceLeads": [
+      "https://psych.ubc.ca/faculty-group/core-faculty/"
+    ]
   },
   {
     "id": "university-of-british-columbia-okanagan-campus",
@@ -9716,7 +9835,11 @@
       }
     },
     "programmeAliases": [],
-    "programUrl": "https://psych.ok.ubc.ca/graduate/psychology/"
+    "programUrl": "https://psych.ok.ubc.ca/graduate/psychology/",
+    "rosterSourceLeads": [
+      "https://psych.ok.ubc.ca/graduate/clinical-psychology/",
+      "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf"
+    ]
   },
   {
     "id": "university-of-calgary",
