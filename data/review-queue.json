@@ -2784,95 +2784,53 @@
       "splitReview": true
     },
     {
-      "pid": "melanie-dirks",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "blaine-ditto",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
       "pid": "skye-fitzpatrick",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "richard-koestner",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "sarah-racine",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "mathieu-roy",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "michael-sullivan-mcgill",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "david-vachon",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "anna-weinberg",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "alan-king-und",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
-    },
-    {
-      "pid": "justin-mcdonald",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5026871001"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://www.mcgill.ca/psychology/skye-fitzpatrick",
+        "The publisher identifies Skye Fitzpatrick in the prior York University affiliation and McGill confirms the 2026 move. The one-work candidate A5158731805 lacks a corroborated byline in the scoring window.",
+        "https://link.springer.com/article/10.1186/s12888-026-08374-6",
+        "https://www.mcgill.ca/science/files/science/facultycouncilminutes_5october2026.pdf",
+        "https://openalex.org/A5158731805"
+      ],
+      "splitReview": true
     },
     {
       "pid": "tiffany-russell",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5008095729"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://campus.und.edu/directory/tiffany.russell",
+        "The official CV and publisher metadata confirm Tiffany D. Russell at UND. Candidate A5134420618 mixes matching topic leads and an unrelated biomedical paper and requires work-level review.",
+        "https://webapps.und.edu/uploads/profile-uploads/47808/russell-tiffany_curriculum-vita.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/42782602/",
+        "https://openalex.org/A5134420618"
+      ],
+      "splitReview": true
     },
     {
       "pid": "richard-wise",
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5161756632"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://campus.und.edu/directory/richard.wise",
+        "Wiley confirms Richard A. Wise at UND. Candidate A5103559910 mixes his online-first August 2026 work with another researcher’s antimicrobial papers. The mixed profile requires work-level review.",
+        "https://webapps.und.edu/uploads/profile-uploads/1842/wise-richard_curriculum-vita.pdf",
+        "https://doi.org/10.1111/lcrp.70045",
+        "https://doi.org/10.1080/21622965.2026.2716161",
+        "https://openalex.org/A5103559910"
+      ],
+      "splitReview": true
     }
   ],
   "publicationCandidates": [
@@ -4109,6 +4067,106 @@
     {
       "person": "giovanni-ramos",
       "doi": "10.1038/s44220-025-00467-7",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "richard-koestner",
+      "doi": "10.1080/00220671.2020.1806015",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "richard-koestner",
+      "doi": "10.1037/mot0000169",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "richard-koestner",
+      "doi": "10.1037/mot0000209",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "richard-koestner",
+      "doi": "10.1037/fsh0000362",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "richard-koestner",
+      "doi": "10.1037/mot0000221",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "richard-koestner",
+      "doi": "10.1037/fsh0000663",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-racine",
+      "doi": "10.1037/abn0000204",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-racine",
+      "doi": "10.1016/j.eatbeh.2016.12.007",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "sarah-racine",
+      "doi": "10.31234/osf.io/w358t_v1",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-sullivan-mcgill",
+      "doi": "10.1016/j.jpain.2017.05.003",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-sullivan-mcgill",
+      "doi": "10.1002/ejp.1023",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-sullivan-mcgill",
+      "doi": "10.2147/jpr.s128184",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-sullivan-mcgill",
+      "doi": "10.1097/ajp.0000000000000551",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-sullivan-mcgill",
+      "doi": "10.1097/ajp.0000000000000542",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-sullivan-mcgill",
+      "doi": "10.1016/j.jpain.2017.02.123",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "michael-sullivan-mcgill",
+      "doi": "10.1016/j.apmr.2024.02.103",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "aidan-wright",
+      "doi": "10.1002/pmh.1408",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-vachon",
+      "doi": "10.1037/pas0001105",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "david-vachon",
+      "doi": "10.1016/j.contraception.2023.110265",
+      "issue": "Eligible appointment at publication unverified"
+    },
+    {
+      "person": "justin-mcdonald",
+      "doi": "10.5820/aian.2702.2020.23",
       "issue": "Eligible appointment at publication unverified"
     },
     {
@@ -8064,11 +8122,6 @@
     {
       "person": "aidan-wright",
       "doi": "10.1037/ccp0000452",
-      "issue": "Eligible appointment at publication unverified"
-    },
-    {
-      "person": "aidan-wright",
-      "doi": "10.1002/pmh.1408",
       "issue": "Eligible appointment at publication unverified"
     },
     {

@@ -799,5 +799,103 @@
       "https://doi.org/10.1007/s10803-019-03933-1",
       "https://openalex.org/W3033763359"
     ]
+  },
+  "melanie-dirks": {
+    "ids": [
+      "A5091276272"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.mcgill.ca/psychology/melanie-dirks",
+      "The McGill lab bibliography lists the same article and byline Melanie A. Dirks as the OpenAlex profile.",
+      "https://www.melaniedirks.ca/publications",
+      "https://doi.org/10.1111/pere.70099"
+    ]
+  },
+  "blaine-ditto": {
+    "ids": [
+      "A5045016821"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.mcgill.ca/psychology/blaine-ditto",
+      "Publisher metadata identifies Blaine Ditto in the McGill psychology department. Candidate A5135191591 contains reports outside the scoring window.",
+      "https://pubmed.ncbi.nlm.nih.gov/40543414/",
+      "https://openalex.org/A5135191591"
+    ]
+  },
+  "skye-fitzpatrick": {
+    "ids": [
+      "A5026871001"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.mcgill.ca/psychology/skye-fitzpatrick",
+      "The publisher identifies Skye Fitzpatrick in the prior York University affiliation and McGill confirms the 2026 move. The one-work candidate A5158731805 lacks a corroborated byline in the scoring window.",
+      "https://link.springer.com/article/10.1186/s12888-026-08374-6",
+      "https://www.mcgill.ca/science/files/science/facultycouncilminutes_5october2026.pdf",
+      "https://openalex.org/A5158731805"
+    ],
+    "splitReview": true
+  },
+  "mathieu-roy": {
+    "ids": [
+      "A5076916607"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.mcgill.ca/psychology/mathieu-roy",
+      "The PAIN publisher byline and McGill lab establish Mathieu Roy in the McGill psychology department. The other candidates are affiliated with different groups in public health or imaging physics.",
+      "https://doi.org/10.1097/j.pain.0000000000004108",
+      "https://www.roypainlab.ca/publications"
+    ]
+  },
+  "anna-weinberg": {
+    "ids": [
+      "A5072805379"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.mcgill.ca/psychology/anna-weinberg",
+      "The Wiley article metadata corroborates Anna Weinberg in the McGill psychology department and covers the same research area as her departmental profile.",
+      "https://pubmed.ncbi.nlm.nih.gov/42400332/",
+      "https://onlinelibrary.wiley.com/doi/abs/10.1002/jclp.70174"
+    ]
+  },
+  "tiffany-russell": {
+    "ids": [
+      "A5008095729"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://campus.und.edu/directory/tiffany.russell",
+      "The official CV and publisher metadata confirm Tiffany D. Russell at UND. Candidate A5134420618 mixes matching topic leads and an unrelated biomedical paper and requires work-level review.",
+      "https://webapps.und.edu/uploads/profile-uploads/47808/russell-tiffany_curriculum-vita.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/42782602/",
+      "https://openalex.org/A5134420618"
+    ],
+    "splitReview": true
+  },
+  "richard-wise": {
+    "ids": [
+      "A5161756632"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://campus.und.edu/directory/richard.wise",
+      "Wiley confirms Richard A. Wise at UND. Candidate A5103559910 mixes his online-first August 2026 work with another researcher’s antimicrobial papers. The mixed profile requires work-level review.",
+      "https://webapps.und.edu/uploads/profile-uploads/1842/wise-richard_curriculum-vita.pdf",
+      "https://doi.org/10.1111/lcrp.70045",
+      "https://doi.org/10.1080/21622965.2026.2716161",
+      "https://openalex.org/A5103559910"
+    ],
+    "splitReview": true
   }
 }

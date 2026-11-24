@@ -17501,15 +17501,28 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5091276272"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://www.mcgill.ca/psychology/melanie-dirks",
+        "The McGill lab bibliography lists the same article and byline Melanie A. Dirks as the OpenAlex profile.",
+        "https://www.melaniedirks.ca/publications",
+        "https://doi.org/10.1111/pere.70099"
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {
-        "identity": "No cached response for api.openalex.org"
+        "OpenAlex": "No cached response for api.openalex.org"
       }
     }
   },
@@ -17536,15 +17549,28 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5045016821"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://www.mcgill.ca/psychology/blaine-ditto",
+        "Publisher metadata identifies Blaine Ditto in the McGill psychology department. Candidate A5135191591 contains reports outside the scoring window.",
+        "https://pubmed.ncbi.nlm.nih.gov/40543414/",
+        "https://openalex.org/A5135191591"
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {
-        "identity": "No cached response for api.openalex.org"
+        "OpenAlex": "No cached response for api.openalex.org"
       }
     }
   },
@@ -17572,15 +17598,30 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5026871001"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://www.mcgill.ca/psychology/skye-fitzpatrick",
+        "The publisher identifies Skye Fitzpatrick in the prior York University affiliation and McGill confirms the 2026 move. The one-work candidate A5158731805 lacks a corroborated byline in the scoring window.",
+        "https://link.springer.com/article/10.1186/s12888-026-08374-6",
+        "https://www.mcgill.ca/science/files/science/facultycouncilminutes_5october2026.pdf",
+        "https://openalex.org/A5158731805"
+      ],
+      "splitReview": true
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {
-        "identity": "No cached response for api.openalex.org"
+        "OpenAlex": "No cached response for api.openalex.org"
       }
     }
   },
@@ -17607,16 +17648,38 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5023845889"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5023845889",
+          "name": "Richard Koestner",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -17644,16 +17707,38 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5083617687"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5083617687",
+          "name": "Sarah Elizabeth Racine",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -17679,15 +17764,28 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5076916607"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://www.mcgill.ca/psychology/mathieu-roy",
+        "The PAIN publisher byline and McGill lab establish Mathieu Roy in the McGill psychology department. The other candidates are affiliated with different groups in public health or imaging physics.",
+        "https://doi.org/10.1097/j.pain.0000000000004108",
+        "https://www.roypainlab.ca/publications"
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {
-        "identity": "No cached response for api.openalex.org"
+        "OpenAlex": "No cached response for api.openalex.org"
       }
     }
   },
@@ -17718,16 +17816,71 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5016880174"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5016880174",
+          "name": "Michael J. L. Sullivan",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5031080967",
+          "name": "Michael J. Sullivan",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5002625773",
+          "name": "M. K. Sullivan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5003289867",
+          "name": "Michael B. Sullivan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5063899777",
+          "name": "Michael L. Sullivan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -17755,16 +17908,64 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5085837216"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5085837216",
+          "name": "David D. Vachon",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5020420060",
+          "name": "David Vachon",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5038568360",
+          "name": "David J. Vachon",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5061379451",
+          "name": "P. David Vachon",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5091672227",
+          "name": "Joseph C. Walsh",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -17791,15 +17992,28 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5072805379"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://www.mcgill.ca/psychology/anna-weinberg",
+        "The Wiley article metadata corroborates Anna Weinberg in the McGill psychology department and covers the same research area as her departmental profile.",
+        "https://pubmed.ncbi.nlm.nih.gov/42400332/",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1002/jclp.70174"
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {
-        "identity": "No cached response for api.openalex.org"
+        "OpenAlex": "No cached response for api.openalex.org"
       }
     }
   },
@@ -17830,16 +18044,70 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5007871737"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5007871737",
+          "name": "Alan R. King",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5028270687",
+          "name": "Alan R. King",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5087377725",
+          "name": "Alan King",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5103563017",
+          "name": "Alan King",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5110574833",
+          "name": "Alan J. King",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -17868,16 +18136,70 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5110857824"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5110857824",
+          "name": "Justin Douglas McDonald",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5015016986",
+          "name": "Doug McDonald",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5035417849",
+          "name": "Doug Mcdonald",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5040190284",
+          "name": "Doug McDonald",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5043579189",
+          "name": "Doug McDonald",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -17908,15 +18230,30 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5008095729"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://campus.und.edu/directory/tiffany.russell",
+        "The official CV and publisher metadata confirm Tiffany D. Russell at UND. Candidate A5134420618 mixes matching topic leads and an unrelated biomedical paper and requires work-level review.",
+        "https://webapps.und.edu/uploads/profile-uploads/47808/russell-tiffany_curriculum-vita.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/42782602/",
+        "https://openalex.org/A5134420618"
+      ],
+      "splitReview": true
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {
-        "identity": "No cached response for api.openalex.org"
+        "OpenAlex": "No cached response for api.openalex.org"
       }
     }
   },
@@ -17945,15 +18282,31 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5161756632"
+      ],
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://campus.und.edu/directory/richard.wise",
+        "Wiley confirms Richard A. Wise at UND. Candidate A5103559910 mixes his online-first August 2026 work with another researcher’s antimicrobial papers. The mixed profile requires work-level review.",
+        "https://webapps.und.edu/uploads/profile-uploads/1842/wise-richard_curriculum-vita.pdf",
+        "https://doi.org/10.1111/lcrp.70045",
+        "https://doi.org/10.1080/21622965.2026.2716161",
+        "https://openalex.org/A5103559910"
+      ],
+      "splitReview": true
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {
-        "identity": "No cached response for api.openalex.org"
+        "OpenAlex": "No cached response for api.openalex.org"
       }
     }
   }
