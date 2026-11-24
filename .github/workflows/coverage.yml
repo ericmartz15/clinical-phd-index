@@ -28,6 +28,7 @@ jobs:
           key: clinical-roster-state-${{ github.run_id }}
           restore-keys: clinical-roster-state-
       - run: python pipeline/directories.py --cache "${{ runner.temp }}/directory-cache" --output review/directory-review.json --roster-state review/roster-state.json --apa-export data/apa-directory-live.json --cudcp-export data/cudcp-directory.json
+      - run: python -m pip install 'pypdf[crypto]==7.1.1'
       - run: python pipeline/rosters.py --cache "${{ runner.temp }}/roster-cache" --output review/roster-candidates.json
       - name: Collect faculty profiles, publications, and audit source leads
         env:

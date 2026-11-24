@@ -148,6 +148,7 @@ def roster_review_queue(programs, faculty, rosters, profiles):
             "program": pid, "name": program["name"], "currentRosterStatus": review.get("status", "pending"),
             "appointmentHistoryStatus": program.get("rosterReview", "pending"),
             "sources": roster.get("sources", []), "failedSources": roster.get("failedSources", []),
+            "handbookFacultyLeads": roster.get("handbookFacultyLeads", []),
             "candidates": candidates,
             "rosteredFacultyWithoutExtractedMatch": [person["name"] for person in known
                 if not matched_names & names[person["id"]]],

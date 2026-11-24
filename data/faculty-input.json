@@ -6433,5 +6433,141 @@
         ]
       }
     ]
+  },
+  {
+    "id": "susan-holtzman",
+    "name": "Susan Holtzman",
+    "aliases": [],
+    "source": "https://psych.ok.ubc.ca/about/contact/susan-holtzman/",
+    "areas": [
+      "health psychology",
+      "social relationships",
+      "stress",
+      "digital mental health"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-british-columbia-okanagan-campus",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf",
+        "affiliations": [
+          "University of British Columbia Okanagan",
+          "University of British Columbia – Okanagan Campus",
+          "University of British Columbia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maya-libben",
+    "name": "Maya Libben",
+    "aliases": [],
+    "source": "https://psych.ok.ubc.ca/about/contact/maya-libben/",
+    "areas": [
+      "cognitive neuroscience",
+      "neuropsychology",
+      "eating disorders"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-british-columbia-okanagan-campus",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf",
+        "affiliations": [
+          "University of British Columbia Okanagan",
+          "University of British Columbia – Okanagan Campus",
+          "University of British Columbia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lesley-lutes",
+    "name": "Lesley A. Lutes",
+    "aliases": [
+      "Lesley Lutes"
+    ],
+    "source": "https://psych.ok.ubc.ca/about/contact/lesley-lutes/",
+    "areas": [
+      "health psychology",
+      "behavior change",
+      "weight management"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-british-columbia-okanagan-campus",
+        "role": "tenure-track",
+        "start": "2015",
+        "end": null,
+        "current": true,
+        "source": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf",
+        "affiliations": [
+          "University of British Columbia Okanagan",
+          "University of British Columbia – Okanagan Campus",
+          "University of British Columbia"
+        ],
+        "dateSource": "https://news.ok.ubc.ca/2021/05/11/psychologist-lesley-lutes-is-passionate-about-mental-health/"
+      }
+    ]
+  },
+  {
+    "id": "zach-walsh",
+    "name": "Zach Walsh",
+    "aliases": [
+      "Zachary Walsh"
+    ],
+    "source": "https://psych.ok.ubc.ca/about/contact/zach-walsh/",
+    "areas": [
+      "substance use",
+      "cannabis",
+      "personality disorders"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-british-columbia-okanagan-campus",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf",
+        "affiliations": [
+          "University of British Columbia Okanagan",
+          "University of British Columbia – Okanagan Campus",
+          "University of British Columbia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "michael-woodworth",
+    "name": "Michael Woodworth",
+    "aliases": [],
+    "source": "https://psych.ok.ubc.ca/about/contact/michael-woodworth/",
+    "areas": [
+      "psychopathy",
+      "forensic psychology",
+      "deception"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-british-columbia-okanagan-campus",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf",
+        "affiliations": [
+          "University of British Columbia Okanagan",
+          "University of British Columbia – Okanagan Campus",
+          "University of British Columbia"
+        ]
+      }
+    ]
   }
 ]

@@ -9812,7 +9812,8 @@
     "programUrl": "https://psych.ubc.ca/graduate/research-streams/clinical/",
     "degreeSource": "https://psych.ubc.ca/graduate/research-streams/clinical/program-admission-details/",
     "rosterSourceLeads": [
-      "https://psych.ubc.ca/faculty-group/core-faculty/"
+      "https://psych.ubc.ca/graduate/research-streams/clinical/",
+      "https://psych.ubc.ca/people/?faculty-group=core-faculty&research-area=clinical&type=faculty"
     ]
   },
   {
@@ -9838,8 +9839,51 @@
     "programUrl": "https://psych.ok.ubc.ca/graduate/psychology/",
     "rosterSourceLeads": [
       "https://psych.ok.ubc.ca/graduate/clinical-psychology/",
-      "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf"
-    ]
+      "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2025/09/UBC-Okanagan-Clinical-Psychology-Handbook-rev-Sept-2025-WEB-copy.pdf"
+    ],
+    "rosterUrl": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf",
+    "rosterReview": "pending",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-24",
+      "scope": "The September 2026 program brochure lists nine core members. Five hold regular professorial appointments.",
+      "sources": [
+        {
+          "label": "September 2026 clinical psychology brochure, p. 6",
+          "url": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf"
+        },
+        {
+          "label": "Program directory and appointments",
+          "url": "https://psych.ok.ubc.ca/graduate/clinical-psychology/"
+        }
+      ],
+      "roleDecisions": [
+        {
+          "name": "Jessica Driscoll",
+          "label": "Faculty lecturer",
+          "reason": "The 2026 program brochure explicitly lists a lectureship.",
+          "source": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf"
+        },
+        {
+          "name": "Harry Miller",
+          "label": "Director of Clinical Training and lecturer",
+          "reason": "The program directory identifies the appointment as a lectureship.",
+          "source": "https://psych.ok.ubc.ca/graduate/clinical-psychology/"
+        },
+        {
+          "name": "Jamie Piercy",
+          "label": "Associate Professor of Teaching",
+          "reason": "The department profile names an education-focused professorship.",
+          "source": "https://psych.ok.ubc.ca/about/contact/jamie-piercy/"
+        },
+        {
+          "name": "Christopher Wilson",
+          "label": "Faculty lecturer",
+          "reason": "The 2026 program brochure explicitly lists a lectureship.",
+          "source": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf"
+        }
+      ]
+    }
   },
   {
     "id": "university-of-calgary",

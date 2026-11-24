@@ -9,7 +9,7 @@ from build import assign, audit, diagnostic_check
 from collect import stage_publications
 from common import creditable_appointments, doi_key, merge, normalize, weight
 from directories import cpa_rows
-from rosters import Page, parse
+from rosters import Page, handbook_faculty_pages, parse
 from sources import Client, OA, SourceUnavailable, oa_record, published_byline
 
 
@@ -48,6 +48,19 @@ class ScoringTest(unittest.TestCase):
 
 
 class DataTest(unittest.TestCase):
+    def test_handbook_roster_keeps_adjacent_page_and_role_changes(self):
+        pages = [
+            "Core Doctoral Faculty\nJane Smith, Ph.D., Associate Professor.",
+            "Peter Nguyen, Ph.D., Assistant Professor.\nAssociated Program Faculty\nKim Taylor, Ph.D., Professor.",
+            "Clinical Program Overview\nRowan King, Ph.D.",
+        ]
+        found = handbook_faculty_pages(pages, "official handbook")
+        self.assertEqual([(r["name"], r["page"], r["section"]) for r in found], [
+            ("Jane Smith", 1, "Core Doctoral Faculty"),
+            ("Peter Nguyen", 2, "Core Doctoral Faculty"),
+            ("Kim Taylor", 2, "Associated Program Faculty"),
+        ])
+
     def test_profile_paths_with_accented_characters_are_requested_safely(self):
         with TemporaryDirectory() as directory, patch("sources.urlopen") as request:
             request.return_value.__enter__.return_value.read.return_value = b"<h1>Faculty profile</h1>"

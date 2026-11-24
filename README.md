@@ -23,3 +23,5 @@ The default window is exactly ten years before the build date. Journal articles 
 ## Hero image
 
 `assets/reading-room.jpg` was created with built-in ImageGen for the first version.
+
+The roster review workflow uploads a `roster-review-queue.json` artifact for eligible programs. It records the roster section and source for each profile, highlights already reviewed names and prior role decisions, and includes page-numbered name leads from public handbooks. Cross-check the faculty track and dated appointment evidence before updating `data/faculty-input.json` or marking a roster complete. A manual roster run can collect evidence without spending publication API credits.

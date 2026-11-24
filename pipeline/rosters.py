@@ -2,6 +2,8 @@
 import argparse
 from concurrent.futures import ThreadPoolExecutor
 from html.parser import HTMLParser
+from io import BytesIO
+from itertools import islice
 from pathlib import Path
 import re
 from urllib.parse import quote, urljoin, urlsplit
@@ -22,6 +24,43 @@ EXPLICIT_ROSTER = re.compile(
     r"\bcore\b|\bfaculty whose primary area is clinical\b|\btenured (?:and |or )tenure[- ]track faculty\b", re.I
 )
 NON_FACULTY_SECTION = re.compile(r"\b(students?|postdocs?|staff)\b", re.I)
+HANDBOOK_SECTION = re.compile(
+    r"^(?:core(?: clinical)?(?: psychology| doctoral| program)? faculty|"
+    r"(?:clinical(?: psychology)?(?: adjunct)?|complementary clinical psychology|"
+    r"associated program|affiliated|adjunct|emeritus) faculty)"
+    r"(?:\s*[-–:]\s*[\w ,]+)?$", re.I
+)
+HANDBOOK_BYLINE = re.compile(
+    r"^([A-Z][\w’'‐–-]+(?: +[A-Z][\w.’'‐–-]*){1,5}),? +"
+    r"(?:Ph\.?\s*D\.?|Psy\.?\s*D\.?|M\.?\s*D\.?)(?=[\s,.(]|$)"
+)
+
+
+class HandbookDocument(SourceUnavailable):
+    def __init__(self, content):
+        super().__init__("PDF roster requires manual review")
+        self.content = content
+
+
+def handbook_faculty_pages(pages, source):
+    """Find faculty rosters for comparison with dated handbooks and online directories."""
+    evidence, section, section_page = [], "", 0
+    for number, page in enumerate(pages, 1):
+        page = re.sub(
+            r"(?im)^(core clinical psychology|complementary clinical|clinical psychology adjunct)"
+            r"[ \t]*\n[ \t]*(faculty(?: *- *registered)?|psychology faculty)"
+            r"(?:[ \t]*\n[ \t]*(psychologists))?",
+            lambda match: " ".join(part for part in match.groups() if part), page)
+        for line in page.splitlines():
+            line = " ".join(line.split())
+            if HANDBOOK_SECTION.fullmatch(line):
+                section, section_page = line, number
+            elif re.fullmatch(r"(?:clinical )?program (?:overview|requirements|governance)|other contributors",
+                              line, re.I):
+                section = ""
+            elif section and number <= section_page + 1 and (match := HANDBOOK_BYLINE.match(line)):
+                evidence.append(dict(name=match[1], source=source, page=number, section=section))
+    return evidence
 
 
 def person_link(label, url):
@@ -146,7 +185,7 @@ def parse(client, url):
     request_url = quote(url.split("#", 1)[0], safe=":/?&=+@%!$'()*;,[]~")
     body = client.get(request_url, as_json=False)
     if body.startswith(b"%PDF"):
-        raise SourceUnavailable("PDF roster requires manual review")
+        raise HandbookDocument(body)
     page = Page(url)
     page.feed(body.decode("utf-8", errors="replace"))
     return page
@@ -160,6 +199,9 @@ def source_links(page, institution_host):
             continue
         if re.search(r"clinical.*faculty|core faculty|area faculty|faculty mentors|program faculty", label, re.I):
             priority = 0
+        elif page.clinical_page and re.search(r"\b(?:clinical .*handbook|program handbook|program manual)\b",
+                                              normalize(label)):
+            priority = 1
         elif re.fullmatch(r"clinical (?:psychology|science)(?: (?:program|area|phd|research|concentration))?", normalize(label)):
             priority = 1
         elif page.clinical_page and normalize(label) in {"faculty", "people", "program faculty"}:
@@ -182,13 +224,30 @@ def discover(client, program):
     alternate = program.get("programUrl")
     if alternate and urlsplit(alternate).hostname.removeprefix("www.") == institution:
         pending.setdefault(alternate.split("#", 1)[0], 3)
-    visited, sources, failures, people = set(), [], [], {}
+    visited, sources, failures, people, handbook_leads = set(), [], [], {}, []
     while pending and len(visited) < 6:
         url = min(pending, key=pending.get)
         pending.pop(url)
         visited.add(url)
         try:
             page = parse(client, url)
+        except HandbookDocument as document:
+            try:
+                from pypdf import PdfReader
+                from pypdf.errors import PyPdfError
+            except ImportError:
+                failures.append(dict(url=url, reason="Install pypdf for handbook text"))
+                continue
+            try:
+                reader = PdfReader(BytesIO(document.content))
+                document_leads = handbook_faculty_pages(
+                    (page.extract_text() for page in islice(reader.pages, 30)), url)
+            except (PyPdfError, ValueError, OSError) as error:
+                failures.append(dict(url=url, reason=f"Handbook text unavailable ({type(error).__name__})"))
+                continue
+            sources.append(url)
+            handbook_leads.extend(document_leads)
+            continue
         except SourceUnavailable as error:
             failures.append(dict(url=url, reason=str(error)))
             continue
@@ -202,7 +261,7 @@ def discover(client, program):
                 pending[next_url] = min(pending.get(next_url, priority), priority)
     status = "needs role and completeness review" if sources else "review pending"
     return dict(program=program["id"], status=status, sources=sources,
-                candidates=list(people.values()), failedSources=failures)
+                candidates=list(people.values()), handbookFacultyLeads=handbook_leads, failedSources=failures)
 
 
 def main():
