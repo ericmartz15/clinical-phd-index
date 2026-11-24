@@ -29,12 +29,16 @@
 
   <p class="eyebrow">PUBLICATION COVERAGE</p>
   <h1>Data quality.</h1>
-  <p class="page-description">The leaderboard opens once a fresh 50-faculty sample reaches at least 95% measured recall. Coverage evidence remains visible for each program.</p>
+  <p class="page-description">The leaderboard requires verified current and historical rosters, publication coverage checks, and at least 95% recall in an independent five-year sample of 50 faculty.</p>
   <div class="quality-grid">
     <section class="quality-card"><h2>Five-year recall</h2><div id="recall-value" class="quality-value">Pending</div><p id="recall-detail"></p><p id="diagnostic-detail" hidden></p>
     <p><a href="data/recall-report.json" download>Download the recall report</a></p></section>
     <section class="quality-card"><h2>Coverage</h2><ul id="coverage-counts"></ul></section>
   </div>
+  <section id="audit-missing" class="quality-card wide-card" hidden>
+    <h2>Missing publications in reviewed references</h2>
+    <ul id="audit-missing-list"></ul>
+  </section>
   <section id="collection-status" class="quality-card wide-card" hidden>
     <h2>Automated collection</h2>
     <p id="collection-detail"></p>

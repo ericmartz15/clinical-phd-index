@@ -44,12 +44,10 @@
       "crosschecks": {
         "PubMed": "queried",
         "Crossref": "queried",
-        "Semantic Scholar": "incomplete",
+        "Semantic Scholar": "partial author discovery",
         "PsyArXiv": "queried"
       },
-      "errors": {
-        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -356,6 +354,7 @@
         "source": "https://psychology.fas.harvard.edu/sites/g/files/omnuum9601/files/2025-09/CLINICAL%20PSYCHOLOGY%20HANDBOOK%20September%2025%202025.pdf#page=4"
       }
     ],
+    "publicationList": "https://epiclab.fas.harvard.edu/all-publications",
     "identity": {
       "ids": [
         "A5071692667"
@@ -429,8 +428,7 @@
       "errors": {
         "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
       }
-    },
-    "publicationList": "https://epiclab.fas.harvard.edu/all-publications"
+    }
   },
   {
     "id": "mark-hatzenbuehler",
@@ -14184,15 +14182,25 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5090326622"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "ORCID match"
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
       "errors": {
-        "identity": "No cached response for api.openalex.org"
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
       }
     }
   },
@@ -14228,16 +14236,75 @@
     ],
     "lab": "https://sdlab.fas.harvard.edu/",
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5089843303"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "ORCID match"
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
       "errors": {
-        "identity": "No cached response for api.openalex.org"
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
       }
+    }
+  },
+  {
+    "id": "erik-woody",
+    "name": "Erik Z. Woody",
+    "aliases": [
+      "Erik Woody"
+    ],
+    "orcid": "0000-0002-5093-3488",
+    "orcidSource": "https://www.apa.org/pubs/journals/features/cns-cns0000267.pdf",
+    "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program",
+    "areas": [
+      "hypnosis",
+      "clinical assessment",
+      "interpersonal processes"
+    ],
+    "appointments": [
+      {
+        "program": "university-of-waterloo",
+        "role": "tenure-track",
+        "start": "1981",
+        "end": "2017-04-30",
+        "current": false,
+        "source": "https://uwaterloo.ca/psychology/research/research-areas/clinical-psychology/history-uwaterloo-clinical-psychology-program",
+        "dateSource": "https://uwaterloo.ca/retirees-association/sites/default/files/uploads/documents/wattimes_fall2017_accessible.pdf",
+        "affiliations": [
+          "University of Waterloo"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5003211825"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "ORCID match"
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   }
 ]

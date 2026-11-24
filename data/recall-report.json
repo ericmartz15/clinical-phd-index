@@ -62,7 +62,7 @@
     "john-ruiz",
     "mark-chen"
   ],
-  "audited": 12,
+  "audited": 13,
   "unavailable": [
     "lara-ray",
     "vickie-m-mays",
@@ -70,7 +70,6 @@
     "tiffany-brown",
     "katherine-h-karlsgodt",
     "rebecca-waller",
-    "david-sbarra",
     "sara-jaffee",
     "zachary-cohen",
     "thomas-n-bradbury",
@@ -103,10 +102,10 @@
     "sheri-johnson",
     "john-ruiz"
   ],
-  "matches": 368,
-  "denominator": 370,
+  "matches": 399,
+  "denominator": 401,
   "recall": null,
-  "diagnosticRecall": 0.9945945945945946,
+  "diagnosticRecall": 0.9950124688279302,
   "interval": null,
   "targetMet": false,
   "missing": [
@@ -535,6 +534,285 @@
       "date": "2023-04-28",
       "reference": "https://affcom.ku.edu/publications.html",
       "dateSource": "https://openalex.org/W4367316892",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Temporal and Social\nHeterogeneity in Wearable-Measured\nBehavioral Responses to Wildfire Smoke",
+      "doi": "10.1021/ehp.6c00854",
+      "date": "2026-11-17",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://pubs.acs.org/doi/10.1021/ehp.6c00854",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Heat anomaly, wildfire smoke, social-material vulnerability, and incident depression in a national EHR-linked cohort: A preregistered secondary analysis",
+      "doi": "10.1016/j.jad.2026.122663",
+      "date": "2026-10-30",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42962723/",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Loneliness as a pathway linking hearing decline to cognitive aging: Longitudinal and genetic evidence",
+      "doi": "10.1002/alz.71950",
+      "date": "2026-10-28",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71950",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Hearing loss and loneliness in the development of impaired cognition and dementia in the US All of Us cohort: prospective analyses using electronic health records",
+      "doi": "10.1136/bmjph-2025-004524",
+      "date": "2026-09-02",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42707876/",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "In here and out there: Evidence that age-related differences in memory specificity are attenuated in natural social conversations.",
+      "doi": "10.1037/xge0001961",
+      "date": "2026-08-01",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1037/xge0001961",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "For better and worse: neural self–partner overlap during social feedback is associated with relationship satisfaction and depressive symptoms",
+      "doi": "10.1093/cercor/bhag073",
+      "date": "2026-07-02",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://academic.oup.com/cercor/article-abstract/36/6/bhag073/8723819",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Neural responses to conflicting self- and partner-directed feedback correlate with trait emotion regulation and daily support",
+      "doi": "10.1038/s44271-026-00493-w",
+      "date": "2026-07-02",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1038/s44271-026-00493-w",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Brain neuromarkers predict self- and other-related mentalizing across adult, clinical, and developmental samples",
+      "doi": "10.1038/s41467-026-73945-w",
+      "date": "2026-06-06",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1038/s41467-026-73945-w",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Intimate relationship distress and incidence of major depression in a U.S. probability sample: A preregistered propensity score analysis.",
+      "doi": "10.1037/abn0001131",
+      "date": "2026-05-04",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42080849/",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Interdependent Partners Experience Stronger Affective Responses to Simultaneous Positive and Negative Social Feedback",
+      "doi": "10.1007/s42761-026-00353-0",
+      "date": "2026-03-03",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1007/s42761-026-00353-0",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Genotypic and socioeconomic risks for depressive symptoms in two U.S. cohorts spanning early to older adulthood.",
+      "doi": "10.1037/abn0001051",
+      "date": "2025-10-01",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1037/abn0001051",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Beyond goodbye: daily emotion regulation sensed from deceased loved ones",
+      "doi": "10.1016/j.jadr.2025.100972",
+      "date": "2025-07-01",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1016/j.jadr.2025.100972",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "The dance of smiles: Comparing smile synchrony in nondistressed and therapy-seeking couples.",
+      "doi": "10.1037/emo0001466",
+      "date": "2025-06-01",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1037/emo0001466",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Intimate partner relationship strain and general health for prospective mothers and their child: A target trial emulation study.",
+      "doi": "10.1037/hea0001473",
+      "date": "2025-05-01",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1037/hea0001473",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Examining Impacts of Situational Stress on Cardiovascular Physiology During a Vigilance Task",
+      "doi": "10.1097/psy.0000000000001374",
+      "date": "2025-04-02",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39927726/",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Attachment Insecurity and Partner Reflective Functioning in the Context of Long‐Distance Interracial Romantic Relationships",
+      "doi": "10.1111/pere.70004",
+      "date": "2025-03-25",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1111/pere.70004",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "The Development of a Brief Session‐Level Process Measure for Emotion‐Focused Couple Therapy",
+      "doi": "10.1111/famp.70000",
+      "date": "2025-02-05",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1111/famp.70000",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Are women really (not) more talkative than men? A registered report of binary gender similarities/differences in daily word use.",
+      "doi": "10.1037/pspp0000534",
+      "date": "2025-02-01",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1037/pspp0000534",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Social connection and suicidal thoughts and behaviors in the Million Veteran Program cohort",
+      "doi": "10.1016/j.jpsychires.2024.11.008",
+      "date": "2024-12-01",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1016/j.jpsychires.2024.11.008",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Trauma, adversity, and biological aging: behavioral mechanisms relevant to treatment and theory",
+      "doi": "10.1038/s41398-024-03004-9",
+      "date": "2024-07-12",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1038/s41398-024-03004-9",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Improving culturally responsive clinical training: Exploring the acceptability and feasibility of an exposure-based strategy.",
+      "doi": "10.1037/tep0000462",
+      "date": "2024-02-01",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1037/tep0000462",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Loneliness and time alone in everyday life: A descriptive-exploratory study of subjective and objective social isolation",
+      "doi": "10.1016/j.jrp.2023.104426",
+      "date": "2023-12-01",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1016/j.jrp.2023.104426",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Loneliness and social isolation are not associated with executive functioning in a cross-sectional study of cognitively healthy older adults",
+      "doi": "10.1080/13825585.2023.2270208",
+      "date": "2023-10-22",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1080/13825585.2023.2270208",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Loneliness and depression: bidirectional mendelian randomization analyses using data from three large genome-wide association studies",
+      "doi": "10.1038/s41380-023-02259-w",
+      "date": "2023-09-21",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1038/s41380-023-02259-w",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Promoting attachment security during the transition to college: A pilot study of emotionally focused mentoring",
+      "doi": "10.1177/02654075231195530",
+      "date": "2023-09-05",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1177/02654075231195530",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "The paucity of morality in everyday talk",
+      "doi": "10.1038/s41598-023-32711-4",
+      "date": "2023-04-12",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1038/s41598-023-32711-4",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Psychological distress with relationship satisfaction is moderated by anticipatory relational savoring among\n                    <scp>non‐deployed</scp>\n                    military partners",
+      "doi": "10.1111/pere.12469",
+      "date": "2023-01-21",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1111/pere.12469",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Sleep efficiency and naturalistically-observed social behavior following marital separation: The critical role of contact with an ex-partner",
+      "doi": "10.1177/02654075221135855",
+      "date": "2022-10-22",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1177/02654075221135855",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Spinning Your Wheels: Psychological Overinvolvement and Actigraphy-Assessed Sleep Efficiency Following Marital Separation",
+      "doi": "10.1007/s12529-022-10101-w",
+      "date": "2022-06-13",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1007/s12529-022-10101-w",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Cardiovascular reactivity, stress, and personal emotional salience: Choose your tasks carefully",
+      "doi": "10.1111/psyp.14037",
+      "date": "2022-03-15",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1111/psyp.14037",
+      "matched": true
+    },
+    {
+      "person": "david-sbarra",
+      "title": "Good Theories in Need of Better Data: Combining Clinical and Social Psychological Approaches to Study the Mechanisms Linking Relationships and Health",
+      "doi": "10.1177/17456916211027563",
+      "date": "2021-12-08",
+      "reference": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+      "dateSource": "https://doi.org/10.1177/17456916211027563",
       "matched": true
     },
     {
@@ -3870,7 +4148,7 @@
       ]
     }
   ],
-  "corpusSha256": "93219b9b7e51c1a0cb9bb33be5726861710a27c92af1ea0b6aa1aeaa98edf27b",
+  "corpusSha256": "a243012d1184df5bdaa8fc64aa7aaa29b98c18066268f9cf590e64b7fec39ce7",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",

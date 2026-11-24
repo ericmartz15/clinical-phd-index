@@ -5,7 +5,7 @@ from tempfile import TemporaryDirectory
 from unittest.mock import patch
 from urllib.error import HTTPError
 
-from build import audit, diagnostic_check
+from build import assign, audit, diagnostic_check
 from collect import stage_publications
 from common import creditable_appointments, doi_key, merge, normalize, weight
 from directories import cpa_rows
@@ -14,6 +14,18 @@ from sources import Client, OA, SourceUnavailable, oa_record, published_byline
 
 
 class ScoringTest(unittest.TestCase):
+    def test_legacy_affiliation_cannot_score_before_program_opened(self):
+        person = {"id": "faculty", "identity": {"status": "resolved"}, "appointments": [
+            {"program": "new-program", "role": "tenure-track", "current": True, "source": "roster",
+             "affiliations": ["University"]}
+        ]}
+        first = {"doi": "10.1234/first", "date": "2019-06-30", "authorCount": 1, "issns": [],
+                 "people": {"faculty": {"position": 1, "affiliations": ["University"]}}}
+        second = dict(first, doi="10.1234/second", date="2019-07-02")
+        works = assign([first, second], [person], {}, [], {"new-program": "2019-07-01"})
+        self.assertFalse(works[0]["credit"])
+        self.assertEqual(works[1]["credit"][0]["fractional"], 1)
+
     def test_weight_rules(self):
         self.assertEqual(weight(1, 1), 1)
         self.assertEqual([weight(2, i) for i in range(1, 3)], [.5, .5])

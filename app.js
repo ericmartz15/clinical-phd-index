@@ -257,6 +257,15 @@ function initializeQuality() {
   $("recall-value").textContent = report.recall == null ? "Pending" : `${(100 * report.recall).toFixed(1)}%`;
   const auditLabel = report.stage === "holdout" ? "holdout" : "calibration";
   $("recall-detail").textContent = `${report.sample.length} faculty in the ${auditLabel} sample. ${report.audited} complete reference lists reviewed. ${report.matches} of ${report.denominator} eligible references matched.`;
+  if (report.missing?.length) {
+    const names = new Map(data.faculty.map(person => [person.id, person.name]));
+    $("audit-missing-list").innerHTML = report.missing.map(paper => {
+      const title = escapeHtml(paper.title);
+      const article = paper.doi ? `<a href="https://doi.org/${escapeHtml(paper.doi)}">${title}</a>` : title;
+      return `<li>${article} · ${escapeHtml(names.get(paper.person) || paper.person)}. ${escapeHtml(paper.reason)}</li>`;
+    }).join("");
+    $("audit-missing").hidden = false;
+  }
   const diagnostics = [report.diagnostic, ...(report.diagnosticChecks || [])].filter(Boolean);
   if (diagnostics.length) {
     $("diagnostic-detail").hidden = false;
@@ -266,6 +275,8 @@ function initializeQuality() {
   }
   $("coverage-counts").innerHTML = [
     ["Program entries", data.programs.length], ["Current rosters verified", data.counts.currentRostersVerified || 0],
+    ["Eligible programs awaiting current roster verification", data.programs.filter(program =>
+      ["directory eligible", "active"].includes(program.eligibility) && program.currentRosterReview?.status !== "complete").length],
     ["Current and historical rosters verified", data.counts.rosterVerified],
     ["Verified faculty records", data.counts.faculty], ["Resolved identities", data.counts.resolved],
     ["Identities awaiting resolution", data.counts.faculty - data.counts.resolved],

@@ -3567,5 +3567,341 @@
       "https://www.abct.org/journals/the-behavior-therapist-journal/the-behavior-therapist-journal-submissions-information/"
     ],
     "note": "The August 2026 bibliography was reviewed by DOI and publisher issue. An affiliation-constrained PubMed search through the fixed November cutoff identified no additional articles."
+  },
+  "david-sbarra": {
+    "source": "https://static1.squarespace.com/static/69b8576f87402d62c2718be6/t/6a3ab4a82596061e437e8ab0/1782232232519/Sbarra-CV.pdf",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "doi": "10.1021/ehp.6c00854",
+        "title": "Temporal and Social\nHeterogeneity in Wearable-Measured\nBehavioral Responses to Wildfire Smoke",
+        "date": "2026-11-17",
+        "kind": "journal",
+        "dateSource": "https://pubs.acs.org/doi/10.1021/ehp.6c00854"
+      },
+      {
+        "doi": "10.1016/j.jad.2026.122663",
+        "title": "Heat anomaly, wildfire smoke, social-material vulnerability, and incident depression in a national EHR-linked cohort: A preregistered secondary analysis",
+        "date": "2026-10-30",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42962723/"
+      },
+      {
+        "doi": "10.1002/alz.71950",
+        "title": "Loneliness as a pathway linking hearing decline to cognitive aging: Longitudinal and genetic evidence",
+        "date": "2026-10-28",
+        "kind": "journal",
+        "dateSource": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71950"
+      },
+      {
+        "doi": "10.1136/bmjph-2025-004524",
+        "title": "Hearing loss and loneliness in the development of impaired cognition and dementia in the US All of Us cohort: prospective analyses using electronic health records",
+        "date": "2026-09-02",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42707876/"
+      },
+      {
+        "doi": "10.1037/xge0001961",
+        "title": "In here and out there: Evidence that age-related differences in memory specificity are attenuated in natural social conversations.",
+        "date": "2026-08-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1037/xge0001961",
+        "datePrecision": "month"
+      },
+      {
+        "doi": "10.1093/cercor/bhag073",
+        "title": "For better and worse: neural self–partner overlap during social feedback is associated with relationship satisfaction and depressive symptoms",
+        "date": "2026-07-02",
+        "kind": "journal",
+        "dateSource": "https://academic.oup.com/cercor/article-abstract/36/6/bhag073/8723819"
+      },
+      {
+        "doi": "10.1038/s44271-026-00493-w",
+        "title": "Neural responses to conflicting self- and partner-directed feedback correlate with trait emotion regulation and daily support",
+        "date": "2026-07-02",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s44271-026-00493-w"
+      },
+      {
+        "doi": "10.1038/s41467-026-73945-w",
+        "title": "Brain neuromarkers predict self- and other-related mentalizing across adult, clinical, and developmental samples",
+        "date": "2026-06-06",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s41467-026-73945-w"
+      },
+      {
+        "doi": "10.1037/abn0001131",
+        "title": "Intimate relationship distress and incidence of major depression in a U.S. probability sample: A preregistered propensity score analysis.",
+        "date": "2026-05-04",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42080849/"
+      },
+      {
+        "doi": "10.1007/s42761-026-00353-0",
+        "title": "Interdependent Partners Experience Stronger Affective Responses to Simultaneous Positive and Negative Social Feedback",
+        "date": "2026-03-03",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s42761-026-00353-0"
+      },
+      {
+        "doi": "10.1037/abn0001051",
+        "title": "Genotypic and socioeconomic risks for depressive symptoms in two U.S. cohorts spanning early to older adulthood.",
+        "date": "2025-10-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1037/abn0001051",
+        "datePrecision": "month"
+      },
+      {
+        "doi": "10.1016/j.jadr.2025.100972",
+        "title": "Beyond goodbye: daily emotion regulation sensed from deceased loved ones",
+        "date": "2025-07-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1016/j.jadr.2025.100972",
+        "datePrecision": "month"
+      },
+      {
+        "doi": "10.1037/emo0001466",
+        "title": "The dance of smiles: Comparing smile synchrony in nondistressed and therapy-seeking couples.",
+        "date": "2025-06-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1037/emo0001466",
+        "datePrecision": "month"
+      },
+      {
+        "doi": "10.1037/hea0001473",
+        "title": "Intimate partner relationship strain and general health for prospective mothers and their child: A target trial emulation study.",
+        "date": "2025-05-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1037/hea0001473",
+        "datePrecision": "month"
+      },
+      {
+        "doi": "10.1097/psy.0000000000001374",
+        "title": "Examining Impacts of Situational Stress on Cardiovascular Physiology During a Vigilance Task",
+        "date": "2025-04-02",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39927726/"
+      },
+      {
+        "doi": "10.1111/pere.70004",
+        "title": "Attachment Insecurity and Partner Reflective Functioning in the Context of Long‐Distance Interracial Romantic Relationships",
+        "date": "2025-03-25",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1111/pere.70004"
+      },
+      {
+        "doi": "10.1111/famp.70000",
+        "title": "The Development of a Brief Session‐Level Process Measure for Emotion‐Focused Couple Therapy",
+        "date": "2025-02-05",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1111/famp.70000"
+      },
+      {
+        "doi": "10.1037/pspp0000534",
+        "title": "Are women really (not) more talkative than men? A registered report of binary gender similarities/differences in daily word use.",
+        "date": "2025-02-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1037/pspp0000534",
+        "datePrecision": "month"
+      },
+      {
+        "doi": "10.1016/j.jpsychires.2024.11.008",
+        "title": "Social connection and suicidal thoughts and behaviors in the Million Veteran Program cohort",
+        "date": "2024-12-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1016/j.jpsychires.2024.11.008",
+        "datePrecision": "month"
+      },
+      {
+        "doi": "10.1038/s41398-024-03004-9",
+        "title": "Trauma, adversity, and biological aging: behavioral mechanisms relevant to treatment and theory",
+        "date": "2024-07-12",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s41398-024-03004-9"
+      },
+      {
+        "doi": "10.1037/tep0000462",
+        "title": "Improving culturally responsive clinical training: Exploring the acceptability and feasibility of an exposure-based strategy.",
+        "date": "2024-02-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1037/tep0000462",
+        "datePrecision": "month"
+      },
+      {
+        "doi": "10.1016/j.jrp.2023.104426",
+        "title": "Loneliness and time alone in everyday life: A descriptive-exploratory study of subjective and objective social isolation",
+        "date": "2023-12-01",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1016/j.jrp.2023.104426",
+        "datePrecision": "month"
+      },
+      {
+        "doi": "10.1080/13825585.2023.2270208",
+        "title": "Loneliness and social isolation are not associated with executive functioning in a cross-sectional study of cognitively healthy older adults",
+        "date": "2023-10-22",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1080/13825585.2023.2270208"
+      },
+      {
+        "doi": "10.1038/s41380-023-02259-w",
+        "title": "Loneliness and depression: bidirectional mendelian randomization analyses using data from three large genome-wide association studies",
+        "date": "2023-09-21",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s41380-023-02259-w"
+      },
+      {
+        "doi": "10.1177/02654075231195530",
+        "title": "Promoting attachment security during the transition to college: A pilot study of emotionally focused mentoring",
+        "date": "2023-09-05",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/02654075231195530"
+      },
+      {
+        "doi": "10.1038/s41598-023-32711-4",
+        "title": "The paucity of morality in everyday talk",
+        "date": "2023-04-12",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1038/s41598-023-32711-4"
+      },
+      {
+        "doi": "10.1111/pere.12469",
+        "title": "Psychological distress with relationship satisfaction is moderated by anticipatory relational savoring among\n                    <scp>non‐deployed</scp>\n                    military partners",
+        "date": "2023-01-21",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1111/pere.12469"
+      },
+      {
+        "doi": "10.1177/02654075221135855",
+        "title": "Sleep efficiency and naturalistically-observed social behavior following marital separation: The critical role of contact with an ex-partner",
+        "date": "2022-10-22",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/02654075221135855"
+      },
+      {
+        "doi": "10.1007/s12529-022-10101-w",
+        "title": "Spinning Your Wheels: Psychological Overinvolvement and Actigraphy-Assessed Sleep Efficiency Following Marital Separation",
+        "date": "2022-06-13",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1007/s12529-022-10101-w"
+      },
+      {
+        "doi": "10.1111/psyp.14037",
+        "title": "Cardiovascular reactivity, stress, and personal emotional salience: Choose your tasks carefully",
+        "date": "2022-03-15",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1111/psyp.14037"
+      },
+      {
+        "doi": "10.1177/17456916211027563",
+        "title": "Good Theories in Need of Better Data: Combining Clinical and Social Psychological Approaches to Study the Mechanisms Linking Relationships and Health",
+        "date": "2021-12-08",
+        "kind": "journal",
+        "dateSource": "https://doi.org/10.1177/17456916211027563"
+      }
+    ],
+    "excluded": [
+      {
+        "doi": "10.1177/02654075211047238",
+        "title": "Emotional recovery following divorce: Will the real self-compassion please stand up?",
+        "date": "2021-10-21",
+        "source": "https://doi.org/10.1177/02654075211047238",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1016/j.copsyc.2021.07.016",
+        "title": "Relationship dissolution and psychopathology",
+        "date": "2021-07-23",
+        "source": "https://doi.org/10.1016/j.copsyc.2021.07.016",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1016/j.copsyc.2021.06.007",
+        "title": "Divorce, health, and socioeconomic status: An agenda for psychological science",
+        "date": "2021-06-21",
+        "source": "https://doi.org/10.1016/j.copsyc.2021.06.007",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1016/j.copsyc.2021.06.004",
+        "title": "Social baseline theory: State of the science and new directions",
+        "date": "2021-06-18",
+        "source": "https://doi.org/10.1016/j.copsyc.2021.06.004",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1037/cps0000007",
+        "title": "Accelerating the rate of progress in reducing mental health burdens: Recommendations for training the next generation of clinical psychologists.",
+        "date": "2021-06-01",
+        "source": "https://doi.org/10.1037/cps0000007",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1037/hea0000982",
+        "title": "Genetically informative analysis of the association between intimate relationship adjustment and health.",
+        "date": "2021-08-01",
+        "source": "https://doi.org/10.1037/hea0000982",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.2196/32353",
+        "title": "Use of a Guided Imagery Mobile App (See Me Serene) to Reduce COVID-19–Related Stress: Pilot Feasibility Study",
+        "date": "2021-10-04",
+        "source": "https://doi.org/10.2196/32353",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1037/ccp0000653",
+        "title": "A controlled trial of two mind–body interventions for grief in widows and widowers.",
+        "date": "2021-07-01",
+        "source": "https://doi.org/10.1037/ccp0000653",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1093/abm/kaab014",
+        "title": "Hispanic Ethnic Density May Be Protective for Older Black/African American and Non-Hispanic White Populations for Some Health Conditions: An Exploration of Support and Neighborhood Mechanisms",
+        "date": "2021-04-03",
+        "source": "https://doi.org/10.1093/abm/kaab014",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1093/abm/kaaa113",
+        "title": "Does the Hispanic Mortality Advantage Vary by Marital Status Among Postmenopausal Women in the Women’s Health Initiative?",
+        "date": "2021-01-15",
+        "source": "https://doi.org/10.1093/abm/kaaa113",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1146/annurev-clinpsy-081219-103323",
+        "title": "Intimate Relationships and Depression: Searching for Causation in the Sea of Association",
+        "date": "2021-05-07",
+        "source": "https://doi.org/10.1146/annurev-clinpsy-081219-103323",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1186/s13636-020-00194-0",
+        "title": "Deep multiple instance learning for foreground speech localization in ambient audio from wearable devices",
+        "date": "2021-02-03",
+        "source": "https://doi.org/10.1186/s13636-020-00194-0",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "doi": "10.1016/j.jrp.2020.104046",
+        "title": "Is frequent sighing an indicator of dispositional negative emotionality? A multi-sample, multi-measure naturalistic-observation study",
+        "date": "2021-02-01",
+        "source": "https://doi.org/10.1016/j.jrp.2020.104046",
+        "reason": "Online publication predates the audit window."
+      }
+    ],
+    "supplementarySources": [
+      "https://dave-sbarra.squarespace.com/publications",
+      "https://pubmed.ncbi.nlm.nih.gov/?term=Sbarra+DA%5BAuthor%5D+AND+%28Arizona%5BAffiliation%5D+OR+%22David+Sbarra%22%5BFull+Author+Name%5D%29+AND+%28%222026%2F06%2F24%22%5BDate+-+Publication%5D+%3A+%222026%2F11%2F20%22%5BDate+-+Publication%5D%29+NOT+Preprint%5BPublication+Type%5D",
+      "https://experts.arizona.edu/en/persons/david-a-sbarra/",
+      "https://pubs.acs.org/toc/evhpaz/0/0"
+    ],
+    "note": "The June 2026 CV supplied the peer-reviewed reference list. DOI and byline checks resolved working titles and in-press entries. A targeted PubMed and institutional publication check plus a publisher issue added four verified articles published after the CV. Month precision is recorded where the metadata does not supply a day."
   }
 }

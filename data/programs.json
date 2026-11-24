@@ -6630,7 +6630,8 @@
         "https://www.ohsu.edu/school-of-medicine/psychoneuroimmunology-lab/faculty-and-staff",
         "https://orcid.org/0000-0002-0225-7200",
         "https://www.ohsu.edu/doernbecher/novel-interventions-childrens-healthcare-nich",
-        "https://www.ohsu.edu/people/anna-c-wilson-phd"
+        "https://www.ohsu.edu/people/anna-c-wilson-phd",
+        "https://www.ohsu.edu/sites/default/files/2021-03/OHSU%20Consumer%20Information%20Disclosure.pdf"
       ],
       "roleDecisions": [
         {
@@ -6662,8 +6663,19 @@
           "label": "Appointment track under review",
           "reason": "Verify track for a psychiatry appointment described through clinical service, instruction, and supervision.",
           "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty"
+        },
+        {
+          "name": "Sara Walker",
+          "label": "Associate clinical faculty",
+          "reason": "The clinical PhD roster lists Walker as associate faculty. The clinical team profile describes a core role without a dated appointment, so historical dates are still under review.",
+          "source": "https://www.ohsu.edu/school-of-medicine/clinical-psychology/clinical-psychology-program-faculty"
         }
       ]
+    },
+    "opened": {
+      "earliestDate": "2019-07-01",
+      "precision": "month",
+      "source": "https://www.ohsu.edu/sites/default/files/2021-03/OHSU%20Consumer%20Information%20Disclosure.pdf"
     }
   },
   {

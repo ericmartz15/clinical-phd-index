@@ -100,7 +100,7 @@ def classify(work, venues):
     return "other"
 
 
-def assign(works, faculty, venues, issues):
+def assign(works, faculty, venues, issues, program_open_dates):
     people = {person["id"]: person for person in faculty}
     for work in works:
         work["venueTier"] = classify(work, venues)
@@ -113,6 +113,7 @@ def assign(works, faculty, venues, issues):
                 issues.append(dict(person=pid, doi=work["doi"], issue="Official publication date unavailable"))
                 continue
             appointments = creditable_appointments(person, work["date"], metadata.get("affiliations", []))
+            appointments = [a for a in appointments if work["date"] >= program_open_dates.get(a["program"], "")]
             if not appointments:
                 issues.append(dict(person=pid, doi=work["doi"], issue="Eligible appointment at publication unverified"))
                 continue
@@ -320,7 +321,9 @@ def main():
     excluded_dois.discard("")
     works = assign([work for work in merge(records) if work["doi"] not in excluded_dois and not any(
         (source["source"], source.get("id")) in exclusions for source in work["provenance"]
-    )], faculty, venues, attribution)
+    )], faculty, venues, attribution, {
+        p["id"]: p["opened"]["earliestDate"] for p in programs if p.get("opened")
+    })
     calibration = read(args.calibration_report, {}) if args.calibration_report else {}
     diagnostic = read(DATA / "audit-diagnostic.json")
     checks = read(DATA / "audit-diagnostic-checks.json", [])
