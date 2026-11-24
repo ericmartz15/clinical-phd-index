@@ -140,11 +140,57 @@
     ],
     "rosterUrl": "https://cla.auburn.edu/psychological-sciences/clinical/people/",
     "currentRosterReview": {
-      "status": "partial",
-      "asOf": "2026-11-20",
-      "scope": "The program’s 2027 recruiting faculty and current director of clinical training were verified. Additional associated faculty require role review.",
-      "roleDecisions": []
-    }
+      "status": "complete",
+      "asOf": "2026-11-23",
+      "scope": "The 2026–27 handbook names 13 clinical faculty. Eleven hold regular professorial appointments. The faculty roster also shows two associated research mentors.",
+      "sources": [
+        {
+          "label": "2026–27 clinical handbook, p. 7",
+          "url": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
+        },
+        {
+          "label": "Program faculty",
+          "url": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        },
+        {
+          "label": "2021–22 clinical handbook",
+          "url": "https://cla.auburn.edu/psychology/assets/File/Clinical%20Program%20Handbook%202021-2022.pdf"
+        }
+      ],
+      "roleDecisions": [
+        {
+          "name": "Nadia Bhuiyan",
+          "label": "Clinical appointment",
+          "reason": "The department lists an associate clinical professorship and clinic direction.",
+          "source": "https://cla.auburn.edu/directory/nadia-bhuiyan/"
+        },
+        {
+          "name": "Cassidy Brydon Chesnutt",
+          "label": "Clinical appointment",
+          "reason": "The department lists an assistant clinical professorship.",
+          "source": "https://cla.auburn.edu/directory/cassidy-chesnutt/"
+        },
+        {
+          "name": "Sara Blaine",
+          "label": "Associated program faculty",
+          "reason": "The public program page shows Blaine among associated faculty; the clinical handbook omits her from its clinical faculty list.",
+          "source": "https://cla.auburn.edu/directory/sara-blaine/"
+        },
+        {
+          "name": "Samantha Fede",
+          "label": "Associated program faculty",
+          "reason": "The public program page shows Fede among associated faculty; the clinical handbook omits her from its clinical faculty list.",
+          "source": "https://cla.auburn.edu/directory/samantha-fede/"
+        },
+        {
+          "name": "Joseph R. Bardeen",
+          "label": "Historical appointment under review",
+          "reason": "Auburn’s 2018–19 and 2021–22 handbooks name Bardeen as clinical faculty. The end date requires independent confirmation.",
+          "source": "https://cla.auburn.edu/psychology/assets/File/Clinical%20Program%20Handbook%202021-2022.pdf"
+        }
+      ]
+    },
+    "rosterReview": "pending"
   },
   {
     "id": "program-004",

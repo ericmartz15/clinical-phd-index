@@ -1855,7 +1855,7 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ]
   },
@@ -1881,7 +1881,7 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ]
   },
@@ -1908,7 +1908,7 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ]
   },
@@ -1934,7 +1934,7 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/",
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7",
         "dateSource": "https://bulletin.auburn.edu/undergraduate/faculty/"
       }
     ],
@@ -1963,7 +1963,7 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ]
   },
@@ -1989,7 +1989,7 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ]
   },
@@ -2015,7 +2015,7 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ],
     "orcid": "0000-0002-6038-331X",
@@ -5420,6 +5420,174 @@
         "dateSource": "https://uwaterloo.ca/retirees-association/sites/default/files/uploads/documents/wattimes_fall2017_accessible.pdf",
         "affiliations": [
           "University of Waterloo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elizabeth-brestan-knight",
+    "name": "Elizabeth Brestan-Knight",
+    "aliases": [
+      "Elizabeth Brestan Knight",
+      "Elizabeth Knight",
+      "Elizabeth V. Brestan"
+    ],
+    "source": "https://cla.auburn.edu/directory/elizabeth-knight/",
+    "areas": [
+      "child behavior",
+      "parent-child interaction therapy",
+      "assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "1999",
+        "end": null,
+        "current": true,
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7",
+        "dateSource": "https://bulletin.auburn.edu/undergraduate/faculty/faculty.pdf",
+        "affiliations": [
+          "Auburn University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christopher-correia",
+    "name": "Christopher J. Correia",
+    "aliases": [
+      "Chris Correia",
+      "Christopher Correia"
+    ],
+    "source": "https://cla.auburn.edu/directory/chris-correia/",
+    "areas": [
+      "substance use",
+      "alcohol",
+      "behavioral economics"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "2002",
+        "end": null,
+        "current": true,
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7",
+        "dateSource": "https://cla.auburn.edu/news/articles/cla-names-2022-department-chairs/",
+        "affiliations": [
+          "Auburn University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "john-michael-falligant",
+    "name": "John Michael Falligant",
+    "aliases": [
+      "John M. Falligant",
+      "John Falligant"
+    ],
+    "source": "https://cla.auburn.edu/directory/john-michael-falligant/",
+    "areas": [
+      "challenging behavior",
+      "behavior analysis",
+      "developmental disabilities"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "2024",
+        "end": null,
+        "current": true,
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7",
+        "dateSource": "https://cla.auburn.edu/media/fmimrx3t/falligant-cv_3-6-25.pdf",
+        "affiliations": [
+          "Auburn University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "steven-shapiro",
+    "name": "Steven K. Shapiro",
+    "aliases": [
+      "Steven Shapiro",
+      "Steve Shapiro"
+    ],
+    "source": "https://cla.auburn.edu/directory/steve-shapiro/",
+    "areas": [
+      "child mental health",
+      "pediatric psychology",
+      "behavioral assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "1990",
+        "end": null,
+        "current": true,
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7",
+        "dateSource": "https://bulletin.auburn.edu/undergraduate/faculty/faculty.pdf",
+        "affiliations": [
+          "Auburn University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "brian-albanese",
+    "name": "Brian J. Albanese",
+    "aliases": [
+      "Brian Albanese"
+    ],
+    "source": "https://artsci.tamu.edu/psychological-brain-sciences/_files/brian-albanese-cv.pdf",
+    "areas": [
+      "traumatic stress",
+      "suicide",
+      "anxiety"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "2020",
+        "end": "2022",
+        "current": false,
+        "source": "https://cla.auburn.edu/psychology/assets/File/Clinical%20Program%20Handbook%202021-2022.pdf",
+        "dateSource": "https://artsci.tamu.edu/psychological-brain-sciences/_files/brian-albanese-cv.pdf",
+        "affiliations": [
+          "Auburn University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "richard-macatee",
+    "name": "Richard J. Macatee",
+    "aliases": [
+      "Richard Macatee",
+      "Rick Macatee"
+    ],
+    "source": "https://psychology.fsu.edu/person/rick-macatee",
+    "areas": [
+      "substance use",
+      "internalizing disorders",
+      "distress tolerance"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "2018",
+        "end": "2025",
+        "current": false,
+        "source": "https://cla.auburn.edu/psychology/assets/File/Clinical%20Program%20Handbook%202021-2022.pdf",
+        "dateSource": "https://www.thebrainslab.org/personnel",
+        "affiliations": [
+          "Auburn University"
         ]
       }
     ]
