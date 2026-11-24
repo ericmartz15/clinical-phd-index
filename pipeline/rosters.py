@@ -10,11 +10,16 @@ from common import DATA, normalize, read, write
 from sources import Client, SourceUnavailable
 
 SECONDARY_SECTION = re.compile(
-    r"\b(emerit\w*|retired|adjunct|affiliat\w*|students?|postdocs?|staff|associates?)\b", re.I
+    r"\b(emerit\w*|retired|recall\w*|adjunct|affiliat\w*|associated|secondary|joint|"
+    r"students?|postdocs?|staff|associates?|lecturers?)\b", re.I
 )
 CLINICAL_FACULTY = re.compile(
     r"\bclinical(?: science| psychology)? (?:faculty|mentors?)\b|"
-    r"\bfaculty (?:who supervise|mentors?)\b|\b(?:core|training) faculty\b", re.I
+    r"\bfaculty (?:who supervise|mentors?)\b|\b(?:core|training) (?:doctoral )?faculty\b|"
+    r"\bfaculty whose primary area is clinical\b|\btenured (?:and |or )tenure[- ]track faculty\b", re.I
+)
+EXPLICIT_ROSTER = re.compile(
+    r"\bcore\b|\bfaculty whose primary area is clinical\b|\btenured (?:and |or )tenure[- ]track faculty\b", re.I
 )
 
 
@@ -29,7 +34,9 @@ def person_link(label, url):
         return False
     if label != label.title() and not all(word[0].isupper() for word in label.split() if word.isalpha()):
         return False
-    return bool(re.search(r"/(?:person|people|faculty|faculty-page|profiles?|staff|directory|our-faculty)/[^/]+", path))
+    return bool(re.search(
+        r"/(?:person|people|faculty|faculty-page|profiles?|staff|directory|our-faculty|team-member|bio|bios)/[^/]+",
+        path))
 
 
 class Page(HTMLParser):
@@ -64,7 +71,7 @@ class Page(HTMLParser):
             attributes = dict(attrs)
             href = attributes.get("href") or ""
             self.control = attributes.get("aria-controls") if attributes.get("role") == "button" else None
-            self.link = [urljoin(self.url, href), []]
+            self.link = [urljoin(self.url, href), [], attributes.get("aria-label", "")]
 
     def handle_data(self, value):
         if self.ignored:
@@ -90,8 +97,8 @@ class Page(HTMLParser):
             self.set_scope(int(tag[1]), name)
             self.heading = None
         if tag == "a" and self.link:
-            url, tokens = self.link
-            label = " ".join("".join(tokens).split())
+            url, tokens, accessible_label = self.link
+            label = " ".join(("".join(tokens).strip() or accessible_label).split())
             # Some official program pages publish their faculty list in an accordion.
             if self.control:
                 self.set_scope(3, label)
@@ -100,15 +107,20 @@ class Page(HTMLParser):
                 self.links.append((url, label))
                 if self.in_main:
                     self.main_links.append((url, label))
-                if all(self.scopes.values()) and person_link(name, url):
+                if person_link(name, url):
                     if self.scopes:
-                        person = dict(name=name, url=url, section=self.scopes[max(self.scopes)],
+                        section = self.scopes[max(self.scopes)]
+                        context = ("secondary" if any(SECONDARY_SECTION.search(s) and not re.match(
+                            r"faculty who supervise\b", s, re.I) for s in self.scopes.values())
+                                   else "explicit core" if EXPLICIT_ROSTER.search(section)
+                                   else "clinical section")
+                        person = dict(name=name, url=url, section=section, rosterContext=context,
                                       status="unreviewed", rosterUrl=self.url)
                         self.people.append(person)
                         if self.in_main:
                             self.main_people.append(person)
                     elif self.clinical_page:
-                        person = dict(name=name, url=url, section="Clinical program page",
+                        person = dict(name=name, url=url, section="Clinical program page", rosterContext="page only",
                                       status="unreviewed", rosterUrl=self.url)
                         self.fallback_people.append(person)
                         if self.in_main:
@@ -122,7 +134,7 @@ class Page(HTMLParser):
         if re.match(r"faculty who supervise\b", label, re.I):
             self.scopes[level] = label
         elif SECONDARY_SECTION.search(label):
-            self.scopes[level] = None
+            self.scopes[level] = label
         elif CLINICAL_FACULTY.search(label) or (
                 self.clinical_page and re.fullmatch(r"(?:area |program |research )?faculty(?: mentors)?", label, re.I)):
             self.scopes[level] = label
@@ -143,9 +155,9 @@ def source_links(page, institution_host):
         location = urlsplit(url)
         if (location.hostname or "").removeprefix("www.") != institution_host:
             continue
-        if re.search(r"clinical.*faculty|core faculty|area faculty|faculty mentors", label, re.I):
+        if re.search(r"clinical.*faculty|core faculty|area faculty|faculty mentors|program faculty", label, re.I):
             priority = 0
-        elif re.fullmatch(r"clinical (?:psychology|science)(?: (?:program|area|phd))?", normalize(label)):
+        elif re.fullmatch(r"clinical (?:psychology|science)(?: (?:program|area|phd|research|concentration))?", normalize(label)):
             priority = 1
         elif page.clinical_page and normalize(label) in {"faculty", "people", "program faculty"}:
             priority = 2
@@ -161,7 +173,9 @@ def discover(client, program):
     if not start:
         return dict(program=program["id"], status="official source needed")
     institution = urlsplit(start).hostname.removeprefix("www.")
-    pending = {start.split("#", 1)[0]: -1}
+    pending = {start.split("#", 1)[0]: 0}
+    for lead in program.get("rosterSourceLeads", []):
+        pending.setdefault(lead.split("#", 1)[0], -1)
     alternate = program.get("programUrl")
     if alternate and urlsplit(alternate).hostname.removeprefix("www.") == institution:
         pending.setdefault(alternate.split("#", 1)[0], 3)
@@ -178,7 +192,8 @@ def discover(client, program):
         sources.append(url)
         roster_names = page.main_people or page.main_fallback_people if page.has_main else page.people or page.fallback_people
         for candidate in roster_names:
-            people.setdefault(candidate["url"], candidate)
+            key = (candidate["url"].split("#", 1)[0], candidate["rosterUrl"], candidate["section"])
+            people.setdefault(key, candidate)
         for next_url, priority in source_links(page, institution).items():
             if next_url not in visited:
                 pending[next_url] = min(pending.get(next_url, priority), priority)

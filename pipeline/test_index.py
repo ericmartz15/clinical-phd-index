@@ -59,12 +59,12 @@ class DataTest(unittest.TestCase):
           <div id="admissions"><a href="/profile/john-doe">John Doe</a></div>
           <h2>Affiliated Faculty</h2>
           <h3><a href="/profile/alex-doe">Alex Doe</a></h3>
-          <h2>Clinical Faculty</h2>
+          <h2>Core Clinical Faculty</h2>
           <h3><a href="/profile/lee-doe">Lee Doe</a></h3>
         </main>
         """)
-        self.assertEqual([(row["name"], row["section"]) for row in page.main_people],
-                         [("Jane Doe", "Area Faculty"), ("Lee Doe", "Clinical Faculty")])
+        self.assertEqual([(row["name"], row["rosterContext"]) for row in page.main_people],
+                         [("Jane Doe", "clinical section"), ("Alex Doe", "secondary"), ("Lee Doe", "explicit core")])
 
     def test_openalex_budget_limit_leaves_later_requests_queued(self):
         url = OA + "/authors"

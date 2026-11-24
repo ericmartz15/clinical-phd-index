@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '27 14 5 * *'
   workflow_dispatch:
+    inputs:
+      collect_publications:
+        description: Stage publication candidates after collecting roster evidence
+        type: boolean
+        default: false
 permissions:
   contents: read
 jobs:
@@ -26,7 +31,7 @@ jobs:
       - run: python pipeline/rosters.py --cache "${{ runner.temp }}/roster-cache" --output review/roster-candidates.json
       - name: Collect faculty profiles, publications, and audit source leads
         env:
-          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          OPENALEX_API_KEY: ${{ (github.event_name == 'schedule' || inputs.collect_publications) && secrets.OPENALEX_API_KEY || '' }}
         run: python pipeline/collect.py --rosters review/roster-candidates.json --cache "${{ runner.temp }}/roster-cache" --output review
       - run: python -m unittest discover -s pipeline -p 'test_*.py'
       - uses: actions/upload-artifact@v4

@@ -7,7 +7,7 @@ from pathlib import Path
 import re
 from urllib.parse import urlsplit
 
-from common import DATA, normalize, read, short_id, write
+from common import CORE_ROLES, DATA, normalize, read, short_id, write
 from rosters import parse
 from sources import Client, SourceUnavailable, oa, oa_record, oa_works, resolve
 
@@ -19,13 +19,17 @@ PROFILE_TOPICS = (
 )
 
 
+def profile_name(value):
+    return re.sub(r" (?:ph d|phd|psy d|psyd|m d|md|abpp)(?: .*|$)", "", normalize(value))
+
+
 def profile_evidence(client, candidate):
     result = dict(candidate, profileStatus="name needs confirmation", orcids=[], cvLinks=[], labLinks=[])
     try:
         profile = parse(client, candidate["url"])
     except SourceUnavailable as error:
         return dict(result, profileStatus="unavailable", error=str(error))
-    if normalize(candidate["name"]) not in {normalize(heading) for heading in profile.headings}:
+    if profile_name(candidate["name"]) not in {profile_name(heading) for heading in profile.headings}:
         return result
 
     links = profile.main_links if profile.has_main else profile.links
@@ -40,13 +44,24 @@ def profile_evidence(client, candidate):
             result["labLinks"].append(url)
     profile_text = normalize(" ".join(profile.main_text if profile.has_main else profile.body_text))
     topics = [topic for topic in PROFILE_TOPICS if re.search(rf"\b{re.escape(topic)}", profile_text)]
+    heading = next(normalize(h) for h in profile.headings if profile_name(h) == profile_name(candidate["name"]))
+    title_context = profile_text.partition(heading)[2][:160] if heading else ""
+    rank_lead = re.search(
+        r"\b(?:professor emerit\w*|emerit\w* professor|"
+        r"(?:(?:assistant|associate|clinical|research|distinguished|adjunct) )*professor"
+        r"(?: of (?:clinical practice|instruction|teaching))?|(?:senior )?lecturer|postdoctoral fellow)\b",
+        title_context,
+    )
     return dict(result, profileStatus="name confirmed on profile", orcids=sorted(orcids), publicProfileTopics=topics,
+                rankLead=rank_lead[0] if rank_lead else "",
                 cvLinks=list(dict.fromkeys(result["cvLinks"])), labLinks=list(dict.fromkeys(result["labLinks"])))
 
 
 def stage_publications(client, candidate, affiliations, start, end):
     """Use institutional profile evidence to resolve an author before retrieving works by ID."""
     result = dict(profile=candidate["url"], name=candidate["name"], status="identity requires review", works=[])
+    if candidate.get("rosterEvidence") and all(e["context"] == "secondary" for e in candidate["rosterEvidence"]):
+        return dict(result, status="listed in secondary roster section")
     if candidate["profileStatus"] != "name confirmed on profile" or len(candidate["orcids"]) > 1:
         return result
     try:
@@ -94,6 +109,52 @@ def audit_leads(sample, faculty, profiles, curated=None):
     return references
 
 
+def roster_review_queue(programs, faculty, rosters, profiles):
+    current = {}
+    for person in faculty:
+        for appointment in person["appointments"]:
+            if appointment["current"] and appointment["role"] in CORE_ROLES:
+                current.setdefault(appointment["program"], []).append(person)
+    staged = {roster["program"]: roster for roster in rosters}
+    by_program = {}
+    for candidate in profiles:
+        for pid in candidate["programs"]:
+            by_program.setdefault(pid, []).append(candidate)
+    queue = []
+    for program in programs:
+        pid = program["id"]
+        if pid not in staged or program["eligibility"] not in {"active", "directory eligible"}:
+            continue
+        known = current.get(pid, [])
+        names = {person["id"]: {profile_name(n) for n in (person["name"], *person.get("aliases", []))} for person in known}
+        known_names = set().union(*names.values())
+        candidates, matched_names = [], set()
+        review = program.get("currentRosterReview", {})
+        role_decisions = {profile_name(p["name"]) for p in review.get("roleDecisions", [])}
+        for person in by_program.get(pid, []):
+            evidence = [row for row in person["rosterEvidence"] if row["program"] == pid]
+            key = profile_name(person["name"])
+            if key in known_names and any(row["context"] != "secondary" for row in evidence):
+                matched_names.add(key)
+            candidates.append({
+                "name": person["name"], "profile": person["url"], "placedOnRoster": key in known_names,
+                "recordedRoleDecision": key in role_decisions,
+                "profileStatus": person["profileStatus"], "rankLead": person.get("rankLead", ""),
+                "orcids": person["orcids"], "cvLinks": person["cvLinks"], "labLinks": person["labLinks"],
+                "evidence": evidence,
+            })
+        roster = staged[pid]
+        queue.append({
+            "program": pid, "name": program["name"], "currentRosterStatus": review.get("status", "pending"),
+            "appointmentHistoryStatus": program.get("rosterReview", "pending"),
+            "sources": roster.get("sources", []), "failedSources": roster.get("failedSources", []),
+            "candidates": candidates,
+            "rosteredFacultyWithoutExtractedMatch": [person["name"] for person in known
+                if not matched_names & names[person["id"]]],
+        })
+    return queue
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--rosters", required=True, type=Path)
@@ -105,9 +166,11 @@ def main():
     for roster in rosters:
         for row in roster.get("candidates", []):
             key = row["url"].split("#")[0]
-            entry = seen.setdefault(key, dict(row, url=key, programs=[]))
+            entry = seen.setdefault(key, dict(row, url=key, programs=[], rosterEvidence=[]))
             if roster["program"] not in entry["programs"]:
                 entry["programs"].append(roster["program"])
+            entry["rosterEvidence"].append(dict(program=roster["program"], source=row["rosterUrl"],
+                                                section=row["section"], context=row.get("rosterContext", "page only")))
 
     client = Client(args.cache, True)
     with ThreadPoolExecutor(max_workers=8) as executor:
@@ -123,6 +186,7 @@ def main():
                 lambda row: stage_publications(client, row, affiliations, start.isoformat(), as_of.isoformat()), profiles))
 
     faculty = read(DATA / "faculty-input.json")
+    queue = roster_review_queue(read(DATA / "programs.json"), faculty, rosters, profiles)
     report = read(DATA / "recall-report.json")
     references = audit_leads(report["sample"], faculty, profiles, read(DATA / "audit-source-leads.json", {}))
     summary = dict(
@@ -136,9 +200,14 @@ def main():
         auditSample=len(references),
         auditMembersWithSourceLeads=sum(bool(row["sourceLeads"]) for row in references),
         openAlexEnabled=bool(os.environ.get("OPENALEX_API_KEY")),
+        eligibleProgramsInQueue=len(queue),
+        programsWithExplicitCoreEvidence=sum(any(
+            any(e["context"] == "explicit core" for e in person["evidence"]) for person in item["candidates"]
+        ) for item in queue),
     )
     for name, result in [("faculty-evidence", profiles), ("publication-candidates", collected),
-                         ("audit-reference-leads", references), ("collection-summary", summary)]:
+                         ("audit-reference-leads", references), ("roster-review-queue", queue),
+                         ("collection-summary", summary)]:
         write(args.output / f"{name}.json", result)
     print(summary)
 
