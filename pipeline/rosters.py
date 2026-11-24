@@ -4,7 +4,7 @@ from concurrent.futures import ThreadPoolExecutor
 from html.parser import HTMLParser
 from pathlib import Path
 import re
-from urllib.parse import urljoin, urlsplit
+from urllib.parse import quote, urljoin, urlsplit
 
 from common import DATA, normalize, read, write
 from sources import Client, SourceUnavailable
@@ -21,6 +21,7 @@ CLINICAL_FACULTY = re.compile(
 EXPLICIT_ROSTER = re.compile(
     r"\bcore\b|\bfaculty whose primary area is clinical\b|\btenured (?:and |or )tenure[- ]track faculty\b", re.I
 )
+NON_FACULTY_SECTION = re.compile(r"\b(students?|postdocs?|staff)\b", re.I)
 
 
 def person_link(label, url):
@@ -98,7 +99,7 @@ class Page(HTMLParser):
             self.heading = None
         if tag == "a" and self.link:
             url, tokens, accessible_label = self.link
-            label = " ".join(("".join(tokens).strip() or accessible_label).split())
+            label = " ".join(("".join(tokens).replace("\u200b", "").strip() or accessible_label).split())
             # Some official program pages publish their faculty list in an accordion.
             if self.control:
                 self.set_scope(3, label)
@@ -108,7 +109,8 @@ class Page(HTMLParser):
                 if self.in_main:
                     self.main_links.append((url, label))
                 if person_link(name, url):
-                    if self.scopes:
+                    if self.scopes and not any(NON_FACULTY_SECTION.search(s) and not re.match(
+                            r"faculty who supervise\b", s, re.I) for s in self.scopes.values()):
                         section = self.scopes[max(self.scopes)]
                         context = ("secondary" if any(SECONDARY_SECTION.search(s) and not re.match(
                             r"faculty who supervise\b", s, re.I) for s in self.scopes.values())
@@ -119,7 +121,7 @@ class Page(HTMLParser):
                         self.people.append(person)
                         if self.in_main:
                             self.main_people.append(person)
-                    elif self.clinical_page:
+                    elif not self.scopes and self.clinical_page:
                         person = dict(name=name, url=url, section="Clinical program page", rosterContext="page only",
                                       status="unreviewed", rosterUrl=self.url)
                         self.fallback_people.append(person)
@@ -141,7 +143,8 @@ class Page(HTMLParser):
 
 
 def parse(client, url):
-    body = client.get(url.split("#",1)[0], as_json=False)
+    request_url = quote(url.split("#", 1)[0], safe=":/?&=+@%!$'()*;,[]~")
+    body = client.get(request_url, as_json=False)
     if body.startswith(b"%PDF"):
         raise SourceUnavailable("PDF roster requires manual review")
     page = Page(url)

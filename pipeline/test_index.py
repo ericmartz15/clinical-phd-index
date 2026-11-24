@@ -9,7 +9,7 @@ from build import assign, audit, diagnostic_check
 from collect import stage_publications
 from common import creditable_appointments, doi_key, merge, normalize, weight
 from directories import cpa_rows
-from rosters import Page
+from rosters import Page, parse
 from sources import Client, OA, SourceUnavailable, oa_record, published_byline
 
 
@@ -48,6 +48,12 @@ class ScoringTest(unittest.TestCase):
 
 
 class DataTest(unittest.TestCase):
+    def test_profile_paths_with_accented_characters_are_requested_safely(self):
+        with TemporaryDirectory() as directory, patch("sources.urlopen") as request:
+            request.return_value.__enter__.return_value.read.return_value = b"<h1>Faculty profile</h1>"
+            parse(Client(Path(directory), True), "https://example.edu/people/françois")
+            self.assertEqual(request.call_args.args[0].full_url, "https://example.edu/people/fran%C3%A7ois")
+
     def test_clinical_roster_accordion_and_affiliated_section(self):
         page = Page("https://example.edu/graduate/clinical")
         page.feed("""
