@@ -774,10 +774,69 @@
       }
     ],
     "currentRosterReview": {
-      "status": "partial",
-      "asOf": "2026-11-19",
-      "scope": "Ladder faculty listed with clinical psychology as their primary area. Secondary and joint appointments remain under review for core status.",
-      "roleDecisions": []
+      "status": "complete",
+      "asOf": "2026-11-23",
+      "scope": "UCLA lists 13 ladder faculty with a primary clinical appointment. The 2026–27 clinical handbook distinguishes primary clinical appointments from other research advisers.",
+      "sources": [
+        {
+          "label": "UCLA clinical psychology faculty",
+          "url": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        },
+        {
+          "label": "2026–27 clinical handbook, p. 5",
+          "url": "https://ucla.app.box.com/s/hv83avud1ipxlk2a18hvwzmwej9qrqa5"
+        }
+      ],
+      "roleDecisions": [
+        {
+          "name": "Julienne Bower",
+          "label": "Secondary clinical area",
+          "reason": "UCLA’s directory places this person in a separate section from ladder faculty with a primary clinical appointment. The clinical handbook distinguishes primary clinical appointments for academic advising.",
+          "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        },
+        {
+          "name": "Theodore Robles",
+          "label": "Secondary clinical area",
+          "reason": "UCLA’s directory places this person in a separate section from ladder faculty with a primary clinical appointment. The clinical handbook distinguishes primary clinical appointments for academic advising.",
+          "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        },
+        {
+          "name": "Jennifer Sumner",
+          "label": "Secondary clinical area",
+          "reason": "UCLA’s directory places this person in a separate section from ladder faculty with a primary clinical appointment. The clinical handbook distinguishes primary clinical appointments for academic advising.",
+          "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        },
+        {
+          "name": "Carrie Bearden",
+          "label": "Joint appointment",
+          "reason": "UCLA’s directory places this person in a separate section from ladder faculty with a primary clinical appointment. The clinical handbook distinguishes primary clinical appointments for academic advising.",
+          "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        },
+        {
+          "name": "Jocelyn Meza",
+          "label": "Joint appointment",
+          "reason": "UCLA’s directory places this person in a separate section from ladder faculty with a primary clinical appointment. The clinical handbook distinguishes primary clinical appointments for academic advising.",
+          "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        },
+        {
+          "name": "David J. Miklowitz",
+          "label": "Joint appointment",
+          "reason": "UCLA’s directory places this person in a separate section from ladder faculty with a primary clinical appointment. The clinical handbook distinguishes primary clinical appointments for academic advising.",
+          "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        },
+        {
+          "name": "Keith H. Nuechterlein",
+          "label": "Joint appointment",
+          "reason": "UCLA’s directory places this person in a separate section from ladder faculty with a primary clinical appointment. The clinical handbook distinguishes primary clinical appointments for academic advising.",
+          "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        },
+        {
+          "name": "Kate Wolitzky-Taylor",
+          "label": "Joint appointment",
+          "reason": "UCLA’s directory places this person in a separate section from ladder faculty with a primary clinical appointment. The clinical handbook distinguishes primary clinical appointments for academic advising.",
+          "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        }
+      ]
     }
   },
   {

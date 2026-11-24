@@ -3903,5 +3903,334 @@
       "https://pubs.acs.org/toc/evhpaz/0/0"
     ],
     "note": "The June 2026 CV supplied the peer-reviewed reference list. DOI and byline checks resolved working titles and in-press entries. A targeted PubMed and institutional publication check plus a publisher issue added four verified articles published after the CV. Month precision is recorded where the metadata does not supply a day."
+  },
+  "matthew-grilli": {
+    "source": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+    "complete": true,
+    "window": [
+      "2021-11-20",
+      "2026-11-20"
+    ],
+    "papers": [
+      {
+        "doi": "10.1002/alz.71950",
+        "title": "Loneliness as a pathway linking hearing decline to cognitive aging: Longitudinal and genetic evidence",
+        "date": "2026-10-28",
+        "kind": "journal",
+        "dateSource": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71950"
+      },
+      {
+        "doi": "10.1037/xge0001961",
+        "title": "In here and out there: Evidence that age-related differences in memory specificity are attenuated in natural social conversations",
+        "date": "2026-08-01",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42531004/",
+        "datePrecision": "month"
+      },
+      {
+        "doi": "10.1037/pag0000993",
+        "title": "Knowledge is power: The effects of conceptual knowledge on event memory in aging",
+        "date": "2026-07-09",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42423700/"
+      },
+      {
+        "doi": "10.1093/geronb/gbag090",
+        "title": "Decomposing trust-related decision making: dimensionality and predictability of phishing susceptibility in an adult lifespan sample",
+        "date": "2026-07-01",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42166734/"
+      },
+      {
+        "doi": "10.1093/geronb/gbaf239",
+        "title": "The advantages of aging: greater stability of self-representation in older adults is linked to higher well-being",
+        "date": "2026-01-12",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41325187/"
+      },
+      {
+        "doi": "10.1073/pnas.2513990123",
+        "title": "Enhanced episodic specificity and socioemotional content in older adults' everyday autobiographical thoughts",
+        "date": "2026-01-08",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41505522/"
+      },
+      {
+        "doi": "10.3758/s13421-025-01818-6",
+        "title": "Beyond who, what, and where: Findings from two experiments on age group differences in narrative elaborateness of autobiographical events",
+        "date": "2025-12-08",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41361074/"
+      },
+      {
+        "doi": "10.1016/j.cognition.2025.106358",
+        "title": "Naturalistic movements enrich episodic memories but not their spatiotemporal structure",
+        "date": "2025-11-04",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41192378/"
+      },
+      {
+        "doi": "10.1017/s1355617725000141",
+        "title": "The perks of being bilingual: Autobiographical memory and aging among bilingual and monolingual Hispanic adults",
+        "date": "2025-10-30",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41165544/"
+      },
+      {
+        "doi": "10.1016/j.isci.2025.113755",
+        "title": "Mapping content and dynamics in the stream of consciousness through latent brain state analysis",
+        "date": "2025-10-13",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41362768/"
+      },
+      {
+        "doi": "10.3758/s13428-025-02767-3",
+        "title": "Modeling memories, predicting prospections: Automated scoring of autobiographical detail narration using large language models",
+        "date": "2025-08-01",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40750940/"
+      },
+      {
+        "doi": "10.1038/s41598-024-82493-6",
+        "title": "A novel scoring protocol reveals age-related differences in abstract compared to concrete thinking in cued autobiographical remembering",
+        "date": "2024-12-27",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39730904/"
+      },
+      {
+        "doi": "10.1093/geronb/gbae151",
+        "title": "Interoceptive Accuracy Enhances Deception Detection in Older Adults",
+        "date": "2024-11-01",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39297532/"
+      },
+      {
+        "doi": "10.3758/s13423-024-02592-3",
+        "title": "Shape of the past: Revealing detail arcs while narrating memories of autobiographical life events across the lifespan",
+        "date": "2024-10-14",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39402395/"
+      },
+      {
+        "doi": "10.3389/fnagi.2024.1406394",
+        "title": "Cortical lobar volume reductions associated with homocysteine-related subcortical brain atrophy and poorer cognition in healthy aging",
+        "date": "2024-08-07",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39170895/"
+      },
+      {
+        "doi": "10.1093/pnasnexus/pgae296",
+        "title": "Phishing vulnerability compounded by older age, apolipoprotein E e4 genotype, and lower cognition",
+        "date": "2024-08-01",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39118834/"
+      },
+      {
+        "doi": "10.1111/jnp.12380",
+        "title": "Direct access to specific autobiographical memories is lower in healthy middle-aged to older adult Apolipoprotein E ε4 carriers compared to non-carriers",
+        "date": "2024-07-01",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38949213/"
+      },
+      {
+        "doi": "10.1007/s42761-024-00239-z",
+        "title": "Speaking Well and Feeling Good: Age-Related Differences in the Affective Language of Resting State Thought",
+        "date": "2024-06-24",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39050037/"
+      },
+      {
+        "doi": "10.3758/s13428-024-02440-1",
+        "title": "How ready is speech-to-text for psychological language research? Evaluating the validity of AI-generated English transcripts for analyzing free-spoken responses in younger and older adults",
+        "date": "2024-05-21",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38773028/"
+      },
+      {
+        "doi": "10.1016/j.neuropsychologia.2024.108902",
+        "title": "The hippocampus supports precise memory for public events regardless of their remoteness",
+        "date": "2024-05-07",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38723890/"
+      },
+      {
+        "doi": "10.1007/s00426-024-01938-9",
+        "title": "Retrieving autobiographical memories in autobiographical contexts: are age-related differences in narrated episodic specificity present outside of the laboratory?",
+        "date": "2024-04-04",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38573358/"
+      },
+      {
+        "doi": "10.1017/s1355617724000122",
+        "title": "Impact of age and apolipoprotein E ε4 status on regional white matter hyperintensity volume and cognition in healthy aging",
+        "date": "2024-03-22",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38515367/"
+      },
+      {
+        "doi": "10.3389/fnagi.2024.1349449",
+        "title": "Regional covariance of white matter hyperintensity volume patterns associated with hippocampal volume in healthy aging",
+        "date": "2024-03-08",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38524117/"
+      },
+      {
+        "doi": "10.1080/13825585.2024.2326244",
+        "title": "Age differences in spatial memory are mitigated during naturalistic navigation",
+        "date": "2024-03-06",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38445641/"
+      },
+      {
+        "doi": "10.1073/pnas.2307884120",
+        "title": "Hippocampal contributions to novel spatial learning are both age-related and age-invariant",
+        "date": "2023-12-06",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38055735/"
+      },
+      {
+        "doi": "10.1162/jocn_a_02057",
+        "title": "Evidence of Impaired Remote Experience-near Semantic Memory in Medial Temporal Lobe Amnesia",
+        "date": "2023-12-01",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37713665/"
+      },
+      {
+        "doi": "10.1080/13825585.2023.2270208",
+        "title": "Loneliness and social isolation are not associated with executive functioning in a cross-sectional study of cognitively healthy older adults",
+        "date": "2023-10-22",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37865921/"
+      },
+      {
+        "doi": "10.1037/pag0000769",
+        "title": "Differences in the content and coherence of autobiographical memories between younger and older adults: Insights from text analysis",
+        "date": "2023-07-20",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37470991/"
+      },
+      {
+        "doi": "10.1080/10400419.2023.2227477",
+        "title": "Creative minds at rest: Creative individuals are more associative and engaged with their idle thoughts",
+        "date": "2023-06-23",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39132452/"
+      },
+      {
+        "doi": "10.1037/neu0000866",
+        "title": "Past and future episodic detail retrieval is reduced among clinically normal older adults at higher genetic risk for late-onset Alzheimer's disease",
+        "date": "2022-11-28",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/36442007/"
+      },
+      {
+        "doi": "10.1017/s1355617722000455",
+        "title": "The impact of context on pattern separation for objects among younger and older apolipoprotein ϵ4 carriers and noncarriers",
+        "date": "2022-11-23",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/36416211/"
+      },
+      {
+        "doi": "10.1016/j.tics.2022.09.007",
+        "title": "Autobiographical event memory and aging: older adults get the gist",
+        "date": "2022-10-01",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/36195539/"
+      },
+      {
+        "doi": "10.1080/09658211.2022.2088796",
+        "title": "Simulating the best and worst of times: the powers and perils of emotional simulation",
+        "date": "2022-06-16",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35708272/"
+      },
+      {
+        "doi": "10.3389/fnagi.2022.863942",
+        "title": "Episodic Memory and Executive Function Are Differentially Affected by Retests but Similarly Affected by Age in a Longitudinal Study of Normally-Aging Older Adults",
+        "date": "2022-04-13",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35493924/"
+      },
+      {
+        "doi": "10.1016/j.neuropsychologia.2022.108225",
+        "title": "Largely intact memory for spatial locations during navigation in an individual with dense amnesia",
+        "date": "2022-03-31",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35367237/"
+      },
+      {
+        "doi": "10.1016/j.neuropsychologia.2021.108138",
+        "title": "Individual differences in the relationship between episodic detail generation and resting state functional connectivity vary with age",
+        "date": "2021-12-27",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/34968505/",
+        "diagnosis": "OpenAlex used the date of an earlier manuscript for the same journal DOI. The first journal publication date is December 27, 2021."
+      },
+      {
+        "doi": "10.1016/j.cortex.2021.11.013",
+        "title": "Autobiographical memory unknown: Pervasive autobiographical memory loss encompassing personality trait knowledge in an individual with medial temporal lobe amnesia",
+        "date": "2021-12-02",
+        "kind": "journal",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35007893/",
+        "diagnosis": "An OpenAlex record labeled the journal DOI a preprint. PubMed and the publisher identify the journal article first published on December 2, 2021."
+      }
+    ],
+    "excluded": [
+      {
+        "title": "Is This Phishing? Older Age Is Associated With Greater Difficulty Discriminating Between Safe and Malicious Emails",
+        "doi": "10.1093/geronb/gbaa228",
+        "date": "2021-10-30",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/33378418/",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "Autobiographical Memory Fluency Reductions in Cognitively Unimpaired Middle-Aged and Older Adults at Increased Risk for Alzheimer's Disease Dementia",
+        "doi": "10.1017/s1355617720001319",
+        "date": "2021-01-29",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/33509324/",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "Influence of regional white matter hyperintensity volume and apolipoprotein E ε4 status on hippocampal volume in healthy older adults",
+        "doi": "10.1002/hipo.23308",
+        "date": "2021-02-15",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/33586848/",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "Apolipoprotein E ε4 Allele-Based Differences in Brain Volumes Are Largely Uniform Across Late Middle Aged and Older Hispanic/Latino- and Non-Hispanic/Latino Whites Without Dementia",
+        "doi": "10.3389/fnagi.2021.627322",
+        "date": "2021-02-26",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/33716715/",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "Mapping the imaginative mind: Charting new paths forward",
+        "doi": "10.1177/0963721420980753",
+        "date": "2021-01-25",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/33746376/",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "Older Adults Show Reduced Spatial Precision but Preserved Strategy-Use During Spatial Navigation Involving Body-Based Cues",
+        "doi": "10.3389/fnagi.2021.640188",
+        "date": "2021-04-12",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/33912024/",
+        "reason": "Online publication predates the audit window."
+      },
+      {
+        "title": "The think aloud paradigm reveals differences in the content, dynamics and conceptual scope of resting state thought in trait brooding",
+        "doi": "10.1038/s41598-021-98138-x",
+        "date": "2021-09-30",
+        "source": "https://pubmed.ncbi.nlm.nih.gov/34593842/",
+        "reason": "Online publication predates the audit window."
+      }
+    ],
+    "supplementarySources": [
+      "https://www.grillilab.com/news",
+      "https://embi.arizona.edu/sites/default/files/2022-06/2020%20McKnight%20Report_WebVersion.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/?term=Grilli+MD%5BAuthor%5D+AND+%28Arizona%5BAffiliation%5D+OR+%22Matthew+D+Grilli%22%5BFull+Author+Name%5D%29+AND+%28%222026%2F07%2F01%22%5BDate+-+Publication%5D+%3A+%222026%2F11%2F20%22%5BDate+-+Publication%5D%29+NOT+Preprint%5BPublication+Type%5D"
+    ],
+    "note": "Faculty-maintained My Bibliography identified as the complete publication list in the university research report. Both bibliography pages were checked, including manually entered records. Three later journal articles were verified using PubMed. The same bibliographic service supplied metadata, so this is a calibration check with potentially optimistic coverage for sources outside PubMed."
   }
 }

@@ -2956,7 +2956,7 @@
       {
         "program": "ucla",
         "role": "tenure-track",
-        "start": null,
+        "start": "1973",
         "end": null,
         "current": true,
         "affiliations": [
@@ -2964,7 +2964,8 @@
           "university of california los angeles",
           "ucla"
         ],
-        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/",
+        "dateSource": "https://www.psych.ucla.edu/wp-content/uploads/ADELVITA2021.pdf"
       }
     ],
     "identity": {
@@ -3039,7 +3040,7 @@
       {
         "program": "ucla",
         "role": "tenure-track",
-        "start": null,
+        "start": "1990",
         "end": null,
         "current": true,
         "affiliations": [
@@ -3047,7 +3048,8 @@
           "university of california los angeles",
           "ucla"
         ],
-        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/",
+        "dateSource": "https://marriage.psych.ucla.edu/wp-content/uploads/sites/213/2025/05/Thomas-Bradbury-Vita.pdf"
       }
     ],
     "identity": {
@@ -3262,7 +3264,7 @@
       {
         "program": "ucla",
         "role": "tenure-track",
-        "start": null,
+        "start": "2022",
         "end": null,
         "current": true,
         "affiliations": [
@@ -3270,7 +3272,8 @@
           "university of california los angeles",
           "ucla"
         ],
-        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/",
+        "dateSource": "https://www.psych.ucla.edu/wp-content/uploads/Ho_CV_UCLA_Nov2022_website.pdf"
       }
     ],
     "identity": {
@@ -3358,7 +3361,7 @@
       {
         "program": "ucla",
         "role": "tenure-track",
-        "start": null,
+        "start": "2016",
         "end": null,
         "current": true,
         "affiliations": [
@@ -3366,7 +3369,8 @@
           "university of california los angeles",
           "ucla"
         ],
-        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/",
+        "dateSource": "https://karlsgodtlab.psych.ucla.edu/wp-content/uploads/sites/96/2015/09/Karlsgodt-CV-10-2016.pdf"
       }
     ],
     "identity": {
@@ -3675,7 +3679,7 @@
       {
         "program": "ucla",
         "role": "tenure-track",
-        "start": null,
+        "start": "2019",
         "end": null,
         "current": true,
         "affiliations": [
@@ -3683,7 +3687,8 @@
           "university of california los angeles",
           "ucla"
         ],
-        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/",
+        "dateSource": "https://www.psych.ucla.edu/news/highlighting-faculty-member-lauren-ng/"
       }
     ],
     "identity": {
@@ -3769,7 +3774,7 @@
       {
         "program": "ucla",
         "role": "tenure-track",
-        "start": null,
+        "start": "2008",
         "end": null,
         "current": true,
         "affiliations": [
@@ -3777,7 +3782,8 @@
           "university of california los angeles",
           "ucla"
         ],
-        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/",
+        "dateSource": "https://www.psych.ucla.edu/wp-content/uploads/Lara_Ray_CV_Sep-2023.pdf"
       }
     ],
     "identity": {
@@ -3856,7 +3862,7 @@
       {
         "program": "ucla",
         "role": "tenure-track",
-        "start": null,
+        "start": "2011",
         "end": null,
         "current": true,
         "affiliations": [
@@ -3864,7 +3870,8 @@
           "university of california los angeles",
           "ucla"
         ],
-        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/"
+        "source": "https://www.psych.ucla.edu/faculty/clinical-psychology/",
+        "dateSource": "https://newsroom.ucla.edu/dept/faculty/cindy-yee-bradbury-receives-award"
       }
     ],
     "identity": {
@@ -4935,70 +4942,33 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.98,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
+      "ids": [
+        "A5013900147",
+        "A5147623582"
       ],
-      "candidates": [
-        {
-          "id": "A5013900147",
-          "name": "Tiffany A. Brown",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5072494979",
-          "name": "Tiffany A. Brown",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5147623582",
-          "name": "Tiffany A. Brown",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5138124821",
-          "name": "Tiffany A. Brown",
-          "confidence": 0.63,
-          "evidence": [
-            "Full name or documented name variant",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5015787227",
-          "name": "Tiffany Brown",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
-      ]
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "The author ORCID 0000-0002-7349-7228 is on confirmed papers. A5147623582 contains one publication with an Auburn byline, 10.1016/j.bodyim.2026.102168.",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11864894/",
+        "https://pubmed.ncbi.nlm.nih.gov/42623981/",
+        "A5072494979 combines Auburn eating-disorder bylines with a University of Otago researcher. Claim checks for the remaining Auburn works are queued individually. A5138124821 has no in-window journal or preprint records.",
+        "https://pubmed.ncbi.nlm.nih.gov/34002530/"
+      ],
+      "splitReview": true
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "partial",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
+      },
       "errors": {}
     }
   },
@@ -5024,63 +4994,29 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5075264630"
       ],
-      "candidates": [
-        {
-          "id": "A5075264630",
-          "name": "Travis Clark Evans",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5001111751",
-          "name": "Travis Evans",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5020402137",
-          "name": "Travis Evans",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5028102016",
-          "name": "Travis Evans",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5060865000",
-          "name": "Travis Evans",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "The lab and author profile agree on social affect and cognitive neuroscience, and the published paper records Travis Clark Evans’s ORCID 0000-0002-0858-7905.",
+        "https://cla.auburn.edu/directory/travis-evans/",
+        "https://www.bu.edu/ballab/pubs/DeGutis22023.pdf"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
+      },
       "errors": {}
     }
   },
@@ -5107,7 +5043,7 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ],
     "identity": {
@@ -5146,10 +5082,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -5176,7 +5112,7 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/",
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7",
         "dateSource": "https://bulletin.auburn.edu/undergraduate/faculty/"
       }
     ],
@@ -5195,10 +5131,10 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "partial author discovery",
+        "PsyArXiv": "queried"
       },
       "errors": {}
     }
@@ -5225,68 +5161,33 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.98,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history",
-        "Multiple research topic terms agree"
+      "ids": [
+        "A5073015702",
+        "A5138545142"
       ],
-      "candidates": [
-        {
-          "id": "A5073015702",
-          "name": "April R. Smith",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5138545142",
-          "name": "April R. Smith",
-          "confidence": 0.98,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history",
-            "Multiple research topic terms agree"
-          ]
-        },
-        {
-          "id": "A5008859572",
-          "name": "April R. Smith",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5050299343",
-          "name": "April Smith",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        },
-        {
-          "id": "A5072452498",
-          "name": "April C. Smith",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "Publisher bylines document both ORCIDs for the Auburn faculty member. Wiley provides 0000-0003-0832-0028 and the APA article provides 0009-0006-8758-7685. Records are linked to the same faculty member and deduplicated by DOI.",
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/eat.23973",
+        "https://www.apa.org/pubs/journals/releases/dev-dev0002219.pdf"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {}
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -5311,7 +5212,7 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ],
     "identity": {
@@ -5355,12 +5256,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -5385,7 +5288,7 @@
           "Auburn University",
           "auburn university"
         ],
-        "source": "https://cla.auburn.edu/psychological-sciences/clinical/people/"
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7"
       }
     ],
     "orcid": "0000-0002-6038-331X",
@@ -5403,12 +5306,14 @@
     "retrieval": {
       "openAlex": "complete",
       "crosschecks": {
-        "PubMed": "not run",
-        "Crossref": "not run",
-        "Semantic Scholar": "not run",
-        "PsyArXiv": "not run"
+        "PubMed": "queried",
+        "Crossref": "queried",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
       },
-      "errors": {}
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   },
   {
@@ -14305,6 +14210,406 @@
         "PsyArXiv": "not run"
       },
       "errors": {}
+    }
+  },
+  {
+    "id": "elizabeth-brestan-knight",
+    "name": "Elizabeth Brestan-Knight",
+    "aliases": [
+      "Elizabeth Brestan Knight",
+      "Elizabeth Knight",
+      "Elizabeth V. Brestan"
+    ],
+    "source": "https://cla.auburn.edu/directory/elizabeth-knight/",
+    "areas": [
+      "child behavior",
+      "parent-child interaction therapy",
+      "assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "1999",
+        "end": null,
+        "current": true,
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7",
+        "dateSource": "https://bulletin.auburn.edu/undergraduate/faculty/faculty.pdf",
+        "affiliations": [
+          "Auburn University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5025990120",
+        "A5072099551"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "A5025990120 indexes the parent-child interaction work described by Auburn’s research lab. Wiley confirms A5072099551’s in-window Eyberg Child Behavior Inventory study names the Auburn researcher. The older Elizabeth V. Brestan record A5057913903 has no works in the scoring window.",
+        "https://webhome.auburn.edu/~brestev/",
+        "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jpr.12365"
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
+    }
+  },
+  {
+    "id": "christopher-correia",
+    "name": "Christopher J. Correia",
+    "aliases": [
+      "Chris Correia",
+      "Christopher Correia"
+    ],
+    "source": "https://cla.auburn.edu/directory/chris-correia/",
+    "areas": [
+      "substance use",
+      "alcohol",
+      "behavioral economics"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "2002",
+        "end": null,
+        "current": true,
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7",
+        "dateSource": "https://cla.auburn.edu/news/articles/cla-names-2022-department-chairs/",
+        "affiliations": [
+          "Auburn University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5065626177"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5065626177",
+          "name": "Christopher J. Correia",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5093767859",
+          "name": "Chris Correia",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5013132818",
+          "name": "Christopher Falcão Correia",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5069802127",
+          "name": "Christopher Roland Correia",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
+    }
+  },
+  {
+    "id": "john-michael-falligant",
+    "name": "John Michael Falligant",
+    "aliases": [
+      "John M. Falligant",
+      "John Falligant"
+    ],
+    "source": "https://cla.auburn.edu/directory/john-michael-falligant/",
+    "areas": [
+      "challenging behavior",
+      "behavior analysis",
+      "developmental disabilities"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "2024",
+        "end": null,
+        "current": true,
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7",
+        "dateSource": "https://cla.auburn.edu/media/fmimrx3t/falligant-cv_3-6-25.pdf",
+        "affiliations": [
+          "Auburn University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5025347316"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "PubMed provides both the Auburn affiliation and John Michael Falligant’s ORCID 0000-0002-0062-9074.",
+        "https://pubmed.ncbi.nlm.nih.gov/39353871/"
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
+    }
+  },
+  {
+    "id": "steven-shapiro",
+    "name": "Steven K. Shapiro",
+    "aliases": [
+      "Steven Shapiro",
+      "Steve Shapiro"
+    ],
+    "source": "https://cla.auburn.edu/directory/steve-shapiro/",
+    "areas": [
+      "child mental health",
+      "pediatric psychology",
+      "behavioral assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "1990",
+        "end": null,
+        "current": true,
+        "source": "https://cla.auburn.edu/media/1qydydmr/clinical-program-handbook-2026-2027-accessible-version-july-2026.pdf#page=7",
+        "dateSource": "https://bulletin.auburn.edu/undergraduate/faculty/faculty.pdf",
+        "affiliations": [
+          "Auburn University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5111774848"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5111774848",
+          "name": "Steven K. Shapiro",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5080206898",
+          "name": "Steven M. Shapiro",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5016529841",
+          "name": "Stephen L. Shapiro",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5037168677",
+          "name": "Steve Shapiro",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5051795550",
+          "name": "Steve Shapiro",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
+    }
+  },
+  {
+    "id": "brian-albanese",
+    "name": "Brian J. Albanese",
+    "aliases": [
+      "Brian Albanese"
+    ],
+    "source": "https://artsci.tamu.edu/psychological-brain-sciences/_files/brian-albanese-cv.pdf",
+    "areas": [
+      "traumatic stress",
+      "suicide",
+      "anxiety"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "2020",
+        "end": "2022",
+        "current": false,
+        "source": "https://cla.auburn.edu/psychology/assets/File/Clinical%20Program%20Handbook%202021-2022.pdf",
+        "dateSource": "https://artsci.tamu.edu/psychological-brain-sciences/_files/brian-albanese-cv.pdf",
+        "affiliations": [
+          "Auburn University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5071242435"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5071242435",
+          "name": "Brian J. Albanese",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
+    }
+  },
+  {
+    "id": "richard-macatee",
+    "name": "Richard J. Macatee",
+    "aliases": [
+      "Richard Macatee",
+      "Rick Macatee"
+    ],
+    "source": "https://psychology.fsu.edu/person/rick-macatee",
+    "areas": [
+      "substance use",
+      "internalizing disorders",
+      "distress tolerance"
+    ],
+    "appointments": [
+      {
+        "program": "program-003",
+        "role": "tenure-track",
+        "start": "2018",
+        "end": "2025",
+        "current": false,
+        "source": "https://cla.auburn.edu/psychology/assets/File/Clinical%20Program%20Handbook%202021-2022.pdf",
+        "dateSource": "https://www.thebrainslab.org/personnel",
+        "affiliations": [
+          "Auburn University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5047023097"
+      ],
+      "confidence": 1,
+      "status": "resolved",
+      "evidence": [
+        "Wiley provides both the Auburn affiliation and Richard J. Macatee’s ORCID 0000-0001-8135-7762.",
+        "https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13423"
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "queried",
+        "Crossref": "partial author discovery",
+        "Semantic Scholar": "incomplete",
+        "PsyArXiv": "queried"
+      },
+      "errors": {
+        "Semantic Scholar": "HTTP 429 from api.semanticscholar.org"
+      }
     }
   }
 ]

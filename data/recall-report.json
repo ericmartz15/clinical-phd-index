@@ -7,8 +7,8 @@
     "2021-11-20",
     "2026-11-20"
   ],
-  "eligibleFaculty": 193,
-  "samplingFrame": 193,
+  "eligibleFaculty": 197,
+  "samplingFrame": 197,
   "excludedCalibration": [],
   "sample": [
     "aaron-fisher",
@@ -62,7 +62,7 @@
     "john-ruiz",
     "mark-chen"
   ],
-  "audited": 13,
+  "audited": 14,
   "unavailable": [
     "lara-ray",
     "vickie-m-mays",
@@ -91,7 +91,6 @@
     "michelle-craske",
     "hedy-kober",
     "charlene-muehlenhard",
-    "matthew-grilli",
     "lauren-c-ng",
     "stephen-hinshaw",
     "tera-fazzino",
@@ -102,10 +101,10 @@
     "sheri-johnson",
     "john-ruiz"
   ],
-  "matches": 399,
-  "denominator": 401,
+  "matches": 436,
+  "denominator": 438,
   "recall": null,
-  "diagnosticRecall": 0.9950124688279302,
+  "diagnosticRecall": 0.9954337899543378,
   "interval": null,
   "targetMet": false,
   "missing": [
@@ -2238,6 +2237,339 @@
       "matched": false
     },
     {
+      "person": "matthew-grilli",
+      "title": "Loneliness as a pathway linking hearing decline to cognitive aging: Longitudinal and genetic evidence",
+      "doi": "10.1002/alz.71950",
+      "date": "2026-10-28",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71950",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "In here and out there: Evidence that age-related differences in memory specificity are attenuated in natural social conversations",
+      "doi": "10.1037/xge0001961",
+      "date": "2026-08-01",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42531004/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Knowledge is power: The effects of conceptual knowledge on event memory in aging",
+      "doi": "10.1037/pag0000993",
+      "date": "2026-07-09",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42423700/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Decomposing trust-related decision making: dimensionality and predictability of phishing susceptibility in an adult lifespan sample",
+      "doi": "10.1093/geronb/gbag090",
+      "date": "2026-07-01",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/42166734/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "The advantages of aging: greater stability of self-representation in older adults is linked to higher well-being",
+      "doi": "10.1093/geronb/gbaf239",
+      "date": "2026-01-12",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41325187/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Enhanced episodic specificity and socioemotional content in older adults' everyday autobiographical thoughts",
+      "doi": "10.1073/pnas.2513990123",
+      "date": "2026-01-08",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41505522/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Beyond who, what, and where: Findings from two experiments on age group differences in narrative elaborateness of autobiographical events",
+      "doi": "10.3758/s13421-025-01818-6",
+      "date": "2025-12-08",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41361074/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Naturalistic movements enrich episodic memories but not their spatiotemporal structure",
+      "doi": "10.1016/j.cognition.2025.106358",
+      "date": "2025-11-04",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41192378/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "The perks of being bilingual: Autobiographical memory and aging among bilingual and monolingual Hispanic adults",
+      "doi": "10.1017/s1355617725000141",
+      "date": "2025-10-30",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41165544/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Mapping content and dynamics in the stream of consciousness through latent brain state analysis",
+      "doi": "10.1016/j.isci.2025.113755",
+      "date": "2025-10-13",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/41362768/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Modeling memories, predicting prospections: Automated scoring of autobiographical detail narration using large language models",
+      "doi": "10.3758/s13428-025-02767-3",
+      "date": "2025-08-01",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/40750940/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "A novel scoring protocol reveals age-related differences in abstract compared to concrete thinking in cued autobiographical remembering",
+      "doi": "10.1038/s41598-024-82493-6",
+      "date": "2024-12-27",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39730904/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Interoceptive Accuracy Enhances Deception Detection in Older Adults",
+      "doi": "10.1093/geronb/gbae151",
+      "date": "2024-11-01",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39297532/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Shape of the past: Revealing detail arcs while narrating memories of autobiographical life events across the lifespan",
+      "doi": "10.3758/s13423-024-02592-3",
+      "date": "2024-10-14",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39402395/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Cortical lobar volume reductions associated with homocysteine-related subcortical brain atrophy and poorer cognition in healthy aging",
+      "doi": "10.3389/fnagi.2024.1406394",
+      "date": "2024-08-07",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39170895/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Phishing vulnerability compounded by older age, apolipoprotein E e4 genotype, and lower cognition",
+      "doi": "10.1093/pnasnexus/pgae296",
+      "date": "2024-08-01",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39118834/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Direct access to specific autobiographical memories is lower in healthy middle-aged to older adult Apolipoprotein E ε4 carriers compared to non-carriers",
+      "doi": "10.1111/jnp.12380",
+      "date": "2024-07-01",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38949213/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Speaking Well and Feeling Good: Age-Related Differences in the Affective Language of Resting State Thought",
+      "doi": "10.1007/s42761-024-00239-z",
+      "date": "2024-06-24",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39050037/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "How ready is speech-to-text for psychological language research? Evaluating the validity of AI-generated English transcripts for analyzing free-spoken responses in younger and older adults",
+      "doi": "10.3758/s13428-024-02440-1",
+      "date": "2024-05-21",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38773028/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "The hippocampus supports precise memory for public events regardless of their remoteness",
+      "doi": "10.1016/j.neuropsychologia.2024.108902",
+      "date": "2024-05-07",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38723890/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Retrieving autobiographical memories in autobiographical contexts: are age-related differences in narrated episodic specificity present outside of the laboratory?",
+      "doi": "10.1007/s00426-024-01938-9",
+      "date": "2024-04-04",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38573358/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Impact of age and apolipoprotein E ε4 status on regional white matter hyperintensity volume and cognition in healthy aging",
+      "doi": "10.1017/s1355617724000122",
+      "date": "2024-03-22",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38515367/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Regional covariance of white matter hyperintensity volume patterns associated with hippocampal volume in healthy aging",
+      "doi": "10.3389/fnagi.2024.1349449",
+      "date": "2024-03-08",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38524117/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Age differences in spatial memory are mitigated during naturalistic navigation",
+      "doi": "10.1080/13825585.2024.2326244",
+      "date": "2024-03-06",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38445641/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Hippocampal contributions to novel spatial learning are both age-related and age-invariant",
+      "doi": "10.1073/pnas.2307884120",
+      "date": "2023-12-06",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/38055735/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Evidence of Impaired Remote Experience-near Semantic Memory in Medial Temporal Lobe Amnesia",
+      "doi": "10.1162/jocn_a_02057",
+      "date": "2023-12-01",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37713665/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Loneliness and social isolation are not associated with executive functioning in a cross-sectional study of cognitively healthy older adults",
+      "doi": "10.1080/13825585.2023.2270208",
+      "date": "2023-10-22",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37865921/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Differences in the content and coherence of autobiographical memories between younger and older adults: Insights from text analysis",
+      "doi": "10.1037/pag0000769",
+      "date": "2023-07-20",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/37470991/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Creative minds at rest: Creative individuals are more associative and engaged with their idle thoughts",
+      "doi": "10.1080/10400419.2023.2227477",
+      "date": "2023-06-23",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/39132452/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Past and future episodic detail retrieval is reduced among clinically normal older adults at higher genetic risk for late-onset Alzheimer's disease",
+      "doi": "10.1037/neu0000866",
+      "date": "2022-11-28",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/36442007/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "The impact of context on pattern separation for objects among younger and older apolipoprotein ϵ4 carriers and noncarriers",
+      "doi": "10.1017/s1355617722000455",
+      "date": "2022-11-23",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/36416211/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Autobiographical event memory and aging: older adults get the gist",
+      "doi": "10.1016/j.tics.2022.09.007",
+      "date": "2022-10-01",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/36195539/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Simulating the best and worst of times: the powers and perils of emotional simulation",
+      "doi": "10.1080/09658211.2022.2088796",
+      "date": "2022-06-16",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35708272/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Episodic Memory and Executive Function Are Differentially Affected by Retests but Similarly Affected by Age in a Longitudinal Study of Normally-Aging Older Adults",
+      "doi": "10.3389/fnagi.2022.863942",
+      "date": "2022-04-13",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35493924/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Largely intact memory for spatial locations during navigation in an individual with dense amnesia",
+      "doi": "10.1016/j.neuropsychologia.2022.108225",
+      "date": "2022-03-31",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35367237/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Individual differences in the relationship between episodic detail generation and resting state functional connectivity vary with age",
+      "doi": "10.1016/j.neuropsychologia.2021.108138",
+      "date": "2021-12-27",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/34968505/",
+      "matched": true
+    },
+    {
+      "person": "matthew-grilli",
+      "title": "Autobiographical memory unknown: Pervasive autobiographical memory loss encompassing personality trait knowledge in an individual with medial temporal lobe amnesia",
+      "doi": "10.1016/j.cortex.2021.11.013",
+      "date": "2021-12-02",
+      "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+      "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35007893/",
+      "matched": true
+    },
+    {
       "person": "allison-harvey",
       "title": "Innovative Approaches to Advancing Equitable Access to Insomnia Interventions",
       "doi": "10.1007/s40675-026-00385-9",
@@ -4146,9 +4478,58 @@
           "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
         }
       ]
+    },
+    {
+      "label": "November 23 Matthew Grilli comparison before date and publication type repairs",
+      "corpusSha256": "38ef2632d9e7e053e7b10a7afeab4720ea32244433bdb1760579f42d07e5757a",
+      "audited": 14,
+      "matches": 434,
+      "denominator": 438,
+      "missing": [
+        {
+          "person": "daniel-taylor",
+          "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+          "doi": "",
+          "date": "2023-06-01",
+          "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+          "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+          "matched": false,
+          "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+        },
+        {
+          "person": "david-moscovitch",
+          "title": "How Could MDMA Enhance CBT for Social Anxiety Disorder?",
+          "doi": "",
+          "date": "2025-07",
+          "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+          "dateSource": "https://www.abct.org/latest-news/the-behavior-therapist-july-2025/",
+          "matched": false,
+          "reason": "ABCT publishes the article in its peer-reviewed July 2025 issue. A matching DOI or bibliographic database record was not found. The publisher specifies the issue month."
+        },
+        {
+          "person": "matthew-grilli",
+          "title": "Individual differences in the relationship between episodic detail generation and resting state functional connectivity vary with age",
+          "doi": "10.1016/j.neuropsychologia.2021.108138",
+          "date": "2021-12-27",
+          "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+          "dateSource": "https://pubmed.ncbi.nlm.nih.gov/34968505/",
+          "matched": false,
+          "reason": "OpenAlex used the date of an earlier manuscript for the same journal DOI. The first journal publication date is December 27, 2021."
+        },
+        {
+          "person": "matthew-grilli",
+          "title": "Autobiographical memory unknown: Pervasive autobiographical memory loss encompassing personality trait knowledge in an individual with medial temporal lobe amnesia",
+          "doi": "10.1016/j.cortex.2021.11.013",
+          "date": "2021-12-02",
+          "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+          "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35007893/",
+          "matched": false,
+          "reason": "An OpenAlex record labeled the journal DOI a preprint. PubMed and the publisher identify the journal article first published on December 2, 2021."
+        }
+      ]
     }
   ],
-  "corpusSha256": "a243012d1184df5bdaa8fc64aa7aaa29b98c18066268f9cf590e64b7fec39ce7",
+  "corpusSha256": "503b9bb1e6586622663ecb7356743c68ff0b0922cefb5209e575bc949368f52d",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",

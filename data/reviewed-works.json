@@ -1709,5 +1709,103 @@
         "appointmentSource": "https://psychology.yale.edu/research/clinical-psychology"
       }
     ]
+  },
+  {
+    "title": "Individual differences in the relationship between episodic detail generation and resting state functional connectivity vary with age",
+    "doi": "10.1016/j.neuropsychologia.2021.108138",
+    "date": "2021-12-27",
+    "kind": "journal",
+    "venue": "Neuropsychologia",
+    "authorCount": 5,
+    "pmcid": "",
+    "people": {
+      "lee-ryan": {
+        "position": 4,
+        "affiliations": [
+          "University of Arizona"
+        ]
+      },
+      "matthew-grilli": {
+        "position": 5,
+        "affiliations": [
+          "University of Arizona"
+        ]
+      }
+    },
+    "issns": [
+      "1873-3514"
+    ],
+    "topics": [],
+    "evidenceDates": [
+      {
+        "date": "2021-12-27",
+        "type": "published-online",
+        "source": "PubMed"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "PubMed",
+        "id": "34968505",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34968505/"
+      },
+      {
+        "source": "Publisher",
+        "id": "10.1016/j.neuropsychologia.2021.108138",
+        "url": "https://doi.org/10.1016/j.neuropsychologia.2021.108138"
+      },
+      {
+        "source": "OpenAlex",
+        "id": "W4200593215",
+        "url": "https://openalex.org/W4200593215"
+      }
+    ],
+    "peerReview": "confirmed"
+  },
+  {
+    "title": "Autobiographical memory unknown: Pervasive autobiographical memory loss encompassing personality trait knowledge in an individual with medial temporal lobe amnesia",
+    "doi": "10.1016/j.cortex.2021.11.013",
+    "date": "2021-12-02",
+    "kind": "journal",
+    "venue": "Cortex; a journal devoted to the study of the nervous system and behavior",
+    "authorCount": 6,
+    "pmcid": "",
+    "people": {
+      "matthew-grilli": {
+        "position": 6,
+        "affiliations": [
+          "University of Arizona"
+        ]
+      }
+    },
+    "issns": [
+      "1973-8102"
+    ],
+    "topics": [],
+    "evidenceDates": [
+      {
+        "date": "2021-12-02",
+        "type": "published-online",
+        "source": "PubMed"
+      }
+    ],
+    "provenance": [
+      {
+        "source": "PubMed",
+        "id": "35007893",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35007893/"
+      },
+      {
+        "source": "Publisher",
+        "id": "10.1016/j.cortex.2021.11.013",
+        "url": "https://doi.org/10.1016/j.cortex.2021.11.013"
+      },
+      {
+        "source": "OpenAlex",
+        "id": "W4226145546",
+        "url": "https://openalex.org/W4226145546"
+      }
+    ],
+    "peerReview": "confirmed"
   }
 ]

@@ -402,5 +402,54 @@
         "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
       }
     ]
+  },
+  {
+    "label": "November 23 Matthew Grilli comparison before date and publication type repairs",
+    "corpusSha256": "38ef2632d9e7e053e7b10a7afeab4720ea32244433bdb1760579f42d07e5757a",
+    "audited": 14,
+    "matches": 434,
+    "denominator": 438,
+    "missing": [
+      {
+        "person": "daniel-taylor",
+        "title": "Virtual Standardized Patients for Cognitive Behavioral Therapy Training: Description of Platform Architecture",
+        "doi": "",
+        "date": "2023-06-01",
+        "reference": "https://psychology.arizona.edu/sites/default/files/Daniel-Taylor-CV-9.10.26.pdf",
+        "dateSource": "https://scholars.uthscsa.edu/en/publications/virtual-standardized-patients-for-cognitive-behavioral-therapy-tr/",
+        "matched": false,
+        "reason": "The CV, publisher volume and university bibliography confirm the byline. No DOI or matching database record was verified."
+      },
+      {
+        "person": "david-moscovitch",
+        "title": "How Could MDMA Enhance CBT for Social Anxiety Disorder?",
+        "doi": "",
+        "date": "2025-07",
+        "reference": "https://uwaterloo.ca/psychology/sites/default/files/uploads/documents/moscovitch_publication-list_aug-2026.pdf",
+        "dateSource": "https://www.abct.org/latest-news/the-behavior-therapist-july-2025/",
+        "matched": false,
+        "reason": "ABCT publishes the article in its peer-reviewed July 2025 issue. A matching DOI or bibliographic database record was not found. The publisher specifies the issue month."
+      },
+      {
+        "person": "matthew-grilli",
+        "title": "Individual differences in the relationship between episodic detail generation and resting state functional connectivity vary with age",
+        "doi": "10.1016/j.neuropsychologia.2021.108138",
+        "date": "2021-12-27",
+        "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/34968505/",
+        "matched": false,
+        "reason": "OpenAlex used the date of an earlier manuscript for the same journal DOI. The first journal publication date is December 27, 2021."
+      },
+      {
+        "person": "matthew-grilli",
+        "title": "Autobiographical memory unknown: Pervasive autobiographical memory loss encompassing personality trait knowledge in an individual with medial temporal lobe amnesia",
+        "doi": "10.1016/j.cortex.2021.11.013",
+        "date": "2021-12-02",
+        "reference": "https://www.ncbi.nlm.nih.gov/sites/myncbi/matthew.grilli.1/bibliography/48613144/public/",
+        "dateSource": "https://pubmed.ncbi.nlm.nih.gov/35007893/",
+        "matched": false,
+        "reason": "An OpenAlex record labeled the journal DOI a preprint. PubMed and the publisher identify the journal article first published on December 2, 2021."
+      }
+    ]
   }
 ]
