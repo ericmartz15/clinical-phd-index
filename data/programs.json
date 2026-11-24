@@ -6263,7 +6263,33 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "degreeSource": "https://und.edu/programs/clinical-psychology-phd/index.html",
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-24",
+      "scope": "The clinical roster lists six current core faculty. Department and individual profiles confirm regular professorial ranks for four. Two core directors still need appointment-track evidence.",
+      "sources": [
+        "https://arts-sciences.und.edu/academics/psychology/clinical/faculty.html",
+        "https://arts-sciences.und.edu/academics/psychology/faculty-staff.html",
+        "https://arts-sciences.und.edu/academics/psychology/clinical/_files/docs/clinical-psychology-handbook.pdf",
+        "https://arts-sciences.und.edu/academics/psychology/_files/docs/2430-und-psychology-newsletter.pdf"
+      ],
+      "roleDecisions": [
+        {
+          "name": "JP Legerski",
+          "label": "Appointment track under review",
+          "reason": "Both current rosters specify a clinic director title and active clinical PhD supervision. Confirmation of the appointment track is pending.",
+          "source": "https://campus.und.edu/directory/johnpaul.legerski"
+        },
+        {
+          "name": "Joe Miller",
+          "label": "Appointment track under review",
+          "reason": "Both current rosters specify Director of Clinical Training and document research supervision. Confirmation of the appointment track is pending.",
+          "source": "https://campus.und.edu/directory/joseph.miller"
+        }
+      ]
+    }
   },
   {
     "id": "program-127",
@@ -9340,7 +9366,7 @@
     "region": "Canada",
     "programUrl": "https://www.mcgill.ca/psychology/graduate/prospective-students/admission-requirements-procedures",
     "country": "CA",
-    "eligibility": "directory eligible",
+    "eligibility": "active",
     "degree": "PhD",
     "affiliations": [
       "mcgill university"
@@ -9366,7 +9392,58 @@
       "McGill University — Clinical Psychology PhD"
     ],
     "rosterUrl": "https://www.mcgill.ca/psychology/people-0/faculty-0",
-    "rosterReview": "pending"
+    "rosterReview": "pending",
+    "degreeSource": "https://www.mcgill.ca/gradapplicants/program/psychology-phd",
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-24",
+      "scope": "Nine current research appointments are corroborated in McGill’s core faculty directory and clinical research area roster. The graduate-track page and the current department directory differ on one additional mentor.",
+      "sources": [
+        "https://www.mcgill.ca/psychology/people-0/faculty-0",
+        "https://www.mcgill.ca/psychology/research-0/clinical-psychological-science",
+        "https://www.mcgill.ca/psychology/graduate/program-tracks/clinical",
+        "https://www.mcgill.ca/psychology/people-0/faculty-0/emeritus-retired",
+        "https://www.mcgill.ca/science/files/science/facultycouncilminutes_5october2026.pdf"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Gillian O’Driscoll",
+          "label": "Current appointment under review",
+          "reason": "The graduate-track page lists this faculty member as a clinical mentor. The current department core faculty and clinical research area rosters both omit her. Exact status and transition date require evidence.",
+          "source": "https://www.mcgill.ca/psychology/gillian-odriscoll"
+        },
+        {
+          "name": "Sonia Krol",
+          "label": "Clinical appointment",
+          "reason": "The individual profile identifies the appointment as Assistant Professor (Clinical), and the faculty council lists it under Contract Academic Staff.",
+          "source": "https://www.mcgill.ca/science/files/science/facultycouncilminutes_9september2025.pdf"
+        },
+        {
+          "name": "Sara Colalillo",
+          "label": "Clinical appointment",
+          "reason": "McGill identifies the faculty role as Assistant Professor (Clinical) and clinic director.",
+          "source": "https://www.mcgill.ca/psychology/people-0/faculty-0"
+        },
+        {
+          "name": "Irving M. Binik",
+          "label": "Emeritus",
+          "reason": "The department classifies this person as retired or emeritus. Prior active appointment dates remain under review.",
+          "source": "https://www.mcgill.ca/psychology/people-0/faculty-0/emeritus-retired"
+        },
+        {
+          "name": "Robert Pihl",
+          "label": "Emeritus",
+          "reason": "The department classifies this person as retired or emeritus. Prior active appointment dates remain under review.",
+          "source": "https://www.mcgill.ca/psychology/people-0/faculty-0/emeritus-retired"
+        },
+        {
+          "name": "David Zuroff",
+          "label": "Emeritus",
+          "reason": "The department classifies this person as retired or emeritus. Prior active appointment dates remain under review.",
+          "source": "https://www.mcgill.ca/psychology/people-0/faculty-0/emeritus-retired"
+        }
+      ]
+    }
   },
   {
     "id": "the-ohio-state-university-idd-program",

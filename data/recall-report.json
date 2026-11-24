@@ -7,9 +7,9 @@
     "2021-11-20",
     "2026-11-20"
   ],
-  "eligibleFaculty": 243,
-  "samplingFrame": 243,
-  "samplingFrameSha256": "e54dccd3aa301351a95fa0bb70a4ba0bbd575e6f4358821c778c47f715ce595a",
+  "eligibleFaculty": 256,
+  "samplingFrame": 256,
+  "samplingFrameSha256": "985c67d5314adf3fda610a0d9e4ff656894dcccab6005b2726cc7f4ac574445c",
   "excludedCalibration": [],
   "sample": [
     "aaron-fisher",
@@ -4530,7 +4530,7 @@
       ]
     }
   ],
-  "corpusSha256": "2ee393f98023dfd618f9b8210cf7002255ae59565fa70bd563c47b85b36d06a5",
+  "corpusSha256": "4e62f7398e1ab5d52bb5986c29afdcfe108adb4f5ed61b620745eb37ada3dc76",
   "diagnostic": {
     "person": "matthew-nock",
     "scope": "Selected journal articles from the lab's 2024 and 2025 publication lists",

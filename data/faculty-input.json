@@ -6882,5 +6882,331 @@
         ]
       }
     ]
+  },
+  {
+    "id": "melanie-dirks",
+    "name": "Melanie Dirks",
+    "aliases": [
+      "Melanie A. Dirks"
+    ],
+    "source": "https://www.mcgill.ca/psychology/melanie-dirks",
+    "areas": [
+      "child psychopathology",
+      "peer relationships",
+      "assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-193",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.mcgill.ca/psychology/research-0/clinical-psychological-science",
+        "affiliations": [
+          "McGill University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blaine-ditto",
+    "name": "Blaine Ditto",
+    "aliases": [],
+    "source": "https://www.mcgill.ca/psychology/blaine-ditto",
+    "areas": [
+      "behavioral medicine",
+      "cardiovascular psychophysiology"
+    ],
+    "appointments": [
+      {
+        "program": "program-193",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.mcgill.ca/psychology/research-0/clinical-psychological-science",
+        "affiliations": [
+          "McGill University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "skye-fitzpatrick",
+    "name": "Skye Fitzpatrick",
+    "aliases": [],
+    "source": "https://www.mcgill.ca/psychology/skye-fitzpatrick",
+    "areas": [
+      "emotion regulation",
+      "dialectical behavior therapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-193",
+        "role": "tenure-track",
+        "start": "2026",
+        "end": null,
+        "current": true,
+        "source": "https://www.mcgill.ca/psychology/research-0/clinical-psychological-science",
+        "affiliations": [
+          "McGill University"
+        ],
+        "dateSource": "https://www.mcgill.ca/science/files/science/facultycouncilminutes_5october2026.pdf"
+      }
+    ]
+  },
+  {
+    "id": "richard-koestner",
+    "name": "Richard Koestner",
+    "aliases": [],
+    "source": "https://www.mcgill.ca/psychology/richard-koestner",
+    "areas": [
+      "motivation",
+      "self-regulation"
+    ],
+    "appointments": [
+      {
+        "program": "program-193",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.mcgill.ca/psychology/research-0/clinical-psychological-science",
+        "affiliations": [
+          "McGill University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sarah-racine",
+    "name": "Sarah Racine",
+    "aliases": [
+      "Sarah E. Racine"
+    ],
+    "source": "https://www.mcgill.ca/psychology/sarah-racine",
+    "areas": [
+      "eating disorders",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "program-193",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.mcgill.ca/psychology/research-0/clinical-psychological-science",
+        "affiliations": [
+          "McGill University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mathieu-roy",
+    "name": "Mathieu Roy",
+    "aliases": [],
+    "source": "https://www.mcgill.ca/psychology/mathieu-roy",
+    "areas": [
+      "pain",
+      "affective neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "program-193",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.mcgill.ca/psychology/research-0/clinical-psychological-science",
+        "affiliations": [
+          "McGill University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "michael-sullivan-mcgill",
+    "name": "Michael Sullivan",
+    "aliases": [
+      "Mick Sullivan",
+      "Michael J. L. Sullivan"
+    ],
+    "source": "https://www.mcgill.ca/psychology/michael-sullivan",
+    "areas": [
+      "pain",
+      "rehabilitation",
+      "pain catastrophizing"
+    ],
+    "appointments": [
+      {
+        "program": "program-193",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.mcgill.ca/psychology/research-0/clinical-psychological-science",
+        "affiliations": [
+          "McGill University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "david-vachon",
+    "name": "David D. Vachon",
+    "aliases": [
+      "David Vachon"
+    ],
+    "source": "https://www.mcgill.ca/psychology/david-d-vachon",
+    "areas": [
+      "personality",
+      "psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-193",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.mcgill.ca/psychology/research-0/clinical-psychological-science",
+        "affiliations": [
+          "McGill University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "anna-weinberg",
+    "name": "Anna Weinberg",
+    "aliases": [],
+    "source": "https://www.mcgill.ca/psychology/anna-weinberg",
+    "areas": [
+      "emotion",
+      "depression",
+      "psychophysiology"
+    ],
+    "appointments": [
+      {
+        "program": "program-193",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.mcgill.ca/psychology/research-0/clinical-psychological-science",
+        "affiliations": [
+          "McGill University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alan-king-und",
+    "name": "Alan King",
+    "aliases": [
+      "Alan R. King"
+    ],
+    "source": "https://campus.und.edu/directory/alan.king",
+    "areas": [
+      "childhood maltreatment",
+      "personality",
+      "aggression"
+    ],
+    "appointments": [
+      {
+        "program": "program-126",
+        "role": "tenure-track",
+        "start": "1987",
+        "end": null,
+        "current": true,
+        "source": "https://arts-sciences.und.edu/academics/psychology/clinical/faculty.html",
+        "affiliations": [
+          "University of North Dakota"
+        ],
+        "dateSource": "https://campus.und.edu/directory/alan.king"
+      }
+    ]
+  },
+  {
+    "id": "justin-mcdonald",
+    "name": "Justin Douglas McDonald",
+    "aliases": [
+      "Doug McDonald",
+      "Justin D. McDonald"
+    ],
+    "source": "https://campus.und.edu/directory/justin.mcdonald",
+    "areas": [
+      "clinical assessment",
+      "Indigenous mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-126",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://arts-sciences.und.edu/academics/psychology/clinical/faculty.html",
+        "affiliations": [
+          "University of North Dakota"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tiffany-russell",
+    "name": "Tiffany Russell",
+    "aliases": [
+      "Tiffany D. Russell",
+      "Tiffany Dawn Russell"
+    ],
+    "source": "https://campus.und.edu/directory/tiffany.russell",
+    "areas": [
+      "personality pathology",
+      "forensic psychology",
+      "LGBTQ+ mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-126",
+        "role": "tenure-track",
+        "start": "2023-08",
+        "end": null,
+        "current": true,
+        "source": "https://arts-sciences.und.edu/academics/psychology/clinical/faculty.html",
+        "affiliations": [
+          "University of North Dakota"
+        ],
+        "dateSource": "https://arts-sciences.und.edu/academics/psychology/_files/docs/2430-und-psychology-newsletter.pdf"
+      }
+    ]
+  },
+  {
+    "id": "richard-wise",
+    "name": "Richard Wise",
+    "aliases": [
+      "Richard A. Wise"
+    ],
+    "source": "https://campus.und.edu/directory/richard.wise",
+    "areas": [
+      "forensic psychology",
+      "eyewitness testimony"
+    ],
+    "appointments": [
+      {
+        "program": "program-126",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://arts-sciences.und.edu/academics/psychology/clinical/faculty.html",
+        "affiliations": [
+          "University of North Dakota"
+        ]
+      }
+    ]
   }
 ]
