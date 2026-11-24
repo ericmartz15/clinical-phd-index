@@ -6573,5 +6573,276 @@
         ]
       }
     ]
+  },
+  {
+    "id": "barbara-andersen",
+    "name": "Barbara L. Andersen",
+    "aliases": [
+      "Barbara Andersen"
+    ],
+    "source": "https://psychology.osu.edu/people/andersen.1",
+    "areas": [
+      "cancer",
+      "behavioral medicine",
+      "stress"
+    ],
+    "appointments": [
+      {
+        "program": "program-132",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
+        "affiliations": [
+          "The Ohio State University",
+          "Ohio State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jennifer-cheavens",
+    "name": "Jennifer S. Cheavens",
+    "aliases": [
+      "Jennifer Cheavens"
+    ],
+    "source": "https://psychology.osu.edu/people/cheavens.1",
+    "areas": [
+      "emotion regulation",
+      "depression",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-132",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
+        "affiliations": [
+          "The Ohio State University",
+          "Ohio State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jeremy-grant",
+    "name": "Jeremy Grant",
+    "aliases": [],
+    "source": "https://psychology.osu.edu/people/grant.866",
+    "areas": [
+      "neuropsychology",
+      "aging",
+      "dementia"
+    ],
+    "appointments": [
+      {
+        "program": "program-132",
+        "role": "tenure-track",
+        "start": "2026",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
+        "affiliations": [
+          "The Ohio State University",
+          "Ohio State University"
+        ],
+        "dateSource": "https://psychology.osu.edu/people/grant.866"
+      }
+    ]
+  },
+  {
+    "id": "jasmeet-hayes",
+    "name": "Jasmeet P. Hayes",
+    "aliases": [
+      "Jasmeet Hayes"
+    ],
+    "source": "https://psychology.osu.edu/people/hayes.1075",
+    "areas": [
+      "trauma",
+      "neuroimaging",
+      "cognition"
+    ],
+    "appointments": [
+      {
+        "program": "program-132",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
+        "affiliations": [
+          "The Ohio State University",
+          "Ohio State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scott-hayes",
+    "name": "Scott M. Hayes",
+    "aliases": [
+      "Scott Hayes"
+    ],
+    "source": "https://psychology.osu.edu/people/hayes.1074",
+    "areas": [
+      "neuropsychology",
+      "aging",
+      "neuroimaging"
+    ],
+    "appointments": [
+      {
+        "program": "program-132",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
+        "affiliations": [
+          "The Ohio State University",
+          "Ohio State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ruchika-prakash",
+    "name": "Ruchika S. Prakash",
+    "aliases": [
+      "Ruchika Prakash"
+    ],
+    "source": "https://psychology.osu.edu/people/prakash.30",
+    "areas": [
+      "aging",
+      "mindfulness",
+      "neuropsychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-132",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
+        "affiliations": [
+          "The Ohio State University",
+          "Ohio State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "megan-renna",
+    "name": "Megan E. Renna",
+    "aliases": [
+      "Megan Renna"
+    ],
+    "source": "https://psychology.osu.edu/people/renna.4",
+    "areas": [
+      "emotion regulation",
+      "behavioral medicine",
+      "worry"
+    ],
+    "appointments": [
+      {
+        "program": "program-132",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
+        "affiliations": [
+          "The Ohio State University",
+          "Ohio State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "joshua-smyth",
+    "name": "Joshua M. Smyth",
+    "aliases": [
+      "Joshua Smyth"
+    ],
+    "source": "https://psychology.osu.edu/people/smyth.88",
+    "areas": [
+      "stress",
+      "behavioral medicine",
+      "ecological momentary assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-132",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
+        "affiliations": [
+          "The Ohio State University",
+          "Ohio State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "matt-southward",
+    "name": "Matthew W. Southward",
+    "aliases": [
+      "Matt Southward",
+      "Matthew Southward"
+    ],
+    "source": "https://psychology.osu.edu/people/southward.6",
+    "areas": [
+      "emotion regulation",
+      "psychotherapy",
+      "affective science"
+    ],
+    "appointments": [
+      {
+        "program": "program-132",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
+        "affiliations": [
+          "The Ohio State University",
+          "Ohio State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "daniel-strunk",
+    "name": "Daniel R. Strunk",
+    "aliases": [
+      "Daniel Strunk",
+      "Dan Strunk"
+    ],
+    "source": "https://psychology.osu.edu/people/strunk.20",
+    "areas": [
+      "depression",
+      "psychotherapy",
+      "cognition"
+    ],
+    "appointments": [
+      {
+        "program": "program-132",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
+        "affiliations": [
+          "The Ohio State University",
+          "Ohio State University"
+        ]
+      }
+    ]
   }
 ]

@@ -6544,7 +6544,25 @@
     ],
     "rosterSourceLeads": [
       "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology/clinical-program-handbook"
-    ]
+    ],
+    "rosterUrl": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology",
+    "rosterReview": "pending",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-24",
+      "scope": "The clinical program lists ten core faculty. Regular professorial appointments were checked against their department profiles.",
+      "sources": [
+        {
+          "label": "Core roster and affiliations",
+          "url": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology#CoreFaculty"
+        },
+        {
+          "label": "Clinical program handbook",
+          "url": "https://psychology.osu.edu/graduate/program-areas-admitting-faculty/clinical-psychology/clinical-program-handbook"
+        }
+      ],
+      "roleDecisions": []
+    }
   },
   {
     "id": "program-133",
@@ -9823,8 +9841,8 @@
     "location": "Canada",
     "region": "Canada",
     "country": "CA",
-    "eligibility": "candidate",
-    "degree": "Doctorate to verify",
+    "eligibility": "active",
+    "degree": "PhD",
     "affiliations": [
       "University of British Columbia – Okanagan Campus"
     ],
@@ -9883,7 +9901,8 @@
           "source": "https://psych.ok.ubc.ca/wp-content/uploads/sites/139/2026/09/UBCO-Clinical-Psychology-brochure-rev-9-2026-for-WEB.pdf"
         }
       ]
-    }
+    },
+    "degreeSource": "https://psych.ok.ubc.ca/graduate/clinical-psychology/"
   },
   {
     "id": "university-of-calgary",

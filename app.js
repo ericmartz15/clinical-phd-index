@@ -287,7 +287,11 @@ function initializeQuality() {
   if (data.collection && $("collection-status")) {
     const collection = data.collection;
     $("collection-status").hidden = false;
-    $("collection-detail").textContent = `On ${collection.date}, the collector checked ${collection.programs} program entries and reached a source for ${collection.sourcesReached}. It matched ${collection.namesConfirmed} names to official profiles and staged ${collection.publicationsRetrieved.toLocaleString("en-US")} publication records for faculty and attribution review.`;
+    const coverage = `On ${collection.date}, the collector checked ${collection.programs} program entries and reached a source for ${collection.sourcesReached}. It matched ${collection.namesConfirmed} names to official profiles.`;
+    const evidence = collection.eligibleProgramsInQueue === undefined ?
+      ` It staged ${collection.publicationsRetrieved.toLocaleString("en-US")} publication records for review.` :
+      ` The roster review queue covers ${collection.eligibleProgramsInQueue} eligible programs. Extracted faculty links or handbook leads are available for ${collection.eligibleProgramsWithFacultyLeads}.`;
+    $("collection-detail").textContent = coverage + evidence;
     $("collection-run").href = collection.run;
   }
 }

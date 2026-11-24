@@ -20,7 +20,8 @@ PROFILE_TOPICS = (
 
 
 def profile_name(value):
-    return re.sub(r" (?:ph d|phd|psy d|psyd|m d|md|abpp)(?: .*|$)", "", normalize(value))
+    name = re.sub(r"^(?:dr|prof) ", "", normalize(value))
+    return re.sub(r" (?:ph d|phd|psy d|psyd|m d|md|abpp)(?: .*|$)", "", name)
 
 
 def profile_evidence(client, candidate):
@@ -202,6 +203,7 @@ def main():
         auditMembersWithSourceLeads=sum(bool(row["sourceLeads"]) for row in references),
         openAlexEnabled=bool(os.environ.get("OPENALEX_API_KEY")),
         eligibleProgramsInQueue=len(queue),
+        eligibleProgramsWithFacultyLeads=sum(bool(item["candidates"] or item["handbookFacultyLeads"]) for item in queue),
         programsWithExplicitCoreEvidence=sum(any(
             any(e["context"] == "explicit core" for e in person["evidence"]) for person in item["candidates"]
         ) for item in queue),

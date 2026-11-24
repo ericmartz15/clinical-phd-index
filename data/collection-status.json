@@ -1,14 +1,17 @@
 {
-  "programs": 232,
-  "sourcesReached": 201,
-  "programsWithCandidateLinks": 52,
-  "uniqueProfiles": 679,
-  "namesConfirmed": 422,
-  "publicationsRetrieved": 4719,
-  "publicationIdentitiesRetrieved": 66,
+  "programs": 231,
+  "sourcesReached": 202,
+  "programsWithCandidateLinks": 57,
+  "uniqueProfiles": 879,
+  "namesConfirmed": 567,
+  "publicationsRetrieved": 0,
+  "publicationIdentitiesRetrieved": 0,
   "auditSample": 50,
-  "auditMembersWithSourceLeads": 29,
-  "openAlexEnabled": true,
-  "date": "November 23, 2026",
-  "run": "https://github.com/ericmartz15/clinical-phd-index/actions/runs/45235402638"
+  "auditMembersWithSourceLeads": 30,
+  "openAlexEnabled": false,
+  "eligibleProgramsInQueue": 198,
+  "programsWithExplicitCoreEvidence": 8,
+  "eligibleProgramsWithFacultyLeads": 52,
+  "date": "November 24, 2026",
+  "run": "https://github.com/ericmartz15/clinical-phd-index/actions/runs/45455242604"
 }

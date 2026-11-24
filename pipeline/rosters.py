@@ -85,6 +85,7 @@ class Page(HTMLParser):
         self.url = url
         self.heading = None
         self.link = None
+        self.person_heading = ""
         self.clinical_page = bool(re.search(r"/clinical(?:-science|-psychology)?/(?:people|faculty)(?:/|$)|"
                                            r"/(?:faculty|area-faculty)/clinical(?:-science|-psychology)?(?:[./]|$)|"
                                            r"/clinical(?:-science|-psychology)?-faculty(?:[./]|$)|"
@@ -103,6 +104,7 @@ class Page(HTMLParser):
         if tag == "main":
             self.has_main = self.in_main = True
             self.scopes.clear()
+            self.person_heading = ""
         if tag in ("script", "style"):
             self.ignored = tag
         if re.fullmatch(r"h[1-6]", tag):
@@ -135,6 +137,8 @@ class Page(HTMLParser):
                 self.headings.append(name)
                 self.clinical_page |= bool(re.fullmatch(r"Clinical (?:Psychology|Science)(?: Faculty)?", name, re.I))
             self.set_scope(int(tag[1]), name)
+            if tag in {"h2", "h3"}:
+                self.person_heading = name
             self.heading = None
         if tag == "a" and self.link:
             url, tokens, accessible_label = self.link
@@ -143,6 +147,8 @@ class Page(HTMLParser):
             if self.control:
                 self.set_scope(3, label)
             name = re.sub(r"^(?:Dr\.|Prof\.)\s+", "", label, flags=re.I)
+            if self.scopes and normalize(label) in {"faculty profile", "view profile", "view faculty profile", "read bio"}:
+                name = self.person_heading
             if urlsplit(url).scheme in ("https", "http") and label:
                 self.links.append((url, label))
                 if self.in_main:
