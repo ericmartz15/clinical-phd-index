@@ -189,8 +189,9 @@ def main():
 
     faculty = read(DATA / "faculty-input.json")
     queue = roster_review_queue(read(DATA / "programs.json"), faculty, rosters, profiles)
-    report = read(DATA / "recall-report.json")
-    references = audit_leads(report["sample"], faculty, profiles, read(DATA / "audit-source-leads.json", {}))
+    holdout_plan = read(DATA / "holdout-plan.json", {})
+    audit_plan = holdout_plan or read(DATA / "calibration-plan.json")
+    references = audit_leads(audit_plan["sample"], faculty, profiles, read(DATA / "audit-source-leads.json", {}))
     summary = dict(
         programs=len(rosters),
         sourcesReached=sum(bool(roster.get("sources")) for roster in rosters),
@@ -199,6 +200,8 @@ def main():
         namesConfirmed=sum(row["profileStatus"] == "name confirmed on profile" for row in profiles),
         publicationsRetrieved=sum(len(row["works"]) for row in collected),
         publicationIdentitiesRetrieved=sum(row["status"] == "retrieved" for row in collected),
+        auditStage="holdout" if holdout_plan else "calibration",
+        auditWindow=audit_plan["window"],
         auditSample=len(references),
         auditMembersWithSourceLeads=sum(bool(row["sourceLeads"]) for row in references),
         openAlexEnabled=bool(os.environ.get("OPENALEX_API_KEY")),
