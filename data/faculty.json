@@ -15786,16 +15786,74 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5057849619"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5057849619",
+          "name": "Aidan G.C. Wright",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5105417292",
+          "name": "Aidan Wright",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5122341662",
+          "name": "Aidan G. C. Wright",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5136735980",
+          "name": "Aidan G.C. Wright",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5153660162",
+          "name": "Aidan G. C. Wright",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -18307,16 +18365,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -18360,16 +18416,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -18413,16 +18467,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -18467,16 +18519,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -18520,16 +18570,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -18582,9 +18630,7 @@
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -18627,16 +18673,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -18681,16 +18725,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -18742,9 +18784,7 @@
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -18864,9 +18904,7 @@
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -18918,9 +18956,7 @@
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -19036,16 +19072,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -19095,9 +19129,7 @@
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -19301,16 +19333,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -19500,16 +19530,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -19672,16 +19700,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -19812,16 +19838,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -20087,9 +20111,7 @@
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -20139,9 +20161,7 @@
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -20250,9 +20270,7 @@
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -21926,16 +21944,44 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5090871734"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5090871734",
+          "name": "Jennifer Bolden",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5018257000",
+          "name": "Jennifer Bolden Pitre",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -21977,16 +22023,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -22032,16 +22076,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -22071,15 +22113,33 @@
     ],
     "identity": {
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5029119409",
+          "name": "Timothy L. Hulsey",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5018786590",
+          "name": "Hulsey Tk",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     "retrieval": {
       "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -22111,15 +22171,54 @@
     ],
     "identity": {
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5075155041",
+          "name": "Lucybel Mendez",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5135404523",
+          "name": "Lucy Méndez",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5079017481",
+          "name": "Lucy Mendez-Kurtz",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5113254676",
+          "name": "Lucy Inés Sinche Méndez",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5127690266",
+          "name": "Lucy Stella Pajoy Méndez",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     "retrieval": {
       "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -22149,15 +22248,63 @@
     ],
     "identity": {
       "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5091494604",
+          "name": "Todd Moore",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5111780804",
+          "name": "Todd M. Moore",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5008922020",
+          "name": "Todd Moore",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5012667516",
+          "name": "Todd O. Moore",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5018093317",
+          "name": "Todd T. Moore",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     "retrieval": {
       "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -22187,16 +22334,70 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5085608624"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5085608624",
+          "name": "Gregory L. Stuart",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5028513418",
+          "name": "Greg Stuart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5058759379",
+          "name": "Greg J. Stuart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5060444246",
+          "name": "Greg Stuart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5088952390",
+          "name": "Greg Stuart",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -22225,16 +22426,70 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5039607196"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5039607196",
+          "name": "Deborah P. Welsh",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5012778832",
+          "name": "Deborah Welsh",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5030389642",
+          "name": "Deborah E. Welsh",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5051377188",
+          "name": "Deborah M. Welsh",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5052159861",
+          "name": "Deborah Welsh",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -22264,16 +22519,53 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "status": "unavailable",
-      "confidence": 0,
-      "evidence": []
+      "ids": [
+        "A5023342180"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5023342180",
+          "name": "Michael F. Pogue‐Geile",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5161966910",
+          "name": "Michael F Pogue-Geile",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5035950671",
+          "name": "Pogue-Geile Michael",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
-      "errors": {
-        "identity": "No cached response for api.openalex.org"
-      }
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
     }
   },
   {
@@ -22298,6 +22590,476 @@
           "University of Pittsburgh"
         ],
         "endSource": "https://www.as.pitt.edu/sites/default/files/Vol%2054%20No%206.%20May%2031%202023%20FINAL.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5019813223",
+          "name": "Saul S. Shiffman",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5111744709",
+          "name": "Saul M. Shiffman",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5113342270",
+          "name": "Saul Shiffman",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5123379706",
+          "name": "Saul Shiffman",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5162045584",
+          "name": "Saul Shiffman",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "davielle-lakind",
+    "name": "Davielle Lakind",
+    "aliases": [
+      "Davi Lakind"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/lakind.shtml",
+    "areas": [
+      "community mental health",
+      "family interventions",
+      "implementation science"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "michelle-lilly",
+    "name": "Michelle M. Lilly",
+    "aliases": [
+      "Michelle Lilly"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/lilly.shtml",
+    "areas": [
+      "trauma",
+      "posttraumatic stress",
+      "mindfulness"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "holly-orcutt",
+    "name": "Holly K. Orcutt",
+    "aliases": [
+      "Holly Orcutt"
+    ],
+    "source": "https://www.niu.edu/horcutt/",
+    "areas": [
+      "trauma",
+      "psychological flexibility",
+      "adjustment"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "laura-pittman",
+    "name": "Laura D. Pittman",
+    "aliases": [
+      "Laura Pittman"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/pittman.shtml",
+    "areas": [
+      "developmental psychopathology",
+      "parenting",
+      "child mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "elizabeth-shelleby",
+    "name": "Elizabeth C. Shelleby",
+    "aliases": [
+      "Elizabeth Shelleby"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/shelleby.shtml",
+    "areas": [
+      "child psychopathology",
+      "disruptive behavior",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "david-valentiner",
+    "name": "David P. Valentiner",
+    "aliases": [
+      "David Valentiner"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/valentiner.shtml",
+    "areas": [
+      "anxiety disorders",
+      "social anxiety",
+      "exposure therapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "kevin-wu",
+    "name": "Kevin D. Wu",
+    "aliases": [
+      "Kevin Wu"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/wu.shtml",
+    "areas": [
+      "obsessive compulsive disorder",
+      "psychopathology",
+      "assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "arin-connell",
+    "name": "Arin M. Connell",
+    "aliases": [
+      "Arin Connell"
+    ],
+    "source": "https://psychsciences.case.edu/people/",
+    "areas": [
+      "anxiety",
+      "depression",
+      "developmental psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-128",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychsciences.case.edu/graduate/clinical-psych/core-clinical-program-faculty/",
+        "affiliations": [
+          "Case Western Reserve University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "norah-feeny",
+    "name": "Norah C. Feeny",
+    "aliases": [
+      "Norah Feeny"
+    ],
+    "source": "https://psychsciences.case.edu/people/",
+    "areas": [
+      "trauma",
+      "posttraumatic stress",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-128",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychsciences.case.edu/graduate/clinical-psych/core-clinical-program-faculty/",
+        "affiliations": [
+          "Case Western Reserve University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "james-overholser",
+    "name": "James C. Overholser",
+    "aliases": [
+      "James Overholser"
+    ],
+    "source": "https://psychsciences.case.edu/people/",
+    "areas": [
+      "depression",
+      "anxiety",
+      "suicide"
+    ],
+    "appointments": [
+      {
+        "program": "program-128",
+        "role": "tenure-track",
+        "start": "1988-08",
+        "end": null,
+        "current": true,
+        "source": "https://psychsciences.case.edu/graduate/clinical-psych/core-clinical-program-faculty/",
+        "affiliations": [
+          "Case Western Reserve University"
+        ],
+        "dateSource": "https://artscimedia.case.edu/wp-content/uploads/2013/07/28095124/Jim-Overholser-vita.pdf"
+      }
+    ],
+    "cv": "https://artscimedia.case.edu/wp-content/uploads/2013/07/28095124/Jim-Overholser-vita.pdf",
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "amy-przeworski",
+    "name": "Amy Przeworski",
+    "aliases": [],
+    "source": "https://psychsciences.case.edu/people/",
+    "areas": [
+      "anxiety",
+      "psychotherapy",
+      "family functioning"
+    ],
+    "appointments": [
+      {
+        "program": "program-128",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychsciences.case.edu/graduate/clinical-psych/core-clinical-program-faculty/",
+        "affiliations": [
+          "Case Western Reserve University"
+        ]
       }
     ],
     "identity": {
