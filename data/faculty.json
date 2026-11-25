@@ -15777,7 +15777,7 @@
         "start": "2014",
         "end": "2023",
         "current": false,
-        "source": "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202020.pdf",
+        "source": "https://web.archive.org/web/20240811145308id_/https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202020.pdf",
         "affiliations": [
           "University of Pittsburgh"
         ],
@@ -19880,7 +19880,7 @@
         "start": "2018",
         "end": "2025",
         "current": false,
-        "source": "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202023.pdf",
+        "source": "https://web.archive.org/web/20240603190455id_/https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202023.pdf",
         "affiliations": [
           "University of Pittsburgh"
         ],
@@ -22142,16 +22142,14 @@
       ]
     },
     "retrieval": {
-      "openAlex": "partial",
+      "openAlex": "complete",
       "crosschecks": {
         "PubMed": "not run",
         "Crossref": "not run",
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -22444,7 +22442,7 @@
         "start": null,
         "end": "2026-01-04",
         "current": false,
-        "source": "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202023.pdf",
+        "source": "https://web.archive.org/web/20240603190455id_/https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202023.pdf",
         "affiliations": [
           "University of Pittsburgh"
         ],
@@ -22518,7 +22516,7 @@
         "start": "2000",
         "end": "2023-03-31",
         "current": false,
-        "source": "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202020.pdf",
+        "source": "https://web.archive.org/web/20240811145308id_/https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202020.pdf",
         "affiliations": [
           "University of Pittsburgh"
         ],
@@ -22548,9 +22546,7 @@
         "Semantic Scholar": "not run",
         "PsyArXiv": "not run"
       },
-      "errors": {
-        "OpenAlex": "No cached response for api.openalex.org"
-      }
+      "errors": {}
     }
   },
   {
@@ -22729,27 +22725,26 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5020633883"
       ],
-      "candidates": [
-        {
-          "id": "A5020633883",
-          "name": "Holly Kay Orcutt",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://www.niu.edu/horcutt/",
+        "The university role and two matching publisher bylines corroborate the author name, research topic and institutional affiliation.",
+        "https://doi.org/10.1037/tra0002317",
+        "https://doi.org/10.1037/tra0001873"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -22779,51 +22774,26 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5056999260"
       ],
-      "candidates": [
-        {
-          "id": "A5056999260",
-          "name": "Laura D. Pittman",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5002787932",
-          "name": "Laura Rebecca Pittman",
-          "confidence": 0,
-          "evidence": []
-        },
-        {
-          "id": "A5022258963",
-          "name": "Laura J. Pittman",
-          "confidence": 0,
-          "evidence": []
-        },
-        {
-          "id": "A5044092517",
-          "name": "Dawn Pittman",
-          "confidence": 0,
-          "evidence": []
-        },
-        {
-          "id": "A5044115093",
-          "name": "Laura L. Wray Edward D. Pittman",
-          "confidence": 0,
-          "evidence": []
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://www.niu.edu/clas/psychology/about/directory/pittman.shtml",
+        "The university role and two matching publisher bylines corroborate the author name, research topic and institutional affiliation.",
+        "https://doi.org/10.1007/s10566-026-09988-3",
+        "https://doi.org/10.1037/fam0000996"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -22853,35 +22823,26 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5055777578"
       ],
-      "candidates": [
-        {
-          "id": "A5055777578",
-          "name": "Elizabeth C. Shelleby",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        },
-        {
-          "id": "A5047677297",
-          "name": "Elizabeth Shelleby",
-          "confidence": 0.45,
-          "evidence": [
-            "Full name or documented name variant"
-          ]
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://www.niu.edu/clas/psychology/about/directory/shelleby.shtml",
+        "The university role and two matching publisher bylines corroborate the author name, research topic and institutional affiliation.",
+        "https://doi.org/10.1007/s10566-026-09988-3",
+        "https://doi.org/10.1007/s10802-026-01433-2"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   },
@@ -23272,27 +23233,26 @@
       }
     ],
     "identity": {
-      "ids": [],
-      "confidence": 0.8,
-      "status": "review",
-      "evidence": [
-        "Full name or documented name variant",
-        "Institution in OpenAlex affiliation history"
+      "ids": [
+        "A5053406540"
       ],
-      "candidates": [
-        {
-          "id": "A5053406540",
-          "name": "Amy Przeworski",
-          "confidence": 0.8,
-          "evidence": [
-            "Full name or documented name variant",
-            "Institution in OpenAlex affiliation history"
-          ]
-        }
+      "status": "resolved",
+      "confidence": 1,
+      "evidence": [
+        "https://psychsciences.case.edu/people/",
+        "The university role and two matching publisher bylines corroborate the author name, research topic and institutional affiliation.",
+        "https://doi.org/10.1080/07317107.2026.2637447",
+        "https://doi.org/10.1016/j.janxdis.2024.102830"
       ]
     },
     "retrieval": {
-      "openAlex": "unresolved",
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
       "errors": {}
     }
   }
