@@ -15770,6 +15770,18 @@
           "university of michigan"
         ],
         "dateSource": "https://regents.umich.edu/files/meetings/12-23/2023-12-IV-1.pdf"
+      },
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": "2014",
+        "end": "2023",
+        "current": false,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202020.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "dateSource": "https://regents.umich.edu/files/meetings/02-23/2023-02-IV-1.pdf"
       }
     ],
     "identity": {
@@ -18310,5 +18322,3676 @@
       "errors": {}
     },
     "cv": "https://webapps.und.edu/uploads/profile-uploads/1842/wise-richard_curriculum-vita.pdf"
+  },
+  {
+    "id": "ana-bridges",
+    "name": "Ana Julia Bridges",
+    "aliases": [
+      "Ana Bridges",
+      "Ana J. Bridges"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/abridges/name/Ana+Julia+Bridges/",
+    "areas": [
+      "health disparities",
+      "integrated behavioral health"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2007",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.45,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant"
+      ],
+      "candidates": [
+        {
+          "id": "A5012117974",
+          "name": "Ana Julia Bridges",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "timothy-cavell",
+    "name": "Timothy A. Cavell",
+    "aliases": [
+      "Tim Cavell",
+      "Timothy Cavell"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/tcavell/name/Tim+Cavell/",
+    "areas": [
+      "child aggression",
+      "mentoring",
+      "bullying"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2002",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.63,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5060384773",
+          "name": "Timothy A. Cavell",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "lindsay-ham",
+    "name": "Lindsay S. Ham",
+    "aliases": [
+      "Lindsay Ham"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/lham/name/Lindsay+S.+Ham/",
+    "areas": [
+      "alcohol use",
+      "anxiety",
+      "sexual violence"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2007",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.63,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5007438380",
+          "name": "Lindsay S. Ham",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5009109429",
+          "name": "L. B. Ham",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5003878712",
+          "name": "Lindsay M. Ham",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5136072363",
+          "name": "Lindsay Ham",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5057774761",
+          "name": "Lindsay M. Ham",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "matt-judah",
+    "name": "Matt Judah",
+    "aliases": [
+      "Matthew R. Judah",
+      "Matt R. Judah"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/mjudah/name/Matt+Judah/",
+    "areas": [
+      "depression",
+      "anxiety",
+      "cognitive control"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2020",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.63,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5072978891",
+          "name": "Matt R. Judah",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "ellen-leen-feldner",
+    "name": "Ellen W. Leen-Feldner",
+    "aliases": [
+      "Ellen Leen-Feldner"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/eleenfe/name/Ellen+Winifred+Leen-Feldner/",
+    "areas": [
+      "developmental psychopathology",
+      "anxiety",
+      "adolescence"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2005",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.45,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant"
+      ],
+      "candidates": [
+        {
+          "id": "A5003732933",
+          "name": "Ellen W. Leen‐Feldner",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "yanli-lin",
+    "name": "Yanli Lin",
+    "aliases": [
+      "Jeff Lin"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/yanlil/name/Yanli+Lin/",
+    "areas": [
+      "mindfulness",
+      "cognitive control",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2024",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.45,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant"
+      ],
+      "candidates": [
+        {
+          "id": "A5016184208",
+          "name": "Yanli Lin",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5024607413",
+          "name": "Yanli Lin",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5049224940",
+          "name": "Jeff Feng-Hsu Lin",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5079091946",
+          "name": "Yanli Lin",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5082724217",
+          "name": "Jeff Lin",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "lauren-quetsch",
+    "name": "Lauren B. Quetsch",
+    "aliases": [
+      "Lauren Quetsch"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/quetsch/name/Lauren+B.+Quetsch/",
+    "areas": [
+      "autism",
+      "child treatment",
+      "implementation science"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.63,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5022556535",
+          "name": "Lauren Borduin Quetsch",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5067000607",
+          "name": "Nancy M. Wallace",
+          "confidence": 0.18,
+          "evidence": [
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "sarah-tonkin",
+    "name": "Sarah Tonkin",
+    "aliases": [
+      "Sarah S. Tonkin"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/stonkin/name/Sarah+Tonkin/",
+    "areas": [
+      "addiction",
+      "smoking",
+      "nicotine treatment"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2025",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.63,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5082402946",
+          "name": "Sarah Tonkin",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5047987020",
+          "name": "Sarah KG Tonkin-Crine",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5048401387",
+          "name": "Sarah A. Tonkin",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "jennifer-veilleux",
+    "name": "Jennifer C. Veilleux",
+    "aliases": [
+      "Jennifer Veilleux",
+      "Jenn Veilleux"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/jcveille/name/Jennifer+Celene+Veilleux/",
+    "areas": [
+      "emotion regulation",
+      "distress tolerance"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2011",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.45,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant"
+      ],
+      "candidates": [
+        {
+          "id": "A5065031669",
+          "name": "Jennifer C. Veilleux",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5103115602",
+          "name": "Jennifer C. Veilleux",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5135703098",
+          "name": "Jennifer Veilleux",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5051375031",
+          "name": "Jennifer A. Veilleux",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "blair-burnette",
+    "name": "Blair Burnette",
+    "aliases": [
+      "Blair C. Burnette"
+    ],
+    "source": "https://psychology.msu.edu/people/b/burnette-blair",
+    "areas": [
+      "eating disorders",
+      "body image",
+      "intuitive eating"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": "2023",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ],
+        "dateSource": "https://mhrc.psy.msu.edu/biography/"
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5049187625"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5049187625",
+          "name": "Carolyn Blair Burnette",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5050812271",
+          "name": "Blair Burnette",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "alexandra-burt",
+    "name": "S. Alexandra Burt",
+    "aliases": [
+      "Alexandra Burt"
+    ],
+    "source": "https://psychology.msu.edu/people/b/burt-alexandra",
+    "areas": [
+      "behavior genetics",
+      "antisocial behavior",
+      "developmental psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5038719346",
+          "name": "Sybil Alexandra Burt",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5157881550",
+          "name": "S. Alexandra Burt",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5074622302",
+          "name": "Alexandra Burt",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5158268483",
+          "name": "Alexandra Burt",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5013087103",
+          "name": "Alexandra J. Burt",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "raffles-cowan",
+    "name": "Henry Raffles Cowan",
+    "aliases": [
+      "Raffles Cowan",
+      "Henry Cowan",
+      "Henry R. Cowan"
+    ],
+    "source": "https://psychology.msu.edu/people/c/cowan-henry",
+    "areas": [
+      "psychosis",
+      "self concept",
+      "schizophrenia"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5043385546",
+          "name": "Henry Cowan",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5047663954",
+          "name": "Henry R. Cowan",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5054297099",
+          "name": "H. Lee Cowan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5073248342",
+          "name": "Henry J. Cowan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5148355592",
+          "name": "Henry Cowan",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "amy-drahota",
+    "name": "Amy Drahota",
+    "aliases": [
+      "Amy Drahota"
+    ],
+    "source": "https://psychology.msu.edu/people/d/drahota-amy",
+    "areas": [
+      "autism",
+      "implementation science",
+      "community mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5002586069"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5002586069",
+          "name": "Amy Drahota",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5041173205",
+          "name": "Amy Drahota",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5020877937",
+          "name": "Amy Drahota-Towns",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "brooke-ingersoll",
+    "name": "Brooke Ingersoll",
+    "aliases": [
+      "Brooke R. Ingersoll"
+    ],
+    "source": "https://psychology.msu.edu/people/i/ingersoll-brooke",
+    "areas": [
+      "autism",
+      "early intervention",
+      "parent training"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5053355615",
+          "name": "Brooke R. Ingersoll",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5158713097",
+          "name": "Brooke Ingersoll",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "kelly-klump",
+    "name": "Kelly L. Klump",
+    "aliases": [
+      "Kelly Klump"
+    ],
+    "source": "https://psychology.msu.edu/people/k/klump-kelly",
+    "areas": [
+      "eating disorders",
+      "behavior genetics",
+      "puberty"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5050119814",
+          "name": "Kelly Klump",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5083928670",
+          "name": "Kelly L. Klump",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "alytia-levendosky",
+    "name": "Alytia A. Levendosky",
+    "aliases": [
+      "Alytia Levendosky"
+    ],
+    "source": "https://psychology.msu.edu/people/l/levendosky-alytia",
+    "areas": [
+      "trauma",
+      "intimate partner violence",
+      "attachment"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5078835296"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5078835296",
+          "name": "Alytia A. Levendosky",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5008720598",
+          "name": "Levendosky Alytia",
+          "confidence": 0.18,
+          "evidence": [
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "jason-moser",
+    "name": "Jason S. Moser",
+    "aliases": [
+      "Jason Moser"
+    ],
+    "source": "https://psychology.msu.edu/people/m/moser-jason",
+    "areas": [
+      "anxiety",
+      "emotion regulation",
+      "cognitive control"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5052053696"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5052053696",
+          "name": "Jason S. Moser",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5027107505",
+          "name": "JASON MOSER",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5078637012",
+          "name": "ジェイソン モーザー",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5149772873",
+          "name": "Moser Jason",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5154342807",
+          "name": "Jason Scot Moser",
+          "confidence": 0.18,
+          "evidence": [
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "katharine-thakkar",
+    "name": "Katharine N. Thakkar",
+    "aliases": [
+      "Katharine Thakkar"
+    ],
+    "source": "https://psychology.msu.edu/people/t/thakkar-katharine",
+    "areas": [
+      "psychosis",
+      "schizophrenia",
+      "cognitive neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": "2017",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ],
+        "dateSource": "https://cnl.psy.msu.edu/wp-content/uploads/2018/04/Thakkar_CV_current.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5019618579",
+          "name": "Katharine N. Thakkar",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "sophia-choukas-bradley",
+    "name": "Sophia Choukas-Bradley",
+    "aliases": [
+      "Sophie Choukas-Bradley"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/sophia-choukas-bradley-phd",
+    "areas": [
+      "adolescent mental health",
+      "body image",
+      "social media"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": "2022",
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "dateSource": "https://www.psychology.pitt.edu/sites/default/files/CVs/ChoukasBradleyCVMay2023.pdf"
+      }
+    ],
+    "cv": "https://www.psychology.pitt.edu/sites/default/files/CVs/ChoukasBradleyCVMay2023.pdf",
+    "identity": {
+      "ids": [
+        "A5004768683"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5004768683",
+          "name": "Sophia Choukas‐Bradley",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5162043777",
+          "name": "Sophia Choukas-Bradley",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5162066523",
+          "name": "Sophia Choukas-Bradley",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5045776959",
+          "name": "Sophie C. Choukas-Bradley",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "thomas-kamarck",
+    "name": "Thomas W. Kamarck",
+    "aliases": [
+      "Thomas Kamarck"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/thomas-w-kamarck-phd",
+    "areas": [
+      "behavioral medicine",
+      "cardiovascular health",
+      "stress"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": "1988",
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "dateSource": "https://www.psychology.pitt.edu/sites/default/files/CVs/kamarckcv523withhighlights.pdf"
+      }
+    ],
+    "cv": "https://www.psychology.pitt.edu/sites/default/files/CVs/kamarckcv523withhighlights.pdf",
+    "identity": {
+      "ids": [
+        "A5032214993"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5032214993",
+          "name": "Thomas W. Kamarck",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "anna-marsland",
+    "name": "Anna L. Marsland",
+    "aliases": [
+      "Anna Marsland"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/anna-marsland-phd",
+    "areas": [
+      "stress",
+      "inflammation",
+      "psychoneuroimmunology"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5031323465",
+          "name": "Anna L. Marsland",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5135761730",
+          "name": "Anna Marsland",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5158259148",
+          "name": "Anna Marsland",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "kathryn-roecklein",
+    "name": "Kathryn A. Roecklein",
+    "aliases": [
+      "Kathryn Roecklein"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/kathryn-roecklein-phd",
+    "areas": [
+      "depression",
+      "seasonal affective disorder",
+      "sleep"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5072069600"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5072069600",
+          "name": "Kathryn A. Roecklein",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "michael-sayette",
+    "name": "Michael A. Sayette",
+    "aliases": [
+      "Michael Sayette"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/michael-sayette-phd",
+    "areas": [
+      "substance use",
+      "smoking",
+      "alcohol"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ],
+    "cv": "https://www.psychology.pitt.edu/sites/default/files/CV%20Sayette%203%201%2023.pdf",
+    "identity": {
+      "ids": [
+        "A5054617714"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5054617714",
+          "name": "Michael A. Sayette",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "daniel-shaw",
+    "name": "Daniel S. Shaw",
+    "aliases": [
+      "Daniel Shaw"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/daniel-shaw-phd",
+    "areas": [
+      "child psychopathology",
+      "parenting",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5010909363",
+          "name": "Daniel S. Shaw",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5011629952",
+          "name": "Daniel MP Shaw",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5018950020",
+          "name": "Daniel J. Shaw",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5040849428",
+          "name": "Daniel Joel Shaw",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5042534127",
+          "name": "Daniel L Shaw",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "jennifer-silk",
+    "name": "Jennifer S. Silk",
+    "aliases": [
+      "Jennifer Silk"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/jennifer-silk-phd",
+    "areas": [
+      "adolescent depression",
+      "anxiety",
+      "affective neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5035401574"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5035401574",
+          "name": "Jennifer Susan Silk",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5029138608",
+          "name": "Jennifer C. Silk",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5088021869",
+          "name": "Jennifer Silk",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5113528321",
+          "name": "Jennifer Silk",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5033252099",
+          "name": "Jennifer J. Silk",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "colin-vize",
+    "name": "Colin E. Vize",
+    "aliases": [
+      "Colin Vize"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/colin-e-vize-phd",
+    "areas": [
+      "personality pathology",
+      "antisocial behavior"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5089023474",
+          "name": "Colin E. Vize",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5077933478",
+          "name": "Colin J. Vize",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5126449570",
+          "name": "Colin Vize",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "lauren-hallion",
+    "name": "Lauren S. Hallion",
+    "aliases": [
+      "Lauren Hallion"
+    ],
+    "source": "https://www.uregina.ca/arts/psychology/directory/faculty/hallion-l.html",
+    "areas": [
+      "anxiety",
+      "worry",
+      "attention",
+      "cognitive control"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "research-track",
+        "start": "2016",
+        "end": "2018",
+        "current": false,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/CVs/Hallion_CV_updated_April_2023.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "dateSource": "https://www.psychology.pitt.edu/sites/default/files/CVs/Hallion_CV_updated_April_2023.pdf"
+      },
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": "2018",
+        "end": "2025",
+        "current": false,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202023.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "dateSource": "https://www.psychology.pitt.edu/sites/default/files/CVs/Hallion_CV_updated_April_2023.pdf",
+        "endSource": "https://www.cnmalab.com/people.html"
+      },
+      {
+        "program": "university-of-regina",
+        "role": "tenure-track",
+        "start": "2025",
+        "end": null,
+        "current": true,
+        "source": "https://www.uregina.ca/arts/psychology/directory/index.html",
+        "affiliations": [
+          "University of Regina"
+        ],
+        "dateSource": "https://www.cnmalab.com/people.html"
+      }
+    ],
+    "cv": "https://www.psychology.pitt.edu/sites/default/files/CVs/Hallion_CV_updated_April_2023.pdf",
+    "lab": "https://www.cnmalab.com/people.html",
+    "identity": {
+      "ids": [
+        "A5012242242"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5012242242",
+          "name": "Lauren S. Hallion",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "bruce-compas",
+    "name": "Bruce E. Compas",
+    "aliases": [
+      "Bruce Compas"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/bruce-compas",
+    "areas": [
+      "coping",
+      "child depression",
+      "chronic illness"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5076579431"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5076579431",
+          "name": "Bruce E. Compas",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5159087855",
+          "name": "Compas Bruce E",
+          "confidence": 0.35,
+          "evidence": [
+            "Institution in OpenAlex affiliation history"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "elisabeth-dykens",
+    "name": "Elisabeth M. Dykens",
+    "aliases": [
+      "Elisabeth Dykens"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/elisabeth-dykens",
+    "areas": [
+      "developmental disabilities",
+      "genetic syndromes",
+      "mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5073524560"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5073524560",
+          "name": "Elisabeth M. Dykens",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "steven-hollon",
+    "name": "Steven D. Hollon",
+    "aliases": [
+      "Steven Hollon"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/steven-hollon",
+    "areas": [
+      "cognitive therapy",
+      "depression"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.98,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5067501695",
+          "name": "Hollon Steven D.",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5082277627",
+          "name": "Steven D. Hollon",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5098147040",
+          "name": "Robert J. DeRubeis and Steven D. Hollon",
+          "confidence": 0.18,
+          "evidence": [
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5063622676",
+          "name": "MA Hollon",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "kathryn-humphreys",
+    "name": "Kathryn L. Humphreys",
+    "aliases": [
+      "Kathryn Humphreys"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/kathryn-humphreys",
+    "areas": [
+      "early adversity",
+      "developmental psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5059029681",
+          "name": "Kathryn Leigh Humphreys",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5104275549",
+          "name": "Kathryn Leigh Humphreys",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5080739059",
+          "name": "Kathryn Humphreys",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5087865378",
+          "name": "K. W. Humphreys",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5102453323",
+          "name": "Kathryn Humphreys",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "antonia-kaczkurkin",
+    "name": "Antonia N. Kaczkurkin",
+    "aliases": [
+      "Antonia Kaczkurkin"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/antonia-kaczkurkin",
+    "areas": [
+      "neuroimaging",
+      "anxiety",
+      "depression"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5076485599"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5076485599",
+          "name": "Antonia N. Kaczkurkin",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "autumn-kujawa",
+    "name": "Autumn Kujawa",
+    "aliases": [],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/autumn-kujawa",
+    "areas": [
+      "mood disorders",
+      "psychophysiology",
+      "developmental psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5049002787",
+          "name": "Autumn Kujawa",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5162434942",
+          "name": "Autumn Kujawa",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "bunmi-olatunji",
+    "name": "Bunmi O. Olatunji",
+    "aliases": [
+      "Olubunmi O. Olatunji",
+      "Bunmi Olatunji"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/bunmi-olatunji",
+    "areas": [
+      "anxiety",
+      "obsessive compulsive disorder",
+      "emotion"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5087273965"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5087273965",
+          "name": "Bunmi O. Olatunji",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5076471969",
+          "name": "Olubunmi O. Olatunji",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5059185816",
+          "name": "O Olatunji Bunmi",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5108968221",
+          "name": "Olubunmi Abidemi Tunde-Olatunji",
+          "confidence": 0,
+          "evidence": []
+        },
+        {
+          "id": "A5130718844",
+          "name": "O O Olatunji",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "sohee-park",
+    "name": "Sohee Park",
+    "aliases": [],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/sohee-park",
+    "areas": [
+      "psychosis",
+      "schizophrenia",
+      "social neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "confidence": 0.8,
+      "status": "review",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history"
+      ],
+      "candidates": [
+        {
+          "id": "A5019834339",
+          "name": "Sohee Park",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5100739374",
+          "name": "Sohee Park",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5101533404",
+          "name": "Sohee Park",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5020850777",
+          "name": "Sohee Park",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5100381576",
+          "name": "Sohee Park",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {}
+    }
+  },
+  {
+    "id": "jonathan-schaefer",
+    "name": "Jonathan D. Schaefer",
+    "aliases": [
+      "Jonathan Schaefer"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/jonathan-schaefer",
+    "areas": [
+      "developmental psychopathology",
+      "genetic epidemiology"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5073391111"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5073391111",
+          "name": "Jonathan D. Schaefer",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5110575232",
+          "name": "Jonathan B. Schaefer",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5008115965",
+          "name": "Jonathan Schaefer",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5036106370",
+          "name": "Jonathan Schaefer",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5101170864",
+          "name": "Jonathan Schaefer",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "david-schlundt",
+    "name": "David G. Schlundt",
+    "aliases": [
+      "David Schlundt"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/david-schlundt",
+    "areas": [
+      "nutrition",
+      "health disparities",
+      "behavioral medicine"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5046759722"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5046759722",
+          "name": "David G. Schlundt",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5043616945",
+          "name": "David Schlundt",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5161751479",
+          "name": "David Schlundt",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5017684058",
+          "name": "David C. Schlundt",
+          "confidence": 0,
+          "evidence": []
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "ashley-watts",
+    "name": "Ashley L. Watts",
+    "aliases": [
+      "Ashley Watts"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/ashley-watts",
+    "areas": [
+      "psychopathology",
+      "substance use",
+      "personality"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [
+        "A5001849766"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5001849766",
+          "name": "Ashley L. Watts",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5146805972",
+          "name": "Ashley L Watts",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5152978791",
+          "name": "Ashley L. Watts",
+          "confidence": 0.63,
+          "evidence": [
+            "Full name or documented name variant",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5112988278",
+          "name": "Ashley Watts",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5135010931",
+          "name": "Ashley L Watts",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "judy-garber",
+    "name": "Judy Garber",
+    "aliases": [],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/judy-garber",
+    "areas": [
+      "developmental psychopathology",
+      "child depression",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": "1999",
+        "end": "2024",
+        "current": false,
+        "source": "https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-130-GarberCVJan2023public-20230615122153.pdf",
+        "affiliations": [
+          "Vanderbilt University"
+        ],
+        "dateSource": "https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-130-GarberCVJan2023public-20230615122153.pdf",
+        "endSource": "https://www.vanderbilt.edu/faculty-affairs/emeriti-faculty-2024/"
+      },
+      {
+        "program": "program-155",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://wag.app.vanderbilt.edu/PublicPage/Faculty/Details/21187",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "cv": "https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-130-GarberCVJan2023public-20230615122153.pdf",
+    "identity": {
+      "ids": [
+        "A5076218955"
+      ],
+      "confidence": 0.98,
+      "status": "resolved",
+      "evidence": [
+        "Full name or documented name variant",
+        "Institution in OpenAlex affiliation history",
+        "Multiple research topic terms agree"
+      ],
+      "candidates": [
+        {
+          "id": "A5076218955",
+          "name": "Judy Garber",
+          "confidence": 0.98,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history",
+            "Multiple research topic terms agree"
+          ]
+        },
+        {
+          "id": "A5010864837",
+          "name": "Judy E. Garber",
+          "confidence": 0.8,
+          "evidence": [
+            "Full name or documented name variant",
+            "Institution in OpenAlex affiliation history"
+          ]
+        },
+        {
+          "id": "A5005206482",
+          "name": "Judy Ellen Garber",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5157888965",
+          "name": "Judy Garber",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        },
+        {
+          "id": "A5158435376",
+          "name": "Judy Garber",
+          "confidence": 0.45,
+          "evidence": [
+            "Full name or documented name variant"
+          ]
+        }
+      ]
+    },
+    "retrieval": {
+      "openAlex": "complete",
+      "crosschecks": {
+        "PubMed": "not run",
+        "Crossref": "not run",
+        "Semantic Scholar": "not run",
+        "PsyArXiv": "not run"
+      },
+      "errors": {}
+    }
+  },
+  {
+    "id": "amy-bohnert",
+    "name": "Amy M. Bohnert",
+    "aliases": [
+      "Amy Bohnert"
+    ],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/bohnertamy.shtml",
+    "areas": [
+      "developmental psychology",
+      "health disparities",
+      "adolescent well-being"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "colleen-conley",
+    "name": "Colleen S. Conley",
+    "aliases": [
+      "Colleen Conley"
+    ],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/conleycolleen.shtml",
+    "areas": [
+      "adolescent mental health",
+      "prevention",
+      "college student mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "sungha-kang",
+    "name": "Sungha Kang",
+    "aliases": [],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/kangsungha.shtml",
+    "areas": [
+      "child psychopathology",
+      "health disparities",
+      "school mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "scott-leon",
+    "name": "Scott C. Leon",
+    "aliases": [
+      "Scott Leon"
+    ],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/leonscott.shtml",
+    "areas": [
+      "child welfare",
+      "health services",
+      "child mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "jared-ruchensky",
+    "name": "Jared R. Ruchensky",
+    "aliases": [
+      "Jared Ruchensky"
+    ],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/ruchenskyjared.shtml",
+    "areas": [
+      "personality assessment",
+      "ecological momentary assessment",
+      "forensic psychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "maria-kalantzis",
+    "name": "Maria Kalantzis",
+    "aliases": [],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/kalantzismaria.shtml",
+    "areas": [
+      "stress",
+      "disordered eating",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": "2026",
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ],
+        "dateSource": "https://www.luc.edu/universityconvocation/facultyrecognition/"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "shawn-cahill",
+    "name": "Shawn P. Cahill",
+    "aliases": [
+      "Shawn Cahill"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/cahill-shawn/",
+    "areas": [
+      "trauma",
+      "exposure therapy",
+      "anxiety"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "hobart-davies",
+    "name": "W. Hobart Davies",
+    "aliases": [
+      "Hobart Davies"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/davies-w-hobart/",
+    "areas": [
+      "child stress",
+      "pediatric psychology",
+      "coping"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "bonita-klein-tasman",
+    "name": "Bonita P. Klein-Tasman",
+    "aliases": [
+      "Bonita Klein-Tasman"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/klein-tasman-bonita/",
+    "areas": [
+      "child neurodevelopment",
+      "developmental disabilities"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "christine-larson",
+    "name": "Christine L. Larson",
+    "aliases": [
+      "Christine Larson"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/larson-christine/",
+    "areas": [
+      "affective neuroscience",
+      "trauma",
+      "brain imaging"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "han-joo-lee",
+    "name": "Han Joo Lee",
+    "aliases": [],
+    "source": "https://uwm.edu/psychology/about/directory/lee-han-joo/",
+    "areas": [
+      "anxiety",
+      "obsessive compulsive disorder"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "krista-lisdahl",
+    "name": "Krista M. Lisdahl",
+    "aliases": [
+      "Krista Lisdahl",
+      "Krista Medina"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/lisdahl-krista/",
+    "areas": [
+      "adolescent substance use",
+      "neuropsychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "gabriela-nagy",
+    "name": "Gabriela A. Nagy",
+    "aliases": [
+      "Gabriela Nagy"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/nagy-gabriela/",
+    "areas": [
+      "health disparities",
+      "depression",
+      "culturally responsive treatment"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "srishti-sardana",
+    "name": "Srishti M. Sardana",
+    "aliases": [
+      "Srishti Sardana",
+      "Srishti Meera Sardana"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/sardana-srishti/",
+    "areas": [
+      "global mental health",
+      "trauma",
+      "disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": "2024",
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ],
+        "dateSource": "https://uwm.edu/psychology/wp-content/uploads/sites/64/2025/04/Grad-Brochure_25-26.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "ryan-shorey",
+    "name": "Ryan C. Shorey",
+    "aliases": [
+      "Ryan Shorey"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/shorey-ryan/",
+    "areas": [
+      "substance use",
+      "intimate partner violence"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "jennifer-bolden-bush",
+    "name": "Jennifer Bolden-Bush",
+    "aliases": [
+      "Jennifer Bolden",
+      "Jennifer A. Bolden"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "child attention",
+      "neurodevelopment",
+      "ADHD"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "jasmine-coleman",
+    "name": "Jasmine Coleman",
+    "aliases": [],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "child mental health",
+      "community intervention"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": "2023-08",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ],
+        "dateSource": "https://psychology.utk.edu/wp-content/uploads/2023/09/2023.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "chris-elledge",
+    "name": "Chris Elledge",
+    "aliases": [
+      "L. Chris Elledge",
+      "Lawrence Chris Elledge"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "bullying",
+      "child adjustment",
+      "peer victimization"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "timothy-hulsey",
+    "name": "Timothy L. Hulsey",
+    "aliases": [
+      "Timothy Hulsey"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "personality",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "lucybel-mendez",
+    "name": "Lucybel Mendez",
+    "aliases": [
+      "Lucy Mendez"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "youth trauma",
+      "risk and resilience",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": "2023-08",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ],
+        "dateSource": "https://psychology.utk.edu/wp-content/uploads/2023/09/2023.pdf"
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "todd-moore",
+    "name": "Todd M. Moore",
+    "aliases": [
+      "Todd Moore"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "substance use",
+      "intimate partner violence"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "greg-stuart",
+    "name": "Gregory L. Stuart",
+    "aliases": [
+      "Greg Stuart",
+      "Gregory Stuart"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "substance use",
+      "intimate partner violence"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
+  },
+  {
+    "id": "deborah-welsh",
+    "name": "Deborah P. Welsh",
+    "aliases": [
+      "Deborah Welsh"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "adolescent relationships",
+      "developmental psychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ],
+    "identity": {
+      "ids": [],
+      "status": "unavailable",
+      "confidence": 0,
+      "evidence": []
+    },
+    "retrieval": {
+      "openAlex": "unresolved",
+      "errors": {
+        "identity": "No cached response for api.openalex.org"
+      }
+    }
   }
 ]
