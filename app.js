@@ -280,10 +280,12 @@ function initializeQuality() {
       diagnostics.map(d => `${d.matches} of ${d.denominator} papers in ${d.scope}`).join(", and ") +
       ". These checks are outside the 50-faculty audit.";
   }
+  const eligiblePrograms = data.programs.filter(program => ["directory eligible", "active"].includes(program.eligibility));
+  const verifiedRosters = eligiblePrograms.filter(program => program.currentRosterReview?.status === "complete").length;
   $("coverage-counts").innerHTML = [
-    ["Program entries", data.programs.length], ["Current rosters verified", data.counts.currentRostersVerified || 0],
-    ["Eligible programs awaiting current roster verification", data.programs.filter(program =>
-      ["directory eligible", "active"].includes(program.eligibility) && program.currentRosterReview?.status !== "complete").length],
+    ["Program entries", data.programs.length], ["Eligible programs", eligiblePrograms.length],
+    ["Eligible programs with verified current rosters", verifiedRosters],
+    ["Eligible programs awaiting current roster verification", eligiblePrograms.length - verifiedRosters],
     ["Current and historical rosters verified", data.counts.rosterVerified],
     ["Verified faculty records", data.counts.faculty], ["Resolved identities", data.counts.resolved],
     ["Identities awaiting resolution", data.counts.faculty - data.counts.resolved],
