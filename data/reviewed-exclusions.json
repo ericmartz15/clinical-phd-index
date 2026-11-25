@@ -184,5 +184,11 @@
     "id": "10.1016/j.jaac.2021.12.003",
     "reason": "PubMed indexes this DOI as an editorial. External peer review was not confirmed.",
     "evidence": "https://pubmed.ncbi.nlm.nih.gov/34921907/"
+  },
+  {
+    "source": "DOI",
+    "id": "10.1016/j.fjpsy.2019.10.158",
+    "reason": "The conference program identifies this work as a presentation and the publisher includes it in the conference supplement.",
+    "evidence": "https://congresfrancaispsychiatrie.org/wp-content/uploads/2019/11/CFP2019_ProgrammeFinal.pdf"
   }
 ]

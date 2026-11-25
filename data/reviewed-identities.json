@@ -1194,5 +1194,44 @@
       "https://doi.org/10.1007/s10802-015-0074-z",
       "https://doi.org/10.1080/15374416.2013.787623"
     ]
+  },
+  "saul-shiffman": {
+    "ids": [
+      "A5019813223"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "splitReview": true,
+    "evidence": [
+      "https://www.psychology.pitt.edu/people/saul-shiffman-phd",
+      "Pitt and publisher metadata corroborate the name, appointment, and smoking research. The main OpenAlex profile carries the confirmed ORCID. Candidates A5111744709 and A5113342270 need a work-level review.",
+      "https://pubmed.ncbi.nlm.nih.gov/16866591/",
+      "https://orcid.org/0000-0002-9639-490X"
+    ]
+  },
+  "lucybel-mendez": {
+    "ids": [
+      "A5075155041"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.utk.edu/people/lucybel-mendez/",
+      "The official profile and lab bibliography document the University of Utah affiliation and the same trauma research bylines. The other high-scoring candidate mixes a Boise repository record and unrelated work.",
+      "https://staars-lab-utk.mystrikingly.com/work",
+      "https://doi.org/10.1037/tra0001482"
+    ]
+  },
+  "sohee-park": {
+    "ids": [],
+    "status": "review",
+    "confidence": 0.8,
+    "evidence": [
+      "https://lab.vanderbilt.edu/body-mind-brain-lab/publications-page/",
+      "The Vanderbilt publication DOI 10.1016/j.psychres.2023.115547 confirms a work on A5019834339. Both that ID and A5100739374 include works by other scientists with the same name. Review and confirm individual works before bulk attribution.",
+      "https://pubmed.ncbi.nlm.nih.gov/37890408/",
+      "https://openalex.org/A5019834339",
+      "https://openalex.org/A5100739374"
+    ]
   }
 }
