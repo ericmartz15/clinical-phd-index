@@ -897,5 +897,302 @@
       "https://openalex.org/A5103559910"
     ],
     "splitReview": true
+  },
+  "ana-bridges": {
+    "ids": [
+      "A5012117974"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.uark.edu/directory/index/uid/abridges/name/Ana+Julia+Bridges/",
+      "The PubMed publisher bylines corroborate the University of Arkansas psychology department and Ana J. Bridges. OpenAlex uses the Fayetteville institution name.",
+      "https://pubmed.ncbi.nlm.nih.gov/39337116/",
+      "https://pubmed.ncbi.nlm.nih.gov/28617020/"
+    ]
+  },
+  "timothy-cavell": {
+    "ids": [
+      "A5060384773"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.uark.edu/directory/index/uid/tcavell/name/Tim+Cavell/",
+      "The publisher byline and institutional affiliation agree with the clinical roster and department professor profile.",
+      "https://doi.org/10.1007/s10826-026-03333-x"
+    ]
+  },
+  "lindsay-ham": {
+    "ids": [
+      "A5007438380"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.uark.edu/directory/index/uid/lham/name/Lindsay+S.+Ham/",
+      "The publisher bylines identify Lindsay S. Ham at the Fayetteville campus. The core roster and Alcohol Research Lab corroborate the match. L. B. Ham remains a separate name candidate.",
+      "https://doi.org/10.1080/02791072.2026.2727025",
+      "https://psychology.uark.edu/undergraduate/research-experience.php"
+    ]
+  },
+  "matt-judah": {
+    "ids": [
+      "A5072978891"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.uark.edu/directory/index/uid/mjudah/name/Matt+Judah/",
+      "The publisher byline agrees with the Arkansas and prior Old Dominion affiliations. The official lab corroborates the clinical research area.",
+      "https://doi.org/10.1016/j.jad.2026.122274",
+      "https://judahlab.uark.edu/people/"
+    ]
+  },
+  "ellen-leen-feldner": {
+    "ids": [
+      "A5003732933"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.uark.edu/directory/index/uid/eleenfe/name/Ellen+Winifred+Leen-Feldner/",
+      "The lab describes the adolescent anxiety work and the publisher cites Ellen W. Leen-Feldner at the Fayetteville campus.",
+      "https://doi.org/10.1016/j.cpr.2008.09.005",
+      "https://wordpressua.uark.edu/mfeldne/ellen-winifred-leen-feldner-ph-d/"
+    ]
+  },
+  "yanli-lin": {
+    "ids": [
+      "A5024607413"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.uark.edu/directory/index/uid/yanlil/name/Yanli+Lin/",
+      "Two cognitive neuroscience publisher records identify Yanli Lin at Arkansas. Other leading same-name candidates publish in cell biology or oncology.",
+      "https://doi.org/10.1162/netn.a.555",
+      "https://doi.org/10.3758/s13415-026-01457-7"
+    ],
+    "splitReview": true
+  },
+  "lauren-quetsch": {
+    "ids": [
+      "A5022556535"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.uark.edu/directory/index/uid/quetsch/name/Lauren+B.+Quetsch/",
+      "The Arkansas lab lists the same subfield and publication trail. The Wiley and Springer bylines corroborate the prior West Virginia affiliation and the current Fayetteville appointment.",
+      "https://fci.uark.edu/news/",
+      "https://doi.org/10.1007/s10803-022-05428-y"
+    ]
+  },
+  "sarah-tonkin": {
+    "ids": [
+      "A5082402946"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.uark.edu/directory/index/uid/stonkin/name/Sarah+Tonkin/",
+      "The Arkansas roster and clinical handbook identify the nicotine research program. The public ORCID and publications document the same full name, topic and affiliation history.",
+      "https://orcid.org/0000-0001-5638-4363",
+      "https://doi.org/10.2196/43826",
+      "https://psychology.uark.edu/about-the-department/Ratified_Clinical_Program_Handbook_Sept%202025.pdf"
+    ]
+  },
+  "jennifer-veilleux": {
+    "ids": [
+      "A5065031669"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.uark.edu/directory/index/uid/jcveille/name/Jennifer+Celene+Veilleux/",
+      "The ORCID record includes an institution-verified Arkansas employment entry and publication DOIs. Other candidates represent a distinct researcher or incomplete records that require work-level verification.",
+      "https://orcid.org/0000-0002-9050-8793",
+      "https://doi.org/10.1016/j.paid.2013.11.012"
+    ],
+    "splitReview": true
+  },
+  "alexandra-burt": {
+    "ids": [
+      "A5038719346"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.msu.edu/people/b/burt-alexandra",
+      "The primary OpenAlex profile agrees with the full MSU byline and research field. A5157881550 has a single potential duplicate that remains under review.",
+      "https://doi.org/10.1017/s0033291726105893",
+      "https://openalex.org/A5157881550"
+    ],
+    "splitReview": true
+  },
+  "raffles-cowan": {
+    "ids": [
+      "A5047663954"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.msu.edu/people/c/cowan-henry",
+      "The Michigan State profile and publisher byline identify the clinical psychologist Henry R. Cowan. A5043385546 mixes an MSU repository record and unrelated records, and needs work-level review.",
+      "https://doi.org/10.1038/s41398-026-04469-6",
+      "https://openalex.org/A5043385546"
+    ],
+    "splitReview": true
+  },
+  "brooke-ingersoll": {
+    "ids": [
+      "A5053355615"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.msu.edu/people/i/ingersoll-brooke",
+      "The Springer byline confirms Brooke Ingersoll at Michigan State. A5158713097 lists a book chapter, which is outside journal scope.",
+      "https://doi.org/10.1007/s10803-026-07536-5",
+      "https://doi.org/10.1002/9781394389933.ch2"
+    ]
+  },
+  "kelly-klump": {
+    "ids": [
+      "A5083928670"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.msu.edu/people/k/klump-kelly",
+      "The publisher identifies Kelly L. Klump at MSU, consistent with the department profile. The second candidate returned no journal articles in the direct query and remains documented for review.",
+      "https://doi.org/10.1002/eat.70250",
+      "https://openalex.org/A5050119814"
+    ],
+    "splitReview": true
+  },
+  "katharine-thakkar": {
+    "ids": [
+      "A5019618579"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.msu.edu/people/t/thakkar-katharine",
+      "The lab CV and eLife publisher byline corroborate the MSU affiliation and distinctive research on psychosis and inhibitory control.",
+      "https://cnl.psy.msu.edu/wp-content/uploads/2018/04/Thakkar_CV_current.pdf",
+      "https://doi.org/10.7554/elife.46323"
+    ]
+  },
+  "anna-marsland": {
+    "ids": [
+      "A5031323465"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.psychology.pitt.edu/people/anna-marsland-phd",
+      "Publisher bylines corroborate Anna L. Marsland at Pitt and the clinical research on stress and inflammation.",
+      "https://doi.org/10.1249/jes.0000000000000402",
+      "https://doi.org/10.1038/s41514-026-00562-8"
+    ]
+  },
+  "daniel-shaw": {
+    "ids": [
+      "A5010909363"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.psychology.pitt.edu/people/daniel-shaw-phd",
+      "Publisher bylines corroborate Daniel S. Shaw in Pittsburgh and the research on early developmental psychopathology.",
+      "https://doi.org/10.1016/j.childyouth.2026.109333",
+      "https://doi.org/10.1093/chidev/aacag177"
+    ]
+  },
+  "colin-vize": {
+    "ids": [
+      "A5089023474"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.psychology.pitt.edu/people/colin-e-vize-phd",
+      "The departmental bibliography agrees with the OpenAlex work on methods in personality assessment and with the Purdue to Pittsburgh affiliation history.",
+      "https://doi.org/10.1177/25152459231187531",
+      "https://doi.org/10.1037/per0000222"
+    ]
+  },
+  "steven-hollon": {
+    "ids": [
+      "A5082277627"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.vanderbilt.edu/psychological_sciences/bio/steven-hollon",
+      "The publisher byline and department profile agree on Steven D. Hollon and the Vanderbilt affiliation. The other candidate includes a supplement and an older DOI and remains in split review.",
+      "https://doi.org/10.1016/j.jad.2026.122553",
+      "https://openalex.org/A5067501695"
+    ],
+    "splitReview": true
+  },
+  "kathryn-humphreys": {
+    "ids": [
+      "A5059029681"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.vanderbilt.edu/psychological_sciences/bio/kathryn-humphreys",
+      "The publisher bylines corroborate the Vanderbilt affiliation and the clinical research on early experience. The second candidate returned no works in the direct query and remains in review.",
+      "https://doi.org/10.1523/jneurosci.1189-26.2026",
+      "https://doi.org/10.1002/hbm.70658",
+      "https://openalex.org/A5104275549"
+    ],
+    "splitReview": true
+  },
+  "autumn-kujawa": {
+    "ids": [
+      "A5049002787"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.vanderbilt.edu/psychological_sciences/bio/autumn-kujawa",
+      "The publisher bylines corroborate the Vanderbilt affiliation and the clinical research in affective neuroscience. A5162434942 remains under review.",
+      "https://doi.org/10.1111/psyp.70443",
+      "https://doi.org/10.1016/j.biopsycho.2026.109382",
+      "https://openalex.org/A5162434942"
+    ],
+    "splitReview": true
+  },
+  "jasmine-coleman": {
+    "ids": [
+      "A5086692328"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+      "The Tennessee hiring announcement documents the VCU doctorate and University of South Alabama postdoctoral fellowship. Publisher bylines corroborate both earlier affiliations and the research topic.",
+      "https://psychology.utk.edu/wp-content/uploads/2023/09/2023.pdf",
+      "https://doi.org/10.1016/j.adolescence.2021.06.003",
+      "https://doi.org/10.1111/jora.12852"
+    ]
+  },
+  "chris-elledge": {
+    "ids": [
+      "A5025287519"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+      "Publisher metadata identifies L. Christian Elledge at University of Tennessee Knoxville and agrees with the clinical area research on bullying.",
+      "https://doi.org/10.1007/s10802-015-0074-z",
+      "https://doi.org/10.1080/15374416.2013.787623"
+    ]
   }
 }
