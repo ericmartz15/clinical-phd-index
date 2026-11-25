@@ -25,7 +25,7 @@ EXPLICIT_ROSTER = re.compile(
 )
 NON_FACULTY_SECTION = re.compile(r"\b(students?|postdocs?|staff)\b", re.I)
 HANDBOOK_SECTION = re.compile(
-    r"^(?:core(?: clinical)?(?: psychology| doctoral| program)? faculty|"
+    r"^(?:(?:[IVXLCDM]+|\d+)\.\s*)?(?:core(?: clinical)?(?: psychology| doctoral| program)? faculty|"
     r"(?:clinical(?: psychology)?(?: adjunct)?|complementary clinical psychology|"
     r"associated program|affiliated|adjunct|emeritus) faculty)"
     r"(?:\s*[-–:]\s*[\w ,]+)?$", re.I

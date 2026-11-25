@@ -437,7 +437,10 @@
           "source": "https://psychology.uark.edu/graduate/clinical-psychology/"
         }
       ]
-    }
+    },
+    "rosterSourceLeads": [
+      "https://psychology.uark.edu/about-the-department/Ratified_Clinical_Program_Handbook_Sept%202025.pdf"
+    ]
   },
   {
     "id": "program-008",
@@ -3119,7 +3122,11 @@
           "source": "https://iddrc.uiowa.edu/people/amanda-mccleery"
         }
       ]
-    }
+    },
+    "rosterSourceLeads": [
+      "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf",
+      "https://www2.psychology.uiowa.edu/docs/GradHandbook.pdf"
+    ]
   },
   {
     "id": "program-061",
@@ -7378,7 +7385,12 @@
           "source": "https://www.psychology.pitt.edu/people/jeffrey-cohn-phd"
         }
       ]
-    }
+    },
+    "rosterSourceLeads": [
+      "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+      "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202023.pdf",
+      "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202020.pdf"
+    ]
   },
   {
     "id": "program-145",

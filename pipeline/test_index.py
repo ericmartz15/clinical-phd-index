@@ -64,14 +64,14 @@ class ScoringTest(unittest.TestCase):
 class DataTest(unittest.TestCase):
     def test_handbook_roster_keeps_adjacent_page_and_role_changes(self):
         pages = [
-            "Core Doctoral Faculty\nJane Smith, Ph.D., Associate Professor.",
+            "XVII. Core Doctoral Faculty\nJane Smith, Ph.D., Associate Professor.",
             "Peter Nguyen, Ph.D., Assistant Professor.\nAssociated Program Faculty\nKim Taylor, Ph.D., Professor.",
             "Clinical Program Overview\nRowan King, Ph.D.",
         ]
         found = handbook_faculty_pages(pages, "official handbook")
         self.assertEqual([(r["name"], r["page"], r["section"]) for r in found], [
-            ("Jane Smith", 1, "Core Doctoral Faculty"),
-            ("Peter Nguyen", 2, "Core Doctoral Faculty"),
+            ("Jane Smith", 1, "XVII. Core Doctoral Faculty"),
+            ("Peter Nguyen", 2, "XVII. Core Doctoral Faculty"),
             ("Kim Taylor", 2, "Associated Program Faculty"),
         ])
 
