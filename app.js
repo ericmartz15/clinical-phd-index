@@ -229,11 +229,18 @@ function initializeProgram() {
   if (!faculty.length) people.innerHTML = "<p>Faculty verification is pending for this program.</p>";
   for (const person of faculty) {
     const works = data.works.filter(work => work.people[person.id]);
+    const appointments = person.appointments.filter(a => a.program === program.id).map(a => {
+      const sources = [["Roster evidence", a.source], ["Start date evidence", a.dateSource], ["End date evidence", a.endSource]];
+      const dates = `${a.start || "Start date unverified"} to ${a.current ? "present" : a.end || "End date unverified"}`;
+      return `<li>${escapeHtml(a.role)} · ${escapeHtml(dates)} · ${sources.filter(([, url]) => url)
+        .map(([label, url]) => `<a href="${escapeHtml(url)}">${label} ↗</a>`).join(" · ")}</li>`;
+    }).join("");
     const section = document.createElement("details");
     section.innerHTML = `<summary>${escapeHtml(person.name)} <span class="location">${works.length} works retrieved · ${escapeHtml(person.retrieval.openAlex)}</span></summary>
       <p>${escapeHtml(person.areas.join(", "))}</p>
       <p>${[person.lab && ["Lab",person.lab],person.cv && ["CV",person.cv],person.publicationList && ["Lab bibliography",person.publicationList],person.orcid && ["ORCID","https://orcid.org/"+person.orcid]]
         .filter(Boolean).map(([label,url])=>`<a href="${escapeHtml(url)}">${label} ↗</a>`).join(" · ")}</p>
+      <ul>${appointments}</ul>
       <ol class="publication-list">${works.map(work => `<li><a href="${escapeHtml(publicationUrl(work))}">${escapeHtml(work.title)}</a>
         <span>${escapeHtml(work.datePrecision === "month" ? work.date.slice(0, 7) : work.date)} · ${escapeHtml(work.venue)}${work.kind === "preprint" ? " · Preprint" : ""}${work.databaseMissing ? " · Database record unverified" : ""}</span>
         <span>${work.credit.some(c => c.person === person.id && c.program === program.id) ? "Eligible appointment matched" : "Program attribution pending or ineligible"} · ${work.provenance.map(p => `<a href="${escapeHtml(p.url)}">${escapeHtml(p.source)}</a>`).join(", ")}</span></li>`).join("")}</ol>`;

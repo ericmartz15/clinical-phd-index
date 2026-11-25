@@ -47,6 +47,20 @@ class ScoringTest(unittest.TestCase):
         self.assertEqual([a["program"] for a in creditable_appointments(person, "2024-03-01", ["Old University"])], ["B"])
 
 
+    def test_month_precision_uses_the_month_and_requires_boundary_affiliation(self):
+        person = {"appointments": [
+            {"program": "A", "role": "tenure-track", "start": "2023-08", "end": "2024-06",
+             "source": "CV", "affiliations": ["University"]}
+        ]}
+        self.assertFalse(creditable_appointments(person, "2023-07-31", ["University"]))
+        self.assertFalse(creditable_appointments(person, "2023-08-12", []))
+        self.assertTrue(creditable_appointments(person, "2023-08-12", ["University"]))
+        self.assertTrue(creditable_appointments(person, "2023-09-01", []))
+        self.assertFalse(creditable_appointments(person, "2024-06-07", []))
+        self.assertTrue(creditable_appointments(person, "2024-06-07", ["University"]))
+        self.assertFalse(creditable_appointments(person, "2024-07-01", ["University"]))
+
+
 class DataTest(unittest.TestCase):
     def test_handbook_roster_keeps_adjacent_page_and_role_changes(self):
         pages = [

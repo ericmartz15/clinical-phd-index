@@ -1,5 +1,4 @@
 from collections import defaultdict
-from datetime import date
 import json
 from pathlib import Path
 import re
@@ -131,19 +130,21 @@ def creditable_appointments(faculty, publication_date, affiliations):
     """Return eligible contemporaneous appointments. Ambiguous boundaries need corroboration."""
     if not publication_date:
         return []
-    dates = date.fromisoformat(publication_date)
     listed = {normalize(value) for value in affiliations}
     active, boundary = [], []
     for appointment in faculty.get("appointments", []):
         if appointment.get("role") not in CORE_ROLES or not appointment.get("source"):
             continue
         start, end = str(appointment.get("start") or ""), str(appointment.get("end") or "")
-        if start and start[:4] > str(dates.year) or end and end[:4] < str(dates.year):
-            continue
-        if len(start) == 10 and publication_date < start or len(end) == 10 and publication_date > end:
+        # Compare each recorded boundary at its own precision.
+        start_period = publication_date[:len(start)]
+        end_period = publication_date[:len(end)]
+        if (start and start_period < start) or (end and end_period > end):
             continue
         overlap = bool(listed.intersection(normalize(term) for term in appointment.get("affiliations", [])))
-        if not start or len(start) == 4 and start == str(dates.year) or len(end) == 4 and end == str(dates.year):
+        on_imprecise_boundary = ((len(start) in (4, 7) and start_period == start)
+                                 or (len(end) in (4, 7) and end_period == end))
+        if not start or on_imprecise_boundary:
             if overlap:
                 boundary.append(appointment)
         else:
