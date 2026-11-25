@@ -2673,7 +2673,19 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-25",
+      "scope": "The clinical training page lists seven faculty, all confirmed by the departmental active professors directory.",
+      "sources": [
+        "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "https://www.niu.edu/clas/psychology/about/directory/index.shtml",
+        "https://www.niu.edu/clas/psychology/interview-day-clinical/faculty.shtml"
+      ],
+      "roleDecisions": []
+    }
   },
   {
     "id": "northwestern",
@@ -3160,11 +3172,28 @@
     ],
     "rosterUrl": "https://psychology.ku.edu/clinical-psychology-faculty",
     "currentRosterReview": {
-      "status": "partial",
-      "asOf": "2026-11-20",
-      "scope": "The Clinical Psychology PhD program’s core faculty directory was used. Clinic and practice-track roles were reviewed separately.",
-      "sources": [],
-      "roleDecisions": []
+      "status": "complete",
+      "asOf": "2026-11-25",
+      "scope": "The Clinical Psychology PhD roster lists twelve core members. Ten hold eligible professorial appointments, with a professor of practice and a clinical training administrator listed separately in this review.",
+      "sources": [
+        "https://psychology.ku.edu/clinical-psychology-faculty",
+        "https://psychology.ku.edu/sites/psychology/files/attached-files/CV%20-%20S.%20Kirk.pdf",
+        "https://psychology.ku.edu/sites/psychology/files/files/Psychological%20Clinical%20Science%20Handbook%202022-2023%20revised%20July%202022.pdf"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Ali Calkins-Smith",
+          "label": "Practice-track appointment",
+          "reason": "The department identifies a professor-of-practice appointment.",
+          "source": "https://psychology.ku.edu/people/ali-calkins-smith"
+        },
+        {
+          "name": "Sarah Kirk",
+          "label": "Clinical training administration",
+          "reason": "The department describes a clinical and administrative appointment. Kirk’s CV describes clinic direction and practicum training as her Kansas appointments.",
+          "source": "https://psychology.ku.edu/sites/psychology/files/attached-files/CV%20-%20S.%20Kirk.pdf"
+        }
+      ]
     }
   },
   {
@@ -6485,7 +6514,45 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://psychsciences.case.edu/graduate/clinical-psych/core-clinical-program-faculty/",
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-25",
+      "scope": "The dedicated core roster identifies four regular professors. The 2027 recruitment list adds research mentors whose core or affiliated status is not specified.",
+      "sources": [
+        "https://psychsciences.case.edu/graduate/clinical-psych/core-clinical-program-faculty/",
+        "https://psychsciences.case.edu/people/",
+        "https://psychsciences.case.edu/graduate/clinical-psych/admissions-information/accepting-students/",
+        "https://artscimedia.case.edu/wp-content/uploads/sites/130/2014/12/20144525/2025-2026-CWRU-Clin-Program-Handbook.pdf"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Alison Athey",
+          "label": "Core membership under review",
+          "reason": "The program lists the person as available for Fall 2027 mentorship. The core roster omits the person.",
+          "source": "https://psychsciences.case.edu/graduate/clinical-psych/admissions-information/accepting-students/"
+        },
+        {
+          "name": "Wilson Brown",
+          "label": "Core membership under review",
+          "reason": "The program lists the person as available for Fall 2027 mentorship. The core roster omits the person.",
+          "source": "https://psychsciences.case.edu/graduate/clinical-psych/admissions-information/accepting-students/"
+        },
+        {
+          "name": "Elizabeth Capps",
+          "label": "Core membership under review",
+          "reason": "The program lists the person as available for Fall 2027 mentorship. The core roster omits the person.",
+          "source": "https://psychsciences.case.edu/graduate/clinical-psych/admissions-information/accepting-students/"
+        },
+        {
+          "name": "Stacy Ryan-Pettes",
+          "label": "Core membership under review",
+          "reason": "The program lists the person as available for Fall 2027 mentorship. The core roster omits the person.",
+          "source": "https://psychsciences.case.edu/graduate/clinical-psych/admissions-information/accepting-students/"
+        }
+      ]
+    }
   },
   {
     "id": "program-129",

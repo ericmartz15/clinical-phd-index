@@ -8965,5 +8965,291 @@
         "endSource": "https://www.as.pitt.edu/sites/default/files/Vol%2054%20No%206.%20May%2031%202023%20FINAL.pdf"
       }
     ]
+  },
+  {
+    "id": "davielle-lakind",
+    "name": "Davielle Lakind",
+    "aliases": [
+      "Davi Lakind"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/lakind.shtml",
+    "areas": [
+      "community mental health",
+      "family interventions",
+      "implementation science"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "michelle-lilly",
+    "name": "Michelle M. Lilly",
+    "aliases": [
+      "Michelle Lilly"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/lilly.shtml",
+    "areas": [
+      "trauma",
+      "posttraumatic stress",
+      "mindfulness"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "holly-orcutt",
+    "name": "Holly K. Orcutt",
+    "aliases": [
+      "Holly Orcutt"
+    ],
+    "source": "https://www.niu.edu/horcutt/",
+    "areas": [
+      "trauma",
+      "psychological flexibility",
+      "adjustment"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "laura-pittman",
+    "name": "Laura D. Pittman",
+    "aliases": [
+      "Laura Pittman"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/pittman.shtml",
+    "areas": [
+      "developmental psychopathology",
+      "parenting",
+      "child mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elizabeth-shelleby",
+    "name": "Elizabeth C. Shelleby",
+    "aliases": [
+      "Elizabeth Shelleby"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/shelleby.shtml",
+    "areas": [
+      "child psychopathology",
+      "disruptive behavior",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "david-valentiner",
+    "name": "David P. Valentiner",
+    "aliases": [
+      "David Valentiner"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/valentiner.shtml",
+    "areas": [
+      "anxiety disorders",
+      "social anxiety",
+      "exposure therapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kevin-wu",
+    "name": "Kevin D. Wu",
+    "aliases": [
+      "Kevin Wu"
+    ],
+    "source": "https://www.niu.edu/clas/psychology/about/directory/wu.shtml",
+    "areas": [
+      "obsessive compulsive disorder",
+      "psychopathology",
+      "assessment"
+    ],
+    "appointments": [
+      {
+        "program": "program-051",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.niu.edu/clas/psychology/graduate/clinical/index.shtml",
+        "affiliations": [
+          "Northern Illinois University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arin-connell",
+    "name": "Arin M. Connell",
+    "aliases": [
+      "Arin Connell"
+    ],
+    "source": "https://psychsciences.case.edu/people/",
+    "areas": [
+      "anxiety",
+      "depression",
+      "developmental psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-128",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychsciences.case.edu/graduate/clinical-psych/core-clinical-program-faculty/",
+        "affiliations": [
+          "Case Western Reserve University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "norah-feeny",
+    "name": "Norah C. Feeny",
+    "aliases": [
+      "Norah Feeny"
+    ],
+    "source": "https://psychsciences.case.edu/people/",
+    "areas": [
+      "trauma",
+      "posttraumatic stress",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-128",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychsciences.case.edu/graduate/clinical-psych/core-clinical-program-faculty/",
+        "affiliations": [
+          "Case Western Reserve University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "james-overholser",
+    "name": "James C. Overholser",
+    "aliases": [
+      "James Overholser"
+    ],
+    "source": "https://psychsciences.case.edu/people/",
+    "areas": [
+      "depression",
+      "anxiety",
+      "suicide"
+    ],
+    "appointments": [
+      {
+        "program": "program-128",
+        "role": "tenure-track",
+        "start": "1988-08",
+        "end": null,
+        "current": true,
+        "source": "https://psychsciences.case.edu/graduate/clinical-psych/core-clinical-program-faculty/",
+        "affiliations": [
+          "Case Western Reserve University"
+        ],
+        "dateSource": "https://artscimedia.case.edu/wp-content/uploads/2013/07/28095124/Jim-Overholser-vita.pdf"
+      }
+    ],
+    "cv": "https://artscimedia.case.edu/wp-content/uploads/2013/07/28095124/Jim-Overholser-vita.pdf"
+  },
+  {
+    "id": "amy-przeworski",
+    "name": "Amy Przeworski",
+    "aliases": [],
+    "source": "https://psychsciences.case.edu/people/",
+    "areas": [
+      "anxiety",
+      "psychotherapy",
+      "family functioning"
+    ],
+    "appointments": [
+      {
+        "program": "program-128",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychsciences.case.edu/graduate/clinical-psych/core-clinical-program-faculty/",
+        "affiliations": [
+          "Case Western Reserve University"
+        ]
+      }
+    ]
   }
 ]
