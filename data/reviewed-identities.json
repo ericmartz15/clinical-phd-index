@@ -1233,5 +1233,57 @@
       "https://openalex.org/A5019834339",
       "https://openalex.org/A5100739374"
     ]
+  },
+  "holly-orcutt": {
+    "ids": [
+      "A5020633883"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.niu.edu/horcutt/",
+      "The university role and two matching publisher bylines corroborate the author name, research topic and institutional affiliation.",
+      "https://doi.org/10.1037/tra0002317",
+      "https://doi.org/10.1037/tra0001873"
+    ]
+  },
+  "laura-pittman": {
+    "ids": [
+      "A5056999260"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.niu.edu/clas/psychology/about/directory/pittman.shtml",
+      "The university role and two matching publisher bylines corroborate the author name, research topic and institutional affiliation.",
+      "https://doi.org/10.1007/s10566-026-09988-3",
+      "https://doi.org/10.1037/fam0000996"
+    ]
+  },
+  "elizabeth-shelleby": {
+    "ids": [
+      "A5055777578"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://www.niu.edu/clas/psychology/about/directory/shelleby.shtml",
+      "The university role and two matching publisher bylines corroborate the author name, research topic and institutional affiliation.",
+      "https://doi.org/10.1007/s10566-026-09988-3",
+      "https://doi.org/10.1007/s10802-026-01433-2"
+    ]
+  },
+  "amy-przeworski": {
+    "ids": [
+      "A5053406540"
+    ],
+    "status": "resolved",
+    "confidence": 1,
+    "evidence": [
+      "https://psychsciences.case.edu/people/",
+      "The university role and two matching publisher bylines corroborate the author name, research topic and institutional affiliation.",
+      "https://doi.org/10.1080/07317107.2026.2637447",
+      "https://doi.org/10.1016/j.janxdis.2024.102830"
+    ]
   }
 }
