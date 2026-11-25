@@ -6161,6 +6161,18 @@
           "university of michigan"
         ],
         "dateSource": "https://regents.umich.edu/files/meetings/12-23/2023-12-IV-1.pdf"
+      },
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": "2014",
+        "end": "2023",
+        "current": false,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202020.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "dateSource": "https://regents.umich.edu/files/meetings/02-23/2023-02-IV-1.pdf"
       }
     ]
   },
@@ -7223,5 +7235,1072 @@
       }
     ],
     "cv": "https://webapps.und.edu/uploads/profile-uploads/1842/wise-richard_curriculum-vita.pdf"
+  },
+  {
+    "id": "ana-bridges",
+    "name": "Ana Julia Bridges",
+    "aliases": [
+      "Ana Bridges",
+      "Ana J. Bridges"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/abridges/name/Ana+Julia+Bridges/",
+    "areas": [
+      "health disparities",
+      "integrated behavioral health"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2007",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ]
+  },
+  {
+    "id": "timothy-cavell",
+    "name": "Timothy A. Cavell",
+    "aliases": [
+      "Tim Cavell",
+      "Timothy Cavell"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/tcavell/name/Tim+Cavell/",
+    "areas": [
+      "child aggression",
+      "mentoring",
+      "bullying"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2002",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ]
+  },
+  {
+    "id": "lindsay-ham",
+    "name": "Lindsay S. Ham",
+    "aliases": [
+      "Lindsay Ham"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/lham/name/Lindsay+S.+Ham/",
+    "areas": [
+      "alcohol use",
+      "anxiety",
+      "sexual violence"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2007",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ]
+  },
+  {
+    "id": "matt-judah",
+    "name": "Matt Judah",
+    "aliases": [
+      "Matthew R. Judah",
+      "Matt R. Judah"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/mjudah/name/Matt+Judah/",
+    "areas": [
+      "depression",
+      "anxiety",
+      "cognitive control"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2020",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ]
+  },
+  {
+    "id": "ellen-leen-feldner",
+    "name": "Ellen W. Leen-Feldner",
+    "aliases": [
+      "Ellen Leen-Feldner"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/eleenfe/name/Ellen+Winifred+Leen-Feldner/",
+    "areas": [
+      "developmental psychopathology",
+      "anxiety",
+      "adolescence"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2005",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ]
+  },
+  {
+    "id": "yanli-lin",
+    "name": "Yanli Lin",
+    "aliases": [
+      "Jeff Lin"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/yanlil/name/Yanli+Lin/",
+    "areas": [
+      "mindfulness",
+      "cognitive control",
+      "emotion regulation"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2024",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ]
+  },
+  {
+    "id": "lauren-quetsch",
+    "name": "Lauren B. Quetsch",
+    "aliases": [
+      "Lauren Quetsch"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/quetsch/name/Lauren+B.+Quetsch/",
+    "areas": [
+      "autism",
+      "child treatment",
+      "implementation science"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sarah-tonkin",
+    "name": "Sarah Tonkin",
+    "aliases": [
+      "Sarah S. Tonkin"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/stonkin/name/Sarah+Tonkin/",
+    "areas": [
+      "addiction",
+      "smoking",
+      "nicotine treatment"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2025",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ]
+  },
+  {
+    "id": "jennifer-veilleux",
+    "name": "Jennifer C. Veilleux",
+    "aliases": [
+      "Jennifer Veilleux",
+      "Jenn Veilleux"
+    ],
+    "source": "https://psychology.uark.edu/directory/index/uid/jcveille/name/Jennifer+Celene+Veilleux/",
+    "areas": [
+      "emotion regulation",
+      "distress tolerance"
+    ],
+    "appointments": [
+      {
+        "program": "program-007",
+        "role": "tenure-track",
+        "start": "2011",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "affiliations": [
+          "University of Arkansas"
+        ],
+        "dateSource": "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/"
+      }
+    ]
+  },
+  {
+    "id": "blair-burnette",
+    "name": "Blair Burnette",
+    "aliases": [
+      "Blair C. Burnette"
+    ],
+    "source": "https://psychology.msu.edu/people/b/burnette-blair",
+    "areas": [
+      "eating disorders",
+      "body image",
+      "intuitive eating"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": "2023",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ],
+        "dateSource": "https://mhrc.psy.msu.edu/biography/"
+      }
+    ]
+  },
+  {
+    "id": "alexandra-burt",
+    "name": "S. Alexandra Burt",
+    "aliases": [
+      "Alexandra Burt"
+    ],
+    "source": "https://psychology.msu.edu/people/b/burt-alexandra",
+    "areas": [
+      "behavior genetics",
+      "antisocial behavior",
+      "developmental psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "raffles-cowan",
+    "name": "Henry Raffles Cowan",
+    "aliases": [
+      "Raffles Cowan",
+      "Henry Cowan",
+      "Henry R. Cowan"
+    ],
+    "source": "https://psychology.msu.edu/people/c/cowan-henry",
+    "areas": [
+      "psychosis",
+      "self concept",
+      "schizophrenia"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "amy-drahota",
+    "name": "Amy Drahota",
+    "aliases": [
+      "Amy Drahota"
+    ],
+    "source": "https://psychology.msu.edu/people/d/drahota-amy",
+    "areas": [
+      "autism",
+      "implementation science",
+      "community mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "brooke-ingersoll",
+    "name": "Brooke Ingersoll",
+    "aliases": [
+      "Brooke R. Ingersoll"
+    ],
+    "source": "https://psychology.msu.edu/people/i/ingersoll-brooke",
+    "areas": [
+      "autism",
+      "early intervention",
+      "parent training"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kelly-klump",
+    "name": "Kelly L. Klump",
+    "aliases": [
+      "Kelly Klump"
+    ],
+    "source": "https://psychology.msu.edu/people/k/klump-kelly",
+    "areas": [
+      "eating disorders",
+      "behavior genetics",
+      "puberty"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alytia-levendosky",
+    "name": "Alytia A. Levendosky",
+    "aliases": [
+      "Alytia Levendosky"
+    ],
+    "source": "https://psychology.msu.edu/people/l/levendosky-alytia",
+    "areas": [
+      "trauma",
+      "intimate partner violence",
+      "attachment"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jason-moser",
+    "name": "Jason S. Moser",
+    "aliases": [
+      "Jason Moser"
+    ],
+    "source": "https://psychology.msu.edu/people/m/moser-jason",
+    "areas": [
+      "anxiety",
+      "emotion regulation",
+      "cognitive control"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "katharine-thakkar",
+    "name": "Katharine N. Thakkar",
+    "aliases": [
+      "Katharine Thakkar"
+    ],
+    "source": "https://psychology.msu.edu/people/t/thakkar-katharine",
+    "areas": [
+      "psychosis",
+      "schizophrenia",
+      "cognitive neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "program-080",
+        "role": "tenure-track",
+        "start": "2017",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.msu.edu/research/clinical-science/faculty",
+        "affiliations": [
+          "Michigan State University"
+        ],
+        "dateSource": "https://cnl.psy.msu.edu/wp-content/uploads/2018/04/Thakkar_CV_current.pdf"
+      }
+    ]
+  },
+  {
+    "id": "sophia-choukas-bradley",
+    "name": "Sophia Choukas-Bradley",
+    "aliases": [
+      "Sophie Choukas-Bradley"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/sophia-choukas-bradley-phd",
+    "areas": [
+      "adolescent mental health",
+      "body image",
+      "social media"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": "2022",
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "dateSource": "https://www.psychology.pitt.edu/sites/default/files/CVs/ChoukasBradleyCVMay2023.pdf"
+      }
+    ],
+    "cv": "https://www.psychology.pitt.edu/sites/default/files/CVs/ChoukasBradleyCVMay2023.pdf"
+  },
+  {
+    "id": "thomas-kamarck",
+    "name": "Thomas W. Kamarck",
+    "aliases": [
+      "Thomas Kamarck"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/thomas-w-kamarck-phd",
+    "areas": [
+      "behavioral medicine",
+      "cardiovascular health",
+      "stress"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": "1988",
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "dateSource": "https://www.psychology.pitt.edu/sites/default/files/CVs/kamarckcv523withhighlights.pdf"
+      }
+    ],
+    "cv": "https://www.psychology.pitt.edu/sites/default/files/CVs/kamarckcv523withhighlights.pdf"
+  },
+  {
+    "id": "anna-marsland",
+    "name": "Anna L. Marsland",
+    "aliases": [
+      "Anna Marsland"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/anna-marsland-phd",
+    "areas": [
+      "stress",
+      "inflammation",
+      "psychoneuroimmunology"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kathryn-roecklein",
+    "name": "Kathryn A. Roecklein",
+    "aliases": [
+      "Kathryn Roecklein"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/kathryn-roecklein-phd",
+    "areas": [
+      "depression",
+      "seasonal affective disorder",
+      "sleep"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "michael-sayette",
+    "name": "Michael A. Sayette",
+    "aliases": [
+      "Michael Sayette"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/michael-sayette-phd",
+    "areas": [
+      "substance use",
+      "smoking",
+      "alcohol"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ],
+    "cv": "https://www.psychology.pitt.edu/sites/default/files/CV%20Sayette%203%201%2023.pdf"
+  },
+  {
+    "id": "daniel-shaw",
+    "name": "Daniel S. Shaw",
+    "aliases": [
+      "Daniel Shaw"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/daniel-shaw-phd",
+    "areas": [
+      "child psychopathology",
+      "parenting",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jennifer-silk",
+    "name": "Jennifer S. Silk",
+    "aliases": [
+      "Jennifer Silk"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/jennifer-silk-phd",
+    "areas": [
+      "adolescent depression",
+      "anxiety",
+      "affective neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "colin-vize",
+    "name": "Colin E. Vize",
+    "aliases": [
+      "Colin Vize"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/colin-e-vize-phd",
+    "areas": [
+      "personality pathology",
+      "antisocial behavior"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lauren-hallion",
+    "name": "Lauren S. Hallion",
+    "aliases": [
+      "Lauren Hallion"
+    ],
+    "source": "https://www.uregina.ca/arts/psychology/directory/faculty/hallion-l.html",
+    "areas": [
+      "anxiety",
+      "worry",
+      "attention",
+      "cognitive control"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "research-track",
+        "start": "2016",
+        "end": "2018",
+        "current": false,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/CVs/Hallion_CV_updated_April_2023.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "dateSource": "https://www.psychology.pitt.edu/sites/default/files/CVs/Hallion_CV_updated_April_2023.pdf"
+      },
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": "2018",
+        "end": "2025",
+        "current": false,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202023.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "dateSource": "https://www.psychology.pitt.edu/sites/default/files/CVs/Hallion_CV_updated_April_2023.pdf",
+        "endSource": "https://www.cnmalab.com/people.html"
+      },
+      {
+        "program": "university-of-regina",
+        "role": "tenure-track",
+        "start": "2025",
+        "end": null,
+        "current": true,
+        "source": "https://www.uregina.ca/arts/psychology/directory/index.html",
+        "affiliations": [
+          "University of Regina"
+        ],
+        "dateSource": "https://www.cnmalab.com/people.html"
+      }
+    ],
+    "cv": "https://www.psychology.pitt.edu/sites/default/files/CVs/Hallion_CV_updated_April_2023.pdf",
+    "lab": "https://www.cnmalab.com/people.html"
+  },
+  {
+    "id": "bruce-compas",
+    "name": "Bruce E. Compas",
+    "aliases": [
+      "Bruce Compas"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/bruce-compas",
+    "areas": [
+      "coping",
+      "child depression",
+      "chronic illness"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elisabeth-dykens",
+    "name": "Elisabeth M. Dykens",
+    "aliases": [
+      "Elisabeth Dykens"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/elisabeth-dykens",
+    "areas": [
+      "developmental disabilities",
+      "genetic syndromes",
+      "mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "steven-hollon",
+    "name": "Steven D. Hollon",
+    "aliases": [
+      "Steven Hollon"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/steven-hollon",
+    "areas": [
+      "cognitive therapy",
+      "depression"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kathryn-humphreys",
+    "name": "Kathryn L. Humphreys",
+    "aliases": [
+      "Kathryn Humphreys"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/kathryn-humphreys",
+    "areas": [
+      "early adversity",
+      "developmental psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "antonia-kaczkurkin",
+    "name": "Antonia N. Kaczkurkin",
+    "aliases": [
+      "Antonia Kaczkurkin"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/antonia-kaczkurkin",
+    "areas": [
+      "neuroimaging",
+      "anxiety",
+      "depression"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "autumn-kujawa",
+    "name": "Autumn Kujawa",
+    "aliases": [],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/autumn-kujawa",
+    "areas": [
+      "mood disorders",
+      "psychophysiology",
+      "developmental psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bunmi-olatunji",
+    "name": "Bunmi O. Olatunji",
+    "aliases": [
+      "Olubunmi O. Olatunji",
+      "Bunmi Olatunji"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/bunmi-olatunji",
+    "areas": [
+      "anxiety",
+      "obsessive compulsive disorder",
+      "emotion"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sohee-park",
+    "name": "Sohee Park",
+    "aliases": [],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/sohee-park",
+    "areas": [
+      "psychosis",
+      "schizophrenia",
+      "social neuroscience"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jonathan-schaefer",
+    "name": "Jonathan D. Schaefer",
+    "aliases": [
+      "Jonathan Schaefer"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/jonathan-schaefer",
+    "areas": [
+      "developmental psychopathology",
+      "genetic epidemiology"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "david-schlundt",
+    "name": "David G. Schlundt",
+    "aliases": [
+      "David Schlundt"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/david-schlundt",
+    "areas": [
+      "nutrition",
+      "health disparities",
+      "behavioral medicine"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ashley-watts",
+    "name": "Ashley L. Watts",
+    "aliases": [
+      "Ashley Watts"
+    ],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/ashley-watts",
+    "areas": [
+      "psychopathology",
+      "substance use",
+      "personality"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "judy-garber",
+    "name": "Judy Garber",
+    "aliases": [],
+    "source": "https://www.vanderbilt.edu/psychological_sciences/bio/judy-garber",
+    "areas": [
+      "developmental psychopathology",
+      "child depression",
+      "prevention"
+    ],
+    "appointments": [
+      {
+        "program": "program-155",
+        "role": "tenure-track",
+        "start": "1999",
+        "end": "2024",
+        "current": false,
+        "source": "https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-130-GarberCVJan2023public-20230615122153.pdf",
+        "affiliations": [
+          "Vanderbilt University"
+        ],
+        "dateSource": "https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-130-GarberCVJan2023public-20230615122153.pdf",
+        "endSource": "https://www.vanderbilt.edu/faculty-affairs/emeriti-faculty-2024/"
+      },
+      {
+        "program": "program-155",
+        "role": "research-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://wag.app.vanderbilt.edu/PublicPage/Faculty/Details/21187",
+        "affiliations": [
+          "Vanderbilt University"
+        ]
+      }
+    ],
+    "cv": "https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-130-GarberCVJan2023public-20230615122153.pdf"
   }
 ]

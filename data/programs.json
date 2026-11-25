@@ -411,7 +411,33 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://psychology.uark.edu/graduate/clinical-psychology/",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-25",
+      "scope": "The program explicitly lists ten core faculty. Nine hold regular professorial appointments. The directory and catalog identify the tenth as clinical-track.",
+      "sources": [
+        "https://psychology.uark.edu/graduate/clinical-psychology/",
+        "https://psychology.uark.edu/directory/",
+        "https://catalog.uark.edu/undergraduatecatalog/collegesandschools/jwilliamfulbrightcollegeofartsandsciences/psychologypsyc/",
+        "https://psychology.uark.edu/about-the-department/Ratified_Clinical_Program_Handbook_Sept%202025.pdf"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Jessica Fugitt",
+          "label": "Clinical-track appointment",
+          "reason": "The program lists Fugitt as core faculty. The university catalog and directory identify a clinical assistant professor and clinic director appointment.",
+          "source": "https://psychology.uark.edu/directory/"
+        },
+        {
+          "name": "Melissa Zielinski",
+          "label": "Adjunct faculty",
+          "reason": "The program lists Zielinski in the adjunct section.",
+          "source": "https://psychology.uark.edu/graduate/clinical-psychology/"
+        }
+      ]
+    }
   },
   {
     "id": "program-008",
@@ -3031,15 +3057,51 @@
     "rosterUrl": "https://psychology.uiowa.edu/graduate/clinical-science",
     "currentRosterReview": {
       "status": "partial",
-      "asOf": "2026-11-20",
-      "scope": "Primary faculty in the training handbook were reconciled against the current program listing. Clinic and teaching appointments remain under review.",
+      "asOf": "2026-11-25",
+      "scope": "The 2025 handbook distinguishes primary, secondary and joint faculty. Six eligible primary faculty are corroborated by the current roster. New appointments and a former primary appointment still need track or transition evidence.",
       "sources": [
-        {
-          "label": "Graduate program handbook",
-          "url": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf"
-        }
+        "https://psychology.uiowa.edu/graduate/clinical-science",
+        "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf",
+        "https://www2.psychology.uiowa.edu/docs/GradHandbook.pdf"
       ],
-      "roleDecisions": []
+      "roleDecisions": [
+        {
+          "name": "Susan O’Neill",
+          "label": "Clinical-track appointment",
+          "reason": "The handbook lists a primary role and the university profile identifies it as clinical-track.",
+          "source": "https://psychology.uiowa.edu/people/susan-oneill"
+        },
+        {
+          "name": "Emily Thomas",
+          "label": "Clinical-track appointment",
+          "reason": "The university lists a Clinical Associate Professor appointment.",
+          "source": "https://psychology.uiowa.edu/people/emily-thomas"
+        },
+        {
+          "name": "Debbie Yee",
+          "label": "Appointment under review",
+          "reason": "The current program lists Yee as a faculty member and prospective mentor. Awaiting evidence of primary versus secondary clinical training area membership.",
+          "source": "https://psychology.uiowa.edu/people/debbie-yee"
+        },
+        {
+          "name": "Bruce Bartholow",
+          "label": "Secondary in 2025 handbook",
+          "reason": "The handbook identifies secondary membership. The current pages list Bartholow as a prospective mentor without specifying a transition to primary membership.",
+          "source": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf"
+        },
+        {
+          "name": "Dorit Kliemann",
+          "label": "Secondary in 2025 handbook",
+          "reason": "The handbook identifies secondary membership. The current pages list Kliemann as a prospective mentor without specifying a transition to primary membership.",
+          "source": "https://psychology.uiowa.edu/sites/psychology.uiowa.edu/files/2025-08/GradHandbook2025%20-%207-1-25.pdf"
+        },
+        {
+          "name": "Amanda McCleery",
+          "label": "Appointment under review",
+          "reason": "The 2025 handbook lists a primary appointment. The current program roster omits McCleery, and the medical center lists a Psychiatry position. Clinical program transition date unverified.",
+          "source": "https://iddrc.uiowa.edu/people/amanda-mccleery"
+        }
+      ]
     }
   },
   {
@@ -4118,7 +4180,24 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://psychology.msu.edu/research/clinical-science/faculty",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-25",
+      "scope": "The clinical science training area lists nine active professors and one emeritus professor.",
+      "sources": [
+        "https://psychology.msu.edu/research/clinical-science/faculty"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Lee June",
+          "label": "Emeritus",
+          "reason": "The clinical science roster identifies June as emeritus.",
+          "source": "https://psychology.msu.edu/people/j/june-lee"
+        }
+      ]
+    }
   },
   {
     "id": "program-081",
@@ -7242,7 +7321,32 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://www.psychology.pitt.edu/graduate/clinical-program",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-25",
+      "scope": "The September 2026 handbook lists nine core faculty. Eight remain eligible in the current roster. The departmental profile lists the ninth as emeritus. Earlier handbooks identify former core members, and their appointment dates are being reconciled.",
+      "sources": [
+        "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
+        "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202023.pdf",
+        "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202020.pdf"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Michael Pogue-Geile",
+          "label": "Emeritus",
+          "reason": "The September 2026 handbook still lists him among core faculty. His individual department profile identifies him as emeritus. The retirement date remains under review.",
+          "source": "https://www.psychology.pitt.edu/people/michael-f-pogue-geile-phd"
+        },
+        {
+          "name": "Lauren Hallion",
+          "label": "Former core faculty",
+          "reason": "The 2023 handbook and CV document the Pittsburgh appointment. Her lab and current university document the 2025 move to Regina.",
+          "source": "https://www.cnmalab.com/people.html"
+        }
+      ]
+    }
   },
   {
     "id": "program-145",
@@ -7737,7 +7841,20 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-25",
+      "scope": "The graduate program links to its Clinical Science Faculty roster, which spans both psychology departments. It lists eleven regular professors and one current research professor with a separate emerita title.",
+      "sources": [
+        "https://www.vanderbilt.edu/psychological_sciences/graduate/programs/clinical.php",
+        "https://www.vanderbilt.edu/psychological_sciences/people/?group=clinical_science&who=faculty",
+        "https://www.vanderbilt.edu/faculty-affairs/emeriti-faculty-2024/",
+        "https://wag.app.vanderbilt.edu/PublicPage/Faculty/Details/21187"
+      ],
+      "roleDecisions": []
+    }
   },
   {
     "id": "program-156",
@@ -10127,8 +10244,8 @@
     "location": "Canada",
     "region": "Canada",
     "country": "CA",
-    "eligibility": "candidate",
-    "degree": "Doctorate to verify",
+    "eligibility": "active",
+    "degree": "PhD",
     "affiliations": [
       "University of Regina"
     ],
@@ -10140,7 +10257,19 @@
       }
     },
     "programmeAliases": [],
-    "programUrl": "https://www.uregina.ca/academics/programs/arts/master-phd-clinical-psychology.html"
+    "programUrl": "https://www.uregina.ca/academics/programs/arts/master-phd-clinical-psychology.html",
+    "degreeSource": "https://www.uregina.ca/academics/programs/arts/master-phd-clinical-psychology.html",
+    "rosterUrl": "https://www.uregina.ca/arts/psychology/directory/index.html",
+    "currentRosterReview": {
+      "status": "partial",
+      "asOf": "2026-11-25",
+      "scope": "The department and graduate program confirm Lauren Hallion’s clinical appointment. The remaining roster is being reconciled with the list of eligible doctoral supervisors.",
+      "sources": [
+        "https://www.uregina.ca/arts/psychology/clinical-program.html",
+        "https://www.uregina.ca/arts/psychology/directory/index.html"
+      ],
+      "roleDecisions": []
+    }
   },
   {
     "id": "university-of-saskatchewan",
