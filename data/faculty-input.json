@@ -6151,7 +6151,7 @@
       {
         "program": "program-081",
         "role": "tenure-track",
-        "start": "2023",
+        "start": "2023-08-28",
         "end": null,
         "current": true,
         "source": "https://lsa.umich.edu/psych/program-areas/clinical-science/clinical-science-faculty.directory.html",
@@ -6160,7 +6160,7 @@
           "university of michigan ann arbor",
           "university of michigan"
         ],
-        "dateSource": "https://regents.umich.edu/files/meetings/12-23/2023-12-IV-1.pdf"
+        "dateSource": "https://regents.umich.edu/files/meetings/02-23/2023-02-IV-1.pdf"
       },
       {
         "program": "program-144",
@@ -6172,7 +6172,8 @@
         "affiliations": [
           "University of Pittsburgh"
         ],
-        "dateSource": "https://regents.umich.edu/files/meetings/02-23/2023-02-IV-1.pdf"
+        "dateSource": "https://regents.umich.edu/files/meetings/02-23/2023-02-IV-1.pdf",
+        "endSource": "https://regents.umich.edu/files/meetings/12-23/2023-12-IV-1.pdf"
       }
     ]
   },
@@ -8890,6 +8891,58 @@
         "affiliations": [
           "University of Tennessee, Knoxville"
         ]
+      }
+    ]
+  },
+  {
+    "id": "michael-pogue-geile",
+    "name": "Michael F. Pogue-Geile",
+    "aliases": [
+      "Michael Pogue-Geile"
+    ],
+    "source": "https://www.psychology.pitt.edu/people/michael-f-pogue-geile-phd",
+    "areas": [
+      "schizophrenia",
+      "behavior genetics",
+      "psychopathology"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "tenure-track",
+        "start": null,
+        "end": "2026-01-04",
+        "current": false,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202023.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "endSource": "https://www.as.pitt.edu/sites/default/files/Vol%2057%20No%2011.%20April%202026.pdf"
+      }
+    ]
+  },
+  {
+    "id": "saul-shiffman",
+    "name": "Saul Shiffman",
+    "aliases": [],
+    "source": "https://www.psychology.pitt.edu/people/saul-shiffman-phd",
+    "areas": [
+      "smoking cessation",
+      "nicotine",
+      "addiction"
+    ],
+    "appointments": [
+      {
+        "program": "program-144",
+        "role": "research-track",
+        "start": null,
+        "end": "2023-03-31",
+        "current": false,
+        "source": "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202020.pdf",
+        "affiliations": [
+          "University of Pittsburgh"
+        ],
+        "endSource": "https://www.as.pitt.edu/sites/default/files/Vol%2054%20No%206.%20May%2031%202023%20FINAL.pdf"
       }
     ]
   }

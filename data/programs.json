@@ -7347,20 +7347,35 @@
       "sources": [
         "https://www.psychology.pitt.edu/sites/default/files/assets/Handbooks/Clinical%20Psychology%20Program%20Handbook%209_21_26.pdf",
         "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202023.pdf",
-        "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202020.pdf"
+        "https://www.psychology.pitt.edu/sites/default/files/Clinical%20Psychology%20Program%20Student%20Handbook%202020.pdf",
+        "https://www.as.pitt.edu/sites/default/files/Vol%2057%20No%2011.%20April%202026.pdf",
+        "https://www.as.pitt.edu/sites/default/files/Vol%2054%20No%206.%20May%2031%202023%20FINAL.pdf",
+        "https://www.pittwire.pitt.edu/pittwire/accolades-honors/psychology-faculty-retirement-symposium"
       ],
       "roleDecisions": [
         {
           "name": "Michael Pogue-Geile",
           "label": "Emeritus",
-          "reason": "The September 2026 handbook still lists him among core faculty. His individual department profile identifies him as emeritus. The retirement date remains under review.",
-          "source": "https://www.psychology.pitt.edu/people/michael-f-pogue-geile-phd"
+          "reason": "The September 2026 handbook still lists Pogue-Geile among core faculty. The departmental profile and the Gazette document emeritus status effective January 5, 2026.",
+          "source": "https://www.as.pitt.edu/sites/default/files/Vol%2057%20No%2011.%20April%202026.pdf"
         },
         {
           "name": "Lauren Hallion",
           "label": "Former core faculty",
           "reason": "The 2023 handbook and CV document the Pittsburgh appointment. Her lab and current university document the 2025 move to Regina.",
           "source": "https://www.cnmalab.com/people.html"
+        },
+        {
+          "name": "Stephen Manuck",
+          "label": "Former core faculty",
+          "reason": "The 2020 handbook documents prior core membership. The university retirement announcement confirms retirement by 2023 without an exact date.",
+          "source": "https://www.pittwire.pitt.edu/pittwire/accolades-honors/psychology-faculty-retirement-symposium"
+        },
+        {
+          "name": "Jeffrey Cohn",
+          "label": "Emeritus",
+          "reason": "The 2020 handbook documents prior core membership. The department now lists emeritus status. The appointment end date remains under review.",
+          "source": "https://www.psychology.pitt.edu/people/jeffrey-cohn-phd"
         }
       ]
     }
