@@ -2606,7 +2606,24 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-25",
+      "scope": "The program lists six active research faculty and identifies its retired former member.",
+      "sources": [
+        "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "https://www.luc.edu/psychology/people/facultyandstaffdirectory/"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Grayson Holmbeck",
+          "label": "Emeritus",
+          "reason": "The program confirms retirement and the directory identifies him as professor emeritus. The effective retirement date is still under review.",
+          "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/holmbeckgrayson.shtml"
+        }
+      ]
+    }
   },
   {
     "id": "program-051",
@@ -7790,7 +7807,31 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-25",
+      "scope": "The program lists ten clinical faculty. Eight have regular professorial appointments. The other two hold clinical-track appointments and the program separately lists part-time faculty.",
+      "sources": [
+        "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "https://psychology.utk.edu/wp-content/uploads/2023/09/2023.pdf"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Leticia Flores",
+          "label": "Clinical-track appointment",
+          "reason": "The program identifies the appointment as Clinical Professor and clinic director.",
+          "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/"
+        },
+        {
+          "name": "Alexis Rhames Keith",
+          "label": "Clinical-track appointment",
+          "reason": "The program identifies the appointment as Clinical Assistant Professor and associate clinic director.",
+          "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/"
+        }
+      ]
+    }
   },
   {
     "id": "program-155",
@@ -8993,7 +9034,50 @@
           "asOf": "2024-10-19"
         }
       }
-    ]
+    ],
+    "rosterUrl": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+    "currentRosterReview": {
+      "status": "complete",
+      "asOf": "2026-11-25",
+      "scope": "The clinical PhD names ten core faculty. Nine have regular professorial appointments in the department directory. The tenth and two other faculty in the clinical area hold clinical-track appointments.",
+      "sources": [
+        "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "https://uwm.edu/psychology/research/clinical-psychology/",
+        "https://uwm.edu/psychology/wp-content/uploads/sites/64/2025/04/Grad-Brochure_25-26.pdf"
+      ],
+      "roleDecisions": [
+        {
+          "name": "Stacey Nye",
+          "label": "Clinical-track appointment",
+          "reason": "The program lists Nye as core faculty, and the department identifies the appointment as Clinical Professor.",
+          "source": "https://uwm.edu/psychology/research/clinical-psychology/"
+        },
+        {
+          "name": "Kevin Haworth",
+          "label": "Clinical-track appointment",
+          "reason": "The program lists Haworth as clinic director and the department identifies the appointment as Clinical Assistant Professor.",
+          "source": "https://uwm.edu/psychology/about/directory/haworth-kevin/"
+        },
+        {
+          "name": "Kimberly Rennie",
+          "label": "Clinical-track appointment",
+          "reason": "The department identifies a Clinical Associate Professor appointment.",
+          "source": "https://uwm.edu/psychology/about/directory/rennie-weissgerber-kimberly/"
+        },
+        {
+          "name": "Karyn Frick",
+          "label": "Affiliated faculty",
+          "reason": "The department lists Frick under affiliated clinical faculty.",
+          "source": "https://uwm.edu/psychology/research/clinical-psychology/"
+        },
+        {
+          "name": "Deborah Hannula",
+          "label": "Affiliated faculty",
+          "reason": "The department lists Hannula under affiliated clinical faculty.",
+          "source": "https://uwm.edu/psychology/research/clinical-psychology/"
+        }
+      ]
+    }
   },
   {
     "id": "program-180",

@@ -8302,5 +8302,595 @@
       }
     ],
     "cv": "https://cdn.vanderbilt.edu/vu-web/people-manager/files/people-130-GarberCVJan2023public-20230615122153.pdf"
+  },
+  {
+    "id": "amy-bohnert",
+    "name": "Amy M. Bohnert",
+    "aliases": [
+      "Amy Bohnert"
+    ],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/bohnertamy.shtml",
+    "areas": [
+      "developmental psychology",
+      "health disparities",
+      "adolescent well-being"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "colleen-conley",
+    "name": "Colleen S. Conley",
+    "aliases": [
+      "Colleen Conley"
+    ],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/conleycolleen.shtml",
+    "areas": [
+      "adolescent mental health",
+      "prevention",
+      "college student mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sungha-kang",
+    "name": "Sungha Kang",
+    "aliases": [],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/kangsungha.shtml",
+    "areas": [
+      "child psychopathology",
+      "health disparities",
+      "school mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scott-leon",
+    "name": "Scott C. Leon",
+    "aliases": [
+      "Scott Leon"
+    ],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/leonscott.shtml",
+    "areas": [
+      "child welfare",
+      "health services",
+      "child mental health"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jared-ruchensky",
+    "name": "Jared R. Ruchensky",
+    "aliases": [
+      "Jared Ruchensky"
+    ],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/ruchenskyjared.shtml",
+    "areas": [
+      "personality assessment",
+      "ecological momentary assessment",
+      "forensic psychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maria-kalantzis",
+    "name": "Maria Kalantzis",
+    "aliases": [],
+    "source": "https://www.luc.edu/psychology/people/facultyandstaffdirectory/profiles/kalantzismaria.shtml",
+    "areas": [
+      "stress",
+      "disordered eating",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-050",
+        "role": "tenure-track",
+        "start": "2026",
+        "end": null,
+        "current": true,
+        "source": "https://www.luc.edu/psychology/graduate/clinicalpsychologyprogram/clinicalpsychologyfaculty/",
+        "affiliations": [
+          "Loyola University Chicago"
+        ],
+        "dateSource": "https://www.luc.edu/universityconvocation/facultyrecognition/"
+      }
+    ]
+  },
+  {
+    "id": "shawn-cahill",
+    "name": "Shawn P. Cahill",
+    "aliases": [
+      "Shawn Cahill"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/cahill-shawn/",
+    "areas": [
+      "trauma",
+      "exposure therapy",
+      "anxiety"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hobart-davies",
+    "name": "W. Hobart Davies",
+    "aliases": [
+      "Hobart Davies"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/davies-w-hobart/",
+    "areas": [
+      "child stress",
+      "pediatric psychology",
+      "coping"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bonita-klein-tasman",
+    "name": "Bonita P. Klein-Tasman",
+    "aliases": [
+      "Bonita Klein-Tasman"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/klein-tasman-bonita/",
+    "areas": [
+      "child neurodevelopment",
+      "developmental disabilities"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christine-larson",
+    "name": "Christine L. Larson",
+    "aliases": [
+      "Christine Larson"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/larson-christine/",
+    "areas": [
+      "affective neuroscience",
+      "trauma",
+      "brain imaging"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "han-joo-lee",
+    "name": "Han Joo Lee",
+    "aliases": [],
+    "source": "https://uwm.edu/psychology/about/directory/lee-han-joo/",
+    "areas": [
+      "anxiety",
+      "obsessive compulsive disorder"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "krista-lisdahl",
+    "name": "Krista M. Lisdahl",
+    "aliases": [
+      "Krista Lisdahl",
+      "Krista Medina"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/lisdahl-krista/",
+    "areas": [
+      "adolescent substance use",
+      "neuropsychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gabriela-nagy",
+    "name": "Gabriela A. Nagy",
+    "aliases": [
+      "Gabriela Nagy"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/nagy-gabriela/",
+    "areas": [
+      "health disparities",
+      "depression",
+      "culturally responsive treatment"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "srishti-sardana",
+    "name": "Srishti M. Sardana",
+    "aliases": [
+      "Srishti Sardana",
+      "Srishti Meera Sardana"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/sardana-srishti/",
+    "areas": [
+      "global mental health",
+      "trauma",
+      "disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": "2024",
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ],
+        "dateSource": "https://uwm.edu/psychology/wp-content/uploads/sites/64/2025/04/Grad-Brochure_25-26.pdf"
+      }
+    ]
+  },
+  {
+    "id": "ryan-shorey",
+    "name": "Ryan C. Shorey",
+    "aliases": [
+      "Ryan Shorey"
+    ],
+    "source": "https://uwm.edu/psychology/about/directory/shorey-ryan/",
+    "areas": [
+      "substance use",
+      "intimate partner violence"
+    ],
+    "appointments": [
+      {
+        "program": "program-179",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://uwm.edu/psychology/students/graduate/phd-program/clinical-psychology/clinical-faculty-and-research-labs/",
+        "affiliations": [
+          "University of Wisconsin-Milwaukee"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jennifer-bolden-bush",
+    "name": "Jennifer Bolden-Bush",
+    "aliases": [
+      "Jennifer Bolden",
+      "Jennifer A. Bolden"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "child attention",
+      "neurodevelopment",
+      "ADHD"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jasmine-coleman",
+    "name": "Jasmine Coleman",
+    "aliases": [],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "child mental health",
+      "community intervention"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": "2023-08",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ],
+        "dateSource": "https://psychology.utk.edu/wp-content/uploads/2023/09/2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": "chris-elledge",
+    "name": "Chris Elledge",
+    "aliases": [
+      "L. Chris Elledge",
+      "Lawrence Chris Elledge"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "bullying",
+      "child adjustment",
+      "peer victimization"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "timothy-hulsey",
+    "name": "Timothy L. Hulsey",
+    "aliases": [
+      "Timothy Hulsey"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "personality",
+      "psychotherapy"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lucybel-mendez",
+    "name": "Lucybel Mendez",
+    "aliases": [
+      "Lucy Mendez"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "youth trauma",
+      "risk and resilience",
+      "health disparities"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": "2023-08",
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ],
+        "dateSource": "https://psychology.utk.edu/wp-content/uploads/2023/09/2023.pdf"
+      }
+    ]
+  },
+  {
+    "id": "todd-moore",
+    "name": "Todd M. Moore",
+    "aliases": [
+      "Todd Moore"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "substance use",
+      "intimate partner violence"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "greg-stuart",
+    "name": "Gregory L. Stuart",
+    "aliases": [
+      "Greg Stuart",
+      "Gregory Stuart"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "substance use",
+      "intimate partner violence"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "deborah-welsh",
+    "name": "Deborah P. Welsh",
+    "aliases": [
+      "Deborah Welsh"
+    ],
+    "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+    "areas": [
+      "adolescent relationships",
+      "developmental psychology"
+    ],
+    "appointments": [
+      {
+        "program": "program-154",
+        "role": "tenure-track",
+        "start": null,
+        "end": null,
+        "current": true,
+        "source": "https://psychology.utk.edu/graduate-students/programs/phd_clinical/clinical-psychology-faculty/",
+        "affiliations": [
+          "University of Tennessee, Knoxville"
+        ]
+      }
+    ]
   }
 ]
